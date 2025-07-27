@@ -1,0 +1,388 @@
+{
+  "success": true,
+  "generated_at": "2025-07-27T20:05:48.158035",
+  "location": {
+    "lat": "48:51:23.8",
+    "lon": "2:21:07.9"
+  },
+  "traditional": [
+    {
+      "date": "Dimanche 27/07/2025",
+      "phase_percentage": 7.8,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "04:17",
+      "sunset": "19:36",
+      "daylight_duration": "15:19:00",
+      "moon_position_start": 150.23,
+      "moon_position_end": 163.11,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date": "Lundi 28/07/2025",
+      "phase_percentage": 14.2,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "04:18",
+      "sunset": "19:34",
+      "daylight_duration": "15:16:22",
+      "moon_position_start": 163.11,
+      "moon_position_end": 175.67,
+      "nodes_info": [
+        "NŒUD LUNAIRE (descendant) le 28/07 à 10h29 - Pas de jardinage de 06h29 à 14h29"
+      ],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "06:29",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "06:29",
+          "end_time": "14:29",
+          "constellation": "Vierge",
+          "recommendation": "🚫 JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "14:29",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date": "Mardi 29/07/2025",
+      "phase_percentage": 21.9,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "04:19",
+      "sunset": "19:33",
+      "daylight_duration": "15:13:41",
+      "moon_position_start": 175.67,
+      "moon_position_end": 187.94,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "08:24",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "08:24",
+          "end_time": "00:00",
+          "constellation": "Balance",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date": "Mercredi 30/07/2025",
+      "phase_percentage": 30.4,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "04:21",
+      "sunset": "19:32",
+      "daylight_duration": "15:10:58",
+      "moon_position_start": 187.94,
+      "moon_position_end": 199.99,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Balance",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date": "Jeudi 31/07/2025",
+      "phase_percentage": 39.6,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "04:22",
+      "sunset": "19:30",
+      "daylight_duration": "15:08:12",
+      "moon_position_start": 199.99,
+      "moon_position_end": 211.91,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "20:08",
+          "constellation": "Balance",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "20:08",
+          "end_time": "00:00",
+          "constellation": "Scorpion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date": "Vendredi 01/08/2025",
+      "phase_percentage": 49.1,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "04:23",
+      "sunset": "19:29",
+      "daylight_duration": "15:05:24",
+      "moon_position_start": 211.91,
+      "moon_position_end": 223.77,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Scorpion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date": "Samedi 02/08/2025",
+      "phase_percentage": 58.5,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "04:25",
+      "sunset": "19:27",
+      "daylight_duration": "15:02:33",
+      "moon_position_start": 223.77,
+      "moon_position_end": 235.66,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Scorpion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    }
+  ],
+  "constellation": [
+    {
+      "date": "Dimanche 27/07/2025",
+      "phase_percentage": 7.8,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "04:17",
+      "sunset": "19:36",
+      "daylight_duration": "15:19:00",
+      "moon_position_start": 150.23,
+      "moon_position_end": 163.11,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date": "Lundi 28/07/2025",
+      "phase_percentage": 14.2,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "04:18",
+      "sunset": "19:34",
+      "daylight_duration": "15:16:22",
+      "moon_position_start": 163.11,
+      "moon_position_end": 175.67,
+      "nodes_info": [
+        "NŒUD LUNAIRE (descendant) le 28/07 à 10h29 - Pas de jardinage de 06h29 à 14h29"
+      ],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "06:29",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "06:29",
+          "end_time": "14:29",
+          "constellation": "Lion",
+          "recommendation": "🚫 JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "14:29",
+          "end_time": "20:46",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "20:46",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date": "Mardi 29/07/2025",
+      "phase_percentage": 21.9,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "04:19",
+      "sunset": "19:33",
+      "daylight_duration": "15:13:41",
+      "moon_position_start": 175.67,
+      "moon_position_end": 187.94,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date": "Mercredi 30/07/2025",
+      "phase_percentage": 30.4,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "04:21",
+      "sunset": "19:32",
+      "daylight_duration": "15:10:58",
+      "moon_position_start": 187.94,
+      "moon_position_end": 199.99,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date": "Jeudi 31/07/2025",
+      "phase_percentage": 39.6,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "04:22",
+      "sunset": "19:30",
+      "daylight_duration": "15:08:12",
+      "moon_position_start": 199.99,
+      "moon_position_end": 211.91,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date": "Vendredi 01/08/2025",
+      "phase_percentage": 49.1,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "04:23",
+      "sunset": "19:29",
+      "daylight_duration": "15:05:24",
+      "moon_position_start": 211.91,
+      "moon_position_end": 223.77,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "12:19",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "12:19",
+          "end_time": "00:00",
+          "constellation": "Balance",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date": "Samedi 02/08/2025",
+      "phase_percentage": 58.5,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "04:25",
+      "sunset": "19:27",
+      "daylight_duration": "15:02:33",
+      "moon_position_start": 223.77,
+      "moon_position_end": 235.66,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Balance",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    }
+  ]
+}
