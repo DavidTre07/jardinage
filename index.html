@@ -413,6 +413,21 @@
             margin-right: 5px;
         }
 
+        .footer {
+            background: linear-gradient(135deg, #2d3748, #4a5568);
+            color: white;
+            text-align: center;
+            padding: 20px 30px;
+            margin-top: 0;
+            border-top: 1px solid #e2e8f0;
+        }
+
+        .footer p {
+            margin: 0;
+            font-size: 0.9em;
+            opacity: 0.9;
+        }
+
         @media (max-width: 768px) {
             body {
                 padding: 10px;
@@ -454,6 +469,14 @@
                 width: 250px;
                 margin-left: -125px;
                 font-size: 13px;
+            }
+
+            .footer {
+                padding: 15px 20px;
+            }
+
+            .footer p {
+                font-size: 0.8em;
             }
         }
     </style>
@@ -521,6 +544,10 @@
         </div>
 
         <div class="results" id="results"></div>
+        
+        <footer class="footer">
+            <p>&copy; 2025 davidtre07 - Tous droits réservés</p>
+        </footer>
     </div>
 
     <script>
