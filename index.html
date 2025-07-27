@@ -341,7 +341,7 @@
 
         <div class="controls">
             <div class="data-info">
-                📊 <strong>Données réelles :</strong> Calculs astronomiques précis mis à jour chaque jour par GitHub Actions.
+                📊 <strong>Données réelles :</strong> Calculs astronomiques précis mis à jour chaque jour.
                 <br>🕐 Dernière mise à jour : <span id="lastUpdate">Chargement...</span>
             </div>
 
@@ -452,7 +452,7 @@
 
         // Fonction pour obtenir l'icône de recommandation
         function getRecommendationIcon(recommendation) {
-            if (recommendation.includes('🚫') || recommendation.includes('DÉCONSEILLÉ')) {
+            if (recommendation.includes('DÉCONSEILLÉ')) {
                 return '🚫';
             } else if (recommendation.includes('légumes fruits') || recommendation.includes('arbres fruitiers')) {
                 return '🍅';
@@ -683,7 +683,7 @@
                         <h3>Erreur de chargement</h3>
                         <p>Impossible de charger les données lunaires.</p>
                         <p><strong>Détails:</strong> ${error.message}</p>
-                        <p><em>Les données sont générées quotidiennement par GitHub Actions. Veuillez réessayer plus tard.</em></p>
+                        <p><em>Les données sont générées quotidiennement. Veuillez réessayer plus tard.</em></p>
                     </div>
                 `;
             }

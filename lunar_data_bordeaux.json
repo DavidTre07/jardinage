@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2025-07-27T20:07:59.409005",
+  "generated_at": "2025-07-27T20:14:55.419939",
   "location": {
     "lat": "44:50:16.1",
     "lon": "-0:34:45.1"
@@ -54,7 +54,7 @@
           "start_time": "06:29",
           "end_time": "14:29",
           "constellation": "Vierge",
-          "recommendation": "🚫 JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
           "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
           "blocked": true
         },
@@ -244,7 +244,7 @@
           "start_time": "06:29",
           "end_time": "14:29",
           "constellation": "Lion",
-          "recommendation": "🚫 JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
           "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
           "blocked": true
         },
