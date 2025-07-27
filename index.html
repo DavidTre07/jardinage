@@ -193,6 +193,9 @@
             margin-bottom: 15px;
             border-radius: 0 8px 8px 0;
             transition: all 0.3s;
+            display: flex;
+            gap: 20px;
+            align-items: flex-start;
         }
 
         .period:hover {
@@ -203,6 +206,35 @@
         .period.blocked {
             border-left-color: #f56565;
             background: #fed7d7;
+        }
+
+        .period-content {
+            flex: 1;
+        }
+
+        .period-illustration {
+            flex-shrink: 0;
+            width: 120px;
+            height: 120px;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(135deg, #b8d9f6, #5fa1dd);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .period-illustration img {
+            width: 80px;
+            height: 80px;
+            object-fit: contain;
+            border-radius: 8px;
+            transition: transform 0.3s ease;
+        }
+
+        .period-illustration:hover img {
+            transform: scale(1.1);
         }
 
         .period-time {
@@ -328,6 +360,22 @@
 
             .cities-grid {
                 grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+            }
+
+            .period {
+                flex-direction: column;
+                align-items: center;
+                gap: 15px;
+            }
+
+            .period-illustration {
+                width: 100px;
+                height: 100px;
+            }
+
+            .period-illustration img {
+                width: 70px;
+                height: 70px;
             }
         }
     </style>
@@ -471,6 +519,27 @@
             }
         }
 
+        // Fonction pour obtenir le nom d'image basé sur la recommandation
+        function getImageName(recommendation) {
+            if (recommendation.includes('DÉCONSEILLÉ')) {
+                return 'deconseille.png';
+            } else if (recommendation.includes('légumes fruits') || recommendation.includes('arbres fruitiers')) {
+                return 'fruits.png';
+            } else if (recommendation.includes('légumes racines')) {
+                return 'racines.png';
+            } else if (recommendation.includes('fleurs') || recommendation.includes('légumes fleurs')) {
+                return 'fleurs.png';
+            } else if (recommendation.includes('légumes feuilles')) {
+                return 'feuilles.png';
+            } else if (recommendation.includes('graines')) {
+                return 'graines.png';
+            } else if (recommendation.includes('repos') || recommendation.includes('guérison')) {
+                return 'repos.png';
+            } else {
+                return 'general.png';
+            }
+        }
+
         // Fonction pour obtenir l'icône de sève
         function getSeveIcon(seveInfo) {
             if (seveInfo.includes('nœud lunaire') || seveInfo.includes('éviter')) {
@@ -516,6 +585,7 @@
                 const periodClass = period.blocked ? 'period blocked' : 'period';
                 const constellationIcon = constellationIcons[period.constellation] || '⭐';
                 const recommendationIcon = getRecommendationIcon(period.recommendation);
+                const imageName = getImageName(period.recommendation);
                 const seveIcon = getSeveIcon(period.seve_info);
                 
                 // Traitement unifié - plus besoin de cas spécial pour les nœuds
@@ -523,13 +593,18 @@
                 
                 periodsHtml += `
                     <div class="${periodClass}">
-                        <div class="period-time">${timePrefix} ${timeRange}</div>
-                        ${detailed ? `<div class="period-constellation"><span class="constellation-icon">${constellationIcon}</span>Constellation: ${period.constellation}</div>` : ''}
-                        <div class="period-recommendation">
-                            <span class="recommendation-icon">${recommendationIcon}</span>
-                            ${period.recommendation}
+                        <div class="period-content">
+                            <div class="period-time">${timePrefix} ${timeRange}</div>
+                            ${detailed ? `<div class="period-constellation"><span class="constellation-icon">${constellationIcon}</span>Constellation: ${period.constellation}</div>` : ''}
+                            <div class="period-recommendation">
+                                <span class="recommendation-icon">${recommendationIcon}</span>
+                                ${period.recommendation}
+                            </div>
+                            ${period.seve_info ? `<div class="period-seve"><span class="seve-icon">${seveIcon}</span>${period.seve_info}</div>` : ''}
                         </div>
-                        ${period.seve_info ? `<div class="period-seve"><span class="seve-icon">${seveIcon}</span>${period.seve_info}</div>` : ''}
+                        <div class="period-illustration">
+                            <img src="${imageName}" alt="${period.recommendation}" onerror="this.style.display='none'">
+                        </div>
                     </div>
                 `;
             });
