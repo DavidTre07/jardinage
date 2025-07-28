@@ -553,16 +553,16 @@
     <script>
         // Configuration des villes
         const cities = {
-            'paris': { lat: 48.8566, lon: 2.3522, name: 'Paris' },
-            'lyon': { lat: 45.7640, lon: 4.8357, name: 'Lyon' },
-            'marseille': { lat: 43.2965, lon: 5.3698, name: 'Marseille' },
-            'toulouse': { lat: 43.6047, lon: 1.4442, name: 'Toulouse' },
-            'lille': { lat: 50.6292, lon: 3.0573, name: 'Lille' },
-            'nantes': { lat: 47.2184, lon: -1.5536, name: 'Nantes' },
-            'strasbourg': { lat: 48.5734, lon: 7.7521, name: 'Strasbourg' },
-            'montpellier': { lat: 43.6110, lon: 3.8767, name: 'Montpellier' },
-            'bordeaux': { lat: 44.8378, lon: -0.5792, name: 'Bordeaux' },
-            'nice': { lat: 43.7102, lon: 7.2620, name: 'Nice' }
+            'paris': 'Paris',
+            'lyon': 'Lyon', 
+            'marseille': 'Marseille',
+            'toulouse': 'Toulouse',
+            'lille': 'Lille',
+            'nantes': 'Nantes',
+            'strasbourg': 'Strasbourg',
+            'montpellier': 'Montpellier',
+            'bordeaux': 'Bordeaux',
+            'nice': 'Nice'
         };
 
         let currentCity = 'lyon';
@@ -610,7 +610,7 @@
             } else if (recommendation.includes('légumes racines')) {
                 return '🥕';
             } else if (recommendation.includes('fleurs') || recommendation.includes('légumes fleurs')) {
-                return '🌸';
+                return '🌸';    
             } else if (recommendation.includes('légumes feuilles')) {
                 return '🥬';
             } else if (recommendation.includes('graines')) {
