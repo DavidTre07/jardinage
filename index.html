@@ -30,7 +30,7 @@
         .header {
             background: linear-gradient(135deg, #2d3748, #4a5568);
             color: white;
-            padding: 30px;
+            padding: 10px;
             text-align: center;
         }
 
@@ -41,7 +41,7 @@
         }
 
         .controls {
-            padding: 30px;
+            padding: 10px;
             background: #f8f9fa;
             border-bottom: 1px solid #e9ecef;
         }
@@ -115,7 +115,7 @@
         }
 
         .results {
-            padding: 30px;
+            padding: 10px;
         }
 
         .day-card {
@@ -319,11 +319,16 @@
             background: #bee3f8;
             border: 1px solid #90cdf4;
             color: #2b6cb0;
-            padding: 15px;
             border-radius: 8px;
-            margin-bottom: 20px;
+            margin-bottom: 10px;
             text-align: center;
             font-size: 0.9em;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            line-height: 1;
+            padding: 8px 12px;
+            min-height: 36px;
         }
 
         .tooltip {
@@ -490,7 +495,8 @@
 
         <div class="controls">
             <div class="data-info">
-                <br>🕐 Dernière mise à jour : <span id="lastUpdate">Chargement...</span>
+                <span>🕐 Dernière mise à jour : </span>
+                <span id="lastUpdate">Chargement...</span>
             </div>
 
             <div class="city-selector">
