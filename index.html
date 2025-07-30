@@ -142,6 +142,69 @@
             font-size: 1.5em;
             font-weight: 700;
             margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .calendar-icon {
+            position: relative;
+            width: 40px;
+            height: 40px;
+            background: linear-gradient(135deg, #fff, #f8f9fa);
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+            flex-shrink: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            border: 2px solid rgba(255, 255, 255, 0.8);
+        }
+
+        .calendar-icon::before {
+            content: '';
+            position: absolute;
+            top: 3px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 24px;
+            height: 6px;
+            background: #e53e3e;
+            border-radius: 3px 3px 0 0;
+        }
+
+        .calendar-icon::after {
+            content: '';
+            position: absolute;
+            top: 1px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 4px;
+            height: 8px;
+            background: #666;
+            border-radius: 2px;
+            box-shadow: 8px 0 0 #666, -8px 0 0 #666;
+        }
+
+        .calendar-day {
+            font-size: 12px;
+            font-weight: 900;
+            color: #2d3748;
+            margin-top: 1px;
+            line-height: 1;
+        }
+
+        .calendar-month {
+            font-size: 10px;
+            font-weight: 600;
+            color: #ffffff;
+            text-transform: uppercase;
+            line-height: 1;
+            margin-top: 4px;
+            background: #e53e3e;
+            width: 24px;
+            text-align: center;
         }
 
         .lunar-info {
@@ -149,6 +212,14 @@
             grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
             gap: 12px;
             margin-top: 15px;
+            max-width: 100%;
+        }
+
+        /* Limitation à 4 colonnes maximum */
+        @media (min-width: 1024px) {
+            .lunar-info {
+                grid-template-columns: repeat(4, 1fr);
+            }
         }
 
         .info-item {
@@ -484,6 +555,23 @@
             .footer p {
                 font-size: 0.8em;
             }
+
+            .calendar-icon {
+                width: 35px;
+                height: 35px;
+            }
+
+            .calendar-day {
+                font-size: 11px;
+            }
+
+            .calendar-month {
+                font-size: 7px;
+            }
+
+            .day-title {
+                font-size: 1.3em;
+            }
         }
     </style>
 </head>
@@ -690,6 +778,72 @@
             const phaseIcon = getPhaseIcon(dayData.phase_percentage);
             const detailed = document.getElementById('detailed').checked;
             
+            // Mapping des mois
+            const monthNames = ['JAN', 'FÉV', 'MAR', 'AVR', 'MAI', 'JUN', 
+                              'JUL', 'AOU', 'SEP', 'OCT', 'NOV', 'DÉC'];
+            
+            // Extraire le jour et le mois de la date - gestion de différents formats
+            let day, month;
+            try {
+                // Essayer différents formats de date
+                let dateObj;
+                if (dayData.date.includes('/')) {
+                    // Format DD/MM/YYYY ou MM/DD/YYYY
+                    const parts = dayData.date.split('/');
+                    if (parts.length === 3) {
+                        // Assumons DD/MM/YYYY (format français)
+                        dateObj = new Date(parts[2], parts[1] - 1, parts[0]);
+                    }
+                } else if (dayData.date.includes('-')) {
+                    // Format YYYY-MM-DD
+                    dateObj = new Date(dayData.date + 'T00:00:00');
+                } else {
+                    // Format texte, essayer de parser directement
+                    dateObj = new Date(dayData.date);
+                }
+                
+                if (isNaN(dateObj.getTime())) {
+                    throw new Error('Date invalide');
+                }
+                
+                day = dateObj.getDate();
+                month = monthNames[dateObj.getMonth()];
+            } catch (error) {
+                console.log('Erreur de parsing de date:', dayData.date, error);
+                // Fallback: essayer d'extraire le jour du texte de la date
+                const dayMatch = dayData.date.match(/\b(\d{1,2})\b/);
+                day = dayMatch ? dayMatch[1] : '?';
+                
+                // Essayer d'extraire le mois du texte français
+                const frenchMonths = {
+                    'janvier': 'JAN', 'février': 'FÉV', 'mars': 'MAR', 'avril': 'AVR',
+                    'mai': 'MAI', 'juin': 'JUN', 'juillet': 'JUL', 'août': 'AOU',
+                    'septembre': 'SEP', 'octobre': 'OCT', 'novembre': 'NOV', 'décembre': 'DÉC',
+                    'jan': 'JAN', 'fév': 'FÉV', 'mar': 'MAR', 'avr': 'AVR',
+                    'jul': 'JUL', 'aou': 'AOU', 'sep': 'SEP', 'oct': 'OCT', 'nov': 'NOV', 'déc': 'DÉC'
+                };
+                
+                month = 'CAL';
+                const dateText = dayData.date.toLowerCase();
+                for (const [frenchMonth, shortMonth] of Object.entries(frenchMonths)) {
+                    if (dateText.includes(frenchMonth)) {
+                        month = shortMonth;
+                        break;
+                    }
+                }
+                
+                // Si on n'a pas trouvé le mois dans le texte, essayer d'extraire depuis un format numérique
+                if (month === 'CAL') {
+                    const monthMatch = dayData.date.match(/[-\/](\d{1,2})[-\/]/);
+                    if (monthMatch) {
+                        const monthNum = parseInt(monthMatch[1]) - 1;
+                        if (monthNum >= 0 && monthNum < 12) {
+                            month = monthNames[monthNum];
+                        }
+                    }
+                }
+            }
+            
             let periodsHtml = '';
             dayData.periods.forEach(period => {
                 const timeRange = formatTimeRange(period);
@@ -775,7 +929,13 @@
             return `
                 <div class="day-card">
                     <div class="day-header">
-                        <div class="day-title">📅 ${dayData.date}</div>
+                        <div class="day-title">
+                            <div class="calendar-icon">
+                                <div class="calendar-month">${month}</div>
+                                <div class="calendar-day">${day}</div>
+                            </div>
+                            ${dayData.date}
+                        </div>
                         <div class="lunar-info">
                             ${basicInfo}
                             ${detailedInfo}
