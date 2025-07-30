@@ -1,41 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-07-29T23:39:14.871541",
+  "generated_at": "2025-07-30T06:01:01.209255",
   "location": {
     "lat": "43:17:47.4",
     "lon": "5:22:11.3"
   },
   "traditional": [
-    {
-      "date": "Mardi 29/07/2025",
-      "phase_percentage": 21.9,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:25",
-      "sunset": "21:04",
-      "daylight_duration": "14:38:49",
-      "moon_position_start": 175.67,
-      "moon_position_end": 187.94,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "08:24",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "08:24",
-          "end_time": "00:00",
-          "constellation": "Balance",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date": "Mercredi 30/07/2025",
       "phase_percentage": 30.4,
@@ -183,31 +153,39 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date": "Mardi 29/07/2025",
-      "phase_percentage": 21.9,
+      "date": "Mardi 05/08/2025",
+      "phase_percentage": 84.1,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:25",
-      "sunset": "21:04",
-      "daylight_duration": "14:38:49",
-      "moon_position_start": 175.67,
-      "moon_position_end": 187.94,
+      "sunrise": "06:32",
+      "sunset": "20:55",
+      "daylight_duration": "14:22:54",
+      "moon_position_start": 259.81,
+      "moon_position_end": 272.21,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
+          "end_time": "19:45",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "19:45",
           "end_time": "00:00",
-          "constellation": "Vierge",
+          "constellation": "Capricorne",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date": "Mercredi 30/07/2025",
       "phase_percentage": 30.4,
@@ -360,6 +338,36 @@
           "constellation": "Serpentaire",
           "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
           "seve_info": "",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date": "Mardi 05/08/2025",
+      "phase_percentage": 84.1,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:32",
+      "sunset": "20:55",
+      "daylight_duration": "14:22:54",
+      "moon_position_start": 259.81,
+      "moon_position_end": 272.21,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "12:02",
+          "constellation": "Serpentaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
+          "blocked": false
+        },
+        {
+          "start_time": "12:02",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
