@@ -1,13 +1,14 @@
 {
   "success": true,
-  "generated_at": "2025-07-31T21:48:26.903064",
+  "generated_at": "2025-07-31T22:24:58.095843",
   "location": {
     "lat": "43:36:16.9",
     "lon": "1:26:39.1"
   },
   "traditional": [
     {
-      "date": "Jeudi 31/07/2025",
+      "date_iso": "2025-07-31",
+      "date_formatted": "Jeudi 31/07/2025",
       "phase_percentage": 39.6,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
@@ -37,7 +38,8 @@
       ]
     },
     {
-      "date": "Vendredi 01/08/2025",
+      "date_iso": "2025-08-01",
+      "date_formatted": "Vendredi 01/08/2025",
       "phase_percentage": 49.1,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
@@ -59,7 +61,8 @@
       ]
     },
     {
-      "date": "Samedi 02/08/2025",
+      "date_iso": "2025-08-02",
+      "date_formatted": "Samedi 02/08/2025",
       "phase_percentage": 58.5,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
@@ -81,7 +84,8 @@
       ]
     },
     {
-      "date": "Dimanche 03/08/2025",
+      "date_iso": "2025-08-03",
+      "date_formatted": "Dimanche 03/08/2025",
       "phase_percentage": 67.7,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
@@ -111,7 +115,8 @@
       ]
     },
     {
-      "date": "Lundi 04/08/2025",
+      "date_iso": "2025-08-04",
+      "date_formatted": "Lundi 04/08/2025",
       "phase_percentage": 76.3,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
@@ -133,7 +138,8 @@
       ]
     },
     {
-      "date": "Mardi 05/08/2025",
+      "date_iso": "2025-08-05",
+      "date_formatted": "Mardi 05/08/2025",
       "phase_percentage": 84.1,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
@@ -163,7 +169,8 @@
       ]
     },
     {
-      "date": "Mercredi 06/08/2025",
+      "date_iso": "2025-08-06",
+      "date_formatted": "Mercredi 06/08/2025",
       "phase_percentage": 90.7,
       "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Croissante",
@@ -187,7 +194,8 @@
   ],
   "constellation": [
     {
-      "date": "Jeudi 31/07/2025",
+      "date_iso": "2025-07-31",
+      "date_formatted": "Jeudi 31/07/2025",
       "phase_percentage": 39.6,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
@@ -209,7 +217,8 @@
       ]
     },
     {
-      "date": "Vendredi 01/08/2025",
+      "date_iso": "2025-08-01",
+      "date_formatted": "Vendredi 01/08/2025",
       "phase_percentage": 49.1,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
@@ -239,7 +248,8 @@
       ]
     },
     {
-      "date": "Samedi 02/08/2025",
+      "date_iso": "2025-08-02",
+      "date_formatted": "Samedi 02/08/2025",
       "phase_percentage": 58.5,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
@@ -261,7 +271,8 @@
       ]
     },
     {
-      "date": "Dimanche 03/08/2025",
+      "date_iso": "2025-08-03",
+      "date_formatted": "Dimanche 03/08/2025",
       "phase_percentage": 67.7,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
@@ -291,7 +302,8 @@
       ]
     },
     {
-      "date": "Lundi 04/08/2025",
+      "date_iso": "2025-08-04",
+      "date_formatted": "Lundi 04/08/2025",
       "phase_percentage": 76.3,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
@@ -321,7 +333,8 @@
       ]
     },
     {
-      "date": "Mardi 05/08/2025",
+      "date_iso": "2025-08-05",
+      "date_formatted": "Mardi 05/08/2025",
       "phase_percentage": 84.1,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
@@ -351,7 +364,8 @@
       ]
     },
     {
-      "date": "Mercredi 06/08/2025",
+      "date_iso": "2025-08-06",
+      "date_formatted": "Mercredi 06/08/2025",
       "phase_percentage": 90.7,
       "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Croissante",

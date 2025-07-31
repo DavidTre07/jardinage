@@ -133,66 +133,17 @@ function renderDay(dayData) {
     const monthNames = ['JAN', 'FÉV', 'MAR', 'AVR', 'MAI', 'JUN', 
                         'JUL', 'AOU', 'SEP', 'OCT', 'NOV', 'DÉC'];
     
-    // Extraire le jour et le mois de la date - gestion de différents formats
+    // Extraction robuste du jour et du mois depuis la date ISO
     let day, month;
     try {
-        // Essayer différents formats de date
-        let dateObj;
-        if (dayData.date.includes('/')) {
-            // Format DD/MM/YYYY ou MM/DD/YYYY
-            const parts = dayData.date.split('/');
-            if (parts.length === 3) {
-                // Assumons DD/MM/YYYY (format français)
-                dateObj = new Date(parts[2], parts[1] - 1, parts[0]);
-            }
-        } else if (dayData.date.includes('-')) {
-            // Format YYYY-MM-DD
-            dateObj = new Date(dayData.date + 'T00:00:00');
-        } else {
-            // Format texte, essayer de parser directement
-            dateObj = new Date(dayData.date);
-        }
-        
-        if (isNaN(dateObj.getTime())) {
-            throw new Error('Date invalide');
-        }
-        
+        const dateObj = new Date(dayData.date_iso + 'T00:00:00');
         day = dateObj.getDate();
         month = monthNames[dateObj.getMonth()];
     } catch (error) {
-        console.log('Erreur de parsing de date:', dayData.date, error);
-        // Fallback: essayer d'extraire le jour du texte de la date
-        const dayMatch = dayData.date.match(/\b(\d{1,2})\b/);
-        day = dayMatch ? dayMatch[1] : '?';
-        
-        // Essayer d'extraire le mois du texte français
-        const frenchMonths = {
-            'janvier': 'JAN', 'février': 'FÉV', 'mars': 'MAR', 'avril': 'AVR',
-            'mai': 'MAI', 'juin': 'JUN', 'juillet': 'JUL', 'août': 'AOU',
-            'septembre': 'SEP', 'octobre': 'OCT', 'novembre': 'NOV', 'décembre': 'DÉC',
-            'jan': 'JAN', 'fév': 'FÉV', 'mar': 'MAR', 'avr': 'AVR',
-            'jul': 'JUL', 'aou': 'AOU', 'sep': 'SEP', 'oct': 'OCT', 'nov': 'NOV', 'déc': 'DÉC'
-        };
-        
+        console.error('Erreur de parsing de date ISO:', dayData.date_iso, error);
+        // Fallback avec valeurs par défaut
+        day = '?';
         month = 'CAL';
-        const dateText = dayData.date.toLowerCase();
-        for (const [frenchMonth, shortMonth] of Object.entries(frenchMonths)) {
-            if (dateText.includes(frenchMonth)) {
-                month = shortMonth;
-                break;
-            }
-        }
-        
-        // Si on n'a pas trouvé le mois dans le texte, essayer d'extraire depuis un format numérique
-        if (month === 'CAL') {
-            const monthMatch = dayData.date.match(/[-\/](\d{1,2})[-\/]/);
-            if (monthMatch) {
-                const monthNum = parseInt(monthMatch[1]) - 1;
-                if (monthNum >= 0 && monthNum < 12) {
-                    month = monthNames[monthNum];
-                }
-            }
-        }
     }
     
     let periodsHtml = '';
@@ -285,7 +236,7 @@ function renderDay(dayData) {
                         <div class="calendar-month">${month}</div>
                         <div class="calendar-day">${day}</div>
                     </div>
-                    ${dayData.date}
+                    ${dayData.date_formatted}
                 </div>
                 <div class="lunar-info">
                     ${basicInfo}
