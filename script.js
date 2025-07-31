@@ -186,6 +186,13 @@ function renderDay(dayData) {
         `;
     }
 
+    // Ajout des saints à côté de la date si affichage détaillé
+    let saintsHtml = '';
+    if (detailed && dayData.saints && dayData.saints.length > 0) {
+        saintsHtml = `<span class="saints-title">— Saints:</span>
+        <span class="saints-content">${dayData.saints.join(', ')}</span>`;
+    }
+
     // Informations de base
     let basicInfo = `
         <div class="info-item">
@@ -236,7 +243,7 @@ function renderDay(dayData) {
                         <div class="calendar-month">${month}</div>
                         <div class="calendar-day">${day}</div>
                     </div>
-                    ${dayData.date_formatted}
+                    <span>${dayData.date_formatted}</span>${saintsHtml}
                 </div>
                 <div class="lunar-info">
                     ${basicInfo}
