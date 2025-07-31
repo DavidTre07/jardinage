@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2025-07-31T23:37:44.576103",
+  "generated_at": "2025-07-31T23:46:50.614384",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
@@ -9,6 +9,10 @@
     {
       "date_iso": "2025-07-31",
       "date_formatted": "Jeudi 31/07/2025",
+      "saints": [
+        "St-Germain d'Auxerre",
+        "St-Ignace de Loyola"
+      ],
       "phase_percentage": 39.6,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
@@ -40,6 +44,11 @@
     {
       "date_iso": "2025-08-01",
       "date_formatted": "Vendredi 01/08/2025",
+      "saints": [
+        "Ste-Almède",
+        "St-Alphonse-Marie de Liguori",
+        "St-Exupère"
+      ],
       "phase_percentage": 49.1,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
@@ -63,6 +72,9 @@
     {
       "date_iso": "2025-08-02",
       "date_formatted": "Samedi 02/08/2025",
+      "saints": [
+        "St-Eusèbe de Verceil"
+      ],
       "phase_percentage": 58.5,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
@@ -86,6 +98,9 @@
     {
       "date_iso": "2025-08-03",
       "date_formatted": "Dimanche 03/08/2025",
+      "saints": [
+        "Ste-Lydie la Pourpre"
+      ],
       "phase_percentage": 67.7,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
@@ -117,6 +132,9 @@
     {
       "date_iso": "2025-08-04",
       "date_formatted": "Lundi 04/08/2025",
+      "saints": [
+        "St-Jean-Marie Baptiste Vianney"
+      ],
       "phase_percentage": 76.3,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
@@ -140,6 +158,11 @@
     {
       "date_iso": "2025-08-05",
       "date_formatted": "Mardi 05/08/2025",
+      "saints": [
+        "St-Abel",
+        "St-Memmius",
+        "St-Oswald"
+      ],
       "phase_percentage": 84.1,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
@@ -171,6 +194,10 @@
     {
       "date_iso": "2025-08-06",
       "date_formatted": "Mercredi 06/08/2025",
+      "saints": [
+        "St-Sixte II",
+        "Transfiguration"
+      ],
       "phase_percentage": 90.7,
       "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Croissante",
@@ -196,6 +223,10 @@
     {
       "date_iso": "2025-07-31",
       "date_formatted": "Jeudi 31/07/2025",
+      "saints": [
+        "St-Germain d'Auxerre",
+        "St-Ignace de Loyola"
+      ],
       "phase_percentage": 39.6,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
@@ -219,6 +250,11 @@
     {
       "date_iso": "2025-08-01",
       "date_formatted": "Vendredi 01/08/2025",
+      "saints": [
+        "Ste-Almède",
+        "St-Alphonse-Marie de Liguori",
+        "St-Exupère"
+      ],
       "phase_percentage": 49.1,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
@@ -250,6 +286,9 @@
     {
       "date_iso": "2025-08-02",
       "date_formatted": "Samedi 02/08/2025",
+      "saints": [
+        "St-Eusèbe de Verceil"
+      ],
       "phase_percentage": 58.5,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
@@ -273,6 +312,9 @@
     {
       "date_iso": "2025-08-03",
       "date_formatted": "Dimanche 03/08/2025",
+      "saints": [
+        "Ste-Lydie la Pourpre"
+      ],
       "phase_percentage": 67.7,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
@@ -304,6 +346,9 @@
     {
       "date_iso": "2025-08-04",
       "date_formatted": "Lundi 04/08/2025",
+      "saints": [
+        "St-Jean-Marie Baptiste Vianney"
+      ],
       "phase_percentage": 76.3,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
@@ -335,6 +380,11 @@
     {
       "date_iso": "2025-08-05",
       "date_formatted": "Mardi 05/08/2025",
+      "saints": [
+        "St-Abel",
+        "St-Memmius",
+        "St-Oswald"
+      ],
       "phase_percentage": 84.1,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
@@ -366,6 +416,10 @@
     {
       "date_iso": "2025-08-06",
       "date_formatted": "Mercredi 06/08/2025",
+      "saints": [
+        "St-Sixte II",
+        "Transfiguration"
+      ],
       "phase_percentage": 90.7,
       "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Croissante",
