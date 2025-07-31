@@ -1,33 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-07-30T23:45:29.890342",
+  "generated_at": "2025-07-31T06:01:01.858434",
   "location": {
     "lat": "48:34:24.2",
     "lon": "7:45:07.6"
   },
   "traditional": [
-    {
-      "date": "Mercredi 30/07/2025",
-      "phase_percentage": 30.4,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:00",
-      "sunset": "21:09",
-      "daylight_duration": "15:09:03 (-2min 41s)",
-      "moon_position_start": 187.94,
-      "moon_position_end": 199.99,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Balance",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date": "Jeudi 31/07/2025",
       "phase_percentage": 39.6,
@@ -183,31 +161,31 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date": "Mercredi 30/07/2025",
-      "phase_percentage": 30.4,
-      "cycle_trajectoire": "Lune Descendante",
+      "date": "Mercredi 06/08/2025",
+      "phase_percentage": 90.7,
+      "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:00",
-      "sunset": "21:09",
-      "daylight_duration": "15:09:03 (-2min 41s)",
-      "moon_position_start": 187.94,
-      "moon_position_end": 199.99,
+      "sunrise": "06:09",
+      "sunset": "20:59",
+      "daylight_duration": "14:49:10 (-2min 56s)",
+      "moon_position_start": 272.21,
+      "moon_position_end": 284.88,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Vierge",
+          "constellation": "Capricorne",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date": "Jeudi 31/07/2025",
       "phase_percentage": 39.6,
@@ -368,6 +346,28 @@
           "constellation": "Sagittaire",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date": "Mercredi 06/08/2025",
+      "phase_percentage": 90.7,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:09",
+      "sunset": "20:59",
+      "daylight_duration": "14:49:10 (-2min 56s)",
+      "moon_position_start": 272.21,
+      "moon_position_end": 284.88,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
