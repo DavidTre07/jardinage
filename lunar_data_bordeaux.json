@@ -1,39 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-08-01T06:01:45.452944",
+  "generated_at": "2025-08-02T06:01:04.119831",
   "location": {
     "lat": "44:50:16.1",
     "lon": "-0:34:45.1"
   },
   "traditional": [
-    {
-      "date_iso": "2025-08-01",
-      "date_formatted": "Vendredi 01/08/2025",
-      "saints": [
-        "Ste-Almède",
-        "St-Alphonse-Marie de Liguori",
-        "St-Exupère"
-      ],
-      "phase_percentage": 49.1,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:47",
-      "sunset": "21:28",
-      "daylight_duration": "14:40:37 (-2min 22s)",
-      "moon_position_start": 211.91,
-      "moon_position_end": 223.77,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Scorpion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-08-02",
       "date_formatted": "Samedi 02/08/2025",
@@ -210,45 +182,44 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-08-01",
-      "date_formatted": "Vendredi 01/08/2025",
+      "date_iso": "2025-08-08",
+      "date_formatted": "Vendredi 08/08/2025",
       "saints": [
-        "Ste-Almède",
-        "St-Alphonse-Marie de Liguori",
-        "St-Exupère"
+        "St-Cyriaque",
+        "St-Dominique de Guzman"
       ],
-      "phase_percentage": 49.1,
-      "cycle_trajectoire": "Lune Descendante",
+      "phase_percentage": 98.9,
+      "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:47",
-      "sunset": "21:28",
-      "daylight_duration": "14:40:37 (-2min 22s)",
-      "moon_position_start": 211.91,
-      "moon_position_end": 223.77,
+      "sunrise": "06:56",
+      "sunset": "21:19",
+      "daylight_duration": "14:23:03 (-2min 35s)",
+      "moon_position_start": 297.84,
+      "moon_position_end": 311.08,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "12:19",
-          "constellation": "Vierge",
+          "end_time": "03:57",
+          "constellation": "Capricorne",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         },
         {
-          "start_time": "12:19",
+          "start_time": "03:57",
           "end_time": "00:00",
-          "constellation": "Balance",
+          "constellation": "Verseau",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-08-02",
       "date_formatted": "Samedi 02/08/2025",
@@ -429,6 +400,41 @@
           "end_time": "00:00",
           "constellation": "Sagittaire",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-08-08",
+      "date_formatted": "Vendredi 08/08/2025",
+      "saints": [
+        "St-Cyriaque",
+        "St-Dominique de Guzman"
+      ],
+      "phase_percentage": 98.9,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:56",
+      "sunset": "21:19",
+      "daylight_duration": "14:23:03 (-2min 35s)",
+      "moon_position_start": 297.84,
+      "moon_position_end": 311.08,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "03:57",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "03:57",
+          "end_time": "00:00",
+          "constellation": "Capricorne",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
