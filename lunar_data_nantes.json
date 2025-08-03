@@ -1,37 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-08-02T06:01:03.454078",
+  "generated_at": "2025-08-03T06:01:00.602586",
   "location": {
     "lat": "47:13:06.2",
     "lon": "-1:33:13.0"
   },
   "traditional": [
-    {
-      "date_iso": "2025-08-02",
-      "date_formatted": "Samedi 02/08/2025",
-      "saints": [
-        "St-Eusèbe de Verceil"
-      ],
-      "phase_percentage": 58.5,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:46",
-      "sunset": "21:38",
-      "daylight_duration": "14:52:06 (-2min 39s)",
-      "moon_position_start": 223.77,
-      "moon_position_end": 235.66,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Scorpion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-08-03",
       "date_formatted": "Dimanche 03/08/2025",
@@ -217,35 +191,35 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-08-02",
-      "date_formatted": "Samedi 02/08/2025",
+      "date_iso": "2025-08-09",
+      "date_formatted": "Samedi 09/08/2025",
       "saints": [
-        "St-Eusèbe de Verceil"
+        "St-Amour (ou Amor)"
       ],
-      "phase_percentage": 58.5,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:46",
-      "sunset": "21:38",
-      "daylight_duration": "14:52:06 (-2min 39s)",
-      "moon_position_start": 223.77,
-      "moon_position_end": 235.66,
+      "phase_percentage": 99.9,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:54",
+      "sunset": "21:27",
+      "daylight_duration": "14:32:36 (-2min 52s)",
+      "moon_position_start": 311.08,
+      "moon_position_end": 324.6,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Balance",
+          "constellation": "Verseau",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-08-03",
       "date_formatted": "Dimanche 03/08/2025",
@@ -432,6 +406,32 @@
         },
         {
           "start_time": "03:57",
+          "end_time": "00:00",
+          "constellation": "Capricorne",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-08-09",
+      "date_formatted": "Samedi 09/08/2025",
+      "saints": [
+        "St-Amour (ou Amor)"
+      ],
+      "phase_percentage": 99.9,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:54",
+      "sunset": "21:27",
+      "daylight_duration": "14:32:36 (-2min 52s)",
+      "moon_position_start": 311.08,
+      "moon_position_end": 324.6,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Capricorne",
           "recommendation": "Actions favorables aux légumes racines.",
