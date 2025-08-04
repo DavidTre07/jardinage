@@ -1,45 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-08-03T06:01:01.223372",
+  "generated_at": "2025-08-04T06:00:54.238995",
   "location": {
     "lat": "44:50:16.1",
     "lon": "-0:34:45.1"
   },
   "traditional": [
-    {
-      "date_iso": "2025-08-03",
-      "date_formatted": "Dimanche 03/08/2025",
-      "saints": [
-        "Ste-Lydie la Pourpre"
-      ],
-      "phase_percentage": 67.7,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:50",
-      "sunset": "21:26",
-      "daylight_duration": "14:35:45 (-2min 26s)",
-      "moon_position_start": 235.66,
-      "moon_position_end": 247.65,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "08:43",
-          "constellation": "Scorpion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "08:43",
-          "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-08-04",
       "date_formatted": "Lundi 04/08/2025",
@@ -217,43 +183,45 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-08-03",
-      "date_formatted": "Dimanche 03/08/2025",
+      "date_iso": "2025-08-10",
+      "date_formatted": "Dimanche 10/08/2025",
       "saints": [
-        "Ste-Lydie la Pourpre"
+        "St-Blain",
+        "St-Deusdedit (ou Dieudonné)",
+        "St-Laurent De Rome"
       ],
-      "phase_percentage": 67.7,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:50",
-      "sunset": "21:26",
-      "daylight_duration": "14:35:45 (-2min 26s)",
-      "moon_position_start": 235.66,
-      "moon_position_end": 247.65,
+      "phase_percentage": 98.6,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:58",
+      "sunset": "21:16",
+      "daylight_duration": "14:17:47 (-2min 38s)",
+      "moon_position_start": 324.6,
+      "moon_position_end": 338.35,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "10:43",
-          "constellation": "Balance",
+          "end_time": "09:27",
+          "constellation": "Verseau",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         },
         {
-          "start_time": "10:43",
+          "start_time": "09:27",
           "end_time": "00:00",
-          "constellation": "Scorpion",
+          "constellation": "Poissons",
           "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-08-04",
       "date_formatted": "Lundi 04/08/2025",
@@ -435,6 +403,42 @@
           "end_time": "00:00",
           "constellation": "Capricorne",
           "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-08-10",
+      "date_formatted": "Dimanche 10/08/2025",
+      "saints": [
+        "St-Blain",
+        "St-Deusdedit (ou Dieudonné)",
+        "St-Laurent De Rome"
+      ],
+      "phase_percentage": 98.6,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:58",
+      "sunset": "21:16",
+      "daylight_duration": "14:17:47 (-2min 38s)",
+      "moon_position_start": 324.6,
+      "moon_position_end": 338.35,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "09:27",
+          "constellation": "Capricorne",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "09:27",
+          "end_time": "00:00",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
