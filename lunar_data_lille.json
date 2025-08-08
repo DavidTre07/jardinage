@@ -1,39 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-08-07T06:00:49.022485",
+  "generated_at": "2025-08-08T06:00:49.605501",
   "location": {
     "lat": "50:37:45.1",
     "lon": "3:03:26.3"
   },
   "traditional": [
-    {
-      "date_iso": "2025-08-07",
-      "date_formatted": "Jeudi 07/08/2025",
-      "saints": [
-        "St-Albert",
-        "St-Donat",
-        "St-Gaétan"
-      ],
-      "phase_percentage": 95.7,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:23",
-      "sunset": "21:22",
-      "daylight_duration": "14:58:58 (-3min 13s)",
-      "moon_position_start": 284.88,
-      "moon_position_end": 297.84,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-08-08",
       "date_formatted": "Vendredi 08/08/2025",
@@ -234,6 +206,43 @@
           "end_time": "00:00",
           "constellation": "Bélier",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-08-14",
+      "date_formatted": "Jeudi 14/08/2025",
+      "saints": [
+        "St-Eusèbe de Rome",
+        "St-Hippolyte",
+        "St-Maximien Kolbe",
+        "Ste-Radegonde"
+      ],
+      "phase_percentage": 70.3,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:34",
+      "sunset": "21:09",
+      "daylight_duration": "14:35:33 (-3min 25s)",
+      "moon_position_start": 20.54,
+      "moon_position_end": 34.76,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "15:58",
+          "constellation": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "15:58",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
@@ -242,34 +251,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2025-08-07",
-      "date_formatted": "Jeudi 07/08/2025",
-      "saints": [
-        "St-Albert",
-        "St-Donat",
-        "St-Gaétan"
-      ],
-      "phase_percentage": 95.7,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:23",
-      "sunset": "21:22",
-      "daylight_duration": "14:58:58 (-3min 13s)",
-      "moon_position_start": 284.88,
-      "moon_position_end": 297.84,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2025-08-08",
       "date_formatted": "Vendredi 08/08/2025",
       "saints": [
@@ -469,6 +450,43 @@
           "end_time": "00:00",
           "constellation": "Poissons",
           "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-08-14",
+      "date_formatted": "Jeudi 14/08/2025",
+      "saints": [
+        "St-Eusèbe de Rome",
+        "St-Hippolyte",
+        "St-Maximien Kolbe",
+        "Ste-Radegonde"
+      ],
+      "phase_percentage": 70.3,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:34",
+      "sunset": "21:09",
+      "daylight_duration": "14:35:33 (-3min 25s)",
+      "moon_position_start": 20.54,
+      "moon_position_end": 34.76,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "10:54",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "10:54",
+          "end_time": "00:00",
+          "constellation": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
