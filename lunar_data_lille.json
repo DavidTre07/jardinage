@@ -1,37 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-08-09T06:00:51.737390",
+  "generated_at": "2025-08-10T06:00:50.181801",
   "location": {
     "lat": "50:37:45.1",
     "lon": "3:03:26.3"
   },
   "traditional": [
-    {
-      "date_iso": "2025-08-09",
-      "date_formatted": "Samedi 09/08/2025",
-      "saints": [
-        "St-Amour (ou Amor)"
-      ],
-      "phase_percentage": 99.9,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:26",
-      "sunset": "21:18",
-      "daylight_duration": "14:52:25 (-3min 17s)",
-      "moon_position_start": 311.08,
-      "moon_position_end": 324.6,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-08-10",
       "date_formatted": "Dimanche 10/08/2025",
@@ -241,35 +215,46 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-08-09",
-      "date_formatted": "Samedi 09/08/2025",
+      "date_iso": "2025-08-16",
+      "date_formatted": "Samedi 16/08/2025",
       "saints": [
-        "St-Amour (ou Amor)"
+        "St-Armagillus",
+        "St-Etienne de Hongrie",
+        "St-Frimbaud",
+        "St-Roch"
       ],
-      "phase_percentage": 99.9,
+      "phase_percentage": 47.8,
       "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:26",
-      "sunset": "21:18",
-      "daylight_duration": "14:52:25 (-3min 17s)",
-      "moon_position_start": 311.08,
-      "moon_position_end": 324.6,
+      "sunrise": "06:37",
+      "sunset": "21:05",
+      "daylight_duration": "14:28:38 (-3min 28s)",
+      "moon_position_start": 48.98,
+      "moon_position_end": 63.18,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
+          "end_time": "18:36",
+          "constellation": "Taureau",
           "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "18:36",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-08-10",
       "date_formatted": "Dimanche 10/08/2025",
@@ -475,6 +460,43 @@
           "end_time": "00:00",
           "constellation": "Bélier",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-08-16",
+      "date_formatted": "Samedi 16/08/2025",
+      "saints": [
+        "St-Armagillus",
+        "St-Etienne de Hongrie",
+        "St-Frimbaud",
+        "St-Roch"
+      ],
+      "phase_percentage": 47.8,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:37",
+      "sunset": "21:05",
+      "daylight_duration": "14:28:38 (-3min 28s)",
+      "moon_position_start": 48.98,
+      "moon_position_end": 63.18,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "08:28",
+          "constellation": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "08:28",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
