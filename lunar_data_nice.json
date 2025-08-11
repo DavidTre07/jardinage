@@ -1,47 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-08-10T06:00:51.639215",
+  "generated_at": "2025-08-11T06:00:51.127198",
   "location": {
     "lat": "43:42:36.7",
     "lon": "7:15:43.2"
   },
   "traditional": [
-    {
-      "date_iso": "2025-08-10",
-      "date_formatted": "Dimanche 10/08/2025",
-      "saints": [
-        "St-Blain",
-        "St-Deusdedit (ou Dieudonné)",
-        "St-Laurent De Rome"
-      ],
-      "phase_percentage": 98.6,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:29",
-      "sunset": "20:42",
-      "daylight_duration": "14:12:34 (-2min 32s)",
-      "moon_position_start": 324.6,
-      "moon_position_end": 338.35,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "09:27",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "09:27",
-          "end_time": "00:00",
-          "constellation": "Poissons",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-08-11",
       "date_formatted": "Lundi 11/08/2025",
@@ -252,45 +216,35 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-08-10",
-      "date_formatted": "Dimanche 10/08/2025",
+      "date_iso": "2025-08-17",
+      "date_formatted": "Dimanche 17/08/2025",
       "saints": [
-        "St-Blain",
-        "St-Deusdedit (ou Dieudonné)",
-        "St-Laurent De Rome"
+        "St-Hyacinthe"
       ],
-      "phase_percentage": 98.6,
+      "phase_percentage": 36.5,
       "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:29",
-      "sunset": "20:42",
-      "daylight_duration": "14:12:34 (-2min 32s)",
-      "moon_position_start": 324.6,
-      "moon_position_end": 338.35,
+      "sunrise": "06:37",
+      "sunset": "20:31",
+      "daylight_duration": "13:54:13 (-2min 41s)",
+      "moon_position_start": 63.18,
+      "moon_position_end": 77.31,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "09:27",
-          "constellation": "Capricorne",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "09:27",
           "end_time": "00:00",
-          "constellation": "Verseau",
+          "constellation": "Gémeaux",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-08-11",
       "date_formatted": "Lundi 11/08/2025",
@@ -494,6 +448,32 @@
         },
         {
           "start_time": "08:28",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-08-17",
+      "date_formatted": "Dimanche 17/08/2025",
+      "saints": [
+        "St-Hyacinthe"
+      ],
+      "phase_percentage": 36.5,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:37",
+      "sunset": "20:31",
+      "daylight_duration": "13:54:13 (-2min 41s)",
+      "moon_position_start": 63.18,
+      "moon_position_end": 77.31,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Taureau",
           "recommendation": "Actions favorables aux légumes racines.",
