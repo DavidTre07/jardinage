@@ -1,56 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-08-11T06:00:48.378786",
+  "generated_at": "2025-08-12T06:00:49.491802",
   "location": {
     "lat": "48:51:23.8",
     "lon": "2:21:07.9"
   },
   "traditional": [
-    {
-      "date_iso": "2025-08-11",
-      "date_formatted": "Lundi 11/08/2025",
-      "saints": [
-        "Ste-Claire D'Assise",
-        "Ste-Suzanne"
-      ],
-      "phase_percentage": 94.7,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:37",
-      "sunset": "21:13",
-      "daylight_duration": "14:35:32 (-3min 7s)",
-      "moon_position_start": 338.35,
-      "moon_position_end": 352.29,
-      "nodes_info": [
-        "NŒUD LUNAIRE (ascendant) le 11/08 à 16h51 - Pas de jardinage de 12h51 à 20h51"
-      ],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "12:51",
-          "constellation": "Poissons",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "12:51",
-          "end_time": "20:51",
-          "constellation": "Poissons",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "20:51",
-          "end_time": "00:00",
-          "constellation": "Poissons",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-08-12",
       "date_formatted": "Mardi 12/08/2025",
@@ -242,54 +197,44 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-08-11",
-      "date_formatted": "Lundi 11/08/2025",
+      "date_iso": "2025-08-18",
+      "date_formatted": "Lundi 18/08/2025",
       "saints": [
-        "Ste-Claire D'Assise",
-        "Ste-Suzanne"
+        "St-Agapet",
+        "Ste-Hélène"
       ],
-      "phase_percentage": 94.7,
+      "phase_percentage": 26.0,
       "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:37",
-      "sunset": "21:13",
-      "daylight_duration": "14:35:32 (-3min 7s)",
-      "moon_position_start": 338.35,
-      "moon_position_end": 352.29,
-      "nodes_info": [
-        "NŒUD LUNAIRE (ascendant) le 11/08 à 16h51 - Pas de jardinage de 12h51 à 20h51"
-      ],
+      "sunrise": "06:47",
+      "sunset": "21:00",
+      "daylight_duration": "14:13:03 (-3min 16s)",
+      "moon_position_start": 77.31,
+      "moon_position_end": 91.34,
+      "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "12:51",
-          "constellation": "Verseau",
+          "end_time": "21:42",
+          "constellation": "Gémeaux",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         },
         {
-          "start_time": "12:51",
-          "end_time": "20:51",
-          "constellation": "Verseau",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "20:51",
+          "start_time": "21:42",
           "end_time": "00:00",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "constellation": "Cancer",
+          "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-08-12",
       "date_formatted": "Mardi 12/08/2025",
@@ -477,6 +422,41 @@
           "end_time": "00:00",
           "constellation": "Taureau",
           "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-08-18",
+      "date_formatted": "Lundi 18/08/2025",
+      "saints": [
+        "St-Agapet",
+        "Ste-Hélène"
+      ],
+      "phase_percentage": 26.0,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:47",
+      "sunset": "21:00",
+      "daylight_duration": "14:13:03 (-3min 16s)",
+      "moon_position_start": 77.31,
+      "moon_position_end": 91.34,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "21:42",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "21:42",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
