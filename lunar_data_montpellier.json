@@ -1,46 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-08-12T06:00:51.500654",
+  "generated_at": "2025-08-13T06:00:52.103843",
   "location": {
     "lat": "43:36:39.6",
     "lon": "3:52:36.1"
   },
   "traditional": [
-    {
-      "date_iso": "2025-08-12",
-      "date_formatted": "Mardi 12/08/2025",
-      "saints": [
-        "St-Euplius",
-        "Ste-Julienne"
-      ],
-      "phase_percentage": 88.5,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:45",
-      "sunset": "20:52",
-      "daylight_duration": "14:06:58 (-2min 34s)",
-      "moon_position_start": 352.29,
-      "moon_position_end": 6.37,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "13:09",
-          "constellation": "Poissons",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "13:09",
-          "end_time": "00:00",
-          "constellation": "Bélier",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-08-13",
       "date_formatted": "Mercredi 13/08/2025",
@@ -232,44 +197,35 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-08-12",
-      "date_formatted": "Mardi 12/08/2025",
+      "date_iso": "2025-08-19",
+      "date_formatted": "Mardi 19/08/2025",
       "saints": [
-        "St-Euplius",
-        "Ste-Julienne"
+        "St-Jean Eudes"
       ],
-      "phase_percentage": 88.5,
-      "cycle_trajectoire": "Lune Montante",
+      "phase_percentage": 16.8,
+      "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:45",
-      "sunset": "20:52",
-      "daylight_duration": "14:06:58 (-2min 34s)",
-      "moon_position_start": 352.29,
-      "moon_position_end": 6.37,
+      "sunrise": "06:53",
+      "sunset": "20:41",
+      "daylight_duration": "13:48:24 (-2min 42s)",
+      "moon_position_start": 91.34,
+      "moon_position_end": 105.22,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "13:09",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "13:09",
           "end_time": "00:00",
-          "constellation": "Poissons",
+          "constellation": "Cancer",
           "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-08-13",
       "date_formatted": "Mercredi 13/08/2025",
@@ -458,6 +414,32 @@
           "constellation": "Gémeaux",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-08-19",
+      "date_formatted": "Mardi 19/08/2025",
+      "saints": [
+        "St-Jean Eudes"
+      ],
+      "phase_percentage": 16.8,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:53",
+      "sunset": "20:41",
+      "daylight_duration": "13:48:24 (-2min 42s)",
+      "moon_position_start": 91.34,
+      "moon_position_end": 105.22,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
