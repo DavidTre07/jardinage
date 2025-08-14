@@ -1,39 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-08-13T06:00:51.843268",
+  "generated_at": "2025-08-14T06:00:56.250326",
   "location": {
     "lat": "48:34:24.2",
     "lon": "7:45:07.6"
   },
   "traditional": [
-    {
-      "date_iso": "2025-08-13",
-      "date_formatted": "Mercredi 13/08/2025",
-      "saints": [
-        "Ste-Concordia",
-        "St-Jean Berchmans",
-        "Ste-Radegonde"
-      ],
-      "phase_percentage": 80.2,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:19",
-      "sunset": "20:47",
-      "daylight_duration": "14:27:47 (-3min 7s)",
-      "moon_position_start": 6.37,
-      "moon_position_end": 20.54,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Bélier",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-08-14",
       "date_formatted": "Jeudi 14/08/2025",
@@ -223,37 +195,35 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-08-13",
-      "date_formatted": "Mercredi 13/08/2025",
+      "date_iso": "2025-08-20",
+      "date_formatted": "Mercredi 20/08/2025",
       "saints": [
-        "Ste-Concordia",
-        "St-Jean Berchmans",
-        "Ste-Radegonde"
+        "St-Bernard de Clairvaux"
       ],
-      "phase_percentage": 80.2,
-      "cycle_trajectoire": "Lune Montante",
+      "phase_percentage": 9.3,
+      "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:19",
-      "sunset": "20:47",
-      "daylight_duration": "14:27:47 (-3min 7s)",
-      "moon_position_start": 6.37,
-      "moon_position_end": 20.54,
+      "sunrise": "06:29",
+      "sunset": "20:34",
+      "daylight_duration": "14:05:15 (-3min 16s)",
+      "moon_position_start": 105.22,
+      "moon_position_end": 118.92,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Poissons",
+          "constellation": "Cancer",
           "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-08-14",
       "date_formatted": "Jeudi 14/08/2025",
@@ -432,6 +402,32 @@
       "daylight_duration": "14:08:32 (-3min 15s)",
       "moon_position_start": 91.34,
       "moon_position_end": 105.22,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-08-20",
+      "date_formatted": "Mercredi 20/08/2025",
+      "saints": [
+        "St-Bernard de Clairvaux"
+      ],
+      "phase_percentage": 9.3,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:29",
+      "sunset": "20:34",
+      "daylight_duration": "14:05:15 (-3min 16s)",
+      "moon_position_start": 105.22,
+      "moon_position_end": 118.92,
       "nodes_info": [],
       "periods": [
         {
