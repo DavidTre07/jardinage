@@ -1,48 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-08-14T06:00:56.987390",
+  "generated_at": "2025-08-15T06:00:21.259517",
   "location": {
     "lat": "43:42:36.7",
     "lon": "7:15:43.2"
   },
   "traditional": [
-    {
-      "date_iso": "2025-08-14",
-      "date_formatted": "Jeudi 14/08/2025",
-      "saints": [
-        "St-Eusèbe de Rome",
-        "St-Hippolyte",
-        "St-Maximien Kolbe",
-        "Ste-Radegonde"
-      ],
-      "phase_percentage": 70.3,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:34",
-      "sunset": "20:36",
-      "daylight_duration": "14:02:12 (-2min 37s)",
-      "moon_position_start": 20.54,
-      "moon_position_end": 34.76,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "15:58",
-          "constellation": "Bélier",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "15:58",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-08-15",
       "date_formatted": "Vendredi 15/08/2025",
@@ -221,46 +184,43 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-08-14",
-      "date_formatted": "Jeudi 14/08/2025",
+      "date_iso": "2025-08-21",
+      "date_formatted": "Jeudi 21/08/2025",
       "saints": [
-        "St-Eusèbe de Rome",
-        "St-Hippolyte",
-        "St-Maximien Kolbe",
-        "Ste-Radegonde"
+        "St-Pie X"
       ],
-      "phase_percentage": 70.3,
-      "cycle_trajectoire": "Lune Montante",
+      "phase_percentage": 3.9,
+      "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:34",
-      "sunset": "20:36",
-      "daylight_duration": "14:02:12 (-2min 37s)",
-      "moon_position_start": 20.54,
-      "moon_position_end": 34.76,
+      "sunrise": "06:42",
+      "sunset": "20:25",
+      "daylight_duration": "13:43:18 (-2min 45s)",
+      "moon_position_start": 118.92,
+      "moon_position_end": 132.39,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "10:54",
-          "constellation": "Poissons",
+          "end_time": "01:54",
+          "constellation": "Cancer",
           "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "10:54",
+          "start_time": "01:54",
           "end_time": "00:00",
-          "constellation": "Bélier",
+          "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-08-15",
       "date_formatted": "Vendredi 15/08/2025",
@@ -435,6 +395,40 @@
           "end_time": "00:00",
           "constellation": "Gémeaux",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-08-21",
+      "date_formatted": "Jeudi 21/08/2025",
+      "saints": [
+        "St-Pie X"
+      ],
+      "phase_percentage": 3.9,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:42",
+      "sunset": "20:25",
+      "daylight_duration": "13:43:18 (-2min 45s)",
+      "moon_position_start": 118.92,
+      "moon_position_end": 132.39,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "01:54",
+          "constellation": "Gémeaux",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "01:54",
+          "end_time": "00:00",
+          "constellation": "Cancer",
+          "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
