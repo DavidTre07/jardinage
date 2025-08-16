@@ -1,40 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-08-15T06:00:20.372709",
+  "generated_at": "2025-08-16T06:00:23.747375",
   "location": {
     "lat": "47:13:06.2",
     "lon": "-1:33:13.0"
   },
   "traditional": [
-    {
-      "date_iso": "2025-08-15",
-      "date_formatted": "Vendredi 15/08/2025",
-      "saints": [
-        "St-Alfred",
-        "St-Eusèbe",
-        "Assomption (Fête de Marie)",
-        "St-Tarcisius"
-      ],
-      "phase_percentage": 59.3,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:02",
-      "sunset": "21:17",
-      "daylight_duration": "14:14:50 (-3min 1s)",
-      "moon_position_start": 34.76,
-      "moon_position_end": 48.98,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-08-16",
       "date_formatted": "Samedi 16/08/2025",
@@ -218,38 +189,37 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-08-15",
-      "date_formatted": "Vendredi 15/08/2025",
+      "date_iso": "2025-08-22",
+      "date_formatted": "Vendredi 22/08/2025",
       "saints": [
-        "St-Alfred",
-        "St-Eusèbe",
-        "Assomption (Fête de Marie)",
-        "St-Tarcisius"
+        "St-Fabrice",
+        "St-Philibert",
+        "St-Symphorien"
       ],
-      "phase_percentage": 59.3,
-      "cycle_trajectoire": "Lune Montante",
+      "phase_percentage": 0.8,
+      "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:02",
-      "sunset": "21:17",
-      "daylight_duration": "14:14:50 (-3min 1s)",
-      "moon_position_start": 34.76,
-      "moon_position_end": 48.98,
+      "sunrise": "07:12",
+      "sunset": "21:05",
+      "daylight_duration": "13:53:10 (-3min 8s)",
+      "moon_position_start": 132.39,
+      "moon_position_end": 145.62,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Bélier",
+          "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-08-16",
       "date_formatted": "Samedi 16/08/2025",
@@ -429,6 +399,42 @@
           "end_time": "00:00",
           "constellation": "Cancer",
           "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-08-22",
+      "date_formatted": "Vendredi 22/08/2025",
+      "saints": [
+        "St-Fabrice",
+        "St-Philibert",
+        "St-Symphorien"
+      ],
+      "phase_percentage": 0.8,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:12",
+      "sunset": "21:05",
+      "daylight_duration": "13:53:10 (-3min 8s)",
+      "moon_position_start": 132.39,
+      "moon_position_end": 145.62,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "10:07",
+          "constellation": "Cancer",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "10:07",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
