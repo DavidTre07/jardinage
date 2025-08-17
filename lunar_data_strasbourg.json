@@ -1,48 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-08-16T06:00:23.949847",
+  "generated_at": "2025-08-17T06:00:20.329163",
   "location": {
     "lat": "48:34:24.2",
     "lon": "7:45:07.6"
   },
   "traditional": [
-    {
-      "date_iso": "2025-08-16",
-      "date_formatted": "Samedi 16/08/2025",
-      "saints": [
-        "St-Armagillus",
-        "St-Etienne de Hongrie",
-        "St-Frimbaud",
-        "St-Roch"
-      ],
-      "phase_percentage": 47.8,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:23",
-      "sunset": "20:41",
-      "daylight_duration": "14:18:15 (-3min 11s)",
-      "moon_position_start": 48.98,
-      "moon_position_end": 63.18,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "18:36",
-          "constellation": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "18:36",
-          "end_time": "00:00",
-          "constellation": "Gémeaux",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-08-17",
       "date_formatted": "Dimanche 17/08/2025",
@@ -217,46 +180,43 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-08-16",
-      "date_formatted": "Samedi 16/08/2025",
+      "date_iso": "2025-08-23",
+      "date_formatted": "Samedi 23/08/2025",
       "saints": [
-        "St-Armagillus",
-        "St-Etienne de Hongrie",
-        "St-Frimbaud",
-        "St-Roch"
+        "Ste-Rose de Lima"
       ],
-      "phase_percentage": 47.8,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:23",
-      "sunset": "20:41",
-      "daylight_duration": "14:18:15 (-3min 11s)",
-      "moon_position_start": 48.98,
-      "moon_position_end": 63.18,
+      "phase_percentage": 0.0,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:33",
+      "sunset": "20:28",
+      "daylight_duration": "13:55:20 (-3min 19s)",
+      "moon_position_start": 145.62,
+      "moon_position_end": 158.57,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "08:28",
-          "constellation": "Bélier",
+          "end_time": "08:03",
+          "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "08:28",
+          "start_time": "08:03",
           "end_time": "00:00",
-          "constellation": "Taureau",
+          "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-08-17",
       "date_formatted": "Dimanche 17/08/2025",
@@ -432,6 +392,32 @@
         },
         {
           "start_time": "10:07",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-08-23",
+      "date_formatted": "Samedi 23/08/2025",
+      "saints": [
+        "Ste-Rose de Lima"
+      ],
+      "phase_percentage": 0.0,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:33",
+      "sunset": "20:28",
+      "daylight_duration": "13:55:20 (-3min 19s)",
+      "moon_position_start": 145.62,
+      "moon_position_end": 158.57,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
