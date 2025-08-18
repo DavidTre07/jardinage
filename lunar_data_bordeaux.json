@@ -1,37 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-08-17T06:00:20.687885",
+  "generated_at": "2025-08-18T06:00:19.764353",
   "location": {
     "lat": "44:50:16.1",
     "lon": "-0:34:45.1"
   },
   "traditional": [
-    {
-      "date_iso": "2025-08-17",
-      "date_formatted": "Dimanche 17/08/2025",
-      "saints": [
-        "St-Hyacinthe"
-      ],
-      "phase_percentage": 36.5,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:06",
-      "sunset": "21:05",
-      "daylight_duration": "13:58:38 (-2min 47s)",
-      "moon_position_start": 63.18,
-      "moon_position_end": 77.31,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Gémeaux",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-08-18",
       "date_formatted": "Lundi 18/08/2025",
@@ -214,35 +188,54 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-08-17",
-      "date_formatted": "Dimanche 17/08/2025",
+      "date_iso": "2025-08-24",
+      "date_formatted": "Dimanche 24/08/2025",
       "saints": [
-        "St-Hyacinthe"
+        "St-Barthélémy",
+        "St-Ouen"
       ],
-      "phase_percentage": 36.5,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:06",
-      "sunset": "21:05",
-      "daylight_duration": "13:58:38 (-2min 47s)",
-      "moon_position_start": 63.18,
-      "moon_position_end": 77.31,
-      "nodes_info": [],
+      "phase_percentage": 1.5,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:14",
+      "sunset": "20:53",
+      "daylight_duration": "13:38:34 (-2min 54s)",
+      "moon_position_start": 158.57,
+      "moon_position_end": 171.26,
+      "nodes_info": [
+        "NŒUD LUNAIRE (descendant) le 24/08 à 17h41 - Pas de jardinage de 13h41 à 21h41"
+      ],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Taureau",
+          "end_time": "13:41",
+          "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "13:41",
+          "end_time": "21:41",
+          "constellation": "Vierge",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "21:41",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-08-18",
       "date_formatted": "Lundi 18/08/2025",
@@ -418,6 +411,51 @@
       "periods": [
         {
           "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-08-24",
+      "date_formatted": "Dimanche 24/08/2025",
+      "saints": [
+        "St-Barthélémy",
+        "St-Ouen"
+      ],
+      "phase_percentage": 1.5,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:14",
+      "sunset": "20:53",
+      "daylight_duration": "13:38:34 (-2min 54s)",
+      "moon_position_start": 158.57,
+      "moon_position_end": 171.26,
+      "nodes_info": [
+        "NŒUD LUNAIRE (descendant) le 24/08 à 17h41 - Pas de jardinage de 13h41 à 21h41"
+      ],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "13:41",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "13:41",
+          "end_time": "21:41",
+          "constellation": "Lion",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "21:41",
           "end_time": "00:00",
           "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
