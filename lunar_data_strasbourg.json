@@ -1,46 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-08-18T06:00:19.364513",
+  "generated_at": "2025-08-19T06:00:21.456524",
   "location": {
     "lat": "48:34:24.2",
     "lon": "7:45:07.6"
   },
   "traditional": [
-    {
-      "date_iso": "2025-08-18",
-      "date_formatted": "Lundi 18/08/2025",
-      "saints": [
-        "St-Agapet",
-        "Ste-Hélène"
-      ],
-      "phase_percentage": 26.0,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:26",
-      "sunset": "20:38",
-      "daylight_duration": "14:11:48 (-3min 14s)",
-      "moon_position_start": 77.31,
-      "moon_position_end": 91.34,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "21:42",
-          "constellation": "Gémeaux",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "21:42",
-          "end_time": "00:00",
-          "constellation": "Cancer",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-08-19",
       "date_formatted": "Mardi 19/08/2025",
@@ -233,44 +198,44 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-08-18",
-      "date_formatted": "Lundi 18/08/2025",
+      "date_iso": "2025-08-25",
+      "date_formatted": "Lundi 25/08/2025",
       "saints": [
-        "St-Agapet",
-        "Ste-Hélène"
+        "St-Joseph de Calsanz",
+        "St-Louis IX de France"
       ],
-      "phase_percentage": 26.0,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:26",
-      "sunset": "20:38",
-      "daylight_duration": "14:11:48 (-3min 14s)",
-      "moon_position_start": 77.31,
-      "moon_position_end": 91.34,
+      "phase_percentage": 4.9,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:36",
+      "sunset": "20:24",
+      "daylight_duration": "13:48:38 (-3min 21s)",
+      "moon_position_start": 171.26,
+      "moon_position_end": 183.69,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "21:42",
-          "constellation": "Taureau",
+          "end_time": "16:49",
+          "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "21:42",
+          "start_time": "16:49",
           "end_time": "00:00",
-          "constellation": "Gémeaux",
+          "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-08-19",
       "date_formatted": "Mardi 19/08/2025",
@@ -459,6 +424,41 @@
           "end_time": "00:00",
           "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-08-25",
+      "date_formatted": "Lundi 25/08/2025",
+      "saints": [
+        "St-Joseph de Calsanz",
+        "St-Louis IX de France"
+      ],
+      "phase_percentage": 4.9,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:36",
+      "sunset": "20:24",
+      "daylight_duration": "13:48:38 (-3min 21s)",
+      "moon_position_start": 171.26,
+      "moon_position_end": 183.69,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "05:15",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "05:15",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
