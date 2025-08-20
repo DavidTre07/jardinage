@@ -1,37 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-08-19T06:00:21.456524",
+  "generated_at": "2025-08-20T06:00:21.139715",
   "location": {
     "lat": "48:34:24.2",
     "lon": "7:45:07.6"
   },
   "traditional": [
-    {
-      "date_iso": "2025-08-19",
-      "date_formatted": "Mardi 19/08/2025",
-      "saints": [
-        "St-Jean Eudes"
-      ],
-      "phase_percentage": 16.8,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:27",
-      "sunset": "20:36",
-      "daylight_duration": "14:08:32 (-3min 15s)",
-      "moon_position_start": 91.34,
-      "moon_position_end": 105.22,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Cancer",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-08-20",
       "date_formatted": "Mercredi 20/08/2025",
@@ -233,35 +207,35 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-08-19",
-      "date_formatted": "Mardi 19/08/2025",
+      "date_iso": "2025-08-26",
+      "date_formatted": "Mardi 26/08/2025",
       "saints": [
-        "St-Jean Eudes"
+        "St-Zéphirin"
       ],
-      "phase_percentage": 16.8,
+      "phase_percentage": 10.0,
       "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:27",
-      "sunset": "20:36",
-      "daylight_duration": "14:08:32 (-3min 15s)",
-      "moon_position_start": 91.34,
-      "moon_position_end": 105.22,
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:37",
+      "sunset": "20:22",
+      "daylight_duration": "13:45:17 (-3min 21s)",
+      "moon_position_start": 183.69,
+      "moon_position_end": 195.89,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Gémeaux",
+          "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-08-20",
       "date_formatted": "Mercredi 20/08/2025",
@@ -456,6 +430,32 @@
         },
         {
           "start_time": "05:15",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-08-26",
+      "date_formatted": "Mardi 26/08/2025",
+      "saints": [
+        "St-Zéphirin"
+      ],
+      "phase_percentage": 10.0,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:37",
+      "sunset": "20:22",
+      "daylight_duration": "13:45:17 (-3min 21s)",
+      "moon_position_start": 183.69,
+      "moon_position_end": 195.89,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
