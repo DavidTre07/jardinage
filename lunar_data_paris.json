@@ -1,37 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-08-20T06:00:19.652852",
+  "generated_at": "2025-08-21T06:00:17.043381",
   "location": {
     "lat": "48:51:23.8",
     "lon": "2:21:07.9"
   },
   "traditional": [
-    {
-      "date_iso": "2025-08-20",
-      "date_formatted": "Mercredi 20/08/2025",
-      "saints": [
-        "St-Bernard de Clairvaux"
-      ],
-      "phase_percentage": 9.3,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:50",
-      "sunset": "20:56",
-      "daylight_duration": "14:06:27 (-3min 18s)",
-      "moon_position_start": 105.22,
-      "moon_position_end": 118.92,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Cancer",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-08-21",
       "date_formatted": "Jeudi 21/08/2025",
@@ -233,35 +207,35 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-08-20",
-      "date_formatted": "Mercredi 20/08/2025",
+      "date_iso": "2025-08-27",
+      "date_formatted": "Mercredi 27/08/2025",
       "saints": [
-        "St-Bernard de Clairvaux"
+        "Ste-Monique"
       ],
-      "phase_percentage": 9.3,
+      "phase_percentage": 16.6,
       "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:50",
-      "sunset": "20:56",
-      "daylight_duration": "14:06:27 (-3min 18s)",
-      "moon_position_start": 105.22,
-      "moon_position_end": 118.92,
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:00",
+      "sunset": "20:43",
+      "daylight_duration": "13:42:50 (-3min 24s)",
+      "moon_position_start": 195.89,
+      "moon_position_end": 207.92,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Gémeaux",
+          "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-08-21",
       "date_formatted": "Jeudi 21/08/2025",
@@ -452,6 +426,32 @@
       "daylight_duration": "13:46:15 (-3min 24s)",
       "moon_position_start": 183.69,
       "moon_position_end": 195.89,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-08-27",
+      "date_formatted": "Mercredi 27/08/2025",
+      "saints": [
+        "Ste-Monique"
+      ],
+      "phase_percentage": 16.6,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:00",
+      "sunset": "20:43",
+      "daylight_duration": "13:42:50 (-3min 24s)",
+      "moon_position_start": 195.89,
+      "moon_position_end": 207.92,
       "nodes_info": [],
       "periods": [
         {
