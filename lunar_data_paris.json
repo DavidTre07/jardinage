@@ -1,45 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-08-21T06:00:17.043381",
+  "generated_at": "2025-08-22T06:00:19.861772",
   "location": {
     "lat": "48:51:23.8",
     "lon": "2:21:07.9"
   },
   "traditional": [
-    {
-      "date_iso": "2025-08-21",
-      "date_formatted": "Jeudi 21/08/2025",
-      "saints": [
-        "St-Pie X"
-      ],
-      "phase_percentage": 3.9,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:51",
-      "sunset": "20:54",
-      "daylight_duration": "14:03:07 (-3min 19s)",
-      "moon_position_start": 118.92,
-      "moon_position_end": 132.39,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "01:54",
-          "constellation": "Cancer",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "01:54",
-          "end_time": "00:00",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-08-22",
       "date_formatted": "Vendredi 22/08/2025",
@@ -233,43 +199,44 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-08-21",
-      "date_formatted": "Jeudi 21/08/2025",
+      "date_iso": "2025-08-28",
+      "date_formatted": "Jeudi 28/08/2025",
       "saints": [
-        "St-Pie X"
+        "St-Augustin",
+        "St-Julien de Brioude"
       ],
-      "phase_percentage": 3.9,
+      "phase_percentage": 24.3,
       "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:51",
-      "sunset": "20:54",
-      "daylight_duration": "14:03:07 (-3min 19s)",
-      "moon_position_start": 118.92,
-      "moon_position_end": 132.39,
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:01",
+      "sunset": "20:40",
+      "daylight_duration": "13:39:25 (-3min 25s)",
+      "moon_position_start": 207.92,
+      "moon_position_end": 219.83,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "01:54",
-          "constellation": "Gémeaux",
+          "end_time": "04:10",
+          "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "01:54",
+          "start_time": "04:10",
           "end_time": "00:00",
-          "constellation": "Cancer",
+          "constellation": "Scorpion",
           "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-08-22",
       "date_formatted": "Vendredi 22/08/2025",
@@ -459,6 +426,41 @@
           "end_time": "00:00",
           "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-08-28",
+      "date_formatted": "Jeudi 28/08/2025",
+      "saints": [
+        "St-Augustin",
+        "St-Julien de Brioude"
+      ],
+      "phase_percentage": 24.3,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:01",
+      "sunset": "20:40",
+      "daylight_duration": "13:39:25 (-3min 25s)",
+      "moon_position_start": 207.92,
+      "moon_position_end": 219.83,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "20:18",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "20:18",
+          "end_time": "00:00",
+          "constellation": "Balance",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
