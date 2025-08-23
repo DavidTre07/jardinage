@@ -1,39 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-08-22T06:00:21.919797",
+  "generated_at": "2025-08-23T06:00:19.216201",
   "location": {
     "lat": "43:36:39.6",
     "lon": "3:52:36.1"
   },
   "traditional": [
-    {
-      "date_iso": "2025-08-22",
-      "date_formatted": "Vendredi 22/08/2025",
-      "saints": [
-        "St-Fabrice",
-        "St-Philibert",
-        "St-Symphorien"
-      ],
-      "phase_percentage": 0.8,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:56",
-      "sunset": "20:37",
-      "daylight_duration": "13:40:11 (-2min 45s)",
-      "moon_position_start": 132.39,
-      "moon_position_end": 145.62,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-08-23",
       "date_formatted": "Samedi 23/08/2025",
@@ -234,45 +206,35 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-08-22",
-      "date_formatted": "Vendredi 22/08/2025",
+      "date_iso": "2025-08-29",
+      "date_formatted": "Vendredi 29/08/2025",
       "saints": [
-        "St-Fabrice",
-        "St-Philibert",
-        "St-Symphorien"
+        "Ste-Sabine"
       ],
-      "phase_percentage": 0.8,
+      "phase_percentage": 32.9,
       "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:56",
-      "sunset": "20:37",
-      "daylight_duration": "13:40:11 (-2min 45s)",
-      "moon_position_start": 132.39,
-      "moon_position_end": 145.62,
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:04",
+      "sunset": "20:25",
+      "daylight_duration": "13:20:32 (-2min 50s)",
+      "moon_position_start": 219.83,
+      "moon_position_end": 231.69,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "10:07",
-          "constellation": "Cancer",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "10:07",
           "end_time": "00:00",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "constellation": "Scorpion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-08-23",
       "date_formatted": "Samedi 23/08/2025",
@@ -458,6 +420,32 @@
         },
         {
           "start_time": "20:18",
+          "end_time": "00:00",
+          "constellation": "Balance",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-08-29",
+      "date_formatted": "Vendredi 29/08/2025",
+      "saints": [
+        "Ste-Sabine"
+      ],
+      "phase_percentage": 32.9,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:04",
+      "sunset": "20:25",
+      "daylight_duration": "13:20:32 (-2min 50s)",
+      "moon_position_start": 219.83,
+      "moon_position_end": 231.69,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
