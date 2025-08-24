@@ -1,45 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-08-23T06:00:18.272315",
+  "generated_at": "2025-08-24T06:00:19.242173",
   "location": {
     "lat": "50:37:45.1",
     "lon": "3:03:26.3"
   },
   "traditional": [
-    {
-      "date_iso": "2025-08-23",
-      "date_formatted": "Samedi 23/08/2025",
-      "saints": [
-        "Ste-Rose de Lima"
-      ],
-      "phase_percentage": 0.0,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:47",
-      "sunset": "20:51",
-      "daylight_duration": "14:03:50 (-3min 35s)",
-      "moon_position_start": 145.62,
-      "moon_position_end": 158.57,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "08:03",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "08:03",
-          "end_time": "00:00",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-08-24",
       "date_formatted": "Dimanche 24/08/2025",
@@ -232,35 +198,43 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-08-23",
-      "date_formatted": "Samedi 23/08/2025",
+      "date_iso": "2025-08-30",
+      "date_formatted": "Samedi 30/08/2025",
       "saints": [
-        "Ste-Rose de Lima"
+        "St-Fiacre"
       ],
-      "phase_percentage": 0.0,
+      "phase_percentage": 42.1,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:47",
-      "sunset": "20:51",
-      "daylight_duration": "14:03:50 (-3min 35s)",
-      "moon_position_start": 145.62,
-      "moon_position_end": 158.57,
+      "sunrise": "06:58",
+      "sunset": "20:36",
+      "daylight_duration": "13:38:20 (-3min 40s)",
+      "moon_position_start": 231.69,
+      "moon_position_end": 243.57,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
+          "end_time": "16:47",
+          "constellation": "Scorpion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "16:47",
           "end_time": "00:00",
-          "constellation": "Lion",
+          "constellation": "Sagittaire",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-08-24",
       "date_formatted": "Dimanche 24/08/2025",
@@ -449,6 +423,40 @@
           "end_time": "00:00",
           "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-08-30",
+      "date_formatted": "Samedi 30/08/2025",
+      "saints": [
+        "St-Fiacre"
+      ],
+      "phase_percentage": 42.1,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:58",
+      "sunset": "20:36",
+      "daylight_duration": "13:38:20 (-3min 40s)",
+      "moon_position_start": 231.69,
+      "moon_position_end": 243.57,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "18:48",
+          "constellation": "Balance",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "18:48",
+          "end_time": "00:00",
+          "constellation": "Scorpion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
