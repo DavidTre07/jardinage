@@ -1,56 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-08-24T06:00:20.939628",
+  "generated_at": "2025-08-25T06:00:20.534709",
   "location": {
     "lat": "43:42:36.7",
     "lon": "7:15:43.2"
   },
   "traditional": [
-    {
-      "date_iso": "2025-08-24",
-      "date_formatted": "Dimanche 24/08/2025",
-      "saints": [
-        "St-Barthélémy",
-        "St-Ouen"
-      ],
-      "phase_percentage": 1.5,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:45",
-      "sunset": "20:20",
-      "daylight_duration": "13:34:58 (-2min 47s)",
-      "moon_position_start": 158.57,
-      "moon_position_end": 171.26,
-      "nodes_info": [
-        "NŒUD LUNAIRE (descendant) le 24/08 à 17h41 - Pas de jardinage de 13h41 à 21h41"
-      ],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "13:41",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "13:41",
-          "end_time": "21:41",
-          "constellation": "Vierge",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "21:41",
-          "end_time": "00:00",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-08-25",
       "date_formatted": "Lundi 25/08/2025",
@@ -232,54 +187,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-08-24",
-      "date_formatted": "Dimanche 24/08/2025",
+      "date_iso": "2025-08-31",
+      "date_formatted": "Dimanche 31/08/2025",
       "saints": [
-        "St-Barthélémy",
-        "St-Ouen"
+        "St-Aristide",
+        "St-Raymond Nonnat"
       ],
-      "phase_percentage": 1.5,
+      "phase_percentage": 51.6,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:45",
-      "sunset": "20:20",
-      "daylight_duration": "13:34:58 (-2min 47s)",
-      "moon_position_start": 158.57,
-      "moon_position_end": 171.26,
-      "nodes_info": [
-        "NŒUD LUNAIRE (descendant) le 24/08 à 17h41 - Pas de jardinage de 13h41 à 21h41"
-      ],
+      "sunrise": "06:53",
+      "sunset": "20:08",
+      "daylight_duration": "13:15:06 (-2min 52s)",
+      "moon_position_start": 243.57,
+      "moon_position_end": 255.56,
+      "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "13:41",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "13:41",
-          "end_time": "21:41",
-          "constellation": "Lion",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "21:41",
           "end_time": "00:00",
-          "constellation": "Lion",
+          "constellation": "Sagittaire",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-08-25",
       "date_formatted": "Lundi 25/08/2025",
@@ -458,6 +395,41 @@
           "constellation": "Scorpion",
           "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-08-31",
+      "date_formatted": "Dimanche 31/08/2025",
+      "saints": [
+        "St-Aristide",
+        "St-Raymond Nonnat"
+      ],
+      "phase_percentage": 51.6,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:53",
+      "sunset": "20:08",
+      "daylight_duration": "13:15:06 (-2min 52s)",
+      "moon_position_start": 243.57,
+      "moon_position_end": 255.56,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "08:53",
+          "constellation": "Scorpion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "08:53",
+          "end_time": "00:00",
+          "constellation": "Serpentaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
           "blocked": false
         }
       ]
