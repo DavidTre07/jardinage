@@ -1,46 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-08-25T06:00:18.292540",
+  "generated_at": "2025-08-26T06:01:20.356497",
   "location": {
     "lat": "43:17:47.4",
     "lon": "5:22:11.3"
   },
   "traditional": [
-    {
-      "date_iso": "2025-08-25",
-      "date_formatted": "Lundi 25/08/2025",
-      "saints": [
-        "St-Joseph de Calsanz",
-        "St-Louis IX de France"
-      ],
-      "phase_percentage": 4.9,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:54",
-      "sunset": "20:25",
-      "daylight_duration": "13:30:53 (-2min 45s)",
-      "moon_position_start": 171.26,
-      "moon_position_end": 183.69,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "16:49",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "16:49",
-          "end_time": "00:00",
-          "constellation": "Balance",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-08-26",
       "date_formatted": "Mardi 26/08/2025",
@@ -214,44 +179,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-08-25",
-      "date_formatted": "Lundi 25/08/2025",
+      "date_iso": "2025-09-01",
+      "date_formatted": "Lundi 01/09/2025",
       "saints": [
-        "St-Joseph de Calsanz",
-        "St-Louis IX de France"
+        "St-Gilles",
+        "Ste-Vérène"
       ],
-      "phase_percentage": 4.9,
+      "phase_percentage": 61.1,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:54",
-      "sunset": "20:25",
-      "daylight_duration": "13:30:53 (-2min 45s)",
-      "moon_position_start": 171.26,
-      "moon_position_end": 183.69,
+      "sunrise": "07:02",
+      "sunset": "20:13",
+      "daylight_duration": "13:11:14 (-2min 50s)",
+      "moon_position_start": 255.56,
+      "moon_position_end": 267.72,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "05:15",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "05:15",
           "end_time": "00:00",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-08-26",
       "date_formatted": "Mardi 26/08/2025",
@@ -430,6 +387,41 @@
           "constellation": "Serpentaire",
           "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
           "seve_info": "",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-09-01",
+      "date_formatted": "Lundi 01/09/2025",
+      "saints": [
+        "St-Gilles",
+        "Ste-Vérène"
+      ],
+      "phase_percentage": 61.1,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:02",
+      "sunset": "20:13",
+      "daylight_duration": "13:11:14 (-2min 50s)",
+      "moon_position_start": 255.56,
+      "moon_position_end": 267.72,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "20:37",
+          "constellation": "Serpentaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
+          "blocked": false
+        },
+        {
+          "start_time": "20:37",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
