@@ -1,37 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-08-26T06:01:21.817109",
+  "generated_at": "2025-08-27T06:00:11.993310",
   "location": {
     "lat": "43:36:39.6",
     "lon": "3:52:36.1"
   },
   "traditional": [
-    {
-      "date_iso": "2025-08-26",
-      "date_formatted": "Mardi 26/08/2025",
-      "saints": [
-        "St-Zéphirin"
-      ],
-      "phase_percentage": 10.0,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:01",
-      "sunset": "20:30",
-      "daylight_duration": "13:29:01 (-2min 48s)",
-      "moon_position_start": 183.69,
-      "moon_position_end": 195.89,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Balance",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-08-27",
       "date_formatted": "Mercredi 27/08/2025",
@@ -206,35 +180,45 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-08-26",
-      "date_formatted": "Mardi 26/08/2025",
+      "date_iso": "2025-09-02",
+      "date_formatted": "Mardi 02/09/2025",
       "saints": [
-        "St-Zéphirin"
+        "St-Agricole",
+        "St-Concorde",
+        "St-Elpide"
       ],
-      "phase_percentage": 10.0,
-      "cycle_trajectoire": "Lune Descendante",
+      "phase_percentage": 70.4,
+      "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:01",
-      "sunset": "20:30",
-      "daylight_duration": "13:29:01 (-2min 48s)",
-      "moon_position_start": 183.69,
-      "moon_position_end": 195.89,
+      "sunrise": "07:09",
+      "sunset": "20:18",
+      "daylight_duration": "13:09:05 (-2min 52s)",
+      "moon_position_start": 267.72,
+      "moon_position_end": 280.14,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
+          "end_time": "04:26",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "04:26",
           "end_time": "00:00",
-          "constellation": "Vierge",
+          "constellation": "Capricorne",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-08-27",
       "date_formatted": "Mercredi 27/08/2025",
@@ -422,6 +406,34 @@
           "constellation": "Sagittaire",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-09-02",
+      "date_formatted": "Mardi 02/09/2025",
+      "saints": [
+        "St-Agricole",
+        "St-Concorde",
+        "St-Elpide"
+      ],
+      "phase_percentage": 70.4,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:09",
+      "sunset": "20:18",
+      "daylight_duration": "13:09:05 (-2min 52s)",
+      "moon_position_start": 267.72,
+      "moon_position_end": 280.14,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
