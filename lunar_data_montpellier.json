@@ -1,37 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-08-27T23:58:05.493193",
+  "generated_at": "2025-08-28T06:00:23.502918",
   "location": {
     "lat": "43:36:39.6",
     "lon": "3:52:36.1"
   },
   "traditional": [
-    {
-      "date_iso": "2025-08-27",
-      "date_formatted": "Mercredi 27/08/2025",
-      "saints": [
-        "Ste-Monique"
-      ],
-      "phase_percentage": 16.6,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:02",
-      "sunset": "20:28",
-      "daylight_duration": "13:26:12 (-2min 49s)",
-      "moon_position_start": 195.89,
-      "moon_position_end": 207.92,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Balance",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-08-28",
       "date_formatted": "Jeudi 28/08/2025",
@@ -216,35 +190,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-08-27",
-      "date_formatted": "Mercredi 27/08/2025",
+      "date_iso": "2025-09-03",
+      "date_formatted": "Mercredi 03/09/2025",
       "saints": [
-        "Ste-Monique"
+        "St-Grégoire 1er, \ndit le Grand",
+        "St-Siméon stylite le Jeune"
       ],
-      "phase_percentage": 16.6,
-      "cycle_trajectoire": "Lune Descendante",
+      "phase_percentage": 79.1,
+      "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:02",
-      "sunset": "20:28",
-      "daylight_duration": "13:26:12 (-2min 49s)",
-      "moon_position_start": 195.89,
-      "moon_position_end": 207.92,
+      "sunrise": "07:10",
+      "sunset": "20:16",
+      "daylight_duration": "13:06:12 (-2min 53s)",
+      "moon_position_start": 280.14,
+      "moon_position_end": 292.86,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Vierge",
+          "constellation": "Capricorne",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-08-28",
       "date_formatted": "Jeudi 28/08/2025",
@@ -426,6 +401,33 @@
       "daylight_duration": "13:09:05 (-2min 52s)",
       "moon_position_start": 267.72,
       "moon_position_end": 280.14,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-09-03",
+      "date_formatted": "Mercredi 03/09/2025",
+      "saints": [
+        "St-Grégoire 1er, \ndit le Grand",
+        "St-Siméon stylite le Jeune"
+      ],
+      "phase_percentage": 79.1,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:10",
+      "sunset": "20:16",
+      "daylight_duration": "13:06:12 (-2min 53s)",
+      "moon_position_start": 280.14,
+      "moon_position_end": 292.86,
       "nodes_info": [],
       "periods": [
         {
