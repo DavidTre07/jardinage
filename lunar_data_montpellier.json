@@ -1,46 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-08-28T06:00:23.502918",
+  "generated_at": "2025-08-29T06:00:20.024462",
   "location": {
     "lat": "43:36:39.6",
     "lon": "3:52:36.1"
   },
   "traditional": [
-    {
-      "date_iso": "2025-08-28",
-      "date_formatted": "Jeudi 28/08/2025",
-      "saints": [
-        "St-Augustin",
-        "St-Julien de Brioude"
-      ],
-      "phase_percentage": 24.3,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:03",
-      "sunset": "20:26",
-      "daylight_duration": "13:23:22 (-2min 49s)",
-      "moon_position_start": 207.92,
-      "moon_position_end": 219.83,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "04:10",
-          "constellation": "Balance",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "04:10",
-          "end_time": "00:00",
-          "constellation": "Scorpion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-08-29",
       "date_formatted": "Vendredi 29/08/2025",
@@ -217,44 +182,46 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-08-28",
-      "date_formatted": "Jeudi 28/08/2025",
+      "date_iso": "2025-09-04",
+      "date_formatted": "Jeudi 04/09/2025",
       "saints": [
-        "St-Augustin",
-        "St-Julien de Brioude"
+        "St-Boniface 1er",
+        "St-Calétric",
+        "Ste-Rosalie",
+        "St-Vitalique"
       ],
-      "phase_percentage": 24.3,
-      "cycle_trajectoire": "Lune Descendante",
+      "phase_percentage": 86.9,
+      "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:03",
-      "sunset": "20:26",
-      "daylight_duration": "13:23:22 (-2min 49s)",
-      "moon_position_start": 207.92,
-      "moon_position_end": 219.83,
+      "sunrise": "07:11",
+      "sunset": "20:14",
+      "daylight_duration": "13:03:18 (-2min 53s)",
+      "moon_position_start": 292.86,
+      "moon_position_end": 305.93,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "20:18",
-          "constellation": "Vierge",
+          "end_time": "13:11",
+          "constellation": "Capricorne",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         },
         {
-          "start_time": "20:18",
+          "start_time": "13:11",
           "end_time": "00:00",
-          "constellation": "Balance",
+          "constellation": "Verseau",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-08-29",
       "date_formatted": "Vendredi 29/08/2025",
@@ -435,6 +402,43 @@
           "end_time": "00:00",
           "constellation": "Sagittaire",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-09-04",
+      "date_formatted": "Jeudi 04/09/2025",
+      "saints": [
+        "St-Boniface 1er",
+        "St-Calétric",
+        "Ste-Rosalie",
+        "St-Vitalique"
+      ],
+      "phase_percentage": 86.9,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:11",
+      "sunset": "20:14",
+      "daylight_duration": "13:03:18 (-2min 53s)",
+      "moon_position_start": 292.86,
+      "moon_position_end": 305.93,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "13:11",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "13:11",
+          "end_time": "00:00",
+          "constellation": "Capricorne",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
