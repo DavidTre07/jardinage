@@ -1,37 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-08-29T06:00:19.334987",
+  "generated_at": "2025-08-30T06:00:34.235688",
   "location": {
     "lat": "50:37:45.1",
     "lon": "3:03:26.3"
   },
   "traditional": [
-    {
-      "date_iso": "2025-08-29",
-      "date_formatted": "Vendredi 29/08/2025",
-      "saints": [
-        "Ste-Sabine"
-      ],
-      "phase_percentage": 32.9,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:57",
-      "sunset": "20:39",
-      "daylight_duration": "13:42:01 (-3min 40s)",
-      "moon_position_start": 219.83,
-      "moon_position_end": 231.69,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Scorpion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-08-30",
       "date_formatted": "Samedi 30/08/2025",
@@ -219,35 +193,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-08-29",
-      "date_formatted": "Vendredi 29/08/2025",
+      "date_iso": "2025-09-05",
+      "date_formatted": "Vendredi 05/09/2025",
       "saints": [
-        "Ste-Sabine"
+        "St-Bertin",
+        "St-Laurent Justinien"
       ],
-      "phase_percentage": 32.9,
-      "cycle_trajectoire": "Lune Descendante",
+      "phase_percentage": 93.2,
+      "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:57",
-      "sunset": "20:39",
-      "daylight_duration": "13:42:01 (-3min 40s)",
-      "moon_position_start": 219.83,
-      "moon_position_end": 231.69,
+      "sunrise": "07:07",
+      "sunset": "20:23",
+      "daylight_duration": "13:16:05 (-3min 43s)",
+      "moon_position_start": 305.93,
+      "moon_position_end": 319.38,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Balance",
+          "constellation": "Verseau",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-08-30",
       "date_formatted": "Samedi 30/08/2025",
@@ -436,6 +411,33 @@
         },
         {
           "start_time": "13:11",
+          "end_time": "00:00",
+          "constellation": "Capricorne",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-09-05",
+      "date_formatted": "Vendredi 05/09/2025",
+      "saints": [
+        "St-Bertin",
+        "St-Laurent Justinien"
+      ],
+      "phase_percentage": 93.2,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:07",
+      "sunset": "20:23",
+      "daylight_duration": "13:16:05 (-3min 43s)",
+      "moon_position_start": 305.93,
+      "moon_position_end": 319.38,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Capricorne",
           "recommendation": "Actions favorables aux légumes racines.",
