@@ -1,47 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-09-02T06:00:35.309735",
+  "generated_at": "2025-09-03T06:01:02.887427",
   "location": {
     "lat": "48:51:23.8",
     "lon": "2:21:07.9"
   },
   "traditional": [
-    {
-      "date_iso": "2025-09-02",
-      "date_formatted": "Mardi 02/09/2025",
-      "saints": [
-        "St-Agricole",
-        "St-Concorde",
-        "St-Elpide"
-      ],
-      "phase_percentage": 70.4,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:08",
-      "sunset": "20:30",
-      "daylight_duration": "13:22:09 (-3min 28s)",
-      "moon_position_start": 267.72,
-      "moon_position_end": 280.14,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "04:26",
-          "constellation": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "04:26",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-09-03",
       "date_formatted": "Mercredi 03/09/2025",
@@ -249,37 +213,38 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-09-02",
-      "date_formatted": "Mardi 02/09/2025",
+      "date_iso": "2025-09-09",
+      "date_formatted": "Mardi 09/09/2025",
       "saints": [
-        "St-Agricole",
-        "St-Concorde",
-        "St-Elpide"
+        "St-Gorgon",
+        "St-Omer",
+        "St-Pierre Claver",
+        "St-Tiburce"
       ],
-      "phase_percentage": 70.4,
+      "phase_percentage": 96.3,
       "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:08",
-      "sunset": "20:30",
-      "daylight_duration": "13:22:09 (-3min 28s)",
-      "moon_position_start": 267.72,
-      "moon_position_end": 280.14,
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:18",
+      "sunset": "20:16",
+      "daylight_duration": "12:57:39 (-3min 31s)",
+      "moon_position_start": 1.68,
+      "moon_position_end": 16.22,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Sagittaire",
+          "constellation": "Bélier",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-09-03",
       "date_formatted": "Mercredi 03/09/2025",
@@ -480,6 +445,35 @@
         },
         {
           "start_time": "21:12",
+          "end_time": "00:00",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-09-09",
+      "date_formatted": "Mardi 09/09/2025",
+      "saints": [
+        "St-Gorgon",
+        "St-Omer",
+        "St-Pierre Claver",
+        "St-Tiburce"
+      ],
+      "phase_percentage": 96.3,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:18",
+      "sunset": "20:16",
+      "daylight_duration": "12:57:39 (-3min 31s)",
+      "moon_position_start": 1.68,
+      "moon_position_end": 16.22,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Poissons",
           "recommendation": "Actions favorables aux légumes feuilles.",
