@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-09-03T06:01:04.143158",
+  "generated_at": "2025-09-04T06:00:28.960242",
   "location": {
     "lat": "47:13:06.2",
     "lon": "-1:33:13.0"
   },
   "traditional": [
-    {
-      "date_iso": "2025-09-03",
-      "date_formatted": "Mercredi 03/09/2025",
-      "saints": [
-        "St-Grégoire 1er, \ndit le Grand",
-        "St-Siméon stylite le Jeune"
-      ],
-      "phase_percentage": 79.1,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:27",
-      "sunset": "20:42",
-      "daylight_duration": "13:14:27 (-3min 16s)",
-      "moon_position_start": 280.14,
-      "moon_position_end": 292.86,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-09-04",
       "date_formatted": "Jeudi 04/09/2025",
@@ -238,6 +211,42 @@
           "end_time": "00:00",
           "constellation": "Bélier",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-09-10",
+      "date_formatted": "Mercredi 10/09/2025",
+      "saints": [
+        "St-Aubert",
+        "St-Nicolas de Tolentino",
+        "Ste  Pulchérie Auguste"
+      ],
+      "phase_percentage": 90.5,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:37",
+      "sunset": "20:28",
+      "daylight_duration": "12:51:18 (-3min 19s)",
+      "moon_position_start": 16.22,
+      "moon_position_end": 30.82,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "22:38",
+          "constellation": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "22:38",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
@@ -246,33 +255,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2025-09-03",
-      "date_formatted": "Mercredi 03/09/2025",
-      "saints": [
-        "St-Grégoire 1er, \ndit le Grand",
-        "St-Siméon stylite le Jeune"
-      ],
-      "phase_percentage": 79.1,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:27",
-      "sunset": "20:42",
-      "daylight_duration": "13:14:27 (-3min 16s)",
-      "moon_position_start": 280.14,
-      "moon_position_end": 292.86,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2025-09-04",
       "date_formatted": "Jeudi 04/09/2025",
       "saints": [
@@ -477,6 +459,42 @@
           "end_time": "00:00",
           "constellation": "Poissons",
           "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-09-10",
+      "date_formatted": "Mercredi 10/09/2025",
+      "saints": [
+        "St-Aubert",
+        "St-Nicolas de Tolentino",
+        "Ste  Pulchérie Auguste"
+      ],
+      "phase_percentage": 90.5,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:37",
+      "sunset": "20:28",
+      "daylight_duration": "12:51:18 (-3min 19s)",
+      "moon_position_start": 16.22,
+      "moon_position_end": 30.82,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "17:43",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "17:43",
+          "end_time": "00:00",
+          "constellation": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
