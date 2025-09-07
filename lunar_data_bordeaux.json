@@ -1,46 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-09-06T06:00:32.930856",
+  "generated_at": "2025-09-07T06:00:30.756361",
   "location": {
     "lat": "44:50:16.1",
     "lon": "-0:34:45.1"
   },
   "traditional": [
-    {
-      "date_iso": "2025-09-06",
-      "date_formatted": "Samedi 06/09/2025",
-      "saints": [
-        "St-Bertrand de Garrigues",
-        "St-Eustache"
-      ],
-      "phase_percentage": 97.7,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:30",
-      "sunset": "20:30",
-      "daylight_duration": "12:59:46 (-3min 2s)",
-      "moon_position_start": 319.38,
-      "moon_position_end": 333.18,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "18:31",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "18:31",
-          "end_time": "00:00",
-          "constellation": "Poissons",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-09-07",
       "date_formatted": "Dimanche 07/09/2025",
@@ -243,44 +208,47 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-09-06",
-      "date_formatted": "Samedi 06/09/2025",
+      "date_iso": "2025-09-13",
+      "date_formatted": "Samedi 13/09/2025",
       "saints": [
-        "St-Bertrand de Garrigues",
-        "St-Eustache"
+        "St-Aimé",
+        "St-Israà«l",
+        "St-Jean  Chrysostome",
+        "St-Macrobe",
+        "St-Nectaire"
       ],
-      "phase_percentage": 97.7,
+      "phase_percentage": 61.7,
       "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:30",
-      "sunset": "20:30",
-      "daylight_duration": "12:59:46 (-3min 2s)",
-      "moon_position_start": 319.38,
-      "moon_position_end": 333.18,
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:38",
+      "sunset": "20:16",
+      "daylight_duration": "12:38:23 (-3min 4s)",
+      "moon_position_start": 59.86,
+      "moon_position_end": 74.13,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "18:31",
-          "constellation": "Capricorne",
+          "end_time": "00:14",
+          "constellation": "Taureau",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         },
         {
-          "start_time": "18:31",
+          "start_time": "00:14",
           "end_time": "00:00",
-          "constellation": "Verseau",
+          "constellation": "Gémeaux",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-09-07",
       "date_formatted": "Dimanche 07/09/2025",
@@ -484,6 +452,36 @@
         },
         {
           "start_time": "14:14",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-09-13",
+      "date_formatted": "Samedi 13/09/2025",
+      "saints": [
+        "St-Aimé",
+        "St-Israà«l",
+        "St-Jean  Chrysostome",
+        "St-Macrobe",
+        "St-Nectaire"
+      ],
+      "phase_percentage": 61.7,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:38",
+      "sunset": "20:16",
+      "daylight_duration": "12:38:23 (-3min 4s)",
+      "moon_position_start": 59.86,
+      "moon_position_end": 74.13,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Taureau",
           "recommendation": "Actions favorables aux légumes racines.",
