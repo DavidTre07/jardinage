@@ -1,56 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-09-08T06:00:30.943963",
+  "generated_at": "2025-09-09T06:00:28.642735",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
   },
   "traditional": [
-    {
-      "date_iso": "2025-09-08",
-      "date_formatted": "Lundi 08/09/2025",
-      "saints": [
-        "St-Adrien",
-        "Naissance de Marie"
-      ],
-      "phase_percentage": 99.4,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:10",
-      "sunset": "20:05",
-      "daylight_duration": "12:55:21 (-3min 8s)",
-      "moon_position_start": 347.3,
-      "moon_position_end": 1.68,
-      "nodes_info": [
-        "NŒUD LUNAIRE (ascendant) le 08/09 à 01h07 - Pas de jardinage de 21h07 à 05h07"
-      ],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "05:07",
-          "constellation": "Poissons",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "05:07",
-          "end_time": "21:12",
-          "constellation": "Poissons",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "21:12",
-          "end_time": "00:00",
-          "constellation": "Bélier",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-09-09",
       "date_formatted": "Mardi 09/09/2025",
@@ -238,54 +193,44 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-09-08",
-      "date_formatted": "Lundi 08/09/2025",
+      "date_iso": "2025-09-15",
+      "date_formatted": "Lundi 15/09/2025",
       "saints": [
-        "St-Adrien",
-        "Naissance de Marie"
+        "St-Alfred le Grand",
+        "St-Nicomède"
       ],
-      "phase_percentage": 99.4,
-      "cycle_trajectoire": "Lune Montante",
+      "phase_percentage": 39.2,
+      "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:10",
-      "sunset": "20:05",
-      "daylight_duration": "12:55:21 (-3min 8s)",
-      "moon_position_start": 347.3,
-      "moon_position_end": 1.68,
-      "nodes_info": [
-        "NŒUD LUNAIRE (ascendant) le 08/09 à 01h07 - Pas de jardinage de 21h07 à 05h07"
-      ],
+      "sunrise": "07:18",
+      "sunset": "19:51",
+      "daylight_duration": "12:33:11 (-3min 10s)",
+      "moon_position_start": 88.19,
+      "moon_position_end": 102.0,
+      "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "05:07",
-          "constellation": "Verseau",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "05:07",
-          "end_time": "21:12",
-          "constellation": "Verseau",
+          "end_time": "03:07",
+          "constellation": "Gémeaux",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "21:12",
+          "start_time": "03:07",
           "end_time": "00:00",
-          "constellation": "Poissons",
+          "constellation": "Cancer",
           "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-09-09",
       "date_formatted": "Mardi 09/09/2025",
@@ -470,6 +415,41 @@
           "constellation": "Taureau",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-09-15",
+      "date_formatted": "Lundi 15/09/2025",
+      "saints": [
+        "St-Alfred le Grand",
+        "St-Nicomède"
+      ],
+      "phase_percentage": 39.2,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:18",
+      "sunset": "19:51",
+      "daylight_duration": "12:33:11 (-3min 10s)",
+      "moon_position_start": 88.19,
+      "moon_position_end": 102.0,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "03:07",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "03:07",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
