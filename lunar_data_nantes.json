@@ -1,40 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-09-09T06:00:29.724301",
+  "generated_at": "2025-09-10T06:00:28.865087",
   "location": {
     "lat": "47:13:06.2",
     "lon": "-1:33:13.0"
   },
   "traditional": [
-    {
-      "date_iso": "2025-09-09",
-      "date_formatted": "Mardi 09/09/2025",
-      "saints": [
-        "St-Gorgon",
-        "St-Omer",
-        "St-Pierre Claver",
-        "St-Tiburce"
-      ],
-      "phase_percentage": 96.3,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:35",
-      "sunset": "20:30",
-      "daylight_duration": "12:54:38 (-3min 19s)",
-      "moon_position_start": 1.68,
-      "moon_position_end": 16.22,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Bélier",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-09-10",
       "date_formatted": "Mercredi 10/09/2025",
@@ -228,38 +199,38 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-09-09",
-      "date_formatted": "Mardi 09/09/2025",
+      "date_iso": "2025-09-16",
+      "date_formatted": "Mardi 16/09/2025",
       "saints": [
-        "St-Gorgon",
-        "St-Omer",
-        "St-Pierre Claver",
-        "St-Tiburce"
+        "St-Corneille",
+        "St-Cyprien",
+        "Ste-Edith de Wilton",
+        "St-Victor III"
       ],
-      "phase_percentage": 96.3,
-      "cycle_trajectoire": "Lune Montante",
+      "phase_percentage": 28.8,
+      "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:35",
-      "sunset": "20:30",
-      "daylight_duration": "12:54:38 (-3min 19s)",
-      "moon_position_start": 1.68,
-      "moon_position_end": 16.22,
+      "sunrise": "07:44",
+      "sunset": "20:16",
+      "daylight_duration": "12:31:16 (-3min 21s)",
+      "moon_position_start": 102.0,
+      "moon_position_end": 115.55,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Poissons",
+          "constellation": "Cancer",
           "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-09-10",
       "date_formatted": "Mercredi 10/09/2025",
@@ -446,6 +417,35 @@
         },
         {
           "start_time": "03:07",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-09-16",
+      "date_formatted": "Mardi 16/09/2025",
+      "saints": [
+        "St-Corneille",
+        "St-Cyprien",
+        "Ste-Edith de Wilton",
+        "St-Victor III"
+      ],
+      "phase_percentage": 28.8,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:44",
+      "sunset": "20:16",
+      "daylight_duration": "12:31:16 (-3min 21s)",
+      "moon_position_start": 102.0,
+      "moon_position_end": 115.55,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Gémeaux",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
