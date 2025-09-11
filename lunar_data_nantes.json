@@ -1,47 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-09-10T06:00:28.865087",
+  "generated_at": "2025-09-11T06:00:47.126295",
   "location": {
     "lat": "47:13:06.2",
     "lon": "-1:33:13.0"
   },
   "traditional": [
-    {
-      "date_iso": "2025-09-10",
-      "date_formatted": "Mercredi 10/09/2025",
-      "saints": [
-        "St-Aubert",
-        "St-Nicolas de Tolentino",
-        "Ste  Pulchérie Auguste"
-      ],
-      "phase_percentage": 90.5,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:37",
-      "sunset": "20:28",
-      "daylight_duration": "12:51:18 (-3min 19s)",
-      "moon_position_start": 16.22,
-      "moon_position_end": 30.82,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "22:38",
-          "constellation": "Bélier",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "22:38",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-09-11",
       "date_formatted": "Jeudi 11/09/2025",
@@ -228,45 +192,44 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-09-10",
-      "date_formatted": "Mercredi 10/09/2025",
+      "date_iso": "2025-09-17",
+      "date_formatted": "Mercredi 17/09/2025",
       "saints": [
-        "St-Aubert",
-        "St-Nicolas de Tolentino",
-        "Ste  Pulchérie Auguste"
+        "Ste-Hildegarde",
+        "St-Lambert"
       ],
-      "phase_percentage": 90.5,
-      "cycle_trajectoire": "Lune Montante",
+      "phase_percentage": 19.5,
+      "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:37",
-      "sunset": "20:28",
-      "daylight_duration": "12:51:18 (-3min 19s)",
-      "moon_position_start": 16.22,
-      "moon_position_end": 30.82,
+      "sunrise": "07:46",
+      "sunset": "20:14",
+      "daylight_duration": "12:27:54 (-3min 21s)",
+      "moon_position_start": 115.55,
+      "moon_position_end": 128.85,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "17:43",
-          "constellation": "Poissons",
+          "end_time": "07:58",
+          "constellation": "Cancer",
           "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "17:43",
+          "start_time": "07:58",
           "end_time": "00:00",
-          "constellation": "Bélier",
+          "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-09-11",
       "date_formatted": "Jeudi 11/09/2025",
@@ -449,6 +412,41 @@
           "end_time": "00:00",
           "constellation": "Gémeaux",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-09-17",
+      "date_formatted": "Mercredi 17/09/2025",
+      "saints": [
+        "Ste-Hildegarde",
+        "St-Lambert"
+      ],
+      "phase_percentage": 19.5,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:46",
+      "sunset": "20:14",
+      "daylight_duration": "12:27:54 (-3min 21s)",
+      "moon_position_start": 115.55,
+      "moon_position_end": 128.85,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "07:58",
+          "constellation": "Gémeaux",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "07:58",
+          "end_time": "00:00",
+          "constellation": "Cancer",
+          "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
