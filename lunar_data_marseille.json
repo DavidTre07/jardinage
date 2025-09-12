@@ -1,39 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-09-11T22:58:38.079390",
+  "generated_at": "2025-09-12T06:00:25.728049",
   "location": {
     "lat": "43:17:47.4",
     "lon": "5:22:11.3"
   },
   "traditional": [
-    {
-      "date_iso": "2025-09-11",
-      "date_formatted": "Jeudi 11/09/2025",
-      "saints": [
-        "St-Adelphe",
-        "St-Patient",
-        "St-Protus"
-      ],
-      "phase_percentage": 82.4,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:13",
-      "sunset": "19:55",
-      "daylight_duration": "12:42:29 (-2min 53s)",
-      "moon_position_start": 30.82,
-      "moon_position_end": 45.4,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-09-12",
       "date_formatted": "Vendredi 12/09/2025",
@@ -227,37 +199,37 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-09-11",
-      "date_formatted": "Jeudi 11/09/2025",
+      "date_iso": "2025-09-18",
+      "date_formatted": "Jeudi 18/09/2025",
       "saints": [
-        "St-Adelphe",
-        "St-Patient",
-        "St-Protus"
+        "St-Hygbald",
+        "St-Joseph de Cupertino",
+        "Ste-Richarde"
       ],
-      "phase_percentage": 82.4,
-      "cycle_trajectoire": "Lune Montante",
+      "phase_percentage": 11.8,
+      "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:13",
-      "sunset": "19:55",
-      "daylight_duration": "12:42:29 (-2min 53s)",
-      "moon_position_start": 30.82,
-      "moon_position_end": 45.4,
+      "sunrise": "07:21",
+      "sunset": "19:43",
+      "daylight_duration": "12:22:05 (-2min 55s)",
+      "moon_position_start": 128.85,
+      "moon_position_end": 141.92,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Bélier",
+          "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-09-12",
       "date_formatted": "Vendredi 12/09/2025",
@@ -447,6 +419,42 @@
           "end_time": "00:00",
           "constellation": "Cancer",
           "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-09-18",
+      "date_formatted": "Jeudi 18/09/2025",
+      "saints": [
+        "St-Hygbald",
+        "St-Joseph de Cupertino",
+        "Ste-Richarde"
+      ],
+      "phase_percentage": 11.8,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:21",
+      "sunset": "19:43",
+      "daylight_duration": "12:22:05 (-2min 55s)",
+      "moon_position_start": 128.85,
+      "moon_position_end": 141.92,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "16:45",
+          "constellation": "Cancer",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "16:45",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
