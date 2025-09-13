@@ -1,39 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-09-12T06:00:25.728049",
+  "generated_at": "2025-09-13T06:00:26.393912",
   "location": {
     "lat": "43:17:47.4",
     "lon": "5:22:11.3"
   },
   "traditional": [
-    {
-      "date_iso": "2025-09-12",
-      "date_formatted": "Vendredi 12/09/2025",
-      "saints": [
-        "St-Autonome",
-        "St-Curonote",
-        "St-Théodule"
-      ],
-      "phase_percentage": 72.6,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:14",
-      "sunset": "19:54",
-      "daylight_duration": "12:39:35 (-2min 54s)",
-      "moon_position_start": 45.4,
-      "moon_position_end": 59.86,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-09-13",
       "date_formatted": "Samedi 13/09/2025",
@@ -227,45 +199,46 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-09-12",
-      "date_formatted": "Vendredi 12/09/2025",
+      "date_iso": "2025-09-19",
+      "date_formatted": "Vendredi 19/09/2025",
       "saints": [
-        "St-Autonome",
-        "St-Curonote",
-        "St-Théodule"
+        "Ste-Constancia",
+        "Ste-Emilie de Rodat",
+        "St-Janvier",
+        "St-Théodore de Tarse"
       ],
-      "phase_percentage": 72.6,
-      "cycle_trajectoire": "Lune Montante",
+      "phase_percentage": 5.9,
+      "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:14",
-      "sunset": "19:54",
-      "daylight_duration": "12:39:35 (-2min 54s)",
-      "moon_position_start": 45.4,
-      "moon_position_end": 59.86,
+      "sunrise": "07:22",
+      "sunset": "19:41",
+      "daylight_duration": "12:19:09 (-2min 55s)",
+      "moon_position_start": 141.92,
+      "moon_position_end": 154.76,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "14:14",
-          "constellation": "Bélier",
+          "end_time": "15:03",
+          "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "14:14",
+          "start_time": "15:03",
           "end_time": "00:00",
-          "constellation": "Taureau",
+          "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-09-13",
       "date_formatted": "Samedi 13/09/2025",
@@ -452,6 +425,35 @@
         },
         {
           "start_time": "16:45",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-09-19",
+      "date_formatted": "Vendredi 19/09/2025",
+      "saints": [
+        "Ste-Constancia",
+        "Ste-Emilie de Rodat",
+        "St-Janvier",
+        "St-Théodore de Tarse"
+      ],
+      "phase_percentage": 5.9,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:22",
+      "sunset": "19:41",
+      "daylight_duration": "12:19:09 (-2min 55s)",
+      "moon_position_start": 141.92,
+      "moon_position_end": 154.76,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
