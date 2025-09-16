@@ -1,46 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-09-15T06:01:36.622508",
+  "generated_at": "2025-09-16T06:00:55.953202",
   "location": {
     "lat": "43:42:36.7",
     "lon": "7:15:43.2"
   },
   "traditional": [
-    {
-      "date_iso": "2025-09-15",
-      "date_formatted": "Lundi 15/09/2025",
-      "saints": [
-        "St-Alfred le Grand",
-        "St-Nicomède"
-      ],
-      "phase_percentage": 39.2,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:10",
-      "sunset": "19:41",
-      "daylight_duration": "12:31:14 (-2min 57s)",
-      "moon_position_start": 88.19,
-      "moon_position_end": 102.0,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "03:07",
-          "constellation": "Gémeaux",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "03:07",
-          "end_time": "00:00",
-          "constellation": "Cancer",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-09-16",
       "date_formatted": "Mardi 16/09/2025",
@@ -245,44 +210,44 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-09-15",
-      "date_formatted": "Lundi 15/09/2025",
+      "date_iso": "2025-09-22",
+      "date_formatted": "Lundi 22/09/2025",
       "saints": [
-        "St-Alfred le Grand",
-        "St-Nicomède"
+        "Ste-Salaberge",
+        "St-Thomas de Villeneuve"
       ],
-      "phase_percentage": 39.2,
+      "phase_percentage": 0.4,
       "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:10",
-      "sunset": "19:41",
-      "daylight_duration": "12:31:14 (-2min 57s)",
-      "moon_position_start": 88.19,
-      "moon_position_end": 102.0,
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:17",
+      "sunset": "19:28",
+      "daylight_duration": "12:10:27 (-2min 58s)",
+      "moon_position_start": 179.8,
+      "moon_position_end": 192.05,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "03:07",
-          "constellation": "Taureau",
+          "end_time": "00:22",
+          "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "03:07",
+          "start_time": "00:22",
           "end_time": "00:00",
-          "constellation": "Gémeaux",
+          "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-09-16",
       "date_formatted": "Mardi 16/09/2025",
@@ -488,6 +453,33 @@
         },
         {
           "start_time": "12:44",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-09-22",
+      "date_formatted": "Lundi 22/09/2025",
+      "saints": [
+        "Ste-Salaberge",
+        "St-Thomas de Villeneuve"
+      ],
+      "phase_percentage": 0.4,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:17",
+      "sunset": "19:28",
+      "daylight_duration": "12:10:27 (-2min 58s)",
+      "moon_position_start": 179.8,
+      "moon_position_end": 192.05,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
