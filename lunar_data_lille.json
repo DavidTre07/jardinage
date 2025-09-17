@@ -1,40 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-09-16T06:00:54.661859",
+  "generated_at": "2025-09-17T06:00:41.164884",
   "location": {
     "lat": "50:37:45.1",
     "lon": "3:03:26.3"
   },
   "traditional": [
-    {
-      "date_iso": "2025-09-16",
-      "date_formatted": "Mardi 16/09/2025",
-      "saints": [
-        "St-Corneille",
-        "St-Cyprien",
-        "Ste-Edith de Wilton",
-        "St-Victor III"
-      ],
-      "phase_percentage": 28.8,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:24",
-      "sunset": "19:59",
-      "daylight_duration": "12:34:44 (-3min 46s)",
-      "moon_position_start": 102.0,
-      "moon_position_end": 115.55,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Cancer",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-09-17",
       "date_formatted": "Mercredi 17/09/2025",
@@ -245,38 +216,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-09-16",
-      "date_formatted": "Mardi 16/09/2025",
+      "date_iso": "2025-09-23",
+      "date_formatted": "Mardi 23/09/2025",
       "saints": [
-        "St-Corneille",
-        "St-Cyprien",
-        "Ste-Edith de Wilton",
-        "St-Victor III"
+        "St-Constance",
+        "St-Lin"
       ],
-      "phase_percentage": 28.8,
+      "phase_percentage": 2.5,
       "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:24",
-      "sunset": "19:59",
-      "daylight_duration": "12:34:44 (-3min 46s)",
-      "moon_position_start": 102.0,
-      "moon_position_end": 115.55,
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:35",
+      "sunset": "19:43",
+      "daylight_duration": "12:08:13 (-3min 47s)",
+      "moon_position_start": 192.05,
+      "moon_position_end": 204.14,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Gémeaux",
+          "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-09-17",
       "date_formatted": "Mercredi 17/09/2025",
@@ -476,6 +445,33 @@
       "daylight_duration": "12:12:00 (-3min 47s)",
       "moon_position_start": 179.8,
       "moon_position_end": 192.05,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-09-23",
+      "date_formatted": "Mardi 23/09/2025",
+      "saints": [
+        "St-Constance",
+        "St-Lin"
+      ],
+      "phase_percentage": 2.5,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:35",
+      "sunset": "19:43",
+      "daylight_duration": "12:08:13 (-3min 47s)",
+      "moon_position_start": 192.05,
+      "moon_position_end": 204.14,
       "nodes_info": [],
       "periods": [
         {
