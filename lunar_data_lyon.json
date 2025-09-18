@@ -1,46 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-09-17T06:00:40.328931",
+  "generated_at": "2025-09-18T06:00:46.365854",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
   },
   "traditional": [
-    {
-      "date_iso": "2025-09-17",
-      "date_formatted": "Mercredi 17/09/2025",
-      "saints": [
-        "Ste-Hildegarde",
-        "St-Lambert"
-      ],
-      "phase_percentage": 19.5,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:21",
-      "sunset": "19:48",
-      "daylight_duration": "12:26:49 (-3min 11s)",
-      "moon_position_start": 115.55,
-      "moon_position_end": 128.85,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "07:58",
-          "constellation": "Cancer",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "07:58",
-          "end_time": "00:00",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-09-18",
       "date_formatted": "Jeudi 18/09/2025",
@@ -243,44 +208,44 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-09-17",
-      "date_formatted": "Mercredi 17/09/2025",
+      "date_iso": "2025-09-24",
+      "date_formatted": "Mercredi 24/09/2025",
       "saints": [
-        "Ste-Hildegarde",
-        "St-Lambert"
+        "St-Cuniald",
+        "St-Isarne de Toulouse"
       ],
-      "phase_percentage": 19.5,
+      "phase_percentage": 6.3,
       "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:21",
-      "sunset": "19:48",
-      "daylight_duration": "12:26:49 (-3min 11s)",
-      "moon_position_start": 115.55,
-      "moon_position_end": 128.85,
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:29",
+      "sunset": "19:34",
+      "daylight_duration": "12:04:27 (-3min 11s)",
+      "moon_position_start": 204.14,
+      "moon_position_end": 216.11,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "07:58",
-          "constellation": "Gémeaux",
+          "end_time": "11:43",
+          "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "07:58",
+          "start_time": "11:43",
           "end_time": "00:00",
-          "constellation": "Cancer",
+          "constellation": "Scorpion",
           "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-09-18",
       "date_formatted": "Jeudi 18/09/2025",
@@ -472,6 +437,33 @@
       "daylight_duration": "12:07:39 (-3min 11s)",
       "moon_position_start": 192.05,
       "moon_position_end": 204.14,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-09-24",
+      "date_formatted": "Mercredi 24/09/2025",
+      "saints": [
+        "St-Cuniald",
+        "St-Isarne de Toulouse"
+      ],
+      "phase_percentage": 6.3,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:29",
+      "sunset": "19:34",
+      "daylight_duration": "12:04:27 (-3min 11s)",
+      "moon_position_start": 204.14,
+      "moon_position_end": 216.11,
       "nodes_info": [],
       "periods": [
         {
