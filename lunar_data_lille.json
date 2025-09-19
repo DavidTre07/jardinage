@@ -1,39 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-09-18T06:00:47.349037",
+  "generated_at": "2025-09-19T06:00:47.799466",
   "location": {
     "lat": "50:37:45.1",
     "lon": "3:03:26.3"
   },
   "traditional": [
-    {
-      "date_iso": "2025-09-18",
-      "date_formatted": "Jeudi 18/09/2025",
-      "saints": [
-        "St-Hygbald",
-        "St-Joseph de Cupertino",
-        "Ste-Richarde"
-      ],
-      "phase_percentage": 11.8,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:27",
-      "sunset": "19:54",
-      "daylight_duration": "12:27:10 (-3min 47s)",
-      "moon_position_start": 128.85,
-      "moon_position_end": 141.92,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-09-19",
       "date_formatted": "Vendredi 19/09/2025",
@@ -243,45 +215,37 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-09-18",
-      "date_formatted": "Jeudi 18/09/2025",
+      "date_iso": "2025-09-25",
+      "date_formatted": "Jeudi 25/09/2025",
       "saints": [
-        "St-Hygbald",
-        "St-Joseph de Cupertino",
-        "Ste-Richarde"
+        "St-Cléophas",
+        "St-Firmin 1er Damien",
+        "St-Hermann le Boà®teux"
       ],
-      "phase_percentage": 11.8,
+      "phase_percentage": 11.7,
       "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:27",
-      "sunset": "19:54",
-      "daylight_duration": "12:27:10 (-3min 47s)",
-      "moon_position_start": 128.85,
-      "moon_position_end": 141.92,
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:38",
+      "sunset": "19:39",
+      "daylight_duration": "12:00:38 (-3min 47s)",
+      "moon_position_start": 216.11,
+      "moon_position_end": 227.99,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "16:45",
-          "constellation": "Cancer",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "16:45",
           "end_time": "00:00",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "constellation": "Scorpion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-09-19",
       "date_formatted": "Vendredi 19/09/2025",
@@ -471,6 +435,42 @@
           "end_time": "00:00",
           "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-09-25",
+      "date_formatted": "Jeudi 25/09/2025",
+      "saints": [
+        "St-Cléophas",
+        "St-Firmin 1er Damien",
+        "St-Hermann le Boà®teux"
+      ],
+      "phase_percentage": 11.7,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:38",
+      "sunset": "19:39",
+      "daylight_duration": "12:00:38 (-3min 47s)",
+      "moon_position_start": 216.11,
+      "moon_position_end": 227.99,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "03:49",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "03:49",
+          "end_time": "00:00",
+          "constellation": "Balance",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
