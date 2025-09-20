@@ -1,48 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-09-19T06:00:47.477270",
+  "generated_at": "2025-09-20T06:00:28.734627",
   "location": {
     "lat": "43:36:16.9",
     "lon": "1:26:39.1"
   },
   "traditional": [
-    {
-      "date_iso": "2025-09-19",
-      "date_formatted": "Vendredi 19/09/2025",
-      "saints": [
-        "Ste-Constancia",
-        "Ste-Emilie de Rodat",
-        "St-Janvier",
-        "St-Théodore de Tarse"
-      ],
-      "phase_percentage": 5.9,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:37",
-      "sunset": "19:57",
-      "daylight_duration": "12:19:16 (-2min 57s)",
-      "moon_position_start": 141.92,
-      "moon_position_end": 154.76,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "15:03",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "15:03",
-          "end_time": "00:00",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-09-20",
       "date_formatted": "Samedi 20/09/2025",
@@ -243,38 +206,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-09-19",
-      "date_formatted": "Vendredi 19/09/2025",
+      "date_iso": "2025-09-26",
+      "date_formatted": "Vendredi 26/09/2025",
       "saints": [
-        "Ste-Constancia",
-        "Ste-Emilie de Rodat",
-        "St-Janvier",
-        "St-Théodore de Tarse"
+        "St-Côme",
+        "St-Damien"
       ],
-      "phase_percentage": 5.9,
+      "phase_percentage": 18.5,
       "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:37",
-      "sunset": "19:57",
-      "daylight_duration": "12:19:16 (-2min 57s)",
-      "moon_position_start": 141.92,
-      "moon_position_end": 154.76,
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:45",
+      "sunset": "19:44",
+      "daylight_duration": "11:58:32 (-2min 57s)",
+      "moon_position_start": 227.99,
+      "moon_position_end": 239.83,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "constellation": "Scorpion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-09-20",
       "date_formatted": "Samedi 20/09/2025",
@@ -468,6 +429,33 @@
         },
         {
           "start_time": "03:49",
+          "end_time": "00:00",
+          "constellation": "Balance",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-09-26",
+      "date_formatted": "Vendredi 26/09/2025",
+      "saints": [
+        "St-Côme",
+        "St-Damien"
+      ],
+      "phase_percentage": 18.5,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:45",
+      "sunset": "19:44",
+      "daylight_duration": "11:58:32 (-2min 57s)",
+      "moon_position_start": 227.99,
+      "moon_position_end": 239.83,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
