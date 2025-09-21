@@ -1,51 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-09-20T06:00:28.734627",
+  "generated_at": "2025-09-21T06:01:24.545298",
   "location": {
     "lat": "43:36:16.9",
     "lon": "1:26:39.1"
   },
   "traditional": [
-    {
-      "date_iso": "2025-09-20",
-      "date_formatted": "Samedi 20/09/2025",
-      "saints": [
-        "St-André Kim",
-        "St-Eustache",
-        "St-Jacques Chastan",
-        "St-Laurent Imbert",
-        "St-Pierre Maubant"
-      ],
-      "phase_percentage": 2.0,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:39",
-      "sunset": "19:55",
-      "daylight_duration": "12:16:19 (-2min 57s)",
-      "moon_position_start": 154.76,
-      "moon_position_end": 167.38,
-      "nodes_info": [
-        "NŒUD LUNAIRE (descendant) le 21/09 à 01h12 - Pas de jardinage de 21h12 à 05h12"
-      ],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "21:12",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "21:12",
-          "end_time": "00:00",
-          "constellation": "Vierge",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        }
-      ]
-    },
     {
       "date_iso": "2025-09-21",
       "date_formatted": "Dimanche 21/09/2025",
@@ -233,49 +193,43 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-09-20",
-      "date_formatted": "Samedi 20/09/2025",
+      "date_iso": "2025-09-27",
+      "date_formatted": "Samedi 27/09/2025",
       "saints": [
-        "St-André Kim",
-        "St-Eustache",
-        "St-Jacques Chastan",
-        "St-Laurent Imbert",
-        "St-Pierre Maubant"
+        "St-Vincent de Paul"
       ],
-      "phase_percentage": 2.0,
+      "phase_percentage": 26.4,
       "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:39",
-      "sunset": "19:55",
-      "daylight_duration": "12:16:19 (-2min 57s)",
-      "moon_position_start": 154.76,
-      "moon_position_end": 167.38,
-      "nodes_info": [
-        "NŒUD LUNAIRE (descendant) le 21/09 à 01h12 - Pas de jardinage de 21h12 à 05h12"
-      ],
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:46",
+      "sunset": "19:42",
+      "daylight_duration": "11:55:34 (-2min 57s)",
+      "moon_position_start": 239.83,
+      "moon_position_end": 251.69,
+      "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "21:12",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "end_time": "00:20",
+          "constellation": "Scorpion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "21:12",
+          "start_time": "00:20",
           "end_time": "00:00",
-          "constellation": "Lion",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-09-21",
       "date_formatted": "Dimanche 21/09/2025",
@@ -460,6 +414,48 @@
           "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-09-27",
+      "date_formatted": "Samedi 27/09/2025",
+      "saints": [
+        "St-Vincent de Paul"
+      ],
+      "phase_percentage": 26.4,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:46",
+      "sunset": "19:42",
+      "daylight_duration": "11:55:34 (-2min 57s)",
+      "moon_position_start": 239.83,
+      "moon_position_end": 251.69,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "02:22",
+          "constellation": "Balance",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "02:22",
+          "end_time": "16:32",
+          "constellation": "Scorpion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "16:32",
+          "end_time": "00:00",
+          "constellation": "Serpentaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
           "blocked": false
         }
       ]
