@@ -1,39 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-09-25T06:00:52.755390",
+  "generated_at": "2025-09-26T06:00:48.498180",
   "location": {
     "lat": "43:42:36.7",
     "lon": "7:15:43.2"
   },
   "traditional": [
-    {
-      "date_iso": "2025-09-25",
-      "date_formatted": "Jeudi 25/09/2025",
-      "saints": [
-        "St-Cléophas",
-        "St-Firmin 1er Damien",
-        "St-Hermann le Boà®teux"
-      ],
-      "phase_percentage": 11.7,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:21",
-      "sunset": "19:22",
-      "daylight_duration": "12:01:32 (-2min 58s)",
-      "moon_position_start": 216.11,
-      "moon_position_end": 227.99,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Scorpion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-09-26",
       "date_formatted": "Vendredi 26/09/2025",
@@ -221,45 +193,35 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-09-25",
-      "date_formatted": "Jeudi 25/09/2025",
+      "date_iso": "2025-10-02",
+      "date_formatted": "Jeudi 02/10/2025",
       "saints": [
-        "St-Cléophas",
-        "St-Firmin 1er Damien",
-        "St-Hermann le Boà®teux"
+        "St-Léger"
       ],
-      "phase_percentage": 11.7,
-      "cycle_trajectoire": "Lune Descendante",
+      "phase_percentage": 73.6,
+      "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:21",
-      "sunset": "19:22",
-      "daylight_duration": "12:01:32 (-2min 58s)",
-      "moon_position_start": 216.11,
-      "moon_position_end": 227.99,
+      "sunrise": "07:29",
+      "sunset": "19:10",
+      "daylight_duration": "11:40:44 (-2min 57s)",
+      "moon_position_start": 300.78,
+      "moon_position_end": 313.82,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "03:49",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "03:49",
           "end_time": "00:00",
-          "constellation": "Balance",
+          "constellation": "Verseau",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-09-26",
       "date_formatted": "Vendredi 26/09/2025",
@@ -448,6 +410,32 @@
         },
         {
           "start_time": "22:32",
+          "end_time": "00:00",
+          "constellation": "Capricorne",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-10-02",
+      "date_formatted": "Jeudi 02/10/2025",
+      "saints": [
+        "St-Léger"
+      ],
+      "phase_percentage": 73.6,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:29",
+      "sunset": "19:10",
+      "daylight_duration": "11:40:44 (-2min 57s)",
+      "moon_position_start": 300.78,
+      "moon_position_end": 313.82,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Capricorne",
           "recommendation": "Actions favorables aux légumes racines.",
