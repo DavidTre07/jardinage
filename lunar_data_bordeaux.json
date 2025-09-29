@@ -1,39 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-09-28T06:00:48.311636",
+  "generated_at": "2025-09-29T06:00:47.899630",
   "location": {
     "lat": "44:50:16.1",
     "lon": "-0:34:45.1"
   },
   "traditional": [
-    {
-      "date_iso": "2025-09-28",
-      "date_formatted": "Dimanche 28/09/2025",
-      "saints": [
-        "St-Annemond",
-        "Ste-Eustochium",
-        "St-Wanceslas"
-      ],
-      "phase_percentage": 35.1,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:56",
-      "sunset": "19:48",
-      "daylight_duration": "11:52:03 (-3min 5s)",
-      "moon_position_start": 251.69,
-      "moon_position_end": 263.65,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-09-29",
       "date_formatted": "Lundi 29/09/2025",
@@ -220,37 +192,54 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-09-28",
-      "date_formatted": "Dimanche 28/09/2025",
+      "date_iso": "2025-10-05",
+      "date_formatted": "Dimanche 05/10/2025",
       "saints": [
-        "St-Annemond",
-        "Ste-Eustochium",
-        "St-Wanceslas"
+        "Ste-Flavie",
+        "St-Placide"
       ],
-      "phase_percentage": 35.1,
-      "cycle_trajectoire": "Lune Descendante",
+      "phase_percentage": 95.8,
+      "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:56",
-      "sunset": "19:48",
-      "daylight_duration": "11:52:03 (-3min 5s)",
-      "moon_position_start": 251.69,
-      "moon_position_end": 263.65,
-      "nodes_info": [],
+      "sunrise": "08:05",
+      "sunset": "19:35",
+      "daylight_duration": "11:30:27 (-3min 4s)",
+      "moon_position_start": 341.19,
+      "moon_position_end": 355.51,
+      "nodes_info": [
+        "NŒUD LUNAIRE (ascendant) le 05/10 à 11h18 - Pas de jardinage de 07h18 à 15h18"
+      ],
       "periods": [
         {
           "start_time": "00:00",
+          "end_time": "07:18",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "07:18",
+          "end_time": "15:18",
+          "constellation": "Poissons",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "15:18",
           "end_time": "00:00",
-          "constellation": "Serpentaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-09-29",
       "date_formatted": "Lundi 29/09/2025",
@@ -430,6 +419,51 @@
         },
         {
           "start_time": "04:44",
+          "end_time": "00:00",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-10-05",
+      "date_formatted": "Dimanche 05/10/2025",
+      "saints": [
+        "Ste-Flavie",
+        "St-Placide"
+      ],
+      "phase_percentage": 95.8,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:05",
+      "sunset": "19:35",
+      "daylight_duration": "11:30:27 (-3min 4s)",
+      "moon_position_start": 341.19,
+      "moon_position_end": 355.51,
+      "nodes_info": [
+        "NŒUD LUNAIRE (ascendant) le 05/10 à 11h18 - Pas de jardinage de 07h18 à 15h18"
+      ],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "07:18",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "07:18",
+          "end_time": "15:18",
+          "constellation": "Verseau",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "15:18",
           "end_time": "00:00",
           "constellation": "Verseau",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
