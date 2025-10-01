@@ -1,39 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-09-30T06:00:19.461253",
+  "generated_at": "2025-10-01T06:02:04.971860",
   "location": {
     "lat": "43:36:16.9",
     "lon": "1:26:39.1"
   },
   "traditional": [
-    {
-      "date_iso": "2025-09-30",
-      "date_formatted": "Mardi 30/09/2025",
-      "saints": [
-        "St-Grégoire l'Illuminateur",
-        "St-Jérôme",
-        "St-Léopard"
-      ],
-      "phase_percentage": 54.3,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:50",
-      "sunset": "19:37",
-      "daylight_duration": "11:46:41 (-2min 57s)",
-      "moon_position_start": 275.77,
-      "moon_position_end": 288.12,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-10-01",
       "date_formatted": "Mercredi 01/10/2025",
@@ -234,37 +206,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-09-30",
-      "date_formatted": "Mardi 30/09/2025",
+      "date_iso": "2025-10-07",
+      "date_formatted": "Mardi 07/10/2025",
       "saints": [
-        "St-Grégoire l'Illuminateur",
-        "St-Jérôme",
-        "St-Léopard"
+        "St-Serge",
+        "N. Dame du Rosaire"
       ],
-      "phase_percentage": 54.3,
+      "phase_percentage": 99.9,
       "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:50",
-      "sunset": "19:37",
-      "daylight_duration": "11:46:41 (-2min 57s)",
-      "moon_position_start": 275.77,
-      "moon_position_end": 288.12,
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:58",
+      "sunset": "19:24",
+      "daylight_duration": "11:26:03 (-2min 56s)",
+      "moon_position_start": 10.19,
+      "moon_position_end": 25.13,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Sagittaire",
+          "constellation": "Bélier",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-10-01",
       "date_formatted": "Mercredi 01/10/2025",
@@ -458,6 +429,33 @@
         },
         {
           "start_time": "07:23",
+          "end_time": "00:00",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-10-07",
+      "date_formatted": "Mardi 07/10/2025",
+      "saints": [
+        "St-Serge",
+        "N. Dame du Rosaire"
+      ],
+      "phase_percentage": 99.9,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:58",
+      "sunset": "19:24",
+      "daylight_duration": "11:26:03 (-2min 56s)",
+      "moon_position_start": 10.19,
+      "moon_position_end": 25.13,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Poissons",
           "recommendation": "Actions favorables aux légumes feuilles.",
