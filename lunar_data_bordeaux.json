@@ -1,45 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-10-01T06:02:06.106017",
+  "generated_at": "2025-10-02T06:00:36.948088",
   "location": {
     "lat": "44:50:16.1",
     "lon": "-0:34:45.1"
   },
   "traditional": [
-    {
-      "date_iso": "2025-10-01",
-      "date_formatted": "Mercredi 01/10/2025",
-      "saints": [
-        "Ste-Thérèse de Lisieux"
-      ],
-      "phase_percentage": 64.1,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:00",
-      "sunset": "19:42",
-      "daylight_duration": "11:42:47 (-3min 5s)",
-      "moon_position_start": 288.12,
-      "moon_position_end": 300.78,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "22:32",
-          "constellation": "Capricorne",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "22:32",
-          "end_time": "00:00",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-10-02",
       "date_formatted": "Jeudi 02/10/2025",
@@ -229,6 +195,40 @@
           "end_time": "00:00",
           "constellation": "Bélier",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-10-08",
+      "date_formatted": "Mercredi 08/10/2025",
+      "saints": [
+        "Ste-Pélagie la Pénitente"
+      ],
+      "phase_percentage": 97.6,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:08",
+      "sunset": "19:30",
+      "daylight_duration": "11:21:16 (-3min 3s)",
+      "moon_position_start": 25.13,
+      "moon_position_end": 40.17,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "07:46",
+          "constellation": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "07:46",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
@@ -237,40 +237,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2025-10-01",
-      "date_formatted": "Mercredi 01/10/2025",
-      "saints": [
-        "Ste-Thérèse de Lisieux"
-      ],
-      "phase_percentage": 64.1,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:00",
-      "sunset": "19:42",
-      "daylight_duration": "11:42:47 (-3min 5s)",
-      "moon_position_start": 288.12,
-      "moon_position_end": 300.78,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "22:32",
-          "constellation": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "22:32",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2025-10-02",
       "date_formatted": "Jeudi 02/10/2025",
       "saints": [
@@ -459,6 +425,40 @@
           "end_time": "00:00",
           "constellation": "Poissons",
           "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-10-08",
+      "date_formatted": "Mercredi 08/10/2025",
+      "saints": [
+        "Ste-Pélagie la Pénitente"
+      ],
+      "phase_percentage": 97.6,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:08",
+      "sunset": "19:30",
+      "daylight_duration": "11:21:16 (-3min 3s)",
+      "moon_position_start": 25.13,
+      "moon_position_end": 40.17,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "02:59",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "02:59",
+          "end_time": "00:00",
+          "constellation": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
