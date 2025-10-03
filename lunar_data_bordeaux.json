@@ -1,37 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-10-02T06:00:36.948088",
+  "generated_at": "2025-10-03T06:00:37.804182",
   "location": {
     "lat": "44:50:16.1",
     "lon": "-0:34:45.1"
   },
   "traditional": [
-    {
-      "date_iso": "2025-10-02",
-      "date_formatted": "Jeudi 02/10/2025",
-      "saints": [
-        "St-Léger"
-      ],
-      "phase_percentage": 73.6,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:01",
-      "sunset": "19:41",
-      "daylight_duration": "11:39:41 (-3min 5s)",
-      "moon_position_start": 300.78,
-      "moon_position_end": 313.82,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-10-03",
       "date_formatted": "Vendredi 03/10/2025",
@@ -233,35 +207,39 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-10-02",
-      "date_formatted": "Jeudi 02/10/2025",
+      "date_iso": "2025-10-09",
+      "date_formatted": "Jeudi 09/10/2025",
       "saints": [
-        "St-Léger"
+        "St-Denis, évêque de Paris",
+        "St-Dominin",
+        "St-Eleuthère",
+        "St-Jean Léonardi",
+        "St-Rustique"
       ],
-      "phase_percentage": 73.6,
+      "phase_percentage": 92.5,
       "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:01",
-      "sunset": "19:41",
-      "daylight_duration": "11:39:41 (-3min 5s)",
-      "moon_position_start": 300.78,
-      "moon_position_end": 313.82,
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:10",
+      "sunset": "19:28",
+      "daylight_duration": "11:18:12 (-3min 3s)",
+      "moon_position_start": 40.17,
+      "moon_position_end": 55.17,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Capricorne",
+          "constellation": "Taureau",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-10-03",
       "date_formatted": "Vendredi 03/10/2025",
@@ -459,6 +437,44 @@
           "end_time": "00:00",
           "constellation": "Bélier",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-10-09",
+      "date_formatted": "Jeudi 09/10/2025",
+      "saints": [
+        "St-Denis, évêque de Paris",
+        "St-Dominin",
+        "St-Eleuthère",
+        "St-Jean Léonardi",
+        "St-Rustique"
+      ],
+      "phase_percentage": 92.5,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:10",
+      "sunset": "19:28",
+      "daylight_duration": "11:18:12 (-3min 3s)",
+      "moon_position_start": 40.17,
+      "moon_position_end": 55.17,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "22:07",
+          "constellation": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "22:07",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
