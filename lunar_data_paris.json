@@ -1,46 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-10-04T06:00:34.802240",
+  "generated_at": "2025-10-05T06:00:36.995508",
   "location": {
     "lat": "48:51:23.8",
     "lon": "2:21:07.9"
   },
   "traditional": [
-    {
-      "date_iso": "2025-10-04",
-      "date_formatted": "Samedi 04/10/2025",
-      "saints": [
-        "St-Aurée",
-        "St-François d'Assise"
-      ],
-      "phase_percentage": 90.0,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:54",
-      "sunset": "19:23",
-      "daylight_duration": "11:28:51 (-3min 32s)",
-      "moon_position_start": 327.29,
-      "moon_position_end": 341.19,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "04:44",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "04:44",
-          "end_time": "00:00",
-          "constellation": "Poissons",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-10-05",
       "date_formatted": "Dimanche 05/10/2025",
@@ -246,44 +211,37 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-10-04",
-      "date_formatted": "Samedi 04/10/2025",
+      "date_iso": "2025-10-11",
+      "date_formatted": "Samedi 11/10/2025",
       "saints": [
-        "St-Aurée",
-        "St-François d'Assise"
+        "St-Anastase 1er",
+        "St-Firmin d'Uzès",
+        "Ste-Zénaïde"
       ],
-      "phase_percentage": 90.0,
+      "phase_percentage": 75.5,
       "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:54",
-      "sunset": "19:23",
-      "daylight_duration": "11:28:51 (-3min 32s)",
-      "moon_position_start": 327.29,
-      "moon_position_end": 341.19,
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:04",
+      "sunset": "19:08",
+      "daylight_duration": "11:04:09 (-3min 30s)",
+      "moon_position_start": 69.99,
+      "moon_position_end": 84.51,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "04:44",
-          "constellation": "Capricorne",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "04:44",
           "end_time": "00:00",
-          "constellation": "Verseau",
+          "constellation": "Gémeaux",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-10-05",
       "date_formatted": "Dimanche 05/10/2025",
@@ -478,6 +436,34 @@
       "daylight_duration": "11:07:40 (-3min 31s)",
       "moon_position_start": 55.17,
       "moon_position_end": 69.99,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-10-11",
+      "date_formatted": "Samedi 11/10/2025",
+      "saints": [
+        "St-Anastase 1er",
+        "St-Firmin d'Uzès",
+        "Ste-Zénaïde"
+      ],
+      "phase_percentage": 75.5,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:04",
+      "sunset": "19:08",
+      "daylight_duration": "11:04:09 (-3min 30s)",
+      "moon_position_start": 69.99,
+      "moon_position_end": 84.51,
       "nodes_info": [],
       "periods": [
         {
