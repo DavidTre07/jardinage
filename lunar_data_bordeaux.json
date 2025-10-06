@@ -1,56 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-10-05T06:00:39.345428",
+  "generated_at": "2025-10-06T06:00:39.314747",
   "location": {
     "lat": "44:50:16.1",
     "lon": "-0:34:45.1"
   },
   "traditional": [
-    {
-      "date_iso": "2025-10-05",
-      "date_formatted": "Dimanche 05/10/2025",
-      "saints": [
-        "Ste-Flavie",
-        "St-Placide"
-      ],
-      "phase_percentage": 95.8,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:05",
-      "sunset": "19:35",
-      "daylight_duration": "11:30:27 (-3min 4s)",
-      "moon_position_start": 341.19,
-      "moon_position_end": 355.51,
-      "nodes_info": [
-        "NŒUD LUNAIRE (ascendant) le 05/10 à 11h18 - Pas de jardinage de 07h18 à 15h18"
-      ],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "07:18",
-          "constellation": "Poissons",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "07:18",
-          "end_time": "15:18",
-          "constellation": "Poissons",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "15:18",
-          "end_time": "00:00",
-          "constellation": "Poissons",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-10-06",
       "date_formatted": "Lundi 06/10/2025",
@@ -239,54 +194,45 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-10-05",
-      "date_formatted": "Dimanche 05/10/2025",
+      "date_iso": "2025-10-12",
+      "date_formatted": "Dimanche 12/10/2025",
       "saints": [
-        "Ste-Flavie",
-        "St-Placide"
+        "St-Pantale",
+        "St-Séraphin du Mont Granario",
+        "St-Wilfried"
       ],
-      "phase_percentage": 95.8,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:05",
-      "sunset": "19:35",
-      "daylight_duration": "11:30:27 (-3min 4s)",
-      "moon_position_start": 341.19,
-      "moon_position_end": 355.51,
-      "nodes_info": [
-        "NŒUD LUNAIRE (ascendant) le 05/10 à 11h18 - Pas de jardinage de 07h18 à 15h18"
-      ],
+      "phase_percentage": 65.0,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:13",
+      "sunset": "19:22",
+      "daylight_duration": "11:09:04 (-3min 2s)",
+      "moon_position_start": 84.51,
+      "moon_position_end": 98.67,
+      "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "07:18",
-          "constellation": "Verseau",
+          "end_time": "09:13",
+          "constellation": "Gémeaux",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "07:18",
-          "end_time": "15:18",
-          "constellation": "Verseau",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "15:18",
+          "start_time": "09:13",
           "end_time": "00:00",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "constellation": "Cancer",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-10-06",
       "date_formatted": "Lundi 06/10/2025",
@@ -472,6 +418,42 @@
           "constellation": "Taureau",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-10-12",
+      "date_formatted": "Dimanche 12/10/2025",
+      "saints": [
+        "St-Pantale",
+        "St-Séraphin du Mont Granario",
+        "St-Wilfried"
+      ],
+      "phase_percentage": 65.0,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:13",
+      "sunset": "19:22",
+      "daylight_duration": "11:09:04 (-3min 2s)",
+      "moon_position_start": 84.51,
+      "moon_position_end": 98.67,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "09:13",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "09:13",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
