@@ -1,45 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-10-06T06:00:37.105761",
+  "generated_at": "2025-10-07T06:00:37.595629",
   "location": {
     "lat": "48:51:23.8",
     "lon": "2:21:07.9"
   },
   "traditional": [
-    {
-      "date_iso": "2025-10-06",
-      "date_formatted": "Lundi 06/10/2025",
-      "saints": [
-        "St-Bruno de Cologne"
-      ],
-      "phase_percentage": 99.2,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:57",
-      "sunset": "19:19",
-      "daylight_duration": "11:21:46 (-3min 32s)",
-      "moon_position_start": 355.51,
-      "moon_position_end": 10.19,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "07:23",
-          "constellation": "Poissons",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "07:23",
-          "end_time": "00:00",
-          "constellation": "Bélier",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-10-07",
       "date_formatted": "Mardi 07/10/2025",
@@ -230,43 +196,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-10-06",
-      "date_formatted": "Lundi 06/10/2025",
+      "date_iso": "2025-10-13",
+      "date_formatted": "Lundi 13/10/2025",
       "saints": [
-        "St-Bruno de Cologne"
+        "St-Géraud d'Aurillac",
+        "St-Théophile  d'Antioche"
       ],
-      "phase_percentage": 99.2,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:57",
-      "sunset": "19:19",
-      "daylight_duration": "11:21:46 (-3min 32s)",
-      "moon_position_start": 355.51,
-      "moon_position_end": 10.19,
+      "phase_percentage": 53.9,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:07",
+      "sunset": "19:04",
+      "daylight_duration": "10:57:08 (-3min 29s)",
+      "moon_position_start": 98.67,
+      "moon_position_end": 112.45,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "07:23",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "07:23",
           "end_time": "00:00",
-          "constellation": "Poissons",
+          "constellation": "Cancer",
           "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-10-07",
       "date_formatted": "Mardi 07/10/2025",
@@ -450,6 +409,33 @@
         },
         {
           "start_time": "09:13",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-10-13",
+      "date_formatted": "Lundi 13/10/2025",
+      "saints": [
+        "St-Géraud d'Aurillac",
+        "St-Théophile  d'Antioche"
+      ],
+      "phase_percentage": 53.9,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:07",
+      "sunset": "19:04",
+      "daylight_duration": "10:57:08 (-3min 29s)",
+      "moon_position_start": 98.67,
+      "moon_position_end": 112.45,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Gémeaux",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
