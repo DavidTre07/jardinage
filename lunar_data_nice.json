@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-10-07T06:00:39.884499",
+  "generated_at": "2025-10-08T06:00:39.689599",
   "location": {
     "lat": "43:42:36.7",
     "lon": "7:15:43.2"
   },
   "traditional": [
-    {
-      "date_iso": "2025-10-07",
-      "date_formatted": "Mardi 07/10/2025",
-      "saints": [
-        "St-Serge",
-        "N. Dame du Rosaire"
-      ],
-      "phase_percentage": 99.9,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:35",
-      "sunset": "19:01",
-      "daylight_duration": "11:25:57 (-2min 56s)",
-      "moon_position_start": 10.19,
-      "moon_position_end": 25.13,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Bélier",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-10-08",
       "date_formatted": "Mercredi 08/10/2025",
@@ -223,36 +196,44 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-10-07",
-      "date_formatted": "Mardi 07/10/2025",
+      "date_iso": "2025-10-14",
+      "date_formatted": "Mardi 14/10/2025",
       "saints": [
-        "St-Serge",
-        "N. Dame du Rosaire"
+        "St-Calixte 1er",
+        "St-Juste de Lyon"
       ],
-      "phase_percentage": 99.9,
-      "cycle_trajectoire": "Lune Montante",
+      "phase_percentage": 43.0,
+      "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:35",
-      "sunset": "19:01",
-      "daylight_duration": "11:25:57 (-2min 56s)",
-      "moon_position_start": 10.19,
-      "moon_position_end": 25.13,
+      "sunrise": "07:43",
+      "sunset": "18:49",
+      "daylight_duration": "11:05:29 (-2min 54s)",
+      "moon_position_start": 112.45,
+      "moon_position_end": 125.86,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Poissons",
+          "end_time": "13:25",
+          "constellation": "Cancer",
           "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "13:25",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-10-08",
       "date_formatted": "Mercredi 08/10/2025",
@@ -439,6 +420,41 @@
           "end_time": "00:00",
           "constellation": "Gémeaux",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-10-14",
+      "date_formatted": "Mardi 14/10/2025",
+      "saints": [
+        "St-Calixte 1er",
+        "St-Juste de Lyon"
+      ],
+      "phase_percentage": 43.0,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:43",
+      "sunset": "18:49",
+      "daylight_duration": "11:05:29 (-2min 54s)",
+      "moon_position_start": 112.45,
+      "moon_position_end": 125.86,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "13:25",
+          "constellation": "Gémeaux",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "13:25",
+          "end_time": "00:00",
+          "constellation": "Cancer",
+          "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
