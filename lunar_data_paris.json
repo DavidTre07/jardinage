@@ -1,45 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-10-08T06:00:37.424699",
+  "generated_at": "2025-10-09T06:00:34.745213",
   "location": {
     "lat": "48:51:23.8",
     "lon": "2:21:07.9"
   },
   "traditional": [
-    {
-      "date_iso": "2025-10-08",
-      "date_formatted": "Mercredi 08/10/2025",
-      "saints": [
-        "Ste-Pélagie la Pénitente"
-      ],
-      "phase_percentage": 97.6,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:00",
-      "sunset": "19:15",
-      "daylight_duration": "11:14:42 (-3min 31s)",
-      "moon_position_start": 25.13,
-      "moon_position_end": 40.17,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "07:46",
-          "constellation": "Bélier",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "07:46",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-10-09",
       "date_formatted": "Jeudi 09/10/2025",
@@ -231,43 +197,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-10-08",
-      "date_formatted": "Mercredi 08/10/2025",
+      "date_iso": "2025-10-15",
+      "date_formatted": "Mercredi 15/10/2025",
       "saints": [
-        "Ste-Pélagie la Pénitente"
+        "St-Agilée",
+        "Ste-Thérèse d'Avilla"
       ],
-      "phase_percentage": 97.6,
-      "cycle_trajectoire": "Lune Montante",
+      "phase_percentage": 32.6,
+      "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:00",
-      "sunset": "19:15",
-      "daylight_duration": "11:14:42 (-3min 31s)",
-      "moon_position_start": 25.13,
-      "moon_position_end": 40.17,
+      "sunrise": "08:10",
+      "sunset": "19:01",
+      "daylight_duration": "10:50:10 (-3min 29s)",
+      "moon_position_start": 125.86,
+      "moon_position_end": 138.93,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "02:59",
-          "constellation": "Poissons",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "02:59",
           "end_time": "00:00",
-          "constellation": "Bélier",
+          "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-10-09",
       "date_formatted": "Jeudi 09/10/2025",
@@ -455,6 +414,41 @@
           "end_time": "00:00",
           "constellation": "Cancer",
           "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-10-15",
+      "date_formatted": "Mercredi 15/10/2025",
+      "saints": [
+        "St-Agilée",
+        "Ste-Thérèse d'Avilla"
+      ],
+      "phase_percentage": 32.6,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:10",
+      "sunset": "19:01",
+      "daylight_duration": "10:50:10 (-3min 29s)",
+      "moon_position_start": 125.86,
+      "moon_position_end": 138.93,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "22:16",
+          "constellation": "Cancer",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "22:16",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
