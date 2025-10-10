@@ -1,41 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-10-09T06:00:35.173620",
+  "generated_at": "2025-10-10T06:00:35.590233",
   "location": {
     "lat": "43:17:47.4",
     "lon": "5:22:11.3"
   },
   "traditional": [
-    {
-      "date_iso": "2025-10-09",
-      "date_formatted": "Jeudi 09/10/2025",
-      "saints": [
-        "St-Denis, évêque de Paris",
-        "St-Dominin",
-        "St-Eleuthère",
-        "St-Jean Léonardi",
-        "St-Rustique"
-      ],
-      "phase_percentage": 92.5,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:45",
-      "sunset": "19:05",
-      "daylight_duration": "11:20:43 (-2min 53s)",
-      "moon_position_start": 40.17,
-      "moon_position_end": 55.17,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-10-10",
       "date_formatted": "Vendredi 10/10/2025",
@@ -224,47 +194,48 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-10-09",
-      "date_formatted": "Jeudi 09/10/2025",
+      "date_iso": "2025-10-16",
+      "date_formatted": "Jeudi 16/10/2025",
       "saints": [
-        "St-Denis, évêque de Paris",
-        "St-Dominin",
-        "St-Eleuthère",
-        "St-Jean Léonardi",
-        "St-Rustique"
+        "St-Bertrand de Comminges",
+        "Ste-Eremberte",
+        "St-Gall",
+        "St-Gérard Magella",
+        "Ste-Hedwige",
+        "Ste-Marguerite-Marie Alacoque"
       ],
-      "phase_percentage": 92.5,
-      "cycle_trajectoire": "Lune Montante",
+      "phase_percentage": 23.3,
+      "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:45",
-      "sunset": "19:05",
-      "daylight_duration": "11:20:43 (-2min 53s)",
-      "moon_position_start": 40.17,
-      "moon_position_end": 55.17,
+      "sunrise": "07:53",
+      "sunset": "18:54",
+      "daylight_duration": "11:00:37 (-2min 50s)",
+      "moon_position_start": 138.93,
+      "moon_position_end": 151.7,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "22:07",
-          "constellation": "Bélier",
+          "end_time": "20:46",
+          "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "22:07",
+          "start_time": "20:46",
           "end_time": "00:00",
-          "constellation": "Taureau",
+          "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-10-10",
       "date_formatted": "Vendredi 10/10/2025",
@@ -446,6 +417,37 @@
         },
         {
           "start_time": "22:16",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-10-16",
+      "date_formatted": "Jeudi 16/10/2025",
+      "saints": [
+        "St-Bertrand de Comminges",
+        "Ste-Eremberte",
+        "St-Gall",
+        "St-Gérard Magella",
+        "Ste-Hedwige",
+        "Ste-Marguerite-Marie Alacoque"
+      ],
+      "phase_percentage": 23.3,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:53",
+      "sunset": "18:54",
+      "daylight_duration": "11:00:37 (-2min 50s)",
+      "moon_position_start": 138.93,
+      "moon_position_end": 151.7,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
