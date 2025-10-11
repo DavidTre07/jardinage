@@ -1,47 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-10-10T06:00:35.979868",
+  "generated_at": "2025-10-11T06:00:37.604996",
   "location": {
     "lat": "50:37:45.1",
     "lon": "3:03:26.3"
   },
   "traditional": [
-    {
-      "date_iso": "2025-10-10",
-      "date_formatted": "Vendredi 10/10/2025",
-      "saints": [
-        "Ste-Eulampie",
-        "St-François de Borgia",
-        "St-Gédéon"
-      ],
-      "phase_percentage": 84.9,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:02",
-      "sunset": "19:06",
-      "daylight_duration": "11:03:58 (-3min 45s)",
-      "moon_position_start": 55.17,
-      "moon_position_end": 69.99,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "07:46",
-          "constellation": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "07:46",
-          "end_time": "00:00",
-          "constellation": "Gémeaux",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-10-11",
       "date_formatted": "Samedi 11/10/2025",
@@ -233,37 +197,35 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-10-10",
-      "date_formatted": "Vendredi 10/10/2025",
+      "date_iso": "2025-10-17",
+      "date_formatted": "Vendredi 17/10/2025",
       "saints": [
-        "Ste-Eulampie",
-        "St-François de Borgia",
-        "St-Gédéon"
+        "St-Ignace de Constantinople"
       ],
-      "phase_percentage": 84.9,
-      "cycle_trajectoire": "Lune Montante",
+      "phase_percentage": 15.3,
+      "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:02",
-      "sunset": "19:06",
-      "daylight_duration": "11:03:58 (-3min 45s)",
-      "moon_position_start": 55.17,
-      "moon_position_end": 69.99,
+      "sunrise": "08:13",
+      "sunset": "18:51",
+      "daylight_duration": "10:37:54 (-3min 41s)",
+      "moon_position_start": 151.7,
+      "moon_position_end": 164.23,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Taureau",
+          "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-10-11",
       "date_formatted": "Samedi 11/10/2025",
@@ -444,6 +406,32 @@
       "daylight_duration": "10:41:36 (-3min 42s)",
       "moon_position_start": 138.93,
       "moon_position_end": 151.7,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-10-17",
+      "date_formatted": "Vendredi 17/10/2025",
+      "saints": [
+        "St-Ignace de Constantinople"
+      ],
+      "phase_percentage": 15.3,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:13",
+      "sunset": "18:51",
+      "daylight_duration": "10:37:54 (-3min 41s)",
+      "moon_position_start": 151.7,
+      "moon_position_end": 164.23,
       "nodes_info": [],
       "periods": [
         {
