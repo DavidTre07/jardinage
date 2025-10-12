@@ -1,39 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-10-11T06:00:36.905644",
+  "generated_at": "2025-10-12T06:00:34.275396",
   "location": {
     "lat": "48:51:23.8",
     "lon": "2:21:07.9"
   },
   "traditional": [
-    {
-      "date_iso": "2025-10-11",
-      "date_formatted": "Samedi 11/10/2025",
-      "saints": [
-        "St-Anastase 1er",
-        "St-Firmin d'Uzès",
-        "Ste-Zénaïde"
-      ],
-      "phase_percentage": 75.5,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:04",
-      "sunset": "19:08",
-      "daylight_duration": "11:04:09 (-3min 30s)",
-      "moon_position_start": 69.99,
-      "moon_position_end": 84.51,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Gémeaux",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-10-12",
       "date_formatted": "Dimanche 12/10/2025",
@@ -223,37 +195,55 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-10-11",
-      "date_formatted": "Samedi 11/10/2025",
+      "date_iso": "2025-10-18",
+      "date_formatted": "Samedi 18/10/2025",
       "saints": [
-        "St-Anastase 1er",
-        "St-Firmin d'Uzès",
-        "Ste-Zénaïde"
+        "Ste-Gwendolène",
+        "St-Luc, apôtre",
+        "Ste-Tryphonie"
       ],
-      "phase_percentage": 75.5,
-      "cycle_trajectoire": "Lune Montante",
+      "phase_percentage": 8.8,
+      "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:04",
-      "sunset": "19:08",
-      "daylight_duration": "11:04:09 (-3min 30s)",
-      "moon_position_start": 69.99,
-      "moon_position_end": 84.51,
-      "nodes_info": [],
+      "sunrise": "08:15",
+      "sunset": "18:55",
+      "daylight_duration": "10:39:46 (-3min 27s)",
+      "moon_position_start": 164.23,
+      "moon_position_end": 176.57,
+      "nodes_info": [
+        "NŒUD LUNAIRE (descendant) le 18/10 à 06h33 - Pas de jardinage de 02h33 à 10h33"
+      ],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Taureau",
+          "end_time": "02:33",
+          "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "02:33",
+          "end_time": "10:33",
+          "constellation": "Vierge",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "10:33",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-10-12",
       "date_formatted": "Dimanche 12/10/2025",
@@ -439,6 +429,60 @@
           "end_time": "00:00",
           "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-10-18",
+      "date_formatted": "Samedi 18/10/2025",
+      "saints": [
+        "Ste-Gwendolène",
+        "St-Luc, apôtre",
+        "Ste-Tryphonie"
+      ],
+      "phase_percentage": 8.8,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:15",
+      "sunset": "18:55",
+      "daylight_duration": "10:39:46 (-3min 27s)",
+      "moon_position_start": 164.23,
+      "moon_position_end": 176.57,
+      "nodes_info": [
+        "NŒUD LUNAIRE (descendant) le 18/10 à 06h33 - Pas de jardinage de 02h33 à 10h33"
+      ],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "02:33",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "02:33",
+          "end_time": "10:33",
+          "constellation": "Lion",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "10:33",
+          "end_time": "18:58",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "18:58",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
