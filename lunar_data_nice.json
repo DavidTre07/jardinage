@@ -1,47 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-10-12T06:00:36.117627",
+  "generated_at": "2025-10-13T06:00:37.148195",
   "location": {
     "lat": "43:42:36.7",
     "lon": "7:15:43.2"
   },
   "traditional": [
-    {
-      "date_iso": "2025-10-12",
-      "date_formatted": "Dimanche 12/10/2025",
-      "saints": [
-        "St-Pantale",
-        "St-Séraphin du Mont Granario",
-        "St-Wilfried"
-      ],
-      "phase_percentage": 65.0,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:41",
-      "sunset": "18:52",
-      "daylight_duration": "11:11:18 (-2min 55s)",
-      "moon_position_start": 84.51,
-      "moon_position_end": 98.67,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "09:13",
-          "constellation": "Gémeaux",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "09:13",
-          "end_time": "00:00",
-          "constellation": "Cancer",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-10-13",
       "date_formatted": "Lundi 13/10/2025",
@@ -241,45 +205,47 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-10-12",
-      "date_formatted": "Dimanche 12/10/2025",
+      "date_iso": "2025-10-19",
+      "date_formatted": "Dimanche 19/10/2025",
       "saints": [
-        "St-Pantale",
-        "St-Séraphin du Mont Granario",
-        "St-Wilfried"
+        "St-Isaac Jogues",
+        "St-Jean de Bréboeuf",
+        "St-Paul de la croix",
+        "St-Pierre d'Alcantara",
+        "St-René Goupil"
       ],
-      "phase_percentage": 65.0,
+      "phase_percentage": 4.1,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:41",
-      "sunset": "18:52",
-      "daylight_duration": "11:11:18 (-2min 55s)",
-      "moon_position_start": 84.51,
-      "moon_position_end": 98.67,
+      "sunrise": "07:50",
+      "sunset": "18:41",
+      "daylight_duration": "10:51:05 (-2min 51s)",
+      "moon_position_start": 176.57,
+      "moon_position_end": 188.75,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "09:13",
-          "constellation": "Taureau",
+          "end_time": "06:44",
+          "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "09:13",
+          "start_time": "06:44",
           "end_time": "00:00",
-          "constellation": "Gémeaux",
+          "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-10-13",
       "date_formatted": "Lundi 13/10/2025",
@@ -480,6 +446,36 @@
         },
         {
           "start_time": "18:58",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-10-19",
+      "date_formatted": "Dimanche 19/10/2025",
+      "saints": [
+        "St-Isaac Jogues",
+        "St-Jean de Bréboeuf",
+        "St-Paul de la croix",
+        "St-Pierre d'Alcantara",
+        "St-René Goupil"
+      ],
+      "phase_percentage": 4.1,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:50",
+      "sunset": "18:41",
+      "daylight_duration": "10:51:05 (-2min 51s)",
+      "moon_position_start": 176.57,
+      "moon_position_end": 188.75,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
