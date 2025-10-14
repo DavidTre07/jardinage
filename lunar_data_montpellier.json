@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-10-13T06:00:36.707328",
+  "generated_at": "2025-10-14T06:00:41.257807",
   "location": {
     "lat": "43:36:39.6",
     "lon": "3:52:36.1"
   },
   "traditional": [
-    {
-      "date_iso": "2025-10-13",
-      "date_formatted": "Lundi 13/10/2025",
-      "saints": [
-        "St-Géraud d'Aurillac",
-        "St-Théophile  d'Antioche"
-      ],
-      "phase_percentage": 53.9,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:56",
-      "sunset": "19:04",
-      "daylight_duration": "11:08:33 (-2min 54s)",
-      "moon_position_start": 98.67,
-      "moon_position_end": 112.45,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Cancer",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-10-14",
       "date_formatted": "Mardi 14/10/2025",
@@ -243,36 +216,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-10-13",
-      "date_formatted": "Lundi 13/10/2025",
+      "date_iso": "2025-10-20",
+      "date_formatted": "Lundi 20/10/2025",
       "saints": [
-        "St-Géraud d'Aurillac",
-        "St-Théophile  d'Antioche"
+        "Ste-Adeline",
+        "Ste-Irène"
       ],
-      "phase_percentage": 53.9,
+      "phase_percentage": 1.2,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:56",
-      "sunset": "19:04",
-      "daylight_duration": "11:08:33 (-2min 54s)",
-      "moon_position_start": 98.67,
-      "moon_position_end": 112.45,
+      "sunrise": "08:04",
+      "sunset": "18:53",
+      "daylight_duration": "10:48:28 (-2min 50s)",
+      "moon_position_start": 188.75,
+      "moon_position_end": 200.81,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Gémeaux",
+          "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-10-14",
       "date_formatted": "Mardi 14/10/2025",
@@ -472,6 +445,33 @@
       "daylight_duration": "10:51:19 (-2min 51s)",
       "moon_position_start": 176.57,
       "moon_position_end": 188.75,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-10-20",
+      "date_formatted": "Lundi 20/10/2025",
+      "saints": [
+        "Ste-Adeline",
+        "Ste-Irène"
+      ],
+      "phase_percentage": 1.2,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:04",
+      "sunset": "18:53",
+      "daylight_duration": "10:48:28 (-2min 50s)",
+      "moon_position_start": 188.75,
+      "moon_position_end": 200.81,
       "nodes_info": [],
       "periods": [
         {
