@@ -1,46 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-10-14T06:00:40.999568",
+  "generated_at": "2025-10-15T06:00:42.963907",
   "location": {
     "lat": "48:34:24.2",
     "lon": "7:45:07.6"
   },
   "traditional": [
-    {
-      "date_iso": "2025-10-14",
-      "date_formatted": "Mardi 14/10/2025",
-      "saints": [
-        "St-Calixte 1er",
-        "St-Juste de Lyon"
-      ],
-      "phase_percentage": 43.0,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:47",
-      "sunset": "18:41",
-      "daylight_duration": "10:54:25 (-3min 27s)",
-      "moon_position_start": 112.45,
-      "moon_position_end": 125.86,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "13:25",
-          "constellation": "Cancer",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "13:25",
-          "end_time": "00:00",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-10-15",
       "date_formatted": "Mercredi 15/10/2025",
@@ -243,44 +208,45 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-10-14",
-      "date_formatted": "Mardi 14/10/2025",
+      "date_iso": "2025-10-21",
+      "date_formatted": "Mardi 21/10/2025",
       "saints": [
-        "St-Calixte 1er",
-        "St-Juste de Lyon"
+        "Ste-Céline (ou Cilinia)",
+        "St-Hilarion",
+        "Ste-Ursule"
       ],
-      "phase_percentage": 43.0,
+      "phase_percentage": 0.1,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:47",
-      "sunset": "18:41",
-      "daylight_duration": "10:54:25 (-3min 27s)",
-      "moon_position_start": 112.45,
-      "moon_position_end": 125.86,
+      "sunrise": "07:57",
+      "sunset": "18:28",
+      "daylight_duration": "10:30:28 (-3min 23s)",
+      "moon_position_start": 200.81,
+      "moon_position_end": 212.77,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "13:25",
-          "constellation": "Gémeaux",
+          "end_time": "18:25",
+          "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "13:25",
+          "start_time": "18:25",
           "end_time": "00:00",
-          "constellation": "Cancer",
+          "constellation": "Scorpion",
           "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-10-15",
       "date_formatted": "Mercredi 15/10/2025",
@@ -472,6 +438,34 @@
       "daylight_duration": "10:33:52 (-3min 23s)",
       "moon_position_start": 188.75,
       "moon_position_end": 200.81,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-10-21",
+      "date_formatted": "Mardi 21/10/2025",
+      "saints": [
+        "Ste-Céline (ou Cilinia)",
+        "St-Hilarion",
+        "Ste-Ursule"
+      ],
+      "phase_percentage": 0.1,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:57",
+      "sunset": "18:28",
+      "daylight_duration": "10:30:28 (-3min 23s)",
+      "moon_position_start": 200.81,
+      "moon_position_end": 212.77,
       "nodes_info": [],
       "periods": [
         {
