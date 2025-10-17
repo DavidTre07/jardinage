@@ -1,50 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-10-16T06:01:08.107942",
+  "generated_at": "2025-10-17T06:01:07.896136",
   "location": {
     "lat": "44:50:16.1",
     "lon": "-0:34:45.1"
   },
   "traditional": [
-    {
-      "date_iso": "2025-10-16",
-      "date_formatted": "Jeudi 16/10/2025",
-      "saints": [
-        "St-Bertrand de Comminges",
-        "Ste-Eremberte",
-        "St-Gall",
-        "St-Gérard Magella",
-        "Ste-Hedwige",
-        "Ste-Marguerite-Marie Alacoque"
-      ],
-      "phase_percentage": 23.3,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:18",
-      "sunset": "19:15",
-      "daylight_duration": "10:56:59 (-3min)",
-      "moon_position_start": 138.93,
-      "moon_position_end": 151.7,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "20:46",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "20:46",
-          "end_time": "00:00",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-10-17",
       "date_formatted": "Vendredi 17/10/2025",
@@ -244,40 +205,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-10-16",
-      "date_formatted": "Jeudi 16/10/2025",
+      "date_iso": "2025-10-23",
+      "date_formatted": "Jeudi 23/10/2025",
       "saints": [
-        "St-Bertrand de Comminges",
-        "Ste-Eremberte",
-        "St-Gall",
-        "St-Gérard Magella",
-        "Ste-Hedwige",
-        "Ste-Marguerite-Marie Alacoque"
+        "St-Hyacinthe",
+        "St-Jean de Capistran"
       ],
-      "phase_percentage": 23.3,
+      "phase_percentage": 3.4,
       "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:18",
-      "sunset": "19:15",
-      "daylight_duration": "10:56:59 (-3min)",
-      "moon_position_start": 138.93,
-      "moon_position_end": 151.7,
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:28",
+      "sunset": "19:04",
+      "daylight_duration": "10:36:13 (-2min 55s)",
+      "moon_position_start": 224.67,
+      "moon_position_end": 236.52,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "constellation": "Scorpion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-10-17",
       "date_formatted": "Vendredi 17/10/2025",
@@ -470,6 +427,33 @@
         },
         {
           "start_time": "10:32",
+          "end_time": "00:00",
+          "constellation": "Balance",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-10-23",
+      "date_formatted": "Jeudi 23/10/2025",
+      "saints": [
+        "St-Hyacinthe",
+        "St-Jean de Capistran"
+      ],
+      "phase_percentage": 3.4,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:28",
+      "sunset": "19:04",
+      "daylight_duration": "10:36:13 (-2min 55s)",
+      "moon_position_start": 224.67,
+      "moon_position_end": 236.52,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
