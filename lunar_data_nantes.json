@@ -1,49 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-10-19T06:01:05.574254",
+  "generated_at": "2025-10-20T06:01:05.939942",
   "location": {
     "lat": "47:13:06.2",
     "lon": "-1:33:13.0"
   },
   "traditional": [
-    {
-      "date_iso": "2025-10-19",
-      "date_formatted": "Dimanche 19/10/2025",
-      "saints": [
-        "St-Isaac Jogues",
-        "St-Jean de Bréboeuf",
-        "St-Paul de la croix",
-        "St-Pierre d'Alcantara",
-        "St-René Goupil"
-      ],
-      "phase_percentage": 4.1,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:30",
-      "sunset": "19:11",
-      "daylight_duration": "10:41:17 (-3min 14s)",
-      "moon_position_start": 176.57,
-      "moon_position_end": 188.75,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "06:44",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "06:44",
-          "end_time": "00:00",
-          "constellation": "Balance",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-10-20",
       "date_formatted": "Lundi 20/10/2025",
@@ -222,39 +184,44 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-10-19",
-      "date_formatted": "Dimanche 19/10/2025",
+      "date_iso": "2025-10-26",
+      "date_formatted": "Dimanche 26/10/2025",
       "saints": [
-        "St-Isaac Jogues",
-        "St-Jean de Bréboeuf",
-        "St-Paul de la croix",
-        "St-Pierre d'Alcantara",
-        "St-René Goupil"
+        "St-Evariste",
+        "St-Rustique"
       ],
-      "phase_percentage": 4.1,
+      "phase_percentage": 20.7,
       "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:30",
-      "sunset": "19:11",
-      "daylight_duration": "10:41:17 (-3min 14s)",
-      "moon_position_start": 176.57,
-      "moon_position_end": 188.75,
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:40",
+      "sunset": "17:59",
+      "daylight_duration": "10:18:55 (-3min 8s)",
+      "moon_position_start": 260.24,
+      "moon_position_end": 272.69,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
+          "end_time": "18:36",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "18:36",
           "end_time": "00:00",
-          "constellation": "Vierge",
+          "constellation": "Capricorne",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-10-20",
       "date_formatted": "Lundi 20/10/2025",
@@ -438,6 +405,41 @@
           "constellation": "Serpentaire",
           "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
           "seve_info": "",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-10-26",
+      "date_formatted": "Dimanche 26/10/2025",
+      "saints": [
+        "St-Evariste",
+        "St-Rustique"
+      ],
+      "phase_percentage": 20.7,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:40",
+      "sunset": "17:59",
+      "daylight_duration": "10:18:55 (-3min 8s)",
+      "moon_position_start": 260.24,
+      "moon_position_end": 272.69,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "10:35",
+          "constellation": "Serpentaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
+          "blocked": false
+        },
+        {
+          "start_time": "10:35",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
