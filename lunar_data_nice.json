@@ -1,47 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-10-21T06:01:05.308851",
+  "generated_at": "2025-10-22T06:00:23.715684",
   "location": {
     "lat": "43:42:36.7",
     "lon": "7:15:43.2"
   },
   "traditional": [
-    {
-      "date_iso": "2025-10-21",
-      "date_formatted": "Mardi 21/10/2025",
-      "saints": [
-        "Ste-Céline (ou Cilinia)",
-        "St-Hilarion",
-        "Ste-Ursule"
-      ],
-      "phase_percentage": 0.1,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:52",
-      "sunset": "18:37",
-      "daylight_duration": "10:45:24 (-2min 50s)",
-      "moon_position_start": 200.81,
-      "moon_position_end": 212.77,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "18:25",
-          "constellation": "Balance",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "18:25",
-          "end_time": "00:00",
-          "constellation": "Scorpion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-10-22",
       "date_formatted": "Mercredi 22/10/2025",
@@ -219,37 +183,37 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-10-21",
-      "date_formatted": "Mardi 21/10/2025",
+      "date_iso": "2025-10-28",
+      "date_formatted": "Mardi 28/10/2025",
       "saints": [
-        "Ste-Céline (ou Cilinia)",
-        "St-Hilarion",
-        "Ste-Ursule"
+        "St-Cyrille",
+        "St-Jude",
+        "St-Simon le Cananéen"
       ],
-      "phase_percentage": 0.1,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:52",
-      "sunset": "18:37",
-      "daylight_duration": "10:45:24 (-2min 50s)",
-      "moon_position_start": 200.81,
-      "moon_position_end": 212.77,
+      "phase_percentage": 38.0,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:01",
+      "sunset": "17:27",
+      "daylight_duration": "10:25:55 (-2min 44s)",
+      "moon_position_start": 284.79,
+      "moon_position_end": 297.08,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Vierge",
+          "constellation": "Capricorne",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-10-22",
       "date_formatted": "Mercredi 22/10/2025",
@@ -432,6 +396,34 @@
       "daylight_duration": "10:28:39 (-2min 45s)",
       "moon_position_start": 272.69,
       "moon_position_end": 284.79,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-10-28",
+      "date_formatted": "Mardi 28/10/2025",
+      "saints": [
+        "St-Cyrille",
+        "St-Jude",
+        "St-Simon le Cananéen"
+      ],
+      "phase_percentage": 38.0,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:01",
+      "sunset": "17:27",
+      "daylight_duration": "10:25:55 (-2min 44s)",
+      "moon_position_start": 284.79,
+      "moon_position_end": 297.08,
       "nodes_info": [],
       "periods": [
         {
