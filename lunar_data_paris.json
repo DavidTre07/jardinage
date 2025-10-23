@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-10-22T06:00:21.510178",
+  "generated_at": "2025-10-23T06:00:21.845742",
   "location": {
     "lat": "48:51:23.8",
     "lon": "2:21:07.9"
   },
   "traditional": [
-    {
-      "date_iso": "2025-10-22",
-      "date_formatted": "Mercredi 22/10/2025",
-      "saints": [
-        "St-Philippe",
-        "St-Vallier"
-      ],
-      "phase_percentage": 0.9,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:21",
-      "sunset": "18:47",
-      "daylight_duration": "10:26:04 (-3min 24s)",
-      "moon_position_start": 212.77,
-      "moon_position_end": 224.67,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Scorpion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-10-23",
       "date_formatted": "Jeudi 23/10/2025",
@@ -211,44 +184,43 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-10-22",
-      "date_formatted": "Mercredi 22/10/2025",
+      "date_iso": "2025-10-29",
+      "date_formatted": "Mercredi 29/10/2025",
       "saints": [
-        "St-Philippe",
-        "St-Vallier"
+        "St-Narcisse"
       ],
-      "phase_percentage": 0.9,
-      "cycle_trajectoire": "Lune Descendante",
+      "phase_percentage": 47.9,
+      "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:21",
-      "sunset": "18:47",
-      "daylight_duration": "10:26:04 (-3min 24s)",
-      "moon_position_start": 212.77,
-      "moon_position_end": 224.67,
+      "sunrise": "07:32",
+      "sunset": "17:35",
+      "daylight_duration": "10:02:39 (-3min 17s)",
+      "moon_position_start": 297.08,
+      "moon_position_end": 309.66,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "10:32",
-          "constellation": "Vierge",
+          "end_time": "05:36",
+          "constellation": "Capricorne",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         },
         {
-          "start_time": "10:32",
+          "start_time": "05:36",
           "end_time": "00:00",
-          "constellation": "Balance",
+          "constellation": "Verseau",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-10-23",
       "date_formatted": "Jeudi 23/10/2025",
@@ -431,6 +403,40 @@
           "end_time": "00:00",
           "constellation": "Sagittaire",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-10-29",
+      "date_formatted": "Mercredi 29/10/2025",
+      "saints": [
+        "St-Narcisse"
+      ],
+      "phase_percentage": 47.9,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:32",
+      "sunset": "17:35",
+      "daylight_duration": "10:02:39 (-3min 17s)",
+      "moon_position_start": 297.08,
+      "moon_position_end": 309.66,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "05:36",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "05:36",
+          "end_time": "00:00",
+          "constellation": "Capricorne",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
