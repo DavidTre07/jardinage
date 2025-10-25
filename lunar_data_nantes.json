@@ -1,45 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-10-24T06:00:26.126536",
+  "generated_at": "2025-10-25T06:00:24.272597",
   "location": {
     "lat": "47:13:06.2",
     "lon": "-1:33:13.0"
   },
   "traditional": [
-    {
-      "date_iso": "2025-10-24",
-      "date_formatted": "Vendredi 24/10/2025",
-      "saints": [
-        "St-Antoine-Marie Claret"
-      ],
-      "phase_percentage": 7.6,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:37",
-      "sunset": "19:02",
-      "daylight_duration": "10:25:14 (-3min 10s)",
-      "moon_position_start": 236.52,
-      "moon_position_end": 248.37,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "07:02",
-          "constellation": "Scorpion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "07:02",
-          "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-10-25",
       "date_formatted": "Samedi 25/10/2025",
@@ -217,51 +183,44 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-10-24",
-      "date_formatted": "Vendredi 24/10/2025",
+      "date_iso": "2025-10-31",
+      "date_formatted": "Vendredi 31/10/2025",
       "saints": [
-        "St-Antoine-Marie Claret"
+        "St-Foillan",
+        "St-Quentin"
       ],
-      "phase_percentage": 7.6,
-      "cycle_trajectoire": "Lune Descendante",
+      "phase_percentage": 68.3,
+      "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:37",
-      "sunset": "19:02",
-      "daylight_duration": "10:25:14 (-3min 10s)",
-      "moon_position_start": 236.52,
-      "moon_position_end": 248.37,
+      "sunrise": "07:47",
+      "sunset": "17:51",
+      "daylight_duration": "10:03:28 (-3min 3s)",
+      "moon_position_start": 322.59,
+      "moon_position_end": 335.94,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "09:04",
-          "constellation": "Balance",
+          "end_time": "13:24",
+          "constellation": "Verseau",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         },
         {
-          "start_time": "09:04",
-          "end_time": "23:15",
-          "constellation": "Scorpion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "23:15",
+          "start_time": "13:24",
           "end_time": "00:00",
-          "constellation": "Serpentaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-10-25",
       "date_formatted": "Samedi 25/10/2025",
@@ -435,6 +394,41 @@
           "end_time": "00:00",
           "constellation": "Capricorne",
           "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-10-31",
+      "date_formatted": "Vendredi 31/10/2025",
+      "saints": [
+        "St-Foillan",
+        "St-Quentin"
+      ],
+      "phase_percentage": 68.3,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:47",
+      "sunset": "17:51",
+      "daylight_duration": "10:03:28 (-3min 3s)",
+      "moon_position_start": 322.59,
+      "moon_position_end": 335.94,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "13:24",
+          "constellation": "Capricorne",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "13:24",
+          "end_time": "00:00",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
