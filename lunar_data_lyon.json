@@ -1,101 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-10-25T06:00:23.517952",
+  "generated_at": "2025-10-28T21:43:57.748714",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
   },
   "traditional": [
-    {
-      "date_iso": "2025-10-25",
-      "date_formatted": "Samedi 25/10/2025",
-      "saints": [
-        "St-Chrysanthe",
-        "St-Crépin (ou Crispin)",
-        "Ste-Darie"
-      ],
-      "phase_percentage": 13.3,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:10",
-      "sunset": "18:38",
-      "daylight_duration": "10:27:18 (-3min)",
-      "moon_position_start": 248.37,
-      "moon_position_end": 260.24,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
-    {
-      "date_iso": "2025-10-26",
-      "date_formatted": "Dimanche 26/10/2025",
-      "saints": [
-        "St-Evariste",
-        "St-Rustique"
-      ],
-      "phase_percentage": 20.7,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:12",
-      "sunset": "17:36",
-      "daylight_duration": "10:24:19 (-2min 59s)",
-      "moon_position_start": 260.24,
-      "moon_position_end": 272.69,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "18:36",
-          "constellation": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "18:36",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
-    {
-      "date_iso": "2025-10-27",
-      "date_formatted": "Lundi 27/10/2025",
-      "saints": [
-        "Ste-Antoinette",
-        "Ste-Frumence"
-      ],
-      "phase_percentage": 28.9,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:13",
-      "sunset": "17:34",
-      "daylight_duration": "10:21:21 (-2min 58s)",
-      "moon_position_start": 272.69,
-      "moon_position_end": 284.79,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-10-28",
       "date_formatted": "Mardi 28/10/2025",
@@ -218,99 +128,120 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
-    {
-      "date_iso": "2025-10-25",
-      "date_formatted": "Samedi 25/10/2025",
-      "saints": [
-        "St-Chrysanthe",
-        "St-Crépin (ou Crispin)",
-        "Ste-Darie"
-      ],
-      "phase_percentage": 13.3,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:10",
-      "sunset": "18:38",
-      "daylight_duration": "10:27:18 (-3min)",
-      "moon_position_start": 248.37,
-      "moon_position_end": 260.24,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Serpentaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
-          "blocked": false
-        }
-      ]
     },
     {
-      "date_iso": "2025-10-26",
-      "date_formatted": "Dimanche 26/10/2025",
+      "date_iso": "2025-11-01",
+      "date_formatted": "Samedi 01/11/2025",
       "saints": [
-        "St-Evariste",
-        "St-Rustique"
+        "St-Austremoine",
+        "St-Floribert",
+        "St-Mathurin",
+        "Toussaint (tous les saints)"
       ],
-      "phase_percentage": 20.7,
-      "cycle_trajectoire": "Lune Descendante",
+      "phase_percentage": 78.0,
+      "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:12",
-      "sunset": "17:36",
-      "daylight_duration": "10:24:19 (-2min 59s)",
-      "moon_position_start": 260.24,
-      "moon_position_end": 272.69,
-      "nodes_info": [],
+      "sunrise": "07:20",
+      "sunset": "17:27",
+      "daylight_duration": "10:06:48 (-2min 52s)",
+      "moon_position_start": 335.94,
+      "moon_position_end": 349.76,
+      "nodes_info": [
+        "NŒUD LUNAIRE (ascendant) le 01/11 à 18h43 - Pas de jardinage de 14h43 à 22h43"
+      ],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "10:35",
-          "constellation": "Serpentaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
+          "end_time": "14:43",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         },
         {
-          "start_time": "10:35",
+          "start_time": "14:43",
+          "end_time": "22:43",
+          "constellation": "Poissons",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "22:43",
           "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
     },
     {
-      "date_iso": "2025-10-27",
-      "date_formatted": "Lundi 27/10/2025",
+      "date_iso": "2025-11-02",
+      "date_formatted": "Dimanche 02/11/2025",
       "saints": [
-        "Ste-Antoinette",
-        "Ste-Frumence"
+        "St-Anempodiste",
+        "Défunts",
+        "St-Elpidephore"
       ],
-      "phase_percentage": 28.9,
+      "phase_percentage": 86.6,
       "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:13",
-      "sunset": "17:34",
-      "daylight_duration": "10:21:21 (-2min 58s)",
-      "moon_position_start": 272.69,
-      "moon_position_end": 284.79,
+      "sunrise": "07:21",
+      "sunset": "17:25",
+      "daylight_duration": "10:03:58 (-2min 50s)",
+      "moon_position_start": 349.76,
+      "moon_position_end": 4.06,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
+          "end_time": "17:15",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "17:15",
           "end_time": "00:00",
-          "constellation": "Sagittaire",
+          "constellation": "Bélier",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
     },
+    {
+      "date_iso": "2025-11-03",
+      "date_formatted": "Lundi 03/11/2025",
+      "saints": [
+        "St-Gwénaà«l",
+        "St-Hubert",
+        "St-Martin de  Porrès"
+      ],
+      "phase_percentage": 93.5,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:23",
+      "sunset": "17:24",
+      "daylight_duration": "10:01:08 (-2min 49s)",
+      "moon_position_start": 4.06,
+      "moon_position_end": 18.81,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-10-28",
       "date_formatted": "Mardi 28/10/2025",
@@ -429,6 +360,117 @@
           "end_time": "00:00",
           "constellation": "Verseau",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-11-01",
+      "date_formatted": "Samedi 01/11/2025",
+      "saints": [
+        "St-Austremoine",
+        "St-Floribert",
+        "St-Mathurin",
+        "Toussaint (tous les saints)"
+      ],
+      "phase_percentage": 78.0,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:20",
+      "sunset": "17:27",
+      "daylight_duration": "10:06:48 (-2min 52s)",
+      "moon_position_start": 335.94,
+      "moon_position_end": 349.76,
+      "nodes_info": [
+        "NŒUD LUNAIRE (ascendant) le 01/11 à 18h43 - Pas de jardinage de 14h43 à 22h43"
+      ],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "14:43",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "14:43",
+          "end_time": "22:43",
+          "constellation": "Verseau",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "22:43",
+          "end_time": "00:00",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-11-02",
+      "date_formatted": "Dimanche 02/11/2025",
+      "saints": [
+        "St-Anempodiste",
+        "Défunts",
+        "St-Elpidephore"
+      ],
+      "phase_percentage": 86.6,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:21",
+      "sunset": "17:25",
+      "daylight_duration": "10:03:58 (-2min 50s)",
+      "moon_position_start": 349.76,
+      "moon_position_end": 4.06,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "17:15",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "17:15",
+          "end_time": "00:00",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-11-03",
+      "date_formatted": "Lundi 03/11/2025",
+      "saints": [
+        "St-Gwénaà«l",
+        "St-Hubert",
+        "St-Martin de  Porrès"
+      ],
+      "phase_percentage": 93.5,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:23",
+      "sunset": "17:24",
+      "daylight_duration": "10:01:08 (-2min 49s)",
+      "moon_position_start": 4.06,
+      "moon_position_end": 18.81,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
