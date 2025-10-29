@@ -1,39 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-10-28T21:43:57.981761",
+  "generated_at": "2025-10-29T06:00:42.395640",
   "location": {
     "lat": "43:17:47.4",
     "lon": "5:22:11.3"
   },
   "traditional": [
-    {
-      "date_iso": "2025-10-28",
-      "date_formatted": "Mardi 28/10/2025",
-      "saints": [
-        "St-Cyrille",
-        "St-Jude",
-        "St-Simon le Cananéen"
-      ],
-      "phase_percentage": 38.0,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:08",
-      "sunset": "17:35",
-      "daylight_duration": "10:27:21 (-2min 41s)",
-      "moon_position_start": 284.79,
-      "moon_position_end": 297.08,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-10-29",
       "date_formatted": "Mercredi 29/10/2025",
@@ -235,6 +207,41 @@
           "end_time": "00:00",
           "constellation": "Bélier",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-11-04",
+      "date_formatted": "Mardi 04/11/2025",
+      "saints": [
+        "St-Charles Borromée",
+        "St-Porphyre"
+      ],
+      "phase_percentage": 98.1,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:17",
+      "sunset": "17:26",
+      "daylight_duration": "10:09:03 (-2min 32s)",
+      "moon_position_start": 18.81,
+      "moon_position_end": 33.91,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "17:49",
+          "constellation": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "17:49",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
@@ -243,34 +250,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2025-10-28",
-      "date_formatted": "Mardi 28/10/2025",
-      "saints": [
-        "St-Cyrille",
-        "St-Jude",
-        "St-Simon le Cananéen"
-      ],
-      "phase_percentage": 38.0,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:08",
-      "sunset": "17:35",
-      "daylight_duration": "10:27:21 (-2min 41s)",
-      "moon_position_start": 284.79,
-      "moon_position_end": 297.08,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2025-10-29",
       "date_formatted": "Mercredi 29/10/2025",
       "saints": [
@@ -471,6 +450,41 @@
           "end_time": "00:00",
           "constellation": "Poissons",
           "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-11-04",
+      "date_formatted": "Mardi 04/11/2025",
+      "saints": [
+        "St-Charles Borromée",
+        "St-Porphyre"
+      ],
+      "phase_percentage": 98.1,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:17",
+      "sunset": "17:26",
+      "daylight_duration": "10:09:03 (-2min 32s)",
+      "moon_position_start": 18.81,
+      "moon_position_end": 33.91,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "13:04",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "13:04",
+          "end_time": "00:00",
+          "constellation": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
