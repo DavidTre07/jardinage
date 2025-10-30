@@ -1,45 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-10-29T06:00:41.878494",
+  "generated_at": "2025-10-30T06:00:40.353494",
   "location": {
     "lat": "48:51:23.8",
     "lon": "2:21:07.9"
   },
   "traditional": [
-    {
-      "date_iso": "2025-10-29",
-      "date_formatted": "Mercredi 29/10/2025",
-      "saints": [
-        "St-Narcisse"
-      ],
-      "phase_percentage": 47.9,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:32",
-      "sunset": "17:35",
-      "daylight_duration": "10:02:39 (-3min 17s)",
-      "moon_position_start": 297.08,
-      "moon_position_end": 309.66,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "05:36",
-          "constellation": "Capricorne",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "05:36",
-          "end_time": "00:00",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-10-30",
       "date_formatted": "Jeudi 30/10/2025",
@@ -246,43 +212,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-10-29",
-      "date_formatted": "Mercredi 29/10/2025",
+      "date_iso": "2025-11-05",
+      "date_formatted": "Mercredi 05/11/2025",
       "saints": [
-        "St-Narcisse"
+        "Ste-Elisabeth (mère de Jean-Baptiste)",
+        "St-Zacharie (père de Jean-Baptiste)"
       ],
-      "phase_percentage": 47.9,
+      "phase_percentage": 99.9,
       "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:32",
-      "sunset": "17:35",
-      "daylight_duration": "10:02:39 (-3min 17s)",
-      "moon_position_start": 297.08,
-      "moon_position_end": 309.66,
+      "sunrise": "07:43",
+      "sunset": "17:24",
+      "daylight_duration": "09:40:17 (-3min 6s)",
+      "moon_position_start": 33.91,
+      "moon_position_end": 49.2,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "05:36",
-          "constellation": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "05:36",
           "end_time": "00:00",
-          "constellation": "Capricorne",
+          "constellation": "Taureau",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-10-30",
       "date_formatted": "Jeudi 30/10/2025",
@@ -482,6 +441,33 @@
         },
         {
           "start_time": "13:04",
+          "end_time": "00:00",
+          "constellation": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-11-05",
+      "date_formatted": "Mercredi 05/11/2025",
+      "saints": [
+        "Ste-Elisabeth (mère de Jean-Baptiste)",
+        "St-Zacharie (père de Jean-Baptiste)"
+      ],
+      "phase_percentage": 99.9,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:43",
+      "sunset": "17:24",
+      "daylight_duration": "09:40:17 (-3min 6s)",
+      "moon_position_start": 33.91,
+      "moon_position_end": 49.2,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Bélier",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
