@@ -1,37 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-10-30T06:00:42.482847",
+  "generated_at": "2025-10-31T06:01:10.578774",
   "location": {
     "lat": "44:50:16.1",
     "lon": "-0:34:45.1"
   },
   "traditional": [
-    {
-      "date_iso": "2025-10-30",
-      "date_formatted": "Jeudi 30/10/2025",
-      "saints": [
-        "St-Alphonse Rodriguez"
-      ],
-      "phase_percentage": 58.1,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:37",
-      "sunset": "17:53",
-      "daylight_duration": "10:16:10 (-2min 48s)",
-      "moon_position_start": 309.66,
-      "moon_position_end": 322.59,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-10-31",
       "date_formatted": "Vendredi 31/10/2025",
@@ -239,35 +213,43 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-10-30",
-      "date_formatted": "Jeudi 30/10/2025",
+      "date_iso": "2025-11-06",
+      "date_formatted": "Jeudi 06/11/2025",
       "saints": [
-        "St-Alphonse Rodriguez"
+        "St-Léonard de Noblac"
       ],
-      "phase_percentage": 58.1,
+      "phase_percentage": 98.6,
       "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:37",
-      "sunset": "17:53",
-      "daylight_duration": "10:16:10 (-2min 48s)",
-      "moon_position_start": 309.66,
-      "moon_position_end": 322.59,
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:47",
+      "sunset": "17:44",
+      "daylight_duration": "09:57:07 (-2min 38s)",
+      "moon_position_start": 49.2,
+      "moon_position_end": 64.52,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
+          "end_time": "16:54",
+          "constellation": "Taureau",
           "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "16:54",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-10-31",
       "date_formatted": "Vendredi 31/10/2025",
@@ -471,6 +453,40 @@
           "end_time": "00:00",
           "constellation": "Bélier",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-11-06",
+      "date_formatted": "Jeudi 06/11/2025",
+      "saints": [
+        "St-Léonard de Noblac"
+      ],
+      "phase_percentage": 98.6,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:47",
+      "sunset": "17:44",
+      "daylight_duration": "09:57:07 (-2min 38s)",
+      "moon_position_start": 49.2,
+      "moon_position_end": 64.52,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "07:30",
+          "constellation": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "07:30",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
