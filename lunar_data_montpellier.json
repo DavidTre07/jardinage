@@ -1,46 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-10-31T06:01:10.283152",
+  "generated_at": "2025-11-01T06:01:58.680620",
   "location": {
     "lat": "43:36:39.6",
     "lon": "3:52:36.1"
   },
   "traditional": [
-    {
-      "date_iso": "2025-10-31",
-      "date_formatted": "Vendredi 31/10/2025",
-      "saints": [
-        "St-Foillan",
-        "St-Quentin"
-      ],
-      "phase_percentage": 68.3,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:18",
-      "sunset": "17:36",
-      "daylight_duration": "10:18:11 (-2min 40s)",
-      "moon_position_start": 322.59,
-      "moon_position_end": 335.94,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "13:24",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "13:24",
-          "end_time": "00:00",
-          "constellation": "Poissons",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-11-01",
       "date_formatted": "Samedi 01/11/2025",
@@ -247,44 +212,38 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-10-31",
-      "date_formatted": "Vendredi 31/10/2025",
+      "date_iso": "2025-11-07",
+      "date_formatted": "Vendredi 07/11/2025",
       "saints": [
-        "St-Foillan",
-        "St-Quentin"
+        "Ste-Carine",
+        "St-Ernest",
+        "St-Florent de Strasbourg",
+        "St-Willibrord"
       ],
-      "phase_percentage": 68.3,
+      "phase_percentage": 94.3,
       "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:18",
-      "sunset": "17:36",
-      "daylight_duration": "10:18:11 (-2min 40s)",
-      "moon_position_start": 322.59,
-      "moon_position_end": 335.94,
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:27",
+      "sunset": "17:28",
+      "daylight_duration": "10:00:09 (-2min 29s)",
+      "moon_position_start": 64.52,
+      "moon_position_end": 79.66,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "13:24",
-          "constellation": "Capricorne",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "13:24",
           "end_time": "00:00",
-          "constellation": "Verseau",
+          "constellation": "Gémeaux",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-11-01",
       "date_formatted": "Samedi 01/11/2025",
@@ -484,6 +443,35 @@
         },
         {
           "start_time": "07:30",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-11-07",
+      "date_formatted": "Vendredi 07/11/2025",
+      "saints": [
+        "Ste-Carine",
+        "St-Ernest",
+        "St-Florent de Strasbourg",
+        "St-Willibrord"
+      ],
+      "phase_percentage": 94.3,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:27",
+      "sunset": "17:28",
+      "daylight_duration": "10:00:09 (-2min 29s)",
+      "moon_position_start": 64.52,
+      "moon_position_end": 79.66,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Taureau",
           "recommendation": "Actions favorables aux légumes racines.",
