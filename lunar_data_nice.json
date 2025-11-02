@@ -1,58 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-11-01T06:01:59.279581",
+  "generated_at": "2025-11-02T06:00:30.494397",
   "location": {
     "lat": "43:42:36.7",
     "lon": "7:15:43.2"
   },
   "traditional": [
-    {
-      "date_iso": "2025-11-01",
-      "date_formatted": "Samedi 01/11/2025",
-      "saints": [
-        "St-Austremoine",
-        "St-Floribert",
-        "St-Mathurin",
-        "Toussaint (tous les saints)"
-      ],
-      "phase_percentage": 78.0,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:06",
-      "sunset": "17:21",
-      "daylight_duration": "10:15:10 (-2min 39s)",
-      "moon_position_start": 335.94,
-      "moon_position_end": 349.76,
-      "nodes_info": [
-        "NŒUD LUNAIRE (ascendant) le 01/11 à 18h43 - Pas de jardinage de 14h43 à 22h43"
-      ],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "14:43",
-          "constellation": "Poissons",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "14:43",
-          "end_time": "22:43",
-          "constellation": "Poissons",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "22:43",
-          "end_time": "00:00",
-          "constellation": "Poissons",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-11-02",
       "date_formatted": "Dimanche 02/11/2025",
@@ -241,56 +194,44 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-11-01",
-      "date_formatted": "Samedi 01/11/2025",
+      "date_iso": "2025-11-08",
+      "date_formatted": "Samedi 08/11/2025",
       "saints": [
-        "St-Austremoine",
-        "St-Floribert",
-        "St-Mathurin",
-        "Toussaint (tous les saints)"
+        "St-Geoffroy (ou Godefroy)",
+        "St-Maur"
       ],
-      "phase_percentage": 78.0,
+      "phase_percentage": 87.5,
       "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:06",
-      "sunset": "17:21",
-      "daylight_duration": "10:15:10 (-2min 39s)",
-      "moon_position_start": 335.94,
-      "moon_position_end": 349.76,
-      "nodes_info": [
-        "NŒUD LUNAIRE (ascendant) le 01/11 à 18h43 - Pas de jardinage de 14h43 à 22h43"
-      ],
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:15",
+      "sunset": "17:13",
+      "daylight_duration": "09:57:15 (-2min 28s)",
+      "moon_position_start": 79.66,
+      "moon_position_end": 94.47,
+      "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "14:43",
-          "constellation": "Verseau",
+          "end_time": "16:41",
+          "constellation": "Gémeaux",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         },
         {
-          "start_time": "14:43",
-          "end_time": "22:43",
-          "constellation": "Verseau",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "22:43",
+          "start_time": "16:41",
           "end_time": "00:00",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "constellation": "Cancer",
+          "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-11-02",
       "date_formatted": "Dimanche 02/11/2025",
@@ -475,6 +416,41 @@
           "end_time": "00:00",
           "constellation": "Taureau",
           "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-11-08",
+      "date_formatted": "Samedi 08/11/2025",
+      "saints": [
+        "St-Geoffroy (ou Godefroy)",
+        "St-Maur"
+      ],
+      "phase_percentage": 87.5,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:15",
+      "sunset": "17:13",
+      "daylight_duration": "09:57:15 (-2min 28s)",
+      "moon_position_start": 79.66,
+      "moon_position_end": 94.47,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "16:41",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "16:41",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
