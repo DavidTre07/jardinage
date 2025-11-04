@@ -1,39 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-11-03T06:00:29.563262",
+  "generated_at": "2025-11-04T06:00:31.297510",
   "location": {
     "lat": "43:36:39.6",
     "lon": "3:52:36.1"
   },
   "traditional": [
-    {
-      "date_iso": "2025-11-03",
-      "date_formatted": "Lundi 03/11/2025",
-      "saints": [
-        "St-Gwénaà«l",
-        "St-Hubert",
-        "St-Martin de  Porrès"
-      ],
-      "phase_percentage": 93.5,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:22",
-      "sunset": "17:32",
-      "daylight_duration": "10:10:18 (-2min 36s)",
-      "moon_position_start": 4.06,
-      "moon_position_end": 18.81,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Bélier",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-11-04",
       "date_formatted": "Mardi 04/11/2025",
@@ -219,37 +191,45 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-11-03",
-      "date_formatted": "Lundi 03/11/2025",
+      "date_iso": "2025-11-10",
+      "date_formatted": "Lundi 10/11/2025",
       "saints": [
-        "St-Gwénaà«l",
-        "St-Hubert",
-        "St-Martin de  Porrès"
+        "St-André Avellin",
+        "St-Léon le Grand",
+        "St-Tryphon"
       ],
-      "phase_percentage": 93.5,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:22",
-      "sunset": "17:32",
-      "daylight_duration": "10:10:18 (-2min 36s)",
-      "moon_position_start": 4.06,
-      "moon_position_end": 18.81,
+      "phase_percentage": 68.9,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:31",
+      "sunset": "17:24",
+      "daylight_duration": "09:52:49 (-2min 24s)",
+      "moon_position_start": 108.85,
+      "moon_position_end": 122.75,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Poissons",
+          "end_time": "19:11",
+          "constellation": "Cancer",
           "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "19:11",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-11-04",
       "date_formatted": "Mardi 04/11/2025",
@@ -431,6 +411,42 @@
           "end_time": "00:00",
           "constellation": "Gémeaux",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-11-10",
+      "date_formatted": "Lundi 10/11/2025",
+      "saints": [
+        "St-André Avellin",
+        "St-Léon le Grand",
+        "St-Tryphon"
+      ],
+      "phase_percentage": 68.9,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:31",
+      "sunset": "17:24",
+      "daylight_duration": "09:52:49 (-2min 24s)",
+      "moon_position_start": 108.85,
+      "moon_position_end": 122.75,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "19:11",
+          "constellation": "Gémeaux",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "19:11",
+          "end_time": "00:00",
+          "constellation": "Cancer",
+          "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
