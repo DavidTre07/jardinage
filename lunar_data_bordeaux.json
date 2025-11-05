@@ -1,46 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-11-04T06:00:31.546921",
+  "generated_at": "2025-11-05T06:00:31.135786",
   "location": {
     "lat": "44:50:16.1",
     "lon": "-0:34:45.1"
   },
   "traditional": [
-    {
-      "date_iso": "2025-11-04",
-      "date_formatted": "Mardi 04/11/2025",
-      "saints": [
-        "St-Charles Borromée",
-        "St-Porphyre"
-      ],
-      "phase_percentage": 98.1,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:44",
-      "sunset": "17:46",
-      "daylight_duration": "10:02:26 (-2min 41s)",
-      "moon_position_start": 18.81,
-      "moon_position_end": 33.91,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "17:49",
-          "constellation": "Bélier",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "17:49",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-11-05",
       "date_formatted": "Mercredi 05/11/2025",
@@ -227,44 +192,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-11-04",
-      "date_formatted": "Mardi 04/11/2025",
+      "date_iso": "2025-11-11",
+      "date_formatted": "Mardi 11/11/2025",
       "saints": [
-        "St-Charles Borromée",
-        "St-Porphyre"
+        "St-Martin de Tours",
+        "St-Théodore le Studite"
       ],
-      "phase_percentage": 98.1,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:44",
-      "sunset": "17:46",
-      "daylight_duration": "10:02:26 (-2min 41s)",
-      "moon_position_start": 18.81,
-      "moon_position_end": 33.91,
+      "phase_percentage": 58.3,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:53",
+      "sunset": "17:38",
+      "daylight_duration": "09:44:20 (-2min 29s)",
+      "moon_position_start": 122.75,
+      "moon_position_end": 136.17,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "13:04",
-          "constellation": "Poissons",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "13:04",
           "end_time": "00:00",
-          "constellation": "Bélier",
+          "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-11-05",
       "date_formatted": "Mercredi 05/11/2025",
@@ -444,6 +401,33 @@
         },
         {
           "start_time": "19:11",
+          "end_time": "00:00",
+          "constellation": "Cancer",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-11-11",
+      "date_formatted": "Mardi 11/11/2025",
+      "saints": [
+        "St-Martin de Tours",
+        "St-Théodore le Studite"
+      ],
+      "phase_percentage": 58.3,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:53",
+      "sunset": "17:38",
+      "daylight_duration": "09:44:20 (-2min 29s)",
+      "moon_position_start": 122.75,
+      "moon_position_end": 136.17,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Cancer",
           "recommendation": "Actions favorables aux légumes feuilles.",
