@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-11-05T06:00:30.710853",
+  "generated_at": "2025-11-06T06:00:29.972849",
   "location": {
     "lat": "48:34:24.2",
     "lon": "7:45:07.6"
   },
   "traditional": [
-    {
-      "date_iso": "2025-11-05",
-      "date_formatted": "Mercredi 05/11/2025",
-      "saints": [
-        "Ste-Elisabeth (mère de Jean-Baptiste)",
-        "St-Zacharie (père de Jean-Baptiste)"
-      ],
-      "phase_percentage": 99.9,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:21",
-      "sunset": "17:03",
-      "daylight_duration": "09:41:49 (-3min 4s)",
-      "moon_position_start": 33.91,
-      "moon_position_end": 49.2,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-11-06",
       "date_formatted": "Jeudi 06/11/2025",
@@ -219,36 +192,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-11-05",
-      "date_formatted": "Mercredi 05/11/2025",
+      "date_iso": "2025-11-12",
+      "date_formatted": "Mercredi 12/11/2025",
       "saints": [
-        "Ste-Elisabeth (mère de Jean-Baptiste)",
-        "St-Zacharie (père de Jean-Baptiste)"
+        "St-Christin",
+        "St-Josaphat"
       ],
-      "phase_percentage": 99.9,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:21",
-      "sunset": "17:03",
-      "daylight_duration": "09:41:49 (-3min 4s)",
-      "moon_position_start": 33.91,
-      "moon_position_end": 49.2,
+      "phase_percentage": 47.7,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:32",
+      "sunset": "16:53",
+      "daylight_duration": "09:21:07 (-2min 50s)",
+      "moon_position_start": 136.17,
+      "moon_position_end": 149.18,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Bélier",
+          "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-11-06",
       "date_formatted": "Jeudi 06/11/2025",
@@ -431,6 +404,41 @@
           "end_time": "00:00",
           "constellation": "Cancer",
           "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-11-12",
+      "date_formatted": "Mercredi 12/11/2025",
+      "saints": [
+        "St-Christin",
+        "St-Josaphat"
+      ],
+      "phase_percentage": 47.7,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:32",
+      "sunset": "16:53",
+      "daylight_duration": "09:21:07 (-2min 50s)",
+      "moon_position_start": 136.17,
+      "moon_position_end": 149.18,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "03:19",
+          "constellation": "Cancer",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "03:19",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
