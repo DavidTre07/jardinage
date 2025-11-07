@@ -1,45 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-11-06T06:00:29.179444",
+  "generated_at": "2025-11-07T06:00:27.677731",
   "location": {
     "lat": "43:17:47.4",
     "lon": "5:22:11.3"
   },
   "traditional": [
-    {
-      "date_iso": "2025-11-06",
-      "date_formatted": "Jeudi 06/11/2025",
-      "saints": [
-        "St-Léonard de Noblac"
-      ],
-      "phase_percentage": 98.6,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:19",
-      "sunset": "17:23",
-      "daylight_duration": "10:04:02 (-2min 29s)",
-      "moon_position_start": 49.2,
-      "moon_position_end": 64.52,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "16:54",
-          "constellation": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "16:54",
-          "end_time": "00:00",
-          "constellation": "Gémeaux",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-11-07",
       "date_formatted": "Vendredi 07/11/2025",
@@ -219,43 +185,45 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-11-06",
-      "date_formatted": "Jeudi 06/11/2025",
+      "date_iso": "2025-11-13",
+      "date_formatted": "Jeudi 13/11/2025",
       "saints": [
-        "St-Léonard de Noblac"
+        "St-Brice",
+        "St-Didace",
+        "St-Nicolas 1er le Grand"
       ],
-      "phase_percentage": 98.6,
-      "cycle_trajectoire": "Lune Montante",
+      "phase_percentage": 37.5,
+      "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:19",
-      "sunset": "17:23",
-      "daylight_duration": "10:04:02 (-2min 29s)",
-      "moon_position_start": 49.2,
-      "moon_position_end": 64.52,
+      "sunrise": "07:28",
+      "sunset": "17:16",
+      "daylight_duration": "09:47:22 (-2min 17s)",
+      "moon_position_start": 149.18,
+      "moon_position_end": 161.82,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "07:30",
-          "constellation": "Bélier",
+          "end_time": "01:32",
+          "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "07:30",
+          "start_time": "01:32",
           "end_time": "00:00",
-          "constellation": "Taureau",
+          "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-11-07",
       "date_formatted": "Vendredi 07/11/2025",
@@ -436,6 +404,34 @@
         },
         {
           "start_time": "03:19",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-11-13",
+      "date_formatted": "Jeudi 13/11/2025",
+      "saints": [
+        "St-Brice",
+        "St-Didace",
+        "St-Nicolas 1er le Grand"
+      ],
+      "phase_percentage": 37.5,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:28",
+      "sunset": "17:16",
+      "daylight_duration": "09:47:22 (-2min 17s)",
+      "moon_position_start": 149.18,
+      "moon_position_end": 161.82,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
