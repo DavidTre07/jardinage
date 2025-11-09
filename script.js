@@ -321,7 +321,7 @@ async function loadLunarInfo() {
         if (data.success) {
             // Afficher la date de génération
             const dateStr = data.generated_at;
-            document.getElementById('lastUpdate').textContent = dateStr.slice(11, 16) + ' le ' + dateStr.slice(8, 10) + '/' + dateStr.slice(5, 7) + '/' + dateStr.slice(0, 4);
+            document.getElementById('lastUpdate').textContent = dateStr.slice(8, 10) + '/' + dateStr.slice(5, 7) + '/' + dateStr.slice(0, 4) + ' à ' + dateStr.slice(11, 16);
             
             // Sélectionner les données selon le type de zodiaque
             const selectedData = traditional ? data.traditional : data.constellation;
