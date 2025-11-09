@@ -115,7 +115,7 @@ body {
     background: white;
     border-radius: 15px;
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
-    margin-bottom: 30px;
+    margin-bottom: 15px;
     overflow: hidden;
     transition: transform 0.3s;
 }
@@ -233,7 +233,7 @@ body {
 }
 
 .day-content {
-    padding: 25px;
+    padding: 15px;
 }
 
 .nodes-alert {
@@ -253,12 +253,12 @@ body {
 .period {
     background: #f7fafc;
     border-left: 4px solid #48bb78;
-    padding: 20px;
-    margin-bottom: 15px;
+    padding: 12px;
+    margin-bottom: 10px;
     border-radius: 0 8px 8px 0;
     transition: all 0.3s;
     display: flex;
-    gap: 20px;
+    gap: 12px;
     align-items: flex-start;
 }
 
