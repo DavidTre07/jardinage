@@ -319,9 +319,9 @@ async function loadLunarInfo() {
         loading.style.display = 'none';
         
         if (data.success) {
-            // Afficher la date de génération avec le bon fuseau horaire
-            const updateTime = new Date(data.generated_at).toLocaleString('fr-FR', { timeZone: 'Europe/Paris' });
-            document.getElementById('lastUpdate').textContent = updateTime;
+            // Afficher la date de génération
+            const dateStr = data.generated_at;
+            document.getElementById('lastUpdate').textContent = dateStr.slice(11, 16) + ' le ' + dateStr.slice(8, 10) + '/' + dateStr.slice(5, 7) + '/' + dateStr.slice(0, 4);
             
             // Sélectionner les données selon le type de zodiaque
             const selectedData = traditional ? data.traditional : data.constellation;
