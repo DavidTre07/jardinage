@@ -1,46 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-11-08T06:00:30.446292",
+  "generated_at": "2025-11-09T06:00:31.656591",
   "location": {
     "lat": "48:34:24.2",
     "lon": "7:45:07.6"
   },
   "traditional": [
-    {
-      "date_iso": "2025-11-08",
-      "date_formatted": "Samedi 08/11/2025",
-      "saints": [
-        "St-Geoffroy (ou Godefroy)",
-        "St-Maur"
-      ],
-      "phase_percentage": 87.5,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:26",
-      "sunset": "16:58",
-      "daylight_duration": "09:32:45 (-2min 59s)",
-      "moon_position_start": 79.66,
-      "moon_position_end": 94.47,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "16:41",
-          "constellation": "Gémeaux",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "16:41",
-          "end_time": "00:00",
-          "constellation": "Cancer",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-11-09",
       "date_formatted": "Dimanche 09/11/2025",
@@ -237,44 +202,43 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-11-08",
-      "date_formatted": "Samedi 08/11/2025",
+      "date_iso": "2025-11-15",
+      "date_formatted": "Samedi 15/11/2025",
       "saints": [
-        "St-Geoffroy (ou Godefroy)",
-        "St-Maur"
+        "St-Albert le Grand"
       ],
-      "phase_percentage": 87.5,
-      "cycle_trajectoire": "Lune Montante",
+      "phase_percentage": 19.8,
+      "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:26",
-      "sunset": "16:58",
-      "daylight_duration": "09:32:45 (-2min 59s)",
-      "moon_position_start": 79.66,
-      "moon_position_end": 94.47,
+      "sunrise": "07:36",
+      "sunset": "16:49",
+      "daylight_duration": "09:12:49 (-2min 43s)",
+      "moon_position_start": 174.18,
+      "moon_position_end": 186.34,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "16:41",
-          "constellation": "Taureau",
+          "end_time": "11:26",
+          "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "16:41",
+          "start_time": "11:26",
           "end_time": "00:00",
-          "constellation": "Gémeaux",
+          "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-11-09",
       "date_formatted": "Dimanche 09/11/2025",
@@ -472,6 +436,32 @@
         },
         {
           "start_time": "23:38",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-11-15",
+      "date_formatted": "Samedi 15/11/2025",
+      "saints": [
+        "St-Albert le Grand"
+      ],
+      "phase_percentage": 19.8,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:36",
+      "sunset": "16:49",
+      "daylight_duration": "09:12:49 (-2min 43s)",
+      "moon_position_start": 174.18,
+      "moon_position_end": 186.34,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
