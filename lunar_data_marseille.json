@@ -1,47 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-11-10T06:00:26.292824+01:00",
+  "generated_at": "2025-11-11T06:00:29.519993+01:00",
   "location": {
     "lat": "43:17:47.4",
     "lon": "5:22:11.3"
   },
   "traditional": [
-    {
-      "date_iso": "2025-11-10",
-      "date_formatted": "Lundi 10/11/2025",
-      "saints": [
-        "St-André Avellin",
-        "St-Léon le Grand",
-        "St-Tryphon"
-      ],
-      "phase_percentage": 68.9,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:25",
-      "sunset": "17:19",
-      "daylight_duration": "09:54:19 (-2min 23s)",
-      "moon_position_start": 108.85,
-      "moon_position_end": 122.75,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "19:11",
-          "constellation": "Cancer",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "19:11",
-          "end_time": "00:00",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-11-11",
       "date_formatted": "Mardi 11/11/2025",
@@ -237,45 +201,45 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-11-10",
-      "date_formatted": "Lundi 10/11/2025",
+      "date_iso": "2025-11-17",
+      "date_formatted": "Lundi 17/11/2025",
       "saints": [
-        "St-André Avellin",
-        "St-Léon le Grand",
-        "St-Tryphon"
+        "St-Aignan",
+        "Ste-Elisabeth de Hongrie",
+        "St-Grégoire le Thaumaturge"
       ],
-      "phase_percentage": 68.9,
+      "phase_percentage": 7.1,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:25",
-      "sunset": "17:19",
-      "daylight_duration": "09:54:19 (-2min 23s)",
-      "moon_position_start": 108.85,
-      "moon_position_end": 122.75,
+      "sunrise": "07:34",
+      "sunset": "17:12",
+      "daylight_duration": "09:38:35 (-2min 8s)",
+      "moon_position_start": 198.34,
+      "moon_position_end": 210.26,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "19:11",
-          "constellation": "Gémeaux",
+          "end_time": "23:28",
+          "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "19:11",
+          "start_time": "23:28",
           "end_time": "00:00",
-          "constellation": "Cancer",
+          "constellation": "Scorpion",
           "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-11-11",
       "date_formatted": "Mardi 11/11/2025",
@@ -460,6 +424,34 @@
       "daylight_duration": "09:40:43 (-2min 10s)",
       "moon_position_start": 186.34,
       "moon_position_end": 198.34,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-11-17",
+      "date_formatted": "Lundi 17/11/2025",
+      "saints": [
+        "St-Aignan",
+        "Ste-Elisabeth de Hongrie",
+        "St-Grégoire le Thaumaturge"
+      ],
+      "phase_percentage": 7.1,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:34",
+      "sunset": "17:12",
+      "daylight_duration": "09:38:35 (-2min 8s)",
+      "moon_position_start": 198.34,
+      "moon_position_end": 210.26,
       "nodes_info": [],
       "periods": [
         {
