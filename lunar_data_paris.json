@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-11-11T06:00:28.979529+01:00",
+  "generated_at": "2025-11-12T06:00:26.714402+01:00",
   "location": {
     "lat": "48:51:23.8",
     "lon": "2:21:07.9"
   },
   "traditional": [
-    {
-      "date_iso": "2025-11-11",
-      "date_formatted": "Mardi 11/11/2025",
-      "saints": [
-        "St-Martin de Tours",
-        "St-Théodore le Studite"
-      ],
-      "phase_percentage": 58.3,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:53",
-      "sunset": "17:15",
-      "daylight_duration": "09:22:15 (-2min 55s)",
-      "moon_position_start": 122.75,
-      "moon_position_end": 136.17,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-11-12",
       "date_formatted": "Mercredi 12/11/2025",
@@ -237,36 +210,38 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-11-11",
-      "date_formatted": "Mardi 11/11/2025",
+      "date_iso": "2025-11-18",
+      "date_formatted": "Mardi 18/11/2025",
       "saints": [
-        "St-Martin de Tours",
-        "St-Théodore le Studite"
+        "St-Hésyque d'Antioche",
+        "St-Mummole",
+        "St-Pierre, apôtre",
+        "St-Tanguy"
       ],
-      "phase_percentage": 58.3,
+      "phase_percentage": 3.1,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:53",
-      "sunset": "17:15",
-      "daylight_duration": "09:22:15 (-2min 55s)",
-      "moon_position_start": 122.75,
-      "moon_position_end": 136.17,
+      "sunrise": "08:04",
+      "sunset": "17:07",
+      "daylight_duration": "09:02:59 (-2min 36s)",
+      "moon_position_start": 210.26,
+      "moon_position_end": 222.13,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Cancer",
+          "constellation": "Scorpion",
           "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-11-12",
       "date_formatted": "Mercredi 12/11/2025",
@@ -459,6 +434,43 @@
           "end_time": "00:00",
           "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-11-18",
+      "date_formatted": "Mardi 18/11/2025",
+      "saints": [
+        "St-Hésyque d'Antioche",
+        "St-Mummole",
+        "St-Pierre, apôtre",
+        "St-Tanguy"
+      ],
+      "phase_percentage": 3.1,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:04",
+      "sunset": "17:07",
+      "daylight_duration": "09:02:59 (-2min 36s)",
+      "moon_position_start": 210.26,
+      "moon_position_end": 222.13,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "15:38",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "15:38",
+          "end_time": "00:00",
+          "constellation": "Balance",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
