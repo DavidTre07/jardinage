@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-11-12T06:00:28.783372+01:00",
+  "generated_at": "2025-11-13T06:00:28.589339+01:00",
   "location": {
     "lat": "43:36:39.6",
     "lon": "3:52:36.1"
   },
   "traditional": [
-    {
-      "date_iso": "2025-11-12",
-      "date_formatted": "Mercredi 12/11/2025",
-      "saints": [
-        "St-Christin",
-        "St-Josaphat"
-      ],
-      "phase_percentage": 47.7,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:34",
-      "sunset": "17:22",
-      "daylight_duration": "09:48:06 (-2min 20s)",
-      "moon_position_start": 136.17,
-      "moon_position_end": 149.18,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-11-13",
       "date_formatted": "Jeudi 13/11/2025",
@@ -239,44 +212,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-11-12",
-      "date_formatted": "Mercredi 12/11/2025",
+      "date_iso": "2025-11-19",
+      "date_formatted": "Mercredi 19/11/2025",
       "saints": [
-        "St-Christin",
-        "St-Josaphat"
+        "Ste-Ermenburge",
+        "St-Exupère"
       ],
-      "phase_percentage": 47.7,
+      "phase_percentage": 0.8,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:34",
-      "sunset": "17:22",
-      "daylight_duration": "09:48:06 (-2min 20s)",
-      "moon_position_start": 136.17,
-      "moon_position_end": 149.18,
+      "sunrise": "07:43",
+      "sunset": "17:16",
+      "daylight_duration": "09:32:42 (-2min 4s)",
+      "moon_position_start": 222.13,
+      "moon_position_end": 233.99,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "03:19",
-          "constellation": "Cancer",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "03:19",
           "end_time": "00:00",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "constellation": "Scorpion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-11-13",
       "date_formatted": "Jeudi 13/11/2025",
@@ -468,6 +433,33 @@
         },
         {
           "start_time": "15:38",
+          "end_time": "00:00",
+          "constellation": "Balance",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-11-19",
+      "date_formatted": "Mercredi 19/11/2025",
+      "saints": [
+        "Ste-Ermenburge",
+        "St-Exupère"
+      ],
+      "phase_percentage": 0.8,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:43",
+      "sunset": "17:16",
+      "daylight_duration": "09:32:42 (-2min 4s)",
+      "moon_position_start": 222.13,
+      "moon_position_end": 233.99,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
