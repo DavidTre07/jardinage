@@ -1,56 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-11-14T06:00:34.092017+01:00",
+  "generated_at": "2025-11-15T06:00:31.792278+01:00",
   "location": {
     "lat": "47:13:06.2",
     "lon": "-1:33:13.0"
   },
   "traditional": [
-    {
-      "date_iso": "2025-11-14",
-      "date_formatted": "Vendredi 14/11/2025",
-      "saints": [
-        "St-Saens",
-        "St-Sérapion"
-      ],
-      "phase_percentage": 28.1,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:08",
-      "sunset": "17:32",
-      "daylight_duration": "09:23:41 (-2min 37s)",
-      "moon_position_start": 161.82,
-      "moon_position_end": 174.18,
-      "nodes_info": [
-        "NŒUD LUNAIRE (descendant) le 14/11 à 07h38 - Pas de jardinage de 03h38 à 11h38"
-      ],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "03:38",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "03:38",
-          "end_time": "11:38",
-          "constellation": "Vierge",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "11:38",
-          "end_time": "00:00",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-11-15",
       "date_formatted": "Samedi 15/11/2025",
@@ -239,62 +194,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-11-14",
-      "date_formatted": "Vendredi 14/11/2025",
+      "date_iso": "2025-11-21",
+      "date_formatted": "Vendredi 21/11/2025",
       "saints": [
-        "St-Saens",
-        "St-Sérapion"
+        "Ste-Amalberge",
+        "Présence de Marie"
       ],
-      "phase_percentage": 28.1,
+      "phase_percentage": 1.4,
       "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:08",
-      "sunset": "17:32",
-      "daylight_duration": "09:23:41 (-2min 37s)",
-      "moon_position_start": 161.82,
-      "moon_position_end": 174.18,
-      "nodes_info": [
-        "NŒUD LUNAIRE (descendant) le 14/11 à 07h38 - Pas de jardinage de 03h38 à 11h38"
-      ],
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:18",
+      "sunset": "17:25",
+      "daylight_duration": "09:06:35 (-2min 17s)",
+      "moon_position_start": 245.85,
+      "moon_position_end": 257.75,
+      "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "03:38",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "03:38",
-          "end_time": "11:38",
-          "constellation": "Lion",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "11:38",
-          "end_time": "23:38",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "23:38",
           "end_time": "00:00",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-11-15",
       "date_formatted": "Samedi 15/11/2025",
@@ -472,6 +401,41 @@
           "constellation": "Scorpion",
           "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-11-21",
+      "date_formatted": "Vendredi 21/11/2025",
+      "saints": [
+        "Ste-Amalberge",
+        "Présence de Marie"
+      ],
+      "phase_percentage": 1.4,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:18",
+      "sunset": "17:25",
+      "daylight_duration": "09:06:35 (-2min 17s)",
+      "moon_position_start": 245.85,
+      "moon_position_end": 257.75,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "04:20",
+          "constellation": "Scorpion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "04:20",
+          "end_time": "00:00",
+          "constellation": "Serpentaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
           "blocked": false
         }
       ]
