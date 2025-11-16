@@ -1,45 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-11-15T06:00:30.558070+01:00",
+  "generated_at": "2025-11-16T06:00:32.270403+01:00",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
   },
   "traditional": [
-    {
-      "date_iso": "2025-11-15",
-      "date_formatted": "Samedi 15/11/2025",
-      "saints": [
-        "St-Albert le Grand"
-      ],
-      "phase_percentage": 19.8,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:40",
-      "sunset": "17:09",
-      "daylight_duration": "09:29:36 (-2min 26s)",
-      "moon_position_start": 174.18,
-      "moon_position_end": 186.34,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "11:26",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "11:26",
-          "end_time": "00:00",
-          "constellation": "Balance",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-11-16",
       "date_formatted": "Dimanche 16/11/2025",
@@ -221,35 +187,37 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-11-15",
-      "date_formatted": "Samedi 15/11/2025",
+      "date_iso": "2025-11-22",
+      "date_formatted": "Samedi 22/11/2025",
       "saints": [
-        "St-Albert le Grand"
+        "Ste-Appia",
+        "Ste-Cécile",
+        "St-Philémon"
       ],
-      "phase_percentage": 19.8,
+      "phase_percentage": 4.4,
       "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:40",
-      "sunset": "17:09",
-      "daylight_duration": "09:29:36 (-2min 26s)",
-      "moon_position_start": 174.18,
-      "moon_position_end": 186.34,
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:49",
+      "sunset": "17:03",
+      "daylight_duration": "09:13:47 (-2min 6s)",
+      "moon_position_start": 257.75,
+      "moon_position_end": 269.7,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-11-16",
       "date_formatted": "Dimanche 16/11/2025",
@@ -436,6 +404,42 @@
           "constellation": "Serpentaire",
           "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
           "seve_info": "",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-11-22",
+      "date_formatted": "Samedi 22/11/2025",
+      "saints": [
+        "Ste-Appia",
+        "Ste-Cécile",
+        "St-Philémon"
+      ],
+      "phase_percentage": 4.4,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:49",
+      "sunset": "17:03",
+      "daylight_duration": "09:13:47 (-2min 6s)",
+      "moon_position_start": 257.75,
+      "moon_position_end": 269.7,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "16:35",
+          "constellation": "Serpentaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
+          "blocked": false
+        },
+        {
+          "start_time": "16:35",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
