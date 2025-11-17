@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-11-16T06:00:33.142543+01:00",
+  "generated_at": "2025-11-17T06:01:13.719243+01:00",
   "location": {
     "lat": "50:37:45.1",
     "lon": "3:03:26.3"
   },
   "traditional": [
-    {
-      "date_iso": "2025-11-16",
-      "date_formatted": "Dimanche 16/11/2025",
-      "saints": [
-        "Ste-Gertrude la Grande",
-        "Ste-Marguerite d'Ecosse"
-      ],
-      "phase_percentage": 12.7,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:04",
-      "sunset": "17:00",
-      "daylight_duration": "08:56:11 (-2min 55s)",
-      "moon_position_start": 186.34,
-      "moon_position_end": 198.34,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Balance",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-11-17",
       "date_formatted": "Lundi 17/11/2025",
@@ -215,36 +188,43 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-11-16",
-      "date_formatted": "Dimanche 16/11/2025",
+      "date_iso": "2025-11-23",
+      "date_formatted": "Dimanche 23/11/2025",
       "saints": [
-        "Ste-Gertrude la Grande",
-        "Ste-Marguerite d'Ecosse"
+        "St-Clément 1er"
       ],
-      "phase_percentage": 12.7,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:04",
-      "sunset": "17:00",
-      "daylight_duration": "08:56:11 (-2min 55s)",
-      "moon_position_start": 186.34,
-      "moon_position_end": 198.34,
+      "phase_percentage": 9.0,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:15",
+      "sunset": "16:52",
+      "daylight_duration": "08:37:14 (-2min 31s)",
+      "moon_position_start": 269.7,
+      "moon_position_end": 281.73,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
+          "end_time": "00:36",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "00:36",
           "end_time": "00:00",
-          "constellation": "Vierge",
+          "constellation": "Capricorne",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-11-17",
       "date_formatted": "Lundi 17/11/2025",
@@ -440,6 +420,32 @@
           "constellation": "Sagittaire",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-11-23",
+      "date_formatted": "Dimanche 23/11/2025",
+      "saints": [
+        "St-Clément 1er"
+      ],
+      "phase_percentage": 9.0,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:15",
+      "sunset": "16:52",
+      "daylight_duration": "08:37:14 (-2min 31s)",
+      "moon_position_start": 269.7,
+      "moon_position_end": 281.73,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
