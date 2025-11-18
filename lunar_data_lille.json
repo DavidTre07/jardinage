@@ -1,47 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-11-17T06:01:13.719243+01:00",
+  "generated_at": "2025-11-18T06:01:08.164827+01:00",
   "location": {
     "lat": "50:37:45.1",
     "lon": "3:03:26.3"
   },
   "traditional": [
-    {
-      "date_iso": "2025-11-17",
-      "date_formatted": "Lundi 17/11/2025",
-      "saints": [
-        "St-Aignan",
-        "Ste-Elisabeth de Hongrie",
-        "St-Grégoire le Thaumaturge"
-      ],
-      "phase_percentage": 7.1,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:05",
-      "sunset": "16:59",
-      "daylight_duration": "08:53:19 (-2min 52s)",
-      "moon_position_start": 198.34,
-      "moon_position_end": 210.26,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "23:28",
-          "constellation": "Balance",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "23:28",
-          "end_time": "00:00",
-          "constellation": "Scorpion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-11-18",
       "date_formatted": "Mardi 18/11/2025",
@@ -222,37 +186,38 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-11-17",
-      "date_formatted": "Lundi 17/11/2025",
+      "date_iso": "2025-11-24",
+      "date_formatted": "Lundi 24/11/2025",
       "saints": [
-        "St-Aignan",
-        "Ste-Elisabeth de Hongrie",
-        "St-Grégoire le Thaumaturge"
+        "Ste-Flora",
+        "St-Chrysogone",
+        "Ste-Maria",
+        "St-Romain du Mans"
       ],
-      "phase_percentage": 7.1,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:05",
-      "sunset": "16:59",
-      "daylight_duration": "08:53:19 (-2min 52s)",
-      "moon_position_start": 198.34,
-      "moon_position_end": 210.26,
+      "phase_percentage": 15.3,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:16",
+      "sunset": "16:51",
+      "daylight_duration": "08:34:46 (-2min 28s)",
+      "moon_position_start": 281.73,
+      "moon_position_end": 293.88,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Vierge",
+          "constellation": "Capricorne",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-11-18",
       "date_formatted": "Mardi 18/11/2025",
@@ -438,6 +403,35 @@
       "daylight_duration": "08:37:14 (-2min 31s)",
       "moon_position_start": 269.7,
       "moon_position_end": 281.73,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-11-24",
+      "date_formatted": "Lundi 24/11/2025",
+      "saints": [
+        "Ste-Flora",
+        "St-Chrysogone",
+        "Ste-Maria",
+        "St-Romain du Mans"
+      ],
+      "phase_percentage": 15.3,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:16",
+      "sunset": "16:51",
+      "daylight_duration": "08:34:46 (-2min 28s)",
+      "moon_position_start": 281.73,
+      "moon_position_end": 293.88,
       "nodes_info": [],
       "periods": [
         {
