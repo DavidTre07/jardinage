@@ -1,40 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-11-18T06:01:09.462626+01:00",
+  "generated_at": "2025-11-19T06:01:11.542322+01:00",
   "location": {
     "lat": "43:42:36.7",
     "lon": "7:15:43.2"
   },
   "traditional": [
-    {
-      "date_iso": "2025-11-18",
-      "date_formatted": "Mardi 18/11/2025",
-      "saints": [
-        "St-Hésyque d'Antioche",
-        "St-Mummole",
-        "St-Pierre, apôtre",
-        "St-Tanguy"
-      ],
-      "phase_percentage": 3.1,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:28",
-      "sunset": "17:03",
-      "daylight_duration": "09:34:15 (-2min 7s)",
-      "moon_position_start": 210.26,
-      "moon_position_end": 222.13,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Scorpion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-11-19",
       "date_formatted": "Mercredi 19/11/2025",
@@ -215,46 +186,45 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-11-18",
-      "date_formatted": "Mardi 18/11/2025",
+      "date_iso": "2025-11-25",
+      "date_formatted": "Mardi 25/11/2025",
       "saints": [
-        "St-Hésyque d'Antioche",
-        "St-Mummole",
-        "St-Pierre, apôtre",
-        "St-Tanguy"
+        "Ste-Catherine d'Alexandrie",
+        "Ste-Joconde",
+        "St-Moïse"
       ],
-      "phase_percentage": 3.1,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:28",
-      "sunset": "17:03",
-      "daylight_duration": "09:34:15 (-2min 7s)",
-      "moon_position_start": 210.26,
-      "moon_position_end": 222.13,
+      "phase_percentage": 22.9,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:37",
+      "sunset": "16:58",
+      "daylight_duration": "09:20:37 (-1min 47s)",
+      "moon_position_start": 293.88,
+      "moon_position_end": 306.2,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "15:38",
-          "constellation": "Vierge",
+          "end_time": "11:57",
+          "constellation": "Capricorne",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         },
         {
-          "start_time": "15:38",
+          "start_time": "11:57",
           "end_time": "00:00",
-          "constellation": "Balance",
+          "constellation": "Verseau",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-11-19",
       "date_formatted": "Mercredi 19/11/2025",
@@ -439,6 +409,42 @@
           "end_time": "00:00",
           "constellation": "Sagittaire",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-11-25",
+      "date_formatted": "Mardi 25/11/2025",
+      "saints": [
+        "Ste-Catherine d'Alexandrie",
+        "Ste-Joconde",
+        "St-Moïse"
+      ],
+      "phase_percentage": 22.9,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:37",
+      "sunset": "16:58",
+      "daylight_duration": "09:20:37 (-1min 47s)",
+      "moon_position_start": 293.88,
+      "moon_position_end": 306.2,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "11:57",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "11:57",
+          "end_time": "00:00",
+          "constellation": "Capricorne",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
