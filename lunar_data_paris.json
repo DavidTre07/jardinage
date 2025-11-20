@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-11-19T06:01:09.410587+01:00",
+  "generated_at": "2025-11-20T06:01:10.613667+01:00",
   "location": {
     "lat": "48:51:23.8",
     "lon": "2:21:07.9"
   },
   "traditional": [
-    {
-      "date_iso": "2025-11-19",
-      "date_formatted": "Mercredi 19/11/2025",
-      "saints": [
-        "Ste-Ermenburge",
-        "St-Exupère"
-      ],
-      "phase_percentage": 0.8,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:05",
-      "sunset": "17:05",
-      "daylight_duration": "09:00:25 (-2min 33s)",
-      "moon_position_start": 222.13,
-      "moon_position_end": 233.99,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Scorpion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-11-20",
       "date_formatted": "Jeudi 20/11/2025",
@@ -222,36 +195,37 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-11-19",
-      "date_formatted": "Mercredi 19/11/2025",
+      "date_iso": "2025-11-26",
+      "date_formatted": "Mercredi 26/11/2025",
       "saints": [
-        "Ste-Ermenburge",
-        "St-Exupère"
+        "St-Conrad de Constance",
+        "Ste-Delphine",
+        "St-Gautier d'Aulne"
       ],
-      "phase_percentage": 0.8,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:05",
-      "sunset": "17:05",
-      "daylight_duration": "09:00:25 (-2min 33s)",
-      "moon_position_start": 222.13,
-      "moon_position_end": 233.99,
+      "phase_percentage": 31.7,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:15",
+      "sunset": "16:59",
+      "daylight_duration": "08:44:01 (-2min 9s)",
+      "moon_position_start": 306.2,
+      "moon_position_end": 318.75,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Balance",
+          "constellation": "Verseau",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-11-20",
       "date_formatted": "Jeudi 20/11/2025",
@@ -442,6 +416,34 @@
         },
         {
           "start_time": "11:57",
+          "end_time": "00:00",
+          "constellation": "Capricorne",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-11-26",
+      "date_formatted": "Mercredi 26/11/2025",
+      "saints": [
+        "St-Conrad de Constance",
+        "Ste-Delphine",
+        "St-Gautier d'Aulne"
+      ],
+      "phase_percentage": 31.7,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:15",
+      "sunset": "16:59",
+      "daylight_duration": "08:44:01 (-2min 9s)",
+      "moon_position_start": 306.2,
+      "moon_position_end": 318.75,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Capricorne",
           "recommendation": "Actions favorables aux légumes racines.",
