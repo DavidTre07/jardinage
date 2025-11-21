@@ -1,47 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-11-20T06:01:10.819706+01:00",
+  "generated_at": "2025-11-21T06:01:07.043029+01:00",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
   },
   "traditional": [
-    {
-      "date_iso": "2025-11-20",
-      "date_formatted": "Jeudi 20/11/2025",
-      "saints": [
-        "St-Edmond",
-        "St-Félix de Valois",
-        "St-Octave"
-      ],
-      "phase_percentage": 0.2,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:47",
-      "sunset": "17:05",
-      "daylight_duration": "09:18:04 (-2min 12s)",
-      "moon_position_start": 233.99,
-      "moon_position_end": 245.85,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "12:09",
-          "constellation": "Scorpion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "12:09",
-          "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-11-21",
       "date_formatted": "Vendredi 21/11/2025",
@@ -223,45 +187,44 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-11-20",
-      "date_formatted": "Jeudi 20/11/2025",
+      "date_iso": "2025-11-27",
+      "date_formatted": "Jeudi 27/11/2025",
       "saints": [
-        "St-Edmond",
-        "St-Félix de Valois",
-        "St-Octave"
+        "St-Maxime de Riez",
+        "St-Séverin"
       ],
-      "phase_percentage": 0.2,
-      "cycle_trajectoire": "Lune Descendante",
+      "phase_percentage": 41.5,
+      "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:47",
-      "sunset": "17:05",
-      "daylight_duration": "09:18:04 (-2min 12s)",
-      "moon_position_start": 233.99,
-      "moon_position_end": 245.85,
+      "sunrise": "07:56",
+      "sunset": "17:00",
+      "daylight_duration": "09:04:01 (-1min 50s)",
+      "moon_position_start": 318.75,
+      "moon_position_end": 331.59,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "14:11",
-          "constellation": "Balance",
+          "end_time": "21:04",
+          "constellation": "Verseau",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         },
         {
-          "start_time": "14:11",
+          "start_time": "21:04",
           "end_time": "00:00",
-          "constellation": "Scorpion",
+          "constellation": "Poissons",
           "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-11-21",
       "date_formatted": "Vendredi 21/11/2025",
@@ -447,6 +410,41 @@
           "end_time": "00:00",
           "constellation": "Capricorne",
           "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-11-27",
+      "date_formatted": "Jeudi 27/11/2025",
+      "saints": [
+        "St-Maxime de Riez",
+        "St-Séverin"
+      ],
+      "phase_percentage": 41.5,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:56",
+      "sunset": "17:00",
+      "daylight_duration": "09:04:01 (-1min 50s)",
+      "moon_position_start": 318.75,
+      "moon_position_end": 331.59,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "21:04",
+          "constellation": "Capricorne",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "21:04",
+          "end_time": "00:00",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
