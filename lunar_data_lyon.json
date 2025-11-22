@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-11-21T06:01:07.043029+01:00",
+  "generated_at": "2025-11-22T06:01:08.795041+01:00",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
   },
   "traditional": [
-    {
-      "date_iso": "2025-11-21",
-      "date_formatted": "Vendredi 21/11/2025",
-      "saints": [
-        "Ste-Amalberge",
-        "Présence de Marie"
-      ],
-      "phase_percentage": 1.4,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:48",
-      "sunset": "17:04",
-      "daylight_duration": "09:15:54 (-2min 10s)",
-      "moon_position_start": 245.85,
-      "moon_position_end": 257.75,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-11-22",
       "date_formatted": "Samedi 22/11/2025",
@@ -222,44 +195,47 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-11-21",
-      "date_formatted": "Vendredi 21/11/2025",
+      "date_iso": "2025-11-28",
+      "date_formatted": "Vendredi 28/11/2025",
       "saints": [
-        "Ste-Amalberge",
-        "Présence de Marie"
+        "Ste-Catherine Labouré",
+        "St-Jacques de la  Marche",
+        "St-Sosthène"
       ],
-      "phase_percentage": 1.4,
-      "cycle_trajectoire": "Lune Descendante",
+      "phase_percentage": 51.9,
+      "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:48",
-      "sunset": "17:04",
-      "daylight_duration": "09:15:54 (-2min 10s)",
-      "moon_position_start": 245.85,
-      "moon_position_end": 257.75,
-      "nodes_info": [],
+      "sunrise": "07:57",
+      "sunset": "16:59",
+      "daylight_duration": "09:02:14 (-1min 46s)",
+      "moon_position_start": 331.59,
+      "moon_position_end": 344.79,
+      "nodes_info": [
+        "NŒUD LUNAIRE (ascendant) le 28/11 à 22h31 - Pas de jardinage de 18h31 à 02h31"
+      ],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "04:20",
-          "constellation": "Scorpion",
+          "end_time": "18:31",
+          "constellation": "Poissons",
           "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         },
         {
-          "start_time": "04:20",
+          "start_time": "18:31",
           "end_time": "00:00",
-          "constellation": "Serpentaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
-          "blocked": false
+          "constellation": "Poissons",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-11-22",
       "date_formatted": "Samedi 22/11/2025",
@@ -447,6 +423,44 @@
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-11-28",
+      "date_formatted": "Vendredi 28/11/2025",
+      "saints": [
+        "Ste-Catherine Labouré",
+        "St-Jacques de la  Marche",
+        "St-Sosthène"
+      ],
+      "phase_percentage": 51.9,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:57",
+      "sunset": "16:59",
+      "daylight_duration": "09:02:14 (-1min 46s)",
+      "moon_position_start": 331.59,
+      "moon_position_end": 344.79,
+      "nodes_info": [
+        "NŒUD LUNAIRE (ascendant) le 28/11 à 22h31 - Pas de jardinage de 18h31 à 02h31"
+      ],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "18:31",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "18:31",
+          "end_time": "00:00",
+          "constellation": "Verseau",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
         }
       ]
     }
