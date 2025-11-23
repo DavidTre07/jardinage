@@ -1,39 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-11-22T06:01:08.565854+01:00",
+  "generated_at": "2025-11-23T06:01:07.274556+01:00",
   "location": {
     "lat": "48:51:23.8",
     "lon": "2:21:07.9"
   },
   "traditional": [
-    {
-      "date_iso": "2025-11-22",
-      "date_formatted": "Samedi 22/11/2025",
-      "saints": [
-        "Ste-Appia",
-        "Ste-Cécile",
-        "St-Philémon"
-      ],
-      "phase_percentage": 4.4,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:10",
-      "sunset": "17:03",
-      "daylight_duration": "08:53:02 (-2min 24s)",
-      "moon_position_start": 257.75,
-      "moon_position_end": 269.7,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-11-23",
       "date_formatted": "Dimanche 23/11/2025",
@@ -233,45 +205,47 @@
           "blocked": true
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-11-22",
-      "date_formatted": "Samedi 22/11/2025",
+      "date_iso": "2025-11-29",
+      "date_formatted": "Samedi 29/11/2025",
       "saints": [
-        "Ste-Appia",
-        "Ste-Cécile",
-        "St-Philémon"
+        "St-Hilaire",
+        "Ste-Illuminée",
+        "St-Saturnin"
       ],
-      "phase_percentage": 4.4,
-      "cycle_trajectoire": "Lune Descendante",
+      "phase_percentage": 62.6,
+      "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:10",
-      "sunset": "17:03",
-      "daylight_duration": "08:53:02 (-2min 24s)",
-      "moon_position_start": 257.75,
-      "moon_position_end": 269.7,
-      "nodes_info": [],
+      "sunrise": "08:19",
+      "sunset": "16:57",
+      "daylight_duration": "08:37:57 (-1min 57s)",
+      "moon_position_start": 344.79,
+      "moon_position_end": 358.41,
+      "nodes_info": [
+        "NŒUD LUNAIRE (ascendant) le 28/11 à 22h31 - Pas de jardinage de 18h31 à 02h31"
+      ],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "16:35",
-          "constellation": "Serpentaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
-          "blocked": false
+          "end_time": "02:31",
+          "constellation": "Poissons",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
         },
         {
-          "start_time": "16:35",
+          "start_time": "02:31",
           "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-11-23",
       "date_formatted": "Dimanche 23/11/2025",
@@ -461,6 +435,44 @@
           "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
           "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
           "blocked": true
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-11-29",
+      "date_formatted": "Samedi 29/11/2025",
+      "saints": [
+        "St-Hilaire",
+        "Ste-Illuminée",
+        "St-Saturnin"
+      ],
+      "phase_percentage": 62.6,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:19",
+      "sunset": "16:57",
+      "daylight_duration": "08:37:57 (-1min 57s)",
+      "moon_position_start": 344.79,
+      "moon_position_end": 358.41,
+      "nodes_info": [
+        "NŒUD LUNAIRE (ascendant) le 28/11 à 22h31 - Pas de jardinage de 18h31 à 02h31"
+      ],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "02:31",
+          "constellation": "Verseau",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "02:31",
+          "end_time": "00:00",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
         }
       ]
     }
