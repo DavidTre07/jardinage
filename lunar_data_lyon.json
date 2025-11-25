@@ -1,40 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-11-24T06:01:08.802289+01:00",
+  "generated_at": "2025-11-25T06:01:08.308396+01:00",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
   },
   "traditional": [
-    {
-      "date_iso": "2025-11-24",
-      "date_formatted": "Lundi 24/11/2025",
-      "saints": [
-        "Ste-Flora",
-        "St-Chrysogone",
-        "Ste-Maria",
-        "St-Romain du Mans"
-      ],
-      "phase_percentage": 15.3,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:52",
-      "sunset": "17:02",
-      "daylight_duration": "09:09:43 (-2min)",
-      "moon_position_start": 281.73,
-      "moon_position_end": 293.88,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-11-25",
       "date_formatted": "Mardi 25/11/2025",
@@ -244,38 +215,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-11-24",
-      "date_formatted": "Lundi 24/11/2025",
+      "date_iso": "2025-12-01",
+      "date_formatted": "Lundi 01/12/2025",
       "saints": [
-        "Ste-Flora",
-        "St-Chrysogone",
-        "Ste-Maria",
-        "St-Romain du Mans"
+        "St-Diodore",
+        "St-Eloi"
       ],
-      "phase_percentage": 15.3,
+      "phase_percentage": 82.5,
       "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:52",
-      "sunset": "17:02",
-      "daylight_duration": "09:09:43 (-2min)",
-      "moon_position_start": 281.73,
-      "moon_position_end": 293.88,
+      "sunrise": "08:00",
+      "sunset": "16:58",
+      "daylight_duration": "08:57:17 (-1min 35s)",
+      "moon_position_start": 12.5,
+      "moon_position_end": 27.04,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Sagittaire",
+          "constellation": "Bélier",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-11-25",
       "date_formatted": "Mardi 25/11/2025",
@@ -481,6 +450,41 @@
           "end_time": "00:00",
           "constellation": "Poissons",
           "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-12-01",
+      "date_formatted": "Lundi 01/12/2025",
+      "saints": [
+        "St-Diodore",
+        "St-Eloi"
+      ],
+      "phase_percentage": 82.5,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:00",
+      "sunset": "16:58",
+      "daylight_duration": "08:57:17 (-1min 35s)",
+      "moon_position_start": 12.5,
+      "moon_position_end": 27.04,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "23:56",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "23:56",
+          "end_time": "00:00",
+          "constellation": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
