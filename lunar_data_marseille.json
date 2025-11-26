@@ -1,47 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-11-25T06:01:08.558412+01:00",
+  "generated_at": "2025-11-26T06:01:10.109793+01:00",
   "location": {
     "lat": "43:17:47.4",
     "lon": "5:22:11.3"
   },
   "traditional": [
-    {
-      "date_iso": "2025-11-25",
-      "date_formatted": "Mardi 25/11/2025",
-      "saints": [
-        "Ste-Catherine d'Alexandrie",
-        "Ste-Joconde",
-        "St-Moïse"
-      ],
-      "phase_percentage": 22.9,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:43",
-      "sunset": "17:06",
-      "daylight_duration": "09:23:05 (-1min 46s)",
-      "moon_position_start": 293.88,
-      "moon_position_end": 306.2,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "11:57",
-          "constellation": "Capricorne",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "11:57",
-          "end_time": "00:00",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-11-26",
       "date_formatted": "Mercredi 26/11/2025",
@@ -242,45 +206,44 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-11-25",
-      "date_formatted": "Mardi 25/11/2025",
+      "date_iso": "2025-12-02",
+      "date_formatted": "Mardi 02/12/2025",
       "saints": [
-        "Ste-Catherine d'Alexandrie",
-        "Ste-Joconde",
-        "St-Moïse"
+        "Ste-Aurélie",
+        "Ste-Viviane (ou Bibiane)"
       ],
-      "phase_percentage": 22.9,
+      "phase_percentage": 90.6,
       "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:43",
-      "sunset": "17:06",
-      "daylight_duration": "09:23:05 (-1min 46s)",
-      "moon_position_start": 293.88,
-      "moon_position_end": 306.2,
+      "sunrise": "07:51",
+      "sunset": "17:03",
+      "daylight_duration": "09:12:14 (-1min 22s)",
+      "moon_position_start": 27.04,
+      "moon_position_end": 41.98,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "11:57",
-          "constellation": "Sagittaire",
+          "end_time": "04:47",
+          "constellation": "Bélier",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         },
         {
-          "start_time": "11:57",
+          "start_time": "04:47",
           "end_time": "00:00",
-          "constellation": "Capricorne",
+          "constellation": "Taureau",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-11-26",
       "date_formatted": "Mercredi 26/11/2025",
@@ -482,6 +445,33 @@
         },
         {
           "start_time": "23:56",
+          "end_time": "00:00",
+          "constellation": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-12-02",
+      "date_formatted": "Mardi 02/12/2025",
+      "saints": [
+        "Ste-Aurélie",
+        "Ste-Viviane (ou Bibiane)"
+      ],
+      "phase_percentage": 90.6,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:51",
+      "sunset": "17:03",
+      "daylight_duration": "09:12:14 (-1min 22s)",
+      "moon_position_start": 27.04,
+      "moon_position_end": 41.98,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Bélier",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
