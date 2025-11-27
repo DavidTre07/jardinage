@@ -1,39 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-11-26T06:01:11.467058+01:00",
+  "generated_at": "2025-11-27T06:01:12.994028+01:00",
   "location": {
     "lat": "43:36:39.6",
     "lon": "3:52:36.1"
   },
   "traditional": [
-    {
-      "date_iso": "2025-11-26",
-      "date_formatted": "Mercredi 26/11/2025",
-      "saints": [
-        "St-Conrad de Constance",
-        "Ste-Delphine",
-        "St-Gautier d'Aulne"
-      ],
-      "phase_percentage": 31.7,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:51",
-      "sunset": "17:11",
-      "daylight_duration": "09:19:28 (-1min 44s)",
-      "moon_position_start": 306.2,
-      "moon_position_end": 318.75,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-11-27",
       "date_formatted": "Jeudi 27/11/2025",
@@ -241,37 +213,35 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-11-26",
-      "date_formatted": "Mercredi 26/11/2025",
+      "date_iso": "2025-12-03",
+      "date_formatted": "Mercredi 03/12/2025",
       "saints": [
-        "St-Conrad de Constance",
-        "Ste-Delphine",
-        "St-Gautier d'Aulne"
+        "St-François-Xavier"
       ],
-      "phase_percentage": 31.7,
+      "phase_percentage": 96.4,
       "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:51",
-      "sunset": "17:11",
-      "daylight_duration": "09:19:28 (-1min 44s)",
-      "moon_position_start": 306.2,
-      "moon_position_end": 318.75,
+      "sunrise": "07:59",
+      "sunset": "17:08",
+      "daylight_duration": "09:08:53 (-1min 19s)",
+      "moon_position_start": 41.98,
+      "moon_position_end": 57.21,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Capricorne",
+          "constellation": "Taureau",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-11-27",
       "date_formatted": "Jeudi 27/11/2025",
@@ -475,6 +445,40 @@
           "end_time": "00:00",
           "constellation": "Bélier",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-12-03",
+      "date_formatted": "Mercredi 03/12/2025",
+      "saints": [
+        "St-François-Xavier"
+      ],
+      "phase_percentage": 96.4,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:59",
+      "sunset": "17:08",
+      "daylight_duration": "09:08:53 (-1min 19s)",
+      "moon_position_start": 41.98,
+      "moon_position_end": 57.21,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "18:57",
+          "constellation": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "18:57",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
