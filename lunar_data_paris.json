@@ -1,46 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-11-27T06:01:11.006310+01:00",
+  "generated_at": "2025-11-28T06:03:14.436586+01:00",
   "location": {
     "lat": "48:51:23.8",
     "lon": "2:21:07.9"
   },
   "traditional": [
-    {
-      "date_iso": "2025-11-27",
-      "date_formatted": "Jeudi 27/11/2025",
-      "saints": [
-        "St-Maxime de Riez",
-        "St-Séverin"
-      ],
-      "phase_percentage": 41.5,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:17",
-      "sunset": "16:59",
-      "daylight_duration": "08:41:56 (-2min 5s)",
-      "moon_position_start": 318.75,
-      "moon_position_end": 331.59,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "21:04",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "21:04",
-          "end_time": "00:00",
-          "constellation": "Poissons",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-11-28",
       "date_formatted": "Vendredi 28/11/2025",
@@ -239,44 +204,44 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-11-27",
-      "date_formatted": "Jeudi 27/11/2025",
+      "date_iso": "2025-12-04",
+      "date_formatted": "Jeudi 04/12/2025",
       "saints": [
-        "St-Maxime de Riez",
-        "St-Séverin"
+        "Ste-Barbe",
+        "St-Jean Damascène"
       ],
-      "phase_percentage": 41.5,
+      "phase_percentage": 99.4,
       "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:17",
-      "sunset": "16:59",
-      "daylight_duration": "08:41:56 (-2min 5s)",
-      "moon_position_start": 318.75,
-      "moon_position_end": 331.59,
+      "sunrise": "08:26",
+      "sunset": "16:55",
+      "daylight_duration": "08:29:16 (-1min 34s)",
+      "moon_position_start": 57.21,
+      "moon_position_end": 72.55,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "21:04",
-          "constellation": "Capricorne",
+          "end_time": "04:22",
+          "constellation": "Taureau",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         },
         {
-          "start_time": "21:04",
+          "start_time": "04:22",
           "end_time": "00:00",
-          "constellation": "Verseau",
+          "constellation": "Gémeaux",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-11-28",
       "date_formatted": "Vendredi 28/11/2025",
@@ -476,6 +441,33 @@
         },
         {
           "start_time": "18:57",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-12-04",
+      "date_formatted": "Jeudi 04/12/2025",
+      "saints": [
+        "Ste-Barbe",
+        "St-Jean Damascène"
+      ],
+      "phase_percentage": 99.4,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:26",
+      "sunset": "16:55",
+      "daylight_duration": "08:29:16 (-1min 34s)",
+      "moon_position_start": 57.21,
+      "moon_position_end": 72.55,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Taureau",
           "recommendation": "Actions favorables aux légumes racines.",
