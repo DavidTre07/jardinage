@@ -1,49 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-11-28T06:03:15.933040+01:00",
+  "generated_at": "2025-11-29T06:01:08.650096+01:00",
   "location": {
     "lat": "47:13:06.2",
     "lon": "-1:33:13.0"
   },
   "traditional": [
-    {
-      "date_iso": "2025-11-28",
-      "date_formatted": "Vendredi 28/11/2025",
-      "saints": [
-        "Ste-Catherine Labouré",
-        "St-Jacques de la  Marche",
-        "St-Sosthène"
-      ],
-      "phase_percentage": 51.9,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:28",
-      "sunset": "17:20",
-      "daylight_duration": "08:52:05 (-1min 53s)",
-      "moon_position_start": 331.59,
-      "moon_position_end": 344.79,
-      "nodes_info": [
-        "NŒUD LUNAIRE (ascendant) le 28/11 à 22h31 - Pas de jardinage de 18h31 à 02h31"
-      ],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "18:31",
-          "constellation": "Poissons",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "18:31",
-          "end_time": "00:00",
-          "constellation": "Poissons",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        }
-      ]
-    },
     {
       "date_iso": "2025-11-29",
       "date_formatted": "Samedi 29/11/2025",
@@ -239,47 +201,37 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-11-28",
-      "date_formatted": "Vendredi 28/11/2025",
+      "date_iso": "2025-12-05",
+      "date_formatted": "Vendredi 05/12/2025",
       "saints": [
-        "Ste-Catherine Labouré",
-        "St-Jacques de la  Marche",
-        "St-Sosthène"
+        "St-Gérard",
+        "St-Nicet",
+        "St-Sabbas"
       ],
-      "phase_percentage": 51.9,
+      "phase_percentage": 99.4,
       "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:28",
-      "sunset": "17:20",
-      "daylight_duration": "08:52:05 (-1min 53s)",
-      "moon_position_start": 331.59,
-      "moon_position_end": 344.79,
-      "nodes_info": [
-        "NŒUD LUNAIRE (ascendant) le 28/11 à 22h31 - Pas de jardinage de 18h31 à 02h31"
-      ],
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:36",
+      "sunset": "17:17",
+      "daylight_duration": "08:40:47 (-1min 23s)",
+      "moon_position_start": 72.55,
+      "moon_position_end": 87.81,
+      "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "18:31",
-          "constellation": "Verseau",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
-        },
-        {
-          "start_time": "18:31",
-          "end_time": "00:00",
-          "constellation": "Verseau",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-11-29",
       "date_formatted": "Samedi 29/11/2025",
@@ -464,6 +416,34 @@
       "daylight_duration": "08:42:11 (-1min 28s)",
       "moon_position_start": 57.21,
       "moon_position_end": 72.55,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-12-05",
+      "date_formatted": "Vendredi 05/12/2025",
+      "saints": [
+        "St-Gérard",
+        "St-Nicet",
+        "St-Sabbas"
+      ],
+      "phase_percentage": 99.4,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:36",
+      "sunset": "17:17",
+      "daylight_duration": "08:40:47 (-1min 23s)",
+      "moon_position_start": 72.55,
+      "moon_position_end": 87.81,
       "nodes_info": [],
       "periods": [
         {
