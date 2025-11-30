@@ -1,49 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-11-29T06:01:08.951228+01:00",
+  "generated_at": "2025-11-30T06:01:09.603066+01:00",
   "location": {
     "lat": "48:34:24.2",
     "lon": "7:45:07.6"
   },
   "traditional": [
-    {
-      "date_iso": "2025-11-29",
-      "date_formatted": "Samedi 29/11/2025",
-      "saints": [
-        "St-Hilaire",
-        "Ste-Illuminée",
-        "St-Saturnin"
-      ],
-      "phase_percentage": 62.6,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:57",
-      "sunset": "16:37",
-      "daylight_duration": "08:40:10 (-1min 56s)",
-      "moon_position_start": 344.79,
-      "moon_position_end": 358.41,
-      "nodes_info": [
-        "NŒUD LUNAIRE (ascendant) le 28/11 à 22h31 - Pas de jardinage de 18h31 à 02h31"
-      ],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "02:31",
-          "constellation": "Poissons",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "02:31",
-          "end_time": "00:00",
-          "constellation": "Poissons",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-11-30",
       "date_formatted": "Dimanche 30/11/2025",
@@ -229,47 +191,43 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-11-29",
-      "date_formatted": "Samedi 29/11/2025",
+      "date_iso": "2025-12-06",
+      "date_formatted": "Samedi 06/12/2025",
       "saints": [
-        "St-Hilaire",
-        "Ste-Illuminée",
-        "St-Saturnin"
+        "St-Nicolas de Myre"
       ],
-      "phase_percentage": 62.6,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:57",
-      "sunset": "16:37",
-      "daylight_duration": "08:40:10 (-1min 56s)",
-      "moon_position_start": 344.79,
-      "moon_position_end": 358.41,
-      "nodes_info": [
-        "NŒUD LUNAIRE (ascendant) le 28/11 à 22h31 - Pas de jardinage de 18h31 à 02h31"
-      ],
+      "phase_percentage": 96.5,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:05",
+      "sunset": "16:34",
+      "daylight_duration": "08:28:42 (-1min 24s)",
+      "moon_position_start": 87.81,
+      "moon_position_end": 102.79,
+      "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "02:31",
-          "constellation": "Verseau",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
+          "end_time": "03:28",
+          "constellation": "Gémeaux",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
         },
         {
-          "start_time": "02:31",
+          "start_time": "03:28",
           "end_time": "00:00",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "constellation": "Cancer",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-11-30",
       "date_formatted": "Dimanche 30/11/2025",
@@ -452,6 +410,40 @@
           "constellation": "Taureau",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-12-06",
+      "date_formatted": "Samedi 06/12/2025",
+      "saints": [
+        "St-Nicolas de Myre"
+      ],
+      "phase_percentage": 96.5,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:05",
+      "sunset": "16:34",
+      "daylight_duration": "08:28:42 (-1min 24s)",
+      "moon_position_start": 87.81,
+      "moon_position_end": 102.79,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "03:28",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "03:28",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
