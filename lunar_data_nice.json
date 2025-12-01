@@ -1,46 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-11-30T06:01:10.365543+01:00",
+  "generated_at": "2025-12-01T06:02:37.837640+01:00",
   "location": {
     "lat": "43:42:36.7",
     "lon": "7:15:43.2"
   },
   "traditional": [
-    {
-      "date_iso": "2025-11-30",
-      "date_formatted": "Dimanche 30/11/2025",
-      "saints": [
-        "St-André, apôtre",
-        "Ste-Justine"
-      ],
-      "phase_percentage": 73.0,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:43",
-      "sunset": "16:55",
-      "daylight_duration": "09:12:27 (-1min 31s)",
-      "moon_position_start": 358.41,
-      "moon_position_end": 12.5,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "02:44",
-          "constellation": "Poissons",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "02:44",
-          "end_time": "00:00",
-          "constellation": "Bélier",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-12-01",
       "date_formatted": "Lundi 01/12/2025",
@@ -225,44 +190,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-11-30",
-      "date_formatted": "Dimanche 30/11/2025",
+      "date_iso": "2025-12-07",
+      "date_formatted": "Dimanche 07/12/2025",
       "saints": [
-        "St-André, apôtre",
-        "Ste-Justine"
+        "St-Agathon",
+        "St-Ambroise de Milan"
       ],
-      "phase_percentage": 73.0,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:43",
-      "sunset": "16:55",
-      "daylight_duration": "09:12:27 (-1min 31s)",
-      "moon_position_start": 358.41,
-      "moon_position_end": 12.5,
+      "phase_percentage": 90.9,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:50",
+      "sunset": "16:54",
+      "daylight_duration": "09:03:33 (-1min 4s)",
+      "moon_position_start": 102.79,
+      "moon_position_end": 117.37,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "02:44",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "02:44",
           "end_time": "00:00",
-          "constellation": "Poissons",
+          "constellation": "Cancer",
           "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-12-01",
       "date_formatted": "Lundi 01/12/2025",
@@ -440,6 +397,33 @@
         },
         {
           "start_time": "03:28",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-12-07",
+      "date_formatted": "Dimanche 07/12/2025",
+      "saints": [
+        "St-Agathon",
+        "St-Ambroise de Milan"
+      ],
+      "phase_percentage": 90.9,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:50",
+      "sunset": "16:54",
+      "daylight_duration": "09:03:33 (-1min 4s)",
+      "moon_position_start": 102.79,
+      "moon_position_end": 117.37,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Gémeaux",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
