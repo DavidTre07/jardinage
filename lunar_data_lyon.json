@@ -1,46 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-12-02T06:01:08.728883+01:00",
+  "generated_at": "2025-12-03T06:01:07.785680+01:00",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
   },
   "traditional": [
-    {
-      "date_iso": "2025-12-02",
-      "date_formatted": "Mardi 02/12/2025",
-      "saints": [
-        "Ste-Aurélie",
-        "Ste-Viviane (ou Bibiane)"
-      ],
-      "phase_percentage": 90.6,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:02",
-      "sunset": "16:57",
-      "daylight_duration": "08:55:45 (-1min 31s)",
-      "moon_position_start": 27.04,
-      "moon_position_end": 41.98,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "04:47",
-          "constellation": "Bélier",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "04:47",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-12-03",
       "date_formatted": "Mercredi 03/12/2025",
@@ -226,36 +191,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-12-02",
-      "date_formatted": "Mardi 02/12/2025",
+      "date_iso": "2025-12-09",
+      "date_formatted": "Mardi 09/12/2025",
       "saints": [
-        "Ste-Aurélie",
-        "Ste-Viviane (ou Bibiane)"
+        "Ste-Léocadie",
+        "St-Pierre Fourier"
       ],
-      "phase_percentage": 90.6,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:02",
-      "sunset": "16:57",
-      "daylight_duration": "08:55:45 (-1min 31s)",
-      "moon_position_start": 27.04,
-      "moon_position_end": 41.98,
+      "phase_percentage": 74.3,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:09",
+      "sunset": "16:56",
+      "daylight_duration": "08:47:04 (-1min 1s)",
+      "moon_position_start": 131.46,
+      "moon_position_end": 145.04,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Bélier",
+          "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-12-03",
       "date_formatted": "Mercredi 03/12/2025",
@@ -437,6 +402,41 @@
           "end_time": "00:00",
           "constellation": "Cancer",
           "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-12-09",
+      "date_formatted": "Mardi 09/12/2025",
+      "saints": [
+        "Ste-Léocadie",
+        "St-Pierre Fourier"
+      ],
+      "phase_percentage": 74.3,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:09",
+      "sunset": "16:56",
+      "daylight_duration": "08:47:04 (-1min 1s)",
+      "moon_position_start": 131.46,
+      "moon_position_end": 145.04,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "11:27",
+          "constellation": "Cancer",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "11:27",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
