@@ -1,37 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-12-03T06:01:07.598260+01:00",
+  "generated_at": "2025-12-04T06:01:10.878093+01:00",
   "location": {
     "lat": "48:51:23.8",
     "lon": "2:21:07.9"
   },
   "traditional": [
-    {
-      "date_iso": "2025-12-03",
-      "date_formatted": "Mercredi 03/12/2025",
-      "saints": [
-        "St-François-Xavier"
-      ],
-      "phase_percentage": 96.4,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:24",
-      "sunset": "16:55",
-      "daylight_duration": "08:30:51 (-1min 39s)",
-      "moon_position_start": 41.98,
-      "moon_position_end": 57.21,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-12-04",
       "date_formatted": "Jeudi 04/12/2025",
@@ -218,43 +192,43 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-12-03",
-      "date_formatted": "Mercredi 03/12/2025",
+      "date_iso": "2025-12-10",
+      "date_formatted": "Mercredi 10/12/2025",
       "saints": [
-        "St-François-Xavier"
+        "St-Miltiade"
       ],
-      "phase_percentage": 96.4,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:24",
-      "sunset": "16:55",
-      "daylight_duration": "08:30:51 (-1min 39s)",
-      "moon_position_start": 41.98,
-      "moon_position_end": 57.21,
+      "phase_percentage": 64.4,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:32",
+      "sunset": "16:54",
+      "daylight_duration": "08:21:30 (-1min 4s)",
+      "moon_position_start": 145.04,
+      "moon_position_end": 158.14,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "18:57",
-          "constellation": "Bélier",
+          "end_time": "08:59",
+          "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "18:57",
+          "start_time": "08:59",
           "end_time": "00:00",
-          "constellation": "Taureau",
+          "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-12-04",
       "date_formatted": "Jeudi 04/12/2025",
@@ -434,6 +408,32 @@
         },
         {
           "start_time": "11:27",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-12-10",
+      "date_formatted": "Mercredi 10/12/2025",
+      "saints": [
+        "St-Miltiade"
+      ],
+      "phase_percentage": 64.4,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:32",
+      "sunset": "16:54",
+      "daylight_duration": "08:21:30 (-1min 4s)",
+      "moon_position_start": 145.04,
+      "moon_position_end": 158.14,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
