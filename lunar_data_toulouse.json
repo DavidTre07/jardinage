@@ -1,46 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-12-04T06:01:11.388648+01:00",
+  "generated_at": "2025-12-05T06:01:13.168074+01:00",
   "location": {
     "lat": "43:36:16.9",
     "lon": "1:26:39.1"
   },
   "traditional": [
-    {
-      "date_iso": "2025-12-04",
-      "date_formatted": "Jeudi 04/12/2025",
-      "saints": [
-        "Ste-Barbe",
-        "St-Jean Damascène"
-      ],
-      "phase_percentage": 99.4,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:10",
-      "sunset": "17:18",
-      "daylight_duration": "09:07:39 (-1min 16s)",
-      "moon_position_start": 57.21,
-      "moon_position_end": 72.55,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "04:22",
-          "constellation": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "04:22",
-          "end_time": "00:00",
-          "constellation": "Gémeaux",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-12-05",
       "date_formatted": "Vendredi 05/12/2025",
@@ -226,36 +191,54 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-12-04",
-      "date_formatted": "Jeudi 04/12/2025",
+      "date_iso": "2025-12-11",
+      "date_formatted": "Jeudi 11/12/2025",
       "saints": [
-        "Ste-Barbe",
-        "St-Jean Damascène"
+        "St-Damasse 1er",
+        "St-Daniel le Stylite"
       ],
-      "phase_percentage": 99.4,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:10",
-      "sunset": "17:18",
-      "daylight_duration": "09:07:39 (-1min 16s)",
-      "moon_position_start": 57.21,
-      "moon_position_end": 72.55,
-      "nodes_info": [],
+      "phase_percentage": 54.3,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:17",
+      "sunset": "17:17",
+      "daylight_duration": "09:00:39 (-47s)",
+      "moon_position_start": 158.14,
+      "moon_position_end": 170.82,
+      "nodes_info": [
+        "NŒUD LUNAIRE (descendant) le 11/12 à 08h33 - Pas de jardinage de 04h33 à 12h33"
+      ],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Taureau",
+          "end_time": "04:33",
+          "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "04:33",
+          "end_time": "12:33",
+          "constellation": "Vierge",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "12:33",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-12-05",
       "date_formatted": "Vendredi 05/12/2025",
@@ -434,6 +417,51 @@
       "periods": [
         {
           "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-12-11",
+      "date_formatted": "Jeudi 11/12/2025",
+      "saints": [
+        "St-Damasse 1er",
+        "St-Daniel le Stylite"
+      ],
+      "phase_percentage": 54.3,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:17",
+      "sunset": "17:17",
+      "daylight_duration": "09:00:39 (-47s)",
+      "moon_position_start": 158.14,
+      "moon_position_end": 170.82,
+      "nodes_info": [
+        "NŒUD LUNAIRE (descendant) le 11/12 à 08h33 - Pas de jardinage de 04h33 à 12h33"
+      ],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "04:33",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "04:33",
+          "end_time": "12:33",
+          "constellation": "Lion",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "12:33",
           "end_time": "00:00",
           "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
