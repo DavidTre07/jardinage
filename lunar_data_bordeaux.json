@@ -1,39 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-12-05T06:01:14.241006+01:00",
+  "generated_at": "2025-12-06T06:01:09.034799+01:00",
   "location": {
     "lat": "44:50:16.1",
     "lon": "-0:34:45.1"
   },
   "traditional": [
-    {
-      "date_iso": "2025-12-05",
-      "date_formatted": "Vendredi 05/12/2025",
-      "saints": [
-        "St-Gérard",
-        "St-Nicet",
-        "St-Sabbas"
-      ],
-      "phase_percentage": 99.4,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:23",
-      "sunset": "17:21",
-      "daylight_duration": "08:58:07 (-1min 15s)",
-      "moon_position_start": 72.55,
-      "moon_position_end": 87.81,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Gémeaux",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-12-06",
       "date_formatted": "Samedi 06/12/2025",
@@ -236,37 +208,43 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-12-05",
-      "date_formatted": "Vendredi 05/12/2025",
+      "date_iso": "2025-12-12",
+      "date_formatted": "Vendredi 12/12/2025",
       "saints": [
-        "St-Gérard",
-        "St-Nicet",
-        "St-Sabbas"
+        "Ste-Jeanne-Françoise de Chantal"
       ],
-      "phase_percentage": 99.4,
-      "cycle_trajectoire": "Lune Montante",
+      "phase_percentage": 44.3,
+      "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:23",
+      "sunrise": "08:30",
       "sunset": "17:21",
-      "daylight_duration": "08:58:07 (-1min 15s)",
-      "moon_position_start": 72.55,
-      "moon_position_end": 87.81,
+      "daylight_duration": "08:51:15 (-45s)",
+      "moon_position_start": 170.82,
+      "moon_position_end": 183.18,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Taureau",
+          "end_time": "17:46",
+          "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "17:46",
+          "end_time": "00:00",
+          "constellation": "Balance",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-12-06",
       "date_formatted": "Samedi 06/12/2025",
@@ -465,6 +443,40 @@
           "end_time": "00:00",
           "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-12-12",
+      "date_formatted": "Vendredi 12/12/2025",
+      "saints": [
+        "Ste-Jeanne-Françoise de Chantal"
+      ],
+      "phase_percentage": 44.3,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:30",
+      "sunset": "17:21",
+      "daylight_duration": "08:51:15 (-45s)",
+      "moon_position_start": 170.82,
+      "moon_position_end": 183.18,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "06:07",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "06:07",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
