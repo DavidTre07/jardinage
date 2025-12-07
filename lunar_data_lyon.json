@@ -1,45 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-12-06T06:01:07.459494+01:00",
+  "generated_at": "2025-12-07T06:01:07.550238+01:00",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
   },
   "traditional": [
-    {
-      "date_iso": "2025-12-06",
-      "date_formatted": "Samedi 06/12/2025",
-      "saints": [
-        "St-Nicolas de Myre"
-      ],
-      "phase_percentage": 96.5,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:06",
-      "sunset": "16:56",
-      "daylight_duration": "08:50:21 (-1min 14s)",
-      "moon_position_start": 87.81,
-      "moon_position_end": 102.79,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "03:28",
-          "constellation": "Gémeaux",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "03:28",
-          "end_time": "00:00",
-          "constellation": "Cancer",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-12-07",
       "date_formatted": "Dimanche 07/12/2025",
@@ -242,43 +208,37 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-12-06",
-      "date_formatted": "Samedi 06/12/2025",
+      "date_iso": "2025-12-13",
+      "date_formatted": "Samedi 13/12/2025",
       "saints": [
-        "St-Nicolas de Myre"
+        "St-Josse de Bretagne",
+        "Ste-Lucie de Syracuse",
+        "Ste-Odile"
       ],
-      "phase_percentage": 96.5,
+      "phase_percentage": 34.7,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:06",
+      "sunrise": "08:12",
       "sunset": "16:56",
-      "daylight_duration": "08:50:21 (-1min 14s)",
-      "moon_position_start": 87.81,
-      "moon_position_end": 102.79,
+      "daylight_duration": "08:43:45 (-42s)",
+      "moon_position_start": 183.18,
+      "moon_position_end": 195.29,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "03:28",
-          "constellation": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "03:28",
           "end_time": "00:00",
-          "constellation": "Gémeaux",
+          "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-12-07",
       "date_formatted": "Dimanche 07/12/2025",
@@ -474,6 +434,34 @@
         },
         {
           "start_time": "06:07",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-12-13",
+      "date_formatted": "Samedi 13/12/2025",
+      "saints": [
+        "St-Josse de Bretagne",
+        "Ste-Lucie de Syracuse",
+        "Ste-Odile"
+      ],
+      "phase_percentage": 34.7,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:12",
+      "sunset": "16:56",
+      "daylight_duration": "08:43:45 (-42s)",
+      "moon_position_start": 183.18,
+      "moon_position_end": 195.29,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
