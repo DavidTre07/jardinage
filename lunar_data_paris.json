@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-12-09T06:01:08.959922+01:00",
+  "generated_at": "2025-12-10T06:01:08.024931+01:00",
   "location": {
     "lat": "48:51:23.8",
     "lon": "2:21:07.9"
   },
   "traditional": [
-    {
-      "date_iso": "2025-12-09",
-      "date_formatted": "Mardi 09/12/2025",
-      "saints": [
-        "Ste-Léocadie",
-        "St-Pierre Fourier"
-      ],
-      "phase_percentage": 74.3,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:31",
-      "sunset": "16:54",
-      "daylight_duration": "08:22:35 (-1min 10s)",
-      "moon_position_start": 131.46,
-      "moon_position_end": 145.04,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-12-10",
       "date_formatted": "Mercredi 10/12/2025",
@@ -234,44 +207,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-12-09",
-      "date_formatted": "Mardi 09/12/2025",
+      "date_iso": "2025-12-16",
+      "date_formatted": "Mardi 16/12/2025",
       "saints": [
-        "Ste-Léocadie",
-        "St-Pierre Fourier"
+        "Ste-Adélaïde",
+        "St-Adon"
       ],
-      "phase_percentage": 74.3,
+      "phase_percentage": 11.5,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:31",
+      "sunrise": "08:37",
       "sunset": "16:54",
-      "daylight_duration": "08:22:35 (-1min 10s)",
-      "moon_position_start": 131.46,
-      "moon_position_end": 145.04,
+      "daylight_duration": "08:16:54 (-32s)",
+      "moon_position_start": 219.09,
+      "moon_position_end": 230.93,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "11:27",
-          "constellation": "Cancer",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "11:27",
           "end_time": "00:00",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "constellation": "Scorpion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-12-10",
       "date_formatted": "Mercredi 10/12/2025",
@@ -458,6 +423,33 @@
         },
         {
           "start_time": "21:47",
+          "end_time": "00:00",
+          "constellation": "Balance",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-12-16",
+      "date_formatted": "Mardi 16/12/2025",
+      "saints": [
+        "Ste-Adélaïde",
+        "St-Adon"
+      ],
+      "phase_percentage": 11.5,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:37",
+      "sunset": "16:54",
+      "daylight_duration": "08:16:54 (-32s)",
+      "moon_position_start": 219.09,
+      "moon_position_end": 230.93,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
