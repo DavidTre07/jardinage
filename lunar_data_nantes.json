@@ -1,45 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-12-12T06:01:09.327151+01:00",
+  "generated_at": "2025-12-13T06:01:12.866272+01:00",
   "location": {
     "lat": "47:13:06.2",
     "lon": "-1:33:13.0"
   },
   "traditional": [
-    {
-      "date_iso": "2025-12-12",
-      "date_formatted": "Vendredi 12/12/2025",
-      "saints": [
-        "Ste-Jeanne-Françoise de Chantal"
-      ],
-      "phase_percentage": 44.3,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:43",
-      "sunset": "17:16",
-      "daylight_duration": "08:33:12 (-50s)",
-      "moon_position_start": 170.82,
-      "moon_position_end": 183.18,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "17:46",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "17:46",
-          "end_time": "00:00",
-          "constellation": "Balance",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-12-13",
       "date_formatted": "Samedi 13/12/2025",
@@ -218,43 +184,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-12-12",
-      "date_formatted": "Vendredi 12/12/2025",
+      "date_iso": "2025-12-19",
+      "date_formatted": "Vendredi 19/12/2025",
       "saints": [
-        "Ste-Jeanne-Françoise de Chantal"
+        "St-Nemèse",
+        "St-Urbain IV"
       ],
-      "phase_percentage": 44.3,
+      "phase_percentage": 0.5,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:43",
-      "sunset": "17:16",
-      "daylight_duration": "08:33:12 (-50s)",
-      "moon_position_start": 170.82,
-      "moon_position_end": 183.18,
+      "sunrise": "08:48",
+      "sunset": "17:18",
+      "daylight_duration": "08:29:44 (-13s)",
+      "moon_position_start": 254.69,
+      "moon_position_end": 266.69,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "06:07",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "06:07",
           "end_time": "00:00",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-12-13",
       "date_formatted": "Samedi 13/12/2025",
@@ -438,6 +397,41 @@
           "constellation": "Serpentaire",
           "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
           "seve_info": "",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-12-19",
+      "date_formatted": "Vendredi 19/12/2025",
+      "saints": [
+        "St-Nemèse",
+        "St-Urbain IV"
+      ],
+      "phase_percentage": 0.5,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:48",
+      "sunset": "17:18",
+      "daylight_duration": "08:29:44 (-13s)",
+      "moon_position_start": 254.69,
+      "moon_position_end": 266.69,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "22:37",
+          "constellation": "Serpentaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
+          "blocked": false
+        },
+        {
+          "start_time": "22:37",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
