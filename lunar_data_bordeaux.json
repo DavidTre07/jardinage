@@ -1,39 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-12-13T06:01:13.747141+01:00",
+  "generated_at": "2025-12-14T06:01:09.672767+01:00",
   "location": {
     "lat": "44:50:16.1",
     "lon": "-0:34:45.1"
   },
   "traditional": [
-    {
-      "date_iso": "2025-12-13",
-      "date_formatted": "Samedi 13/12/2025",
-      "saints": [
-        "St-Josse de Bretagne",
-        "Ste-Lucie de Syracuse",
-        "Ste-Odile"
-      ],
-      "phase_percentage": 34.7,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:31",
-      "sunset": "17:21",
-      "daylight_duration": "08:50:34 (-40s)",
-      "moon_position_start": 183.18,
-      "moon_position_end": 195.29,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Balance",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-12-14",
       "date_formatted": "Dimanche 14/12/2025",
@@ -211,37 +183,44 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-12-13",
-      "date_formatted": "Samedi 13/12/2025",
+      "date_iso": "2025-12-20",
+      "date_formatted": "Samedi 20/12/2025",
       "saints": [
-        "St-Josse de Bretagne",
-        "Ste-Lucie de Syracuse",
-        "Ste-Odile"
+        "St-Ammon",
+        "St-Théophile"
       ],
-      "phase_percentage": 34.7,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:31",
-      "sunset": "17:21",
-      "daylight_duration": "08:50:34 (-40s)",
-      "moon_position_start": 183.18,
-      "moon_position_end": 195.29,
+      "phase_percentage": 0.3,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:35",
+      "sunset": "17:23",
+      "daylight_duration": "08:47:59 (-7s)",
+      "moon_position_start": 266.69,
+      "moon_position_end": 278.78,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
+          "end_time": "06:35",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "06:35",
           "end_time": "00:00",
-          "constellation": "Vierge",
+          "constellation": "Capricorne",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-12-14",
       "date_formatted": "Dimanche 14/12/2025",
@@ -432,6 +411,33 @@
           "constellation": "Sagittaire",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-12-20",
+      "date_formatted": "Samedi 20/12/2025",
+      "saints": [
+        "St-Ammon",
+        "St-Théophile"
+      ],
+      "phase_percentage": 0.3,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:35",
+      "sunset": "17:23",
+      "daylight_duration": "08:47:59 (-7s)",
+      "moon_position_start": 266.69,
+      "moon_position_end": 278.78,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
