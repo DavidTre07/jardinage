@@ -1,37 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-12-14T06:01:09.404283+01:00",
+  "generated_at": "2025-12-15T06:01:08.798246+01:00",
   "location": {
     "lat": "43:36:39.6",
     "lon": "3:52:36.1"
   },
   "traditional": [
-    {
-      "date_iso": "2025-12-14",
-      "date_formatted": "Dimanche 14/12/2025",
-      "saints": [
-        "St-Jean de la Croix"
-      ],
-      "phase_percentage": 25.9,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:09",
-      "sunset": "17:08",
-      "daylight_duration": "08:58:40 (-34s)",
-      "moon_position_start": 195.29,
-      "moon_position_end": 207.23,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Balance",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-12-15",
       "date_formatted": "Lundi 15/12/2025",
@@ -218,35 +192,38 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-12-14",
-      "date_formatted": "Dimanche 14/12/2025",
+      "date_iso": "2025-12-21",
+      "date_formatted": "Dimanche 21/12/2025",
       "saints": [
-        "St-Jean de la Croix"
+        "St-Dioscore",
+        "St-Honorat de Toulouse",
+        "St-Pierre Casinius",
+        "St-Thémistocle"
       ],
-      "phase_percentage": 25.9,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:09",
-      "sunset": "17:08",
-      "daylight_duration": "08:58:40 (-34s)",
-      "moon_position_start": 195.29,
-      "moon_position_end": 207.23,
+      "phase_percentage": 1.9,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:14",
+      "sunset": "17:11",
+      "daylight_duration": "08:56:44 (-2s)",
+      "moon_position_start": 278.78,
+      "moon_position_end": 290.98,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Vierge",
+          "constellation": "Capricorne",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-12-15",
       "date_formatted": "Lundi 15/12/2025",
@@ -430,6 +407,35 @@
       "daylight_duration": "08:56:47 (-7s)",
       "moon_position_start": 266.69,
       "moon_position_end": 278.78,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-12-21",
+      "date_formatted": "Dimanche 21/12/2025",
+      "saints": [
+        "St-Dioscore",
+        "St-Honorat de Toulouse",
+        "St-Pierre Casinius",
+        "St-Thémistocle"
+      ],
+      "phase_percentage": 1.9,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:14",
+      "sunset": "17:11",
+      "daylight_duration": "08:56:44 (-2s)",
+      "moon_position_start": 278.78,
+      "moon_position_end": 290.98,
       "nodes_info": [],
       "periods": [
         {
