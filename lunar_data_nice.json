@@ -1,46 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-12-15T06:01:09.305898+01:00",
+  "generated_at": "2025-12-16T06:01:09.959822+01:00",
   "location": {
     "lat": "43:42:36.7",
     "lon": "7:15:43.2"
   },
   "traditional": [
-    {
-      "date_iso": "2025-12-15",
-      "date_formatted": "Lundi 15/12/2025",
-      "saints": [
-        "Ste-Marie Crucifiée de Rose",
-        "Ste-Ninon"
-      ],
-      "phase_percentage": 18.1,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:57",
-      "sunset": "16:54",
-      "daylight_duration": "08:57:29 (-30s)",
-      "moon_position_start": 207.23,
-      "moon_position_end": 219.09,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "05:35",
-          "constellation": "Balance",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "05:35",
-          "end_time": "00:00",
-          "constellation": "Scorpion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-12-16",
       "date_formatted": "Mardi 16/12/2025",
@@ -221,44 +186,45 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-12-15",
-      "date_formatted": "Lundi 15/12/2025",
+      "date_iso": "2025-12-22",
+      "date_formatted": "Lundi 22/12/2025",
       "saints": [
-        "Ste-Marie Crucifiée de Rose",
-        "Ste-Ninon"
+        "St-Flavien",
+        "Ste-Françoise-Xavière Cabrini",
+        "St-Zénon"
       ],
-      "phase_percentage": 18.1,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:57",
-      "sunset": "16:54",
-      "daylight_duration": "08:57:29 (-30s)",
-      "moon_position_start": 207.23,
-      "moon_position_end": 219.09,
+      "phase_percentage": 5.4,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:01",
+      "sunset": "16:57",
+      "daylight_duration": "08:56:04 (+1s)",
+      "moon_position_start": 290.98,
+      "moon_position_end": 303.32,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "21:47",
-          "constellation": "Vierge",
+          "end_time": "17:34",
+          "constellation": "Capricorne",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         },
         {
-          "start_time": "21:47",
+          "start_time": "17:34",
           "end_time": "00:00",
-          "constellation": "Balance",
+          "constellation": "Verseau",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-12-16",
       "date_formatted": "Mardi 16/12/2025",
@@ -443,6 +409,42 @@
           "end_time": "00:00",
           "constellation": "Sagittaire",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-12-22",
+      "date_formatted": "Lundi 22/12/2025",
+      "saints": [
+        "St-Flavien",
+        "Ste-Françoise-Xavière Cabrini",
+        "St-Zénon"
+      ],
+      "phase_percentage": 5.4,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:01",
+      "sunset": "16:57",
+      "daylight_duration": "08:56:04 (+1s)",
+      "moon_position_start": 290.98,
+      "moon_position_end": 303.32,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "17:34",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "17:34",
+          "end_time": "00:00",
+          "constellation": "Capricorne",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
