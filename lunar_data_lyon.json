@@ -1,47 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-12-17T06:01:08.603435+01:00",
+  "generated_at": "2025-12-18T06:01:08.878684+01:00",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
   },
   "traditional": [
-    {
-      "date_iso": "2025-12-17",
-      "date_formatted": "Mercredi 17/12/2025",
-      "saints": [
-        "St-Calanique",
-        "St-Judicaà«l",
-        "Ste-Olympiade"
-      ],
-      "phase_percentage": 6.3,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:15",
-      "sunset": "16:57",
-      "daylight_duration": "08:41:43 (-23s)",
-      "moon_position_start": 230.93,
-      "moon_position_end": 242.78,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "18:22",
-          "constellation": "Scorpion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "18:22",
-          "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-12-18",
       "date_formatted": "Jeudi 18/12/2025",
@@ -223,45 +187,38 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-12-17",
-      "date_formatted": "Mercredi 17/12/2025",
+      "date_iso": "2025-12-24",
+      "date_formatted": "Mercredi 24/12/2025",
       "saints": [
-        "St-Calanique",
-        "St-Judicaà«l",
-        "Ste-Olympiade"
+        "Ste-Adèle",
+        "St-Delphin",
+        "Ste-Irmine",
+        "St-Métrobe"
       ],
-      "phase_percentage": 6.3,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:15",
-      "sunset": "16:57",
-      "daylight_duration": "08:41:43 (-23s)",
-      "moon_position_start": 230.93,
-      "moon_position_end": 242.78,
+      "phase_percentage": 17.7,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:19",
+      "sunset": "17:01",
+      "daylight_duration": "08:41:21 (+11s)",
+      "moon_position_start": 315.81,
+      "moon_position_end": 328.49,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "20:23",
-          "constellation": "Balance",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "20:23",
           "end_time": "00:00",
-          "constellation": "Scorpion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-12-18",
       "date_formatted": "Jeudi 18/12/2025",
@@ -440,6 +397,35 @@
       "daylight_duration": "08:41:09 (+6s)",
       "moon_position_start": 303.32,
       "moon_position_end": 315.81,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Capricorne",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-12-24",
+      "date_formatted": "Mercredi 24/12/2025",
+      "saints": [
+        "Ste-Adèle",
+        "St-Delphin",
+        "Ste-Irmine",
+        "St-Métrobe"
+      ],
+      "phase_percentage": 17.7,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:19",
+      "sunset": "17:01",
+      "daylight_duration": "08:41:21 (+11s)",
+      "moon_position_start": 315.81,
+      "moon_position_end": 328.49,
       "nodes_info": [],
       "periods": [
         {
