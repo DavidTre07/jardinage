@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-12-18T06:01:09.082225+01:00",
+  "generated_at": "2025-12-19T06:01:56.356323+01:00",
   "location": {
     "lat": "43:17:47.4",
     "lon": "5:22:11.3"
   },
   "traditional": [
-    {
-      "date_iso": "2025-12-18",
-      "date_formatted": "Jeudi 18/12/2025",
-      "saints": [
-        "St-Gatien",
-        "St-Zozime"
-      ],
-      "phase_percentage": 2.6,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:05",
-      "sunset": "17:04",
-      "daylight_duration": "08:59:17 (-16s)",
-      "moon_position_start": 242.78,
-      "moon_position_end": 254.69,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-12-19",
       "date_formatted": "Vendredi 19/12/2025",
@@ -216,44 +189,55 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-12-18",
-      "date_formatted": "Jeudi 18/12/2025",
+      "date_iso": "2025-12-25",
+      "date_formatted": "Jeudi 25/12/2025",
       "saints": [
-        "St-Gatien",
-        "St-Zozime"
+        "Ste-Adalsinde",
+        "Ste-Alburge",
+        "Noà«l"
       ],
-      "phase_percentage": 2.6,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:05",
-      "sunset": "17:04",
-      "daylight_duration": "08:59:17 (-16s)",
-      "moon_position_start": 242.78,
-      "moon_position_end": 254.69,
-      "nodes_info": [],
+      "phase_percentage": 26.1,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:08",
+      "sunset": "17:08",
+      "daylight_duration": "08:59:29 (+15s)",
+      "moon_position_start": 328.49,
+      "moon_position_end": 341.4,
+      "nodes_info": [
+        "NŒUD LUNAIRE (ascendant) le 25/12 à 23h01 - Pas de jardinage de 19h01 à 03h01"
+      ],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "10:31",
-          "constellation": "Scorpion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "end_time": "02:49",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         },
         {
-          "start_time": "10:31",
-          "end_time": "00:00",
-          "constellation": "Serpentaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
+          "start_time": "02:49",
+          "end_time": "19:01",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
+        },
+        {
+          "start_time": "19:01",
+          "end_time": "00:00",
+          "constellation": "Poissons",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-12-19",
       "date_formatted": "Vendredi 19/12/2025",
@@ -435,6 +419,52 @@
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-12-25",
+      "date_formatted": "Jeudi 25/12/2025",
+      "saints": [
+        "Ste-Adalsinde",
+        "Ste-Alburge",
+        "Noà«l"
+      ],
+      "phase_percentage": 26.1,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:08",
+      "sunset": "17:08",
+      "daylight_duration": "08:59:29 (+15s)",
+      "moon_position_start": 328.49,
+      "moon_position_end": 341.4,
+      "nodes_info": [
+        "NŒUD LUNAIRE (ascendant) le 25/12 à 23h01 - Pas de jardinage de 19h01 à 03h01"
+      ],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "02:49",
+          "constellation": "Capricorne",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "02:49",
+          "end_time": "19:01",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "19:01",
+          "end_time": "00:00",
+          "constellation": "Verseau",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
         }
       ]
     }
