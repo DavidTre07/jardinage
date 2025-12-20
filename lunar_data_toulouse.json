@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-12-19T06:01:56.560920+01:00",
+  "generated_at": "2025-12-20T06:01:09.141402+01:00",
   "location": {
     "lat": "43:36:16.9",
     "lon": "1:26:39.1"
   },
   "traditional": [
-    {
-      "date_iso": "2025-12-19",
-      "date_formatted": "Vendredi 19/12/2025",
-      "saints": [
-        "St-Nemèse",
-        "St-Urbain IV"
-      ],
-      "phase_percentage": 0.5,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:22",
-      "sunset": "17:19",
-      "daylight_duration": "08:56:57 (-11s)",
-      "moon_position_start": 254.69,
-      "moon_position_end": 266.69,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-12-20",
       "date_formatted": "Samedi 20/12/2025",
@@ -235,44 +208,46 @@
           "blocked": true
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-12-19",
-      "date_formatted": "Vendredi 19/12/2025",
+      "date_iso": "2025-12-26",
+      "date_formatted": "Vendredi 26/12/2025",
       "saints": [
-        "St-Nemèse",
-        "St-Urbain IV"
+        "St-Denys",
+        "St-Etienne de Protomartyr"
       ],
-      "phase_percentage": 0.5,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:22",
-      "sunset": "17:19",
-      "daylight_duration": "08:56:57 (-11s)",
-      "moon_position_start": 254.69,
-      "moon_position_end": 266.69,
-      "nodes_info": [],
+      "phase_percentage": 35.8,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:26",
+      "sunset": "17:23",
+      "daylight_duration": "08:57:41 (+19s)",
+      "moon_position_start": 341.4,
+      "moon_position_end": 354.59,
+      "nodes_info": [
+        "NŒUD LUNAIRE (ascendant) le 25/12 à 23h01 - Pas de jardinage de 19h01 à 03h01"
+      ],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "22:37",
-          "constellation": "Serpentaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
-          "blocked": false
+          "end_time": "03:01",
+          "constellation": "Poissons",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
         },
         {
-          "start_time": "22:37",
+          "start_time": "03:01",
           "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-12-20",
       "date_formatted": "Samedi 20/12/2025",
@@ -465,6 +440,43 @@
           "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
           "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
           "blocked": true
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-12-26",
+      "date_formatted": "Vendredi 26/12/2025",
+      "saints": [
+        "St-Denys",
+        "St-Etienne de Protomartyr"
+      ],
+      "phase_percentage": 35.8,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:26",
+      "sunset": "17:23",
+      "daylight_duration": "08:57:41 (+19s)",
+      "moon_position_start": 341.4,
+      "moon_position_end": 354.59,
+      "nodes_info": [
+        "NŒUD LUNAIRE (ascendant) le 25/12 à 23h01 - Pas de jardinage de 19h01 à 03h01"
+      ],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "03:01",
+          "constellation": "Verseau",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "03:01",
+          "end_time": "00:00",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
         }
       ]
     }
