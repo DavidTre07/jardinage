@@ -1,46 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-12-20T06:01:10.104409+01:00",
+  "generated_at": "2025-12-21T06:01:09.409349+01:00",
   "location": {
     "lat": "43:36:39.6",
     "lon": "3:52:36.1"
   },
   "traditional": [
-    {
-      "date_iso": "2025-12-20",
-      "date_formatted": "Samedi 20/12/2025",
-      "saints": [
-        "St-Ammon",
-        "St-Théophile"
-      ],
-      "phase_percentage": 0.3,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:13",
-      "sunset": "17:10",
-      "daylight_duration": "08:56:47 (-7s)",
-      "moon_position_start": 266.69,
-      "moon_position_end": 278.78,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "06:35",
-          "constellation": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "06:35",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-12-21",
       "date_formatted": "Dimanche 21/12/2025",
@@ -241,6 +206,40 @@
           "end_time": "00:00",
           "constellation": "Poissons",
           "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-12-27",
+      "date_formatted": "Samedi 27/12/2025",
+      "saints": [
+        "St-Jean l'Evangéliste, apôtre"
+      ],
+      "phase_percentage": 46.4,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:16",
+      "sunset": "17:14",
+      "daylight_duration": "08:58:03 (+24s)",
+      "moon_position_start": 354.59,
+      "moon_position_end": 8.11,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "09:40",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "09:40",
+          "end_time": "00:00",
+          "constellation": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
@@ -249,33 +248,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2025-12-20",
-      "date_formatted": "Samedi 20/12/2025",
-      "saints": [
-        "St-Ammon",
-        "St-Théophile"
-      ],
-      "phase_percentage": 0.3,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:13",
-      "sunset": "17:10",
-      "daylight_duration": "08:56:47 (-7s)",
-      "moon_position_start": 266.69,
-      "moon_position_end": 278.78,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2025-12-21",
       "date_formatted": "Dimanche 21/12/2025",
       "saints": [
@@ -475,6 +447,40 @@
           "end_time": "00:00",
           "constellation": "Verseau",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-12-27",
+      "date_formatted": "Samedi 27/12/2025",
+      "saints": [
+        "St-Jean l'Evangéliste, apôtre"
+      ],
+      "phase_percentage": 46.4,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:16",
+      "sunset": "17:14",
+      "daylight_duration": "08:58:03 (+24s)",
+      "moon_position_start": 354.59,
+      "moon_position_end": 8.11,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "09:40",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "09:40",
+          "end_time": "00:00",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
