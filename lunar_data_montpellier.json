@@ -1,40 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-12-21T06:01:09.409349+01:00",
+  "generated_at": "2025-12-22T06:01:09.094478+01:00",
   "location": {
     "lat": "43:36:39.6",
     "lon": "3:52:36.1"
   },
   "traditional": [
-    {
-      "date_iso": "2025-12-21",
-      "date_formatted": "Dimanche 21/12/2025",
-      "saints": [
-        "St-Dioscore",
-        "St-Honorat de Toulouse",
-        "St-Pierre Casinius",
-        "St-Thémistocle"
-      ],
-      "phase_percentage": 1.9,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:14",
-      "sunset": "17:11",
-      "daylight_duration": "08:56:44 (-2s)",
-      "moon_position_start": 278.78,
-      "moon_position_end": 290.98,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-12-22",
       "date_formatted": "Lundi 22/12/2025",
@@ -244,38 +215,35 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-12-21",
-      "date_formatted": "Dimanche 21/12/2025",
+      "date_iso": "2025-12-28",
+      "date_formatted": "Dimanche 28/12/2025",
       "saints": [
-        "St-Dioscore",
-        "St-Honorat de Toulouse",
-        "St-Pierre Casinius",
-        "St-Thémistocle"
+        "Sts-Innocents"
       ],
-      "phase_percentage": 1.9,
+      "phase_percentage": 57.4,
       "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:14",
-      "sunset": "17:11",
-      "daylight_duration": "08:56:44 (-2s)",
-      "moon_position_start": 278.78,
-      "moon_position_end": 290.98,
+      "sunrise": "08:16",
+      "sunset": "17:15",
+      "daylight_duration": "08:58:32 (+28s)",
+      "moon_position_start": 8.11,
+      "moon_position_end": 21.99,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Sagittaire",
+          "constellation": "Bélier",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-12-22",
       "date_formatted": "Lundi 22/12/2025",
@@ -478,6 +446,32 @@
         },
         {
           "start_time": "09:40",
+          "end_time": "00:00",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-12-28",
+      "date_formatted": "Dimanche 28/12/2025",
+      "saints": [
+        "Sts-Innocents"
+      ],
+      "phase_percentage": 57.4,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:16",
+      "sunset": "17:15",
+      "daylight_duration": "08:58:32 (+28s)",
+      "moon_position_start": 8.11,
+      "moon_position_end": 21.99,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Poissons",
           "recommendation": "Actions favorables aux légumes feuilles.",
