@@ -1,40 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-12-24T06:01:08.405558+01:00",
+  "generated_at": "2025-12-25T06:01:07.361407+01:00",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
   },
   "traditional": [
-    {
-      "date_iso": "2025-12-24",
-      "date_formatted": "Mercredi 24/12/2025",
-      "saints": [
-        "Ste-Adèle",
-        "St-Delphin",
-        "Ste-Irmine",
-        "St-Métrobe"
-      ],
-      "phase_percentage": 17.7,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:19",
-      "sunset": "17:01",
-      "daylight_duration": "08:41:21 (+11s)",
-      "moon_position_start": 315.81,
-      "moon_position_end": 328.49,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-12-25",
       "date_formatted": "Jeudi 25/12/2025",
@@ -238,38 +209,46 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-12-24",
-      "date_formatted": "Mercredi 24/12/2025",
+      "date_iso": "2025-12-31",
+      "date_formatted": "Mercredi 31/12/2025",
       "saints": [
-        "Ste-Adèle",
-        "St-Delphin",
-        "Ste-Irmine",
-        "St-Métrobe"
+        "St-Sylvestre",
+        "Ste-Colombe de Sens",
+        "Ste-Mélanie la Jeune",
+        "St-Potentin"
       ],
-      "phase_percentage": 17.7,
+      "phase_percentage": 87.4,
       "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:19",
-      "sunset": "17:01",
-      "daylight_duration": "08:41:21 (+11s)",
-      "moon_position_start": 315.81,
-      "moon_position_end": 328.49,
+      "sunrise": "08:21",
+      "sunset": "17:06",
+      "daylight_duration": "08:45:02 (+46s)",
+      "moon_position_start": 50.85,
+      "moon_position_end": 65.73,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
+          "end_time": "14:48",
+          "constellation": "Taureau",
           "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "14:48",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-12-25",
       "date_formatted": "Jeudi 25/12/2025",
@@ -469,6 +448,43 @@
           "end_time": "00:00",
           "constellation": "Bélier",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2025-12-31",
+      "date_formatted": "Mercredi 31/12/2025",
+      "saints": [
+        "St-Sylvestre",
+        "Ste-Colombe de Sens",
+        "Ste-Mélanie la Jeune",
+        "St-Potentin"
+      ],
+      "phase_percentage": 87.4,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:21",
+      "sunset": "17:06",
+      "daylight_duration": "08:45:02 (+46s)",
+      "moon_position_start": 50.85,
+      "moon_position_end": 65.73,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "05:07",
+          "constellation": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "05:07",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
