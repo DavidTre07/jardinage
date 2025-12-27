@@ -1,48 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-12-26T06:01:09.562988+01:00",
+  "generated_at": "2025-12-27T06:01:08.635334+01:00",
   "location": {
     "lat": "48:34:24.2",
     "lon": "7:45:07.6"
   },
   "traditional": [
-    {
-      "date_iso": "2025-12-26",
-      "date_formatted": "Vendredi 26/12/2025",
-      "saints": [
-        "St-Denys",
-        "St-Etienne de Protomartyr"
-      ],
-      "phase_percentage": 35.8,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:20",
-      "sunset": "16:39",
-      "daylight_duration": "08:19:14 (+24s)",
-      "moon_position_start": 341.4,
-      "moon_position_end": 354.59,
-      "nodes_info": [
-        "NŒUD LUNAIRE (ascendant) le 25/12 à 23h01 - Pas de jardinage de 19h01 à 03h01"
-      ],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "03:01",
-          "constellation": "Poissons",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "03:01",
-          "end_time": "00:00",
-          "constellation": "Poissons",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-12-27",
       "date_formatted": "Samedi 27/12/2025",
@@ -229,46 +192,46 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-12-26",
-      "date_formatted": "Vendredi 26/12/2025",
+      "date_iso": "2026-01-02",
+      "date_formatted": "Vendredi 02/01/2026",
       "saints": [
-        "St-Denys",
-        "St-Etienne de Protomartyr"
+        "St-Adélard (ou Adalhard)",
+        "St-Basile le Grand",
+        "St-Grégoire de Nazianze (le Jeune)",
+        "St-Macaire le Jeune"
       ],
-      "phase_percentage": 35.8,
-      "cycle_trajectoire": "Lune Montante",
+      "phase_percentage": 98.5,
+      "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
       "sunrise": "08:20",
-      "sunset": "16:39",
-      "daylight_duration": "08:19:14 (+24s)",
-      "moon_position_start": 341.4,
-      "moon_position_end": 354.59,
-      "nodes_info": [
-        "NŒUD LUNAIRE (ascendant) le 25/12 à 23h01 - Pas de jardinage de 19h01 à 03h01"
-      ],
+      "sunset": "16:45",
+      "daylight_duration": "08:24:41 (+1min 2s)",
+      "moon_position_start": 80.76,
+      "moon_position_end": 95.79,
+      "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "03:01",
-          "constellation": "Verseau",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
+          "end_time": "14:43",
+          "constellation": "Gémeaux",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
         },
         {
-          "start_time": "03:01",
+          "start_time": "14:43",
           "end_time": "00:00",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "constellation": "Cancer",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-12-27",
       "date_formatted": "Samedi 27/12/2025",
@@ -452,6 +415,43 @@
           "constellation": "Taureau",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-01-02",
+      "date_formatted": "Vendredi 02/01/2026",
+      "saints": [
+        "St-Adélard (ou Adalhard)",
+        "St-Basile le Grand",
+        "St-Grégoire de Nazianze (le Jeune)",
+        "St-Macaire le Jeune"
+      ],
+      "phase_percentage": 98.5,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:20",
+      "sunset": "16:45",
+      "daylight_duration": "08:24:41 (+1min 2s)",
+      "moon_position_start": 80.76,
+      "moon_position_end": 95.79,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "14:43",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "14:43",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
