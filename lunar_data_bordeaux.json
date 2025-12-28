@@ -1,45 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-12-27T06:01:09.212448+01:00",
+  "generated_at": "2025-12-28T06:01:09.341737+01:00",
   "location": {
     "lat": "44:50:16.1",
     "lon": "-0:34:45.1"
   },
   "traditional": [
-    {
-      "date_iso": "2025-12-27",
-      "date_formatted": "Samedi 27/12/2025",
-      "saints": [
-        "St-Jean l'Evangéliste, apôtre"
-      ],
-      "phase_percentage": 46.4,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:38",
-      "sunset": "17:28",
-      "daylight_duration": "08:49:20 (+25s)",
-      "moon_position_start": 354.59,
-      "moon_position_end": 8.11,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "09:40",
-          "constellation": "Poissons",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "09:40",
-          "end_time": "00:00",
-          "constellation": "Bélier",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-12-28",
       "date_formatted": "Dimanche 28/12/2025",
@@ -229,43 +195,37 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-12-27",
-      "date_formatted": "Samedi 27/12/2025",
+      "date_iso": "2026-01-03",
+      "date_formatted": "Samedi 03/01/2026",
       "saints": [
-        "St-Jean l'Evangéliste, apôtre"
+        "Ste-Bertille",
+        "St-Daniel",
+        "Ste-Geneviève"
       ],
-      "phase_percentage": 46.4,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:38",
-      "sunset": "17:28",
-      "daylight_duration": "08:49:20 (+25s)",
-      "moon_position_start": 354.59,
-      "moon_position_end": 8.11,
+      "phase_percentage": 99.9,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:39",
+      "sunset": "17:34",
+      "daylight_duration": "08:54:31 (+58s)",
+      "moon_position_start": 95.79,
+      "moon_position_end": 110.66,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "09:40",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "09:40",
           "end_time": "00:00",
-          "constellation": "Poissons",
+          "constellation": "Cancer",
           "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-12-28",
       "date_formatted": "Dimanche 28/12/2025",
@@ -448,6 +408,34 @@
         },
         {
           "start_time": "14:43",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-01-03",
+      "date_formatted": "Samedi 03/01/2026",
+      "saints": [
+        "Ste-Bertille",
+        "St-Daniel",
+        "Ste-Geneviève"
+      ],
+      "phase_percentage": 99.9,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:39",
+      "sunset": "17:34",
+      "daylight_duration": "08:54:31 (+58s)",
+      "moon_position_start": 95.79,
+      "moon_position_end": 110.66,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Gémeaux",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
