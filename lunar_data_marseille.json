@@ -1,46 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-12-29T06:01:07.611847+01:00",
+  "generated_at": "2025-12-30T06:01:08.472989+01:00",
   "location": {
     "lat": "43:17:47.4",
     "lon": "5:22:11.3"
   },
   "traditional": [
-    {
-      "date_iso": "2025-12-29",
-      "date_formatted": "Lundi 29/12/2025",
-      "saints": [
-        "St-David",
-        "St-Thomas Becket"
-      ],
-      "phase_percentage": 68.4,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:10",
-      "sunset": "17:11",
-      "daylight_duration": "09:01:14 (+33s)",
-      "moon_position_start": 21.99,
-      "moon_position_end": 36.24,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "13:34",
-          "constellation": "Bélier",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "13:34",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-12-30",
       "date_formatted": "Mardi 30/12/2025",
@@ -234,44 +199,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-12-29",
-      "date_formatted": "Lundi 29/12/2025",
+      "date_iso": "2026-01-05",
+      "date_formatted": "Lundi 05/01/2026",
       "saints": [
-        "St-David",
-        "St-Thomas Becket"
+        "Ste-Emilienne",
+        "St-Télesphore"
       ],
-      "phase_percentage": 68.4,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
+      "phase_percentage": 94.3,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
       "sunrise": "08:10",
-      "sunset": "17:11",
-      "daylight_duration": "09:01:14 (+33s)",
-      "moon_position_start": 21.99,
-      "moon_position_end": 36.24,
+      "sunset": "17:17",
+      "daylight_duration": "09:07:05 (+1min 2s)",
+      "moon_position_start": 125.22,
+      "moon_position_end": 139.36,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "08:30",
-          "constellation": "Poissons",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "08:30",
           "end_time": "00:00",
-          "constellation": "Bélier",
+          "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-12-30",
       "date_formatted": "Mardi 30/12/2025",
@@ -461,6 +418,41 @@
           "end_time": "00:00",
           "constellation": "Cancer",
           "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-01-05",
+      "date_formatted": "Lundi 05/01/2026",
+      "saints": [
+        "Ste-Emilienne",
+        "St-Télesphore"
+      ],
+      "phase_percentage": 94.3,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:10",
+      "sunset": "17:17",
+      "daylight_duration": "09:07:05 (+1min 2s)",
+      "moon_position_start": 125.22,
+      "moon_position_end": 139.36,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "21:39",
+          "constellation": "Cancer",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "21:39",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
