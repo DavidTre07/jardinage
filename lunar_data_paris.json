@@ -1,37 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-12-30T06:01:08.078285+01:00",
+  "generated_at": "2025-12-31T06:01:09.303894+01:00",
   "location": {
     "lat": "48:51:23.8",
     "lon": "2:21:07.9"
   },
   "traditional": [
-    {
-      "date_iso": "2025-12-30",
-      "date_formatted": "Mardi 30/12/2025",
-      "saints": [
-        "St-Sabin (ou Sabinien)"
-      ],
-      "phase_percentage": 78.6,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:43",
-      "sunset": "17:02",
-      "daylight_duration": "08:19:23 (+47s)",
-      "moon_position_start": 36.24,
-      "moon_position_end": 50.85,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2025-12-31",
       "date_formatted": "Mercredi 31/12/2025",
@@ -226,35 +200,47 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-12-30",
-      "date_formatted": "Mardi 30/12/2025",
+      "date_iso": "2026-01-06",
+      "date_formatted": "Mardi 06/01/2026",
       "saints": [
-        "St-Sabin (ou Sabinien)"
+        "St-Balthazar",
+        "St-Gaspard",
+        "St-Guérin",
+        "St-Melaine de Rennes",
+        "St-Melchior"
       ],
-      "phase_percentage": 78.6,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:43",
-      "sunset": "17:02",
-      "daylight_duration": "08:19:23 (+47s)",
-      "moon_position_start": 36.24,
-      "moon_position_end": 50.85,
+      "phase_percentage": 88.1,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:42",
+      "sunset": "17:10",
+      "daylight_duration": "08:27:26 (+1min 24s)",
+      "moon_position_start": 139.36,
+      "moon_position_end": 153.04,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Bélier",
+          "end_time": "18:35",
+          "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "18:35",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2025-12-31",
       "date_formatted": "Mercredi 31/12/2025",
@@ -450,6 +436,36 @@
         },
         {
           "start_time": "21:39",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-01-06",
+      "date_formatted": "Mardi 06/01/2026",
+      "saints": [
+        "St-Balthazar",
+        "St-Gaspard",
+        "St-Guérin",
+        "St-Melaine de Rennes",
+        "St-Melchior"
+      ],
+      "phase_percentage": 88.1,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:42",
+      "sunset": "17:10",
+      "daylight_duration": "08:27:26 (+1min 24s)",
+      "moon_position_start": 139.36,
+      "moon_position_end": 153.04,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
