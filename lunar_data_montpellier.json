@@ -1,48 +1,11 @@
 {
   "success": true,
-  "generated_at": "2025-12-31T06:01:10.609575+01:00",
+  "generated_at": "2026-01-01T06:01:29.116913+01:00",
   "location": {
     "lat": "43:36:39.6",
     "lon": "3:52:36.1"
   },
   "traditional": [
-    {
-      "date_iso": "2025-12-31",
-      "date_formatted": "Mercredi 31/12/2025",
-      "saints": [
-        "St-Sylvestre",
-        "Ste-Colombe de Sens",
-        "Ste-Mélanie la Jeune",
-        "St-Potentin"
-      ],
-      "phase_percentage": 87.4,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:17",
-      "sunset": "17:17",
-      "daylight_duration": "09:00:25 (+42s)",
-      "moon_position_start": 50.85,
-      "moon_position_end": 65.73,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "14:48",
-          "constellation": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "14:48",
-          "end_time": "00:00",
-          "constellation": "Gémeaux",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-01-01",
       "date_formatted": "Jeudi 01/01/2026",
@@ -238,46 +201,56 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2025-12-31",
-      "date_formatted": "Mercredi 31/12/2025",
+      "date_iso": "2026-01-07",
+      "date_formatted": "Mercredi 07/01/2026",
       "saints": [
-        "St-Sylvestre",
-        "Ste-Colombe de Sens",
-        "Ste-Mélanie la Jeune",
-        "St-Potentin"
+        "St-Aldric",
+        "St-Canut Lavard",
+        "St-Raymond de Penyafort",
+        "St-Reynold"
       ],
-      "phase_percentage": 87.4,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
+      "phase_percentage": 80.2,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
       "sunrise": "08:17",
-      "sunset": "17:17",
-      "daylight_duration": "09:00:25 (+42s)",
-      "moon_position_start": 50.85,
-      "moon_position_end": 65.73,
-      "nodes_info": [],
+      "sunset": "17:24",
+      "daylight_duration": "09:07:20 (+1min 11s)",
+      "moon_position_start": 153.04,
+      "moon_position_end": 166.26,
+      "nodes_info": [
+        "NŒUD LUNAIRE (descendant) le 07/01 à 12h21 - Pas de jardinage de 08h21 à 16h21"
+      ],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "05:07",
-          "constellation": "Bélier",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "end_time": "08:21",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "05:07",
+          "start_time": "08:21",
+          "end_time": "16:21",
+          "constellation": "Vierge",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "16:21",
           "end_time": "00:00",
-          "constellation": "Taureau",
+          "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-01-01",
       "date_formatted": "Jeudi 01/01/2026",
@@ -466,6 +439,53 @@
       "periods": [
         {
           "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-01-07",
+      "date_formatted": "Mercredi 07/01/2026",
+      "saints": [
+        "St-Aldric",
+        "St-Canut Lavard",
+        "St-Raymond de Penyafort",
+        "St-Reynold"
+      ],
+      "phase_percentage": 80.2,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:17",
+      "sunset": "17:24",
+      "daylight_duration": "09:07:20 (+1min 11s)",
+      "moon_position_start": 153.04,
+      "moon_position_end": 166.26,
+      "nodes_info": [
+        "NŒUD LUNAIRE (descendant) le 07/01 à 12h21 - Pas de jardinage de 08h21 à 16h21"
+      ],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "08:21",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "08:21",
+          "end_time": "16:21",
+          "constellation": "Lion",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "16:21",
           "end_time": "00:00",
           "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
