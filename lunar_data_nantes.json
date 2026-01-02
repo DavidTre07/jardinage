@@ -1,40 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-01-01T06:01:28.709650+01:00",
+  "generated_at": "2026-01-02T06:00:32.656093+01:00",
   "location": {
     "lat": "47:13:06.2",
     "lon": "-1:33:13.0"
   },
   "traditional": [
-    {
-      "date_iso": "2026-01-01",
-      "date_formatted": "Jeudi 01/01/2026",
-      "saints": [
-        "Jour de l'an ",
-        "Ste-Marie Mère de Dieu",
-        "Ste-Euphrosine",
-        "St-Odilon"
-      ],
-      "phase_percentage": 94.2,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:52",
-      "sunset": "17:27",
-      "daylight_duration": "08:34:45 (+54s)",
-      "moon_position_start": 65.73,
-      "moon_position_end": 80.76,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Gémeaux",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-01-02",
       "date_formatted": "Vendredi 02/01/2026",
@@ -248,38 +219,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-01-01",
-      "date_formatted": "Jeudi 01/01/2026",
+      "date_iso": "2026-01-08",
+      "date_formatted": "Jeudi 08/01/2026",
       "saints": [
-        "Jour de l'an ",
-        "Ste-Marie Mère de Dieu",
-        "Ste-Euphrosine",
-        "St-Odilon"
+        "Ste-Gudule",
+        "St-Lucien"
       ],
-      "phase_percentage": 94.2,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:52",
-      "sunset": "17:27",
-      "daylight_duration": "08:34:45 (+54s)",
-      "moon_position_start": 65.73,
-      "moon_position_end": 80.76,
+      "phase_percentage": 71.3,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:51",
+      "sunset": "17:34",
+      "daylight_duration": "08:43:22 (+1min 27s)",
+      "moon_position_start": 166.26,
+      "moon_position_end": 179.06,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Taureau",
+          "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-01-02",
       "date_formatted": "Vendredi 02/01/2026",
@@ -489,6 +458,41 @@
           "end_time": "00:00",
           "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-01-08",
+      "date_formatted": "Jeudi 08/01/2026",
+      "saints": [
+        "Ste-Gudule",
+        "St-Lucien"
+      ],
+      "phase_percentage": 71.3,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:51",
+      "sunset": "17:34",
+      "daylight_duration": "08:43:22 (+1min 27s)",
+      "moon_position_start": 166.26,
+      "moon_position_end": 179.06,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "14:25",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "14:25",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
