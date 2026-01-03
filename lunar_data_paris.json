@@ -1,48 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-01-02T06:00:31.494397+01:00",
+  "generated_at": "2026-01-03T06:00:31.000265+01:00",
   "location": {
     "lat": "48:51:23.8",
     "lon": "2:21:07.9"
   },
   "traditional": [
-    {
-      "date_iso": "2026-01-02",
-      "date_formatted": "Vendredi 02/01/2026",
-      "saints": [
-        "St-Adélard (ou Adalhard)",
-        "St-Basile le Grand",
-        "St-Grégoire de Nazianze (le Jeune)",
-        "St-Macaire le Jeune"
-      ],
-      "phase_percentage": 98.5,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:43",
-      "sunset": "17:05",
-      "daylight_duration": "08:22:19 (+1min 3s)",
-      "moon_position_start": 80.76,
-      "moon_position_end": 95.79,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "14:43",
-          "constellation": "Gémeaux",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "14:43",
-          "end_time": "00:00",
-          "constellation": "Cancer",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-01-03",
       "date_formatted": "Samedi 03/01/2026",
@@ -246,46 +209,44 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-01-02",
-      "date_formatted": "Vendredi 02/01/2026",
+      "date_iso": "2026-01-09",
+      "date_formatted": "Vendredi 09/01/2026",
       "saints": [
-        "St-Adélard (ou Adalhard)",
-        "St-Basile le Grand",
-        "St-Grégoire de Nazianze (le Jeune)",
-        "St-Macaire le Jeune"
+        "St-Adrien de Canterbury",
+        "St-Julien l'Hospitalier"
       ],
-      "phase_percentage": 98.5,
+      "phase_percentage": 61.8,
       "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:43",
-      "sunset": "17:05",
-      "daylight_duration": "08:22:19 (+1min 3s)",
-      "moon_position_start": 80.76,
-      "moon_position_end": 95.79,
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:41",
+      "sunset": "17:13",
+      "daylight_duration": "08:32:09 (+1min 39s)",
+      "moon_position_start": 179.06,
+      "moon_position_end": 191.5,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "14:43",
-          "constellation": "Taureau",
+          "end_time": "01:47",
+          "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "14:43",
+          "start_time": "01:47",
           "end_time": "00:00",
-          "constellation": "Gémeaux",
+          "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-01-03",
       "date_formatted": "Samedi 03/01/2026",
@@ -490,6 +451,33 @@
         },
         {
           "start_time": "14:25",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-01-09",
+      "date_formatted": "Vendredi 09/01/2026",
+      "saints": [
+        "St-Adrien de Canterbury",
+        "St-Julien l'Hospitalier"
+      ],
+      "phase_percentage": 61.8,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:41",
+      "sunset": "17:13",
+      "daylight_duration": "08:32:09 (+1min 39s)",
+      "moon_position_start": 179.06,
+      "moon_position_end": 191.5,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
