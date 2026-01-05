@@ -1,48 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-01-04T06:00:32.943092+01:00",
+  "generated_at": "2026-01-05T06:00:33.171578+01:00",
   "location": {
     "lat": "43:36:39.6",
     "lon": "3:52:36.1"
   },
   "traditional": [
-    {
-      "date_iso": "2026-01-04",
-      "date_formatted": "Dimanche 04/01/2026",
-      "saints": [
-        "Ste-Angèle de Foligno",
-        "St-Grégoire de Langres",
-        "St-Marcien",
-        "St-Robert de Reims"
-      ],
-      "phase_percentage": 98.4,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:17",
-      "sunset": "17:21",
-      "daylight_duration": "09:03:57 (+59s)",
-      "moon_position_start": 110.66,
-      "moon_position_end": 125.22,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "15:19",
-          "constellation": "Cancer",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "15:19",
-          "end_time": "00:00",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-01-05",
       "date_formatted": "Lundi 05/01/2026",
@@ -243,46 +206,44 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-01-04",
-      "date_formatted": "Dimanche 04/01/2026",
+      "date_iso": "2026-01-11",
+      "date_formatted": "Dimanche 11/01/2026",
       "saints": [
-        "Ste-Angèle de Foligno",
-        "St-Grégoire de Langres",
-        "St-Marcien",
-        "St-Robert de Reims"
+        "Ste-Fidelmie",
+        "St-Théodose le Cénobiarque"
       ],
-      "phase_percentage": 98.4,
+      "phase_percentage": 42.5,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:17",
-      "sunset": "17:21",
-      "daylight_duration": "09:03:57 (+59s)",
-      "moon_position_start": 110.66,
-      "moon_position_end": 125.22,
+      "sunrise": "08:16",
+      "sunset": "17:28",
+      "daylight_duration": "09:12:45 (+1min 27s)",
+      "moon_position_start": 203.67,
+      "moon_position_end": 215.64,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "15:19",
-          "constellation": "Gémeaux",
+          "end_time": "12:39",
+          "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "15:19",
+          "start_time": "12:39",
           "end_time": "00:00",
-          "constellation": "Cancer",
+          "constellation": "Scorpion",
           "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-01-05",
       "date_formatted": "Lundi 05/01/2026",
@@ -472,6 +433,33 @@
       "daylight_duration": "09:11:18 (+1min 23s)",
       "moon_position_start": 191.5,
       "moon_position_end": 203.67,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-01-11",
+      "date_formatted": "Dimanche 11/01/2026",
+      "saints": [
+        "Ste-Fidelmie",
+        "St-Théodose le Cénobiarque"
+      ],
+      "phase_percentage": 42.5,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:16",
+      "sunset": "17:28",
+      "daylight_duration": "09:12:45 (+1min 27s)",
+      "moon_position_start": 203.67,
+      "moon_position_end": 215.64,
       "nodes_info": [],
       "periods": [
         {
