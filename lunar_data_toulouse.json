@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-01-05T06:00:31.978855+01:00",
+  "generated_at": "2026-01-06T06:00:32.451951+01:00",
   "location": {
     "lat": "43:36:16.9",
     "lon": "1:26:39.1"
   },
   "traditional": [
-    {
-      "date_iso": "2026-01-05",
-      "date_formatted": "Lundi 05/01/2026",
-      "saints": [
-        "Ste-Emilienne",
-        "St-Télesphore"
-      ],
-      "phase_percentage": 94.3,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:27",
-      "sunset": "17:32",
-      "daylight_duration": "09:05:04 (+1min 3s)",
-      "moon_position_start": 125.22,
-      "moon_position_end": 139.36,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-01-06",
       "date_formatted": "Mardi 06/01/2026",
@@ -241,44 +214,37 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-01-05",
-      "date_formatted": "Lundi 05/01/2026",
+      "date_iso": "2026-01-12",
+      "date_formatted": "Lundi 12/01/2026",
       "saints": [
-        "Ste-Emilienne",
-        "St-Télesphore"
+        "St-Arcade",
+        "Ste-Césarie",
+        "Ste-Tatienne (ou Tatiana)"
       ],
-      "phase_percentage": 94.3,
+      "phase_percentage": 33.3,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:27",
-      "sunset": "17:32",
-      "daylight_duration": "09:05:04 (+1min 3s)",
-      "moon_position_start": 125.22,
-      "moon_position_end": 139.36,
+      "sunrise": "08:25",
+      "sunset": "17:39",
+      "daylight_duration": "09:14:19 (+1min 30s)",
+      "moon_position_start": 215.64,
+      "moon_position_end": 227.52,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "21:39",
-          "constellation": "Cancer",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "21:39",
           "end_time": "00:00",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "constellation": "Scorpion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-01-06",
       "date_formatted": "Mardi 06/01/2026",
@@ -467,6 +433,42 @@
           "end_time": "00:00",
           "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-01-12",
+      "date_formatted": "Lundi 12/01/2026",
+      "saints": [
+        "St-Arcade",
+        "Ste-Césarie",
+        "Ste-Tatienne (ou Tatiana)"
+      ],
+      "phase_percentage": 33.3,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:25",
+      "sunset": "17:39",
+      "daylight_duration": "09:14:19 (+1min 30s)",
+      "moon_position_start": 215.64,
+      "moon_position_end": 227.52,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "04:45",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "04:45",
+          "end_time": "00:00",
+          "constellation": "Balance",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
