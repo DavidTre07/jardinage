@@ -1,58 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-01-07T06:00:33.254955+01:00",
+  "generated_at": "2026-01-08T06:00:32.094173+01:00",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
   },
   "traditional": [
-    {
-      "date_iso": "2026-01-07",
-      "date_formatted": "Mercredi 07/01/2026",
-      "saints": [
-        "St-Aldric",
-        "St-Canut Lavard",
-        "St-Raymond de Penyafort",
-        "St-Reynold"
-      ],
-      "phase_percentage": 80.2,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:20",
-      "sunset": "17:13",
-      "daylight_duration": "08:52:36 (+1min 18s)",
-      "moon_position_start": 153.04,
-      "moon_position_end": 166.26,
-      "nodes_info": [
-        "NŒUD LUNAIRE (descendant) le 07/01 à 12h21 - Pas de jardinage de 08h21 à 16h21"
-      ],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "08:21",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "08:21",
-          "end_time": "16:21",
-          "constellation": "Vierge",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "16:21",
-          "end_time": "00:00",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-01-08",
       "date_formatted": "Jeudi 08/01/2026",
@@ -231,56 +184,45 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-01-07",
-      "date_formatted": "Mercredi 07/01/2026",
+      "date_iso": "2026-01-14",
+      "date_formatted": "Mercredi 14/01/2026",
       "saints": [
-        "St-Aldric",
-        "St-Canut Lavard",
-        "St-Raymond de Penyafort",
-        "St-Reynold"
+        "St-Engelmar",
+        "St-Félix de Nole",
+        "Ste-Macrine l'Ancienne"
       ],
-      "phase_percentage": 80.2,
+      "phase_percentage": 17.2,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:20",
-      "sunset": "17:13",
-      "daylight_duration": "08:52:36 (+1min 18s)",
-      "moon_position_start": 153.04,
-      "moon_position_end": 166.26,
-      "nodes_info": [
-        "NŒUD LUNAIRE (descendant) le 07/01 à 12h21 - Pas de jardinage de 08h21 à 16h21"
-      ],
+      "sunrise": "08:18",
+      "sunset": "17:21",
+      "daylight_duration": "09:03:40 (+1min 46s)",
+      "moon_position_start": 239.36,
+      "moon_position_end": 251.24,
+      "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "08:21",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "end_time": "01:18",
+          "constellation": "Scorpion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "08:21",
-          "end_time": "16:21",
-          "constellation": "Lion",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "16:21",
+          "start_time": "01:18",
           "end_time": "00:00",
-          "constellation": "Lion",
+          "constellation": "Sagittaire",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-01-08",
       "date_formatted": "Jeudi 08/01/2026",
@@ -456,6 +398,50 @@
           "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-01-14",
+      "date_formatted": "Mercredi 14/01/2026",
+      "saints": [
+        "St-Engelmar",
+        "St-Félix de Nole",
+        "Ste-Macrine l'Ancienne"
+      ],
+      "phase_percentage": 17.2,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:18",
+      "sunset": "17:21",
+      "daylight_duration": "09:03:40 (+1min 46s)",
+      "moon_position_start": 239.36,
+      "moon_position_end": 251.24,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "03:19",
+          "constellation": "Balance",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "03:19",
+          "end_time": "17:28",
+          "constellation": "Scorpion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "17:28",
+          "end_time": "00:00",
+          "constellation": "Serpentaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
           "blocked": false
         }
       ]
