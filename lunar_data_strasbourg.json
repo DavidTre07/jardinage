@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-01-08T06:00:33.635050+01:00",
+  "generated_at": "2026-01-09T06:00:35.310113+01:00",
   "location": {
     "lat": "48:34:24.2",
     "lon": "7:45:07.6"
   },
   "traditional": [
-    {
-      "date_iso": "2026-01-08",
-      "date_formatted": "Jeudi 08/01/2026",
-      "saints": [
-        "Ste-Gudule",
-        "St-Lucien"
-      ],
-      "phase_percentage": 71.3,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:19",
-      "sunset": "16:52",
-      "daylight_duration": "08:32:46 (+1min 33s)",
-      "moon_position_start": 166.26,
-      "moon_position_end": 179.06,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-01-09",
       "date_formatted": "Vendredi 09/01/2026",
@@ -220,44 +193,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-01-08",
-      "date_formatted": "Jeudi 08/01/2026",
+      "date_iso": "2026-01-15",
+      "date_formatted": "Jeudi 15/01/2026",
       "saints": [
-        "Ste-Gudule",
-        "St-Lucien"
+        "St-Paul l'Ermite",
+        "Ste-Tarcice"
       ],
-      "phase_percentage": 71.3,
+      "phase_percentage": 10.7,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:19",
-      "sunset": "16:52",
-      "daylight_duration": "08:32:46 (+1min 33s)",
-      "moon_position_start": 166.26,
-      "moon_position_end": 179.06,
+      "sunrise": "08:15",
+      "sunset": "17:01",
+      "daylight_duration": "08:45:45 (+2min 4s)",
+      "moon_position_start": 251.24,
+      "moon_position_end": 263.21,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "14:25",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "14:25",
           "end_time": "00:00",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-01-09",
       "date_formatted": "Vendredi 09/01/2026",
@@ -438,6 +403,33 @@
         },
         {
           "start_time": "17:28",
+          "end_time": "00:00",
+          "constellation": "Serpentaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-01-15",
+      "date_formatted": "Jeudi 15/01/2026",
+      "saints": [
+        "St-Paul l'Ermite",
+        "Ste-Tarcice"
+      ],
+      "phase_percentage": 10.7,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:15",
+      "sunset": "17:01",
+      "daylight_duration": "08:45:45 (+2min 4s)",
+      "moon_position_start": 251.24,
+      "moon_position_end": 263.21,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Serpentaire",
           "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
