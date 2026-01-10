@@ -1,46 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-01-09T06:00:35.590361+01:00",
+  "generated_at": "2026-01-10T06:00:35.281971+01:00",
   "location": {
     "lat": "43:36:39.6",
     "lon": "3:52:36.1"
   },
   "traditional": [
-    {
-      "date_iso": "2026-01-09",
-      "date_formatted": "Vendredi 09/01/2026",
-      "saints": [
-        "St-Adrien de Canterbury",
-        "St-Julien l'Hospitalier"
-      ],
-      "phase_percentage": 61.8,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:16",
-      "sunset": "17:26",
-      "daylight_duration": "09:09:55 (+1min 19s)",
-      "moon_position_start": 179.06,
-      "moon_position_end": 191.5,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "01:47",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "01:47",
-          "end_time": "00:00",
-          "constellation": "Balance",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-01-10",
       "date_formatted": "Samedi 10/01/2026",
@@ -220,36 +185,43 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-01-09",
-      "date_formatted": "Vendredi 09/01/2026",
+      "date_iso": "2026-01-16",
+      "date_formatted": "Vendredi 16/01/2026",
       "saints": [
-        "St-Adrien de Canterbury",
-        "St-Julien l'Hospitalier"
+        "St-Marcel 1er"
       ],
-      "phase_percentage": 61.8,
-      "cycle_trajectoire": "Lune Descendante",
+      "phase_percentage": 5.5,
+      "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:16",
-      "sunset": "17:26",
-      "daylight_duration": "09:09:55 (+1min 19s)",
-      "moon_position_start": 179.06,
-      "moon_position_end": 191.5,
+      "sunrise": "08:13",
+      "sunset": "17:34",
+      "daylight_duration": "09:20:54 (+1min 44s)",
+      "moon_position_start": 263.21,
+      "moon_position_end": 275.31,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
+          "end_time": "13:30",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "13:30",
           "end_time": "00:00",
-          "constellation": "Vierge",
+          "constellation": "Capricorne",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-01-10",
       "date_formatted": "Samedi 10/01/2026",
@@ -434,6 +406,40 @@
           "constellation": "Serpentaire",
           "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
           "seve_info": "",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-01-16",
+      "date_formatted": "Vendredi 16/01/2026",
+      "saints": [
+        "St-Marcel 1er"
+      ],
+      "phase_percentage": 5.5,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:13",
+      "sunset": "17:34",
+      "daylight_duration": "09:20:54 (+1min 44s)",
+      "moon_position_start": 263.21,
+      "moon_position_end": 275.31,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "05:33",
+          "constellation": "Serpentaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
+          "blocked": false
+        },
+        {
+          "start_time": "05:33",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
