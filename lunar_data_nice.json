@@ -1,39 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-01-12T06:00:33.642972+01:00",
+  "generated_at": "2026-01-13T06:00:34.801561+01:00",
   "location": {
     "lat": "43:42:36.7",
     "lon": "7:15:43.2"
   },
   "traditional": [
-    {
-      "date_iso": "2026-01-12",
-      "date_formatted": "Lundi 12/01/2026",
-      "saints": [
-        "St-Arcade",
-        "Ste-Césarie",
-        "Ste-Tatienne (ou Tatiana)"
-      ],
-      "phase_percentage": 33.3,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:02",
-      "sunset": "17:16",
-      "daylight_duration": "09:13:38 (+1min 31s)",
-      "moon_position_start": 215.64,
-      "moon_position_end": 227.52,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Scorpion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-01-13",
       "date_formatted": "Mardi 13/01/2026",
@@ -219,45 +191,37 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-01-12",
-      "date_formatted": "Lundi 12/01/2026",
+      "date_iso": "2026-01-19",
+      "date_formatted": "Lundi 19/01/2026",
       "saints": [
-        "St-Arcade",
-        "Ste-Césarie",
-        "Ste-Tatienne (ou Tatiana)"
+        "St-Canut",
+        "Ste-Messaline",
+        "Ste-Pia"
       ],
-      "phase_percentage": 33.3,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:02",
-      "sunset": "17:16",
-      "daylight_duration": "09:13:38 (+1min 31s)",
-      "moon_position_start": 215.64,
-      "moon_position_end": 227.52,
+      "phase_percentage": 0.5,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:58",
+      "sunset": "17:24",
+      "daylight_duration": "09:25:51 (+1min 54s)",
+      "moon_position_start": 300.0,
+      "moon_position_end": 312.62,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "04:45",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "04:45",
           "end_time": "00:00",
-          "constellation": "Balance",
+          "constellation": "Verseau",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-01-13",
       "date_formatted": "Mardi 13/01/2026",
@@ -444,6 +408,34 @@
         },
         {
           "start_time": "23:59",
+          "end_time": "00:00",
+          "constellation": "Capricorne",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-01-19",
+      "date_formatted": "Lundi 19/01/2026",
+      "saints": [
+        "St-Canut",
+        "Ste-Messaline",
+        "Ste-Pia"
+      ],
+      "phase_percentage": 0.5,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:58",
+      "sunset": "17:24",
+      "daylight_duration": "09:25:51 (+1min 54s)",
+      "moon_position_start": 300.0,
+      "moon_position_end": 312.62,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Capricorne",
           "recommendation": "Actions favorables aux légumes racines.",
