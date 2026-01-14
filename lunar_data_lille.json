@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-01-13T06:00:33.677868+01:00",
+  "generated_at": "2026-01-14T06:00:32.662201+01:00",
   "location": {
     "lat": "50:37:45.1",
     "lon": "3:03:26.3"
   },
   "traditional": [
-    {
-      "date_iso": "2026-01-13",
-      "date_formatted": "Mardi 13/01/2026",
-      "saints": [
-        "St-Hilaire de Poitiers",
-        "St-Léonce de Césarée"
-      ],
-      "phase_percentage": 24.8,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:44",
-      "sunset": "17:09",
-      "daylight_duration": "08:25:10 (+2min 6s)",
-      "moon_position_start": 227.52,
-      "moon_position_end": 239.36,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Scorpion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-01-14",
       "date_formatted": "Mercredi 14/01/2026",
@@ -219,36 +192,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-01-13",
-      "date_formatted": "Mardi 13/01/2026",
+      "date_iso": "2026-01-20",
+      "date_formatted": "Mardi 20/01/2026",
       "saints": [
-        "St-Hilaire de Poitiers",
-        "St-Léonce de Césarée"
+        "St-Fabien ",
+        "St-Sébastien"
       ],
-      "phase_percentage": 24.8,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:44",
-      "sunset": "17:09",
-      "daylight_duration": "08:25:10 (+2min 6s)",
-      "moon_position_start": 227.52,
-      "moon_position_end": 239.36,
+      "phase_percentage": 2.8,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:38",
+      "sunset": "17:20",
+      "daylight_duration": "08:41:59 (+2min 36s)",
+      "moon_position_start": 312.62,
+      "moon_position_end": 325.42,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Balance",
+          "constellation": "Verseau",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-01-14",
       "date_formatted": "Mercredi 14/01/2026",
@@ -432,6 +405,33 @@
       "daylight_duration": "08:39:23 (+2min 32s)",
       "moon_position_start": 300.0,
       "moon_position_end": 312.62,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Capricorne",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-01-20",
+      "date_formatted": "Mardi 20/01/2026",
+      "saints": [
+        "St-Fabien ",
+        "St-Sébastien"
+      ],
+      "phase_percentage": 2.8,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:38",
+      "sunset": "17:20",
+      "daylight_duration": "08:41:59 (+2min 36s)",
+      "moon_position_start": 312.62,
+      "moon_position_end": 325.42,
       "nodes_info": [],
       "periods": [
         {
