@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-01-15T06:00:42.069163+01:00",
+  "generated_at": "2026-01-16T06:00:42.065979+01:00",
   "location": {
     "lat": "48:51:23.8",
     "lon": "2:21:07.9"
   },
   "traditional": [
-    {
-      "date_iso": "2026-01-15",
-      "date_formatted": "Jeudi 15/01/2026",
-      "saints": [
-        "St-Paul l'Ermite",
-        "Ste-Tarcice"
-      ],
-      "phase_percentage": 10.7,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:38",
-      "sunset": "17:22",
-      "daylight_duration": "08:43:39 (+2min 5s)",
-      "moon_position_start": 251.24,
-      "moon_position_end": 263.21,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-01-16",
       "date_formatted": "Vendredi 16/01/2026",
@@ -228,36 +201,46 @@
           "blocked": true
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-01-15",
-      "date_formatted": "Jeudi 15/01/2026",
+      "date_iso": "2026-01-22",
+      "date_formatted": "Jeudi 22/01/2026",
       "saints": [
-        "St-Paul l'Ermite",
-        "Ste-Tarcice"
+        "St-Vincent Pallotti",
+        "St-Vincent, Diacre"
       ],
-      "phase_percentage": 10.7,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:38",
-      "sunset": "17:22",
-      "daylight_duration": "08:43:39 (+2min 5s)",
-      "moon_position_start": 251.24,
-      "moon_position_end": 263.21,
-      "nodes_info": [],
+      "phase_percentage": 13.4,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:32",
+      "sunset": "17:32",
+      "daylight_duration": "09:00:06 (+2min 31s)",
+      "moon_position_start": 338.41,
+      "moon_position_end": 351.6,
+      "nodes_info": [
+        "NŒUD LUNAIRE (ascendant) le 22/01 à 01h01 - Pas de jardinage de 21h01 à 05h01"
+      ],
       "periods": [
         {
           "start_time": "00:00",
+          "end_time": "05:01",
+          "constellation": "Poissons",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "05:01",
           "end_time": "00:00",
-          "constellation": "Serpentaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-01-16",
       "date_formatted": "Vendredi 16/01/2026",
@@ -451,6 +434,43 @@
           "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
           "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
           "blocked": true
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-01-22",
+      "date_formatted": "Jeudi 22/01/2026",
+      "saints": [
+        "St-Vincent Pallotti",
+        "St-Vincent, Diacre"
+      ],
+      "phase_percentage": 13.4,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:32",
+      "sunset": "17:32",
+      "daylight_duration": "09:00:06 (+2min 31s)",
+      "moon_position_start": 338.41,
+      "moon_position_end": 351.6,
+      "nodes_info": [
+        "NŒUD LUNAIRE (ascendant) le 22/01 à 01h01 - Pas de jardinage de 21h01 à 05h01"
+      ],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "05:01",
+          "constellation": "Verseau",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "05:01",
+          "end_time": "00:00",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
         }
       ]
     }
