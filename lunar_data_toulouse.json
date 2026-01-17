@@ -1,45 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-01-16T06:00:42.784555+01:00",
+  "generated_at": "2026-01-17T06:00:42.398019+01:00",
   "location": {
     "lat": "43:36:16.9",
     "lon": "1:26:39.1"
   },
   "traditional": [
-    {
-      "date_iso": "2026-01-16",
-      "date_formatted": "Vendredi 16/01/2026",
-      "saints": [
-        "St-Marcel 1er"
-      ],
-      "phase_percentage": 5.5,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:23",
-      "sunset": "17:44",
-      "daylight_duration": "09:20:57 (+1min 44s)",
-      "moon_position_start": 263.21,
-      "moon_position_end": 275.31,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "13:30",
-          "constellation": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "13:30",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-01-17",
       "date_formatted": "Samedi 17/01/2026",
@@ -234,6 +200,43 @@
           "end_time": "00:00",
           "constellation": "Poissons",
           "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-01-23",
+      "date_formatted": "Vendredi 23/01/2026",
+      "saints": [
+        "St-Barnard",
+        "Ste-Erémentienne",
+        "St-Ildefonse de Tolède",
+        "Ste-Lufthilde"
+      ],
+      "phase_percentage": 21.6,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:18",
+      "sunset": "17:53",
+      "daylight_duration": "09:34:34 (+2min 5s)",
+      "moon_position_start": 351.6,
+      "moon_position_end": 5.01,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "15:04",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "15:04",
+          "end_time": "00:00",
+          "constellation": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
@@ -242,40 +245,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-01-16",
-      "date_formatted": "Vendredi 16/01/2026",
-      "saints": [
-        "St-Marcel 1er"
-      ],
-      "phase_percentage": 5.5,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:23",
-      "sunset": "17:44",
-      "daylight_duration": "09:20:57 (+1min 44s)",
-      "moon_position_start": 263.21,
-      "moon_position_end": 275.31,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "05:33",
-          "constellation": "Serpentaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
-          "blocked": false
-        },
-        {
-          "start_time": "05:33",
-          "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-01-17",
       "date_formatted": "Samedi 17/01/2026",
       "saints": [
@@ -469,6 +438,43 @@
           "end_time": "00:00",
           "constellation": "Verseau",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-01-23",
+      "date_formatted": "Vendredi 23/01/2026",
+      "saints": [
+        "St-Barnard",
+        "Ste-Erémentienne",
+        "St-Ildefonse de Tolède",
+        "Ste-Lufthilde"
+      ],
+      "phase_percentage": 21.6,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:18",
+      "sunset": "17:53",
+      "daylight_duration": "09:34:34 (+2min 5s)",
+      "moon_position_start": 351.6,
+      "moon_position_end": 5.01,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "15:04",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "15:04",
+          "end_time": "00:00",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
