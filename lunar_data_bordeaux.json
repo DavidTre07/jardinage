@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-01-17T06:00:43.647343+01:00",
+  "generated_at": "2026-01-18T06:00:43.286768+01:00",
   "location": {
     "lat": "44:50:16.1",
     "lon": "-0:34:45.1"
   },
   "traditional": [
-    {
-      "date_iso": "2026-01-17",
-      "date_formatted": "Samedi 17/01/2026",
-      "saints": [
-        "St-Antoine le Grand",
-        "St-Sulpice le Pieux"
-      ],
-      "phase_percentage": 2.0,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:34",
-      "sunset": "17:50",
-      "daylight_duration": "09:15:16 (+1min 53s)",
-      "moon_position_start": 275.31,
-      "moon_position_end": 287.57,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-01-18",
       "date_formatted": "Dimanche 18/01/2026",
@@ -241,36 +214,35 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-01-17",
-      "date_formatted": "Samedi 17/01/2026",
+      "date_iso": "2026-01-24",
+      "date_formatted": "Samedi 24/01/2026",
       "saints": [
-        "St-Antoine le Grand",
-        "St-Sulpice le Pieux"
+        "St-François de Sales"
       ],
-      "phase_percentage": 2.0,
+      "phase_percentage": 31.2,
       "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:34",
-      "sunset": "17:50",
-      "daylight_duration": "09:15:16 (+1min 53s)",
-      "moon_position_start": 275.31,
-      "moon_position_end": 287.57,
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:29",
+      "sunset": "17:59",
+      "daylight_duration": "09:29:56 (+2min 14s)",
+      "moon_position_start": 5.01,
+      "moon_position_end": 18.63,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Sagittaire",
+          "constellation": "Bélier",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-01-18",
       "date_formatted": "Dimanche 18/01/2026",
@@ -472,6 +444,32 @@
         },
         {
           "start_time": "15:04",
+          "end_time": "00:00",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-01-24",
+      "date_formatted": "Samedi 24/01/2026",
+      "saints": [
+        "St-François de Sales"
+      ],
+      "phase_percentage": 31.2,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:29",
+      "sunset": "17:59",
+      "daylight_duration": "09:29:56 (+2min 14s)",
+      "moon_position_start": 5.01,
+      "moon_position_end": 18.63,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Poissons",
           "recommendation": "Actions favorables aux légumes feuilles.",
