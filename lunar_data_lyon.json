@@ -1,39 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-01-19T06:00:41.287800+01:00",
+  "generated_at": "2026-01-20T06:00:41.544327+01:00",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
   },
   "traditional": [
-    {
-      "date_iso": "2026-01-19",
-      "date_formatted": "Lundi 19/01/2026",
-      "saints": [
-        "St-Canut",
-        "Ste-Messaline",
-        "Ste-Pia"
-      ],
-      "phase_percentage": 0.5,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:14",
-      "sunset": "17:28",
-      "daylight_duration": "09:13:27 (+2min 4s)",
-      "moon_position_start": 300.0,
-      "moon_position_end": 312.62,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-01-20",
       "date_formatted": "Mardi 20/01/2026",
@@ -239,37 +211,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-01-19",
-      "date_formatted": "Lundi 19/01/2026",
+      "date_iso": "2026-01-26",
+      "date_formatted": "Lundi 26/01/2026",
       "saints": [
-        "St-Canut",
-        "Ste-Messaline",
-        "Ste-Pia"
+        "St-Timothée",
+        "St-Tite"
       ],
-      "phase_percentage": 0.5,
+      "phase_percentage": 53.1,
       "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:14",
-      "sunset": "17:28",
-      "daylight_duration": "09:13:27 (+2min 4s)",
-      "moon_position_start": 300.0,
-      "moon_position_end": 312.62,
+      "sunrise": "08:08",
+      "sunset": "17:38",
+      "daylight_duration": "09:29:22 (+2min 24s)",
+      "moon_position_start": 32.49,
+      "moon_position_end": 46.58,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Capricorne",
+          "constellation": "Taureau",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-01-20",
       "date_formatted": "Mardi 20/01/2026",
@@ -468,6 +439,33 @@
         },
         {
           "start_time": "14:32",
+          "end_time": "00:00",
+          "constellation": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-01-26",
+      "date_formatted": "Lundi 26/01/2026",
+      "saints": [
+        "St-Timothée",
+        "St-Tite"
+      ],
+      "phase_percentage": 53.1,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:08",
+      "sunset": "17:38",
+      "daylight_duration": "09:29:22 (+2min 24s)",
+      "moon_position_start": 32.49,
+      "moon_position_end": 46.58,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Bélier",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
