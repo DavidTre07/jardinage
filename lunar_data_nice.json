@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-01-20T06:00:43.908119+01:00",
+  "generated_at": "2026-01-21T06:00:44.390845+01:00",
   "location": {
     "lat": "43:42:36.7",
     "lon": "7:15:43.2"
   },
   "traditional": [
-    {
-      "date_iso": "2026-01-20",
-      "date_formatted": "Mardi 20/01/2026",
-      "saints": [
-        "St-Fabien ",
-        "St-Sébastien"
-      ],
-      "phase_percentage": 2.8,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:58",
-      "sunset": "17:26",
-      "daylight_duration": "09:27:48 (+1min 57s)",
-      "moon_position_start": 312.62,
-      "moon_position_end": 325.42,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-01-21",
       "date_formatted": "Mercredi 21/01/2026",
@@ -238,36 +211,44 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-01-20",
-      "date_formatted": "Mardi 20/01/2026",
+      "date_iso": "2026-01-27",
+      "date_formatted": "Mardi 27/01/2026",
       "saints": [
-        "St-Fabien ",
-        "St-Sébastien"
+        "Ste-Angèle de Mérici",
+        "St-Julien du Mans"
       ],
-      "phase_percentage": 2.8,
+      "phase_percentage": 64.3,
       "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:58",
-      "sunset": "17:26",
-      "daylight_duration": "09:27:48 (+1min 57s)",
-      "moon_position_start": 312.62,
-      "moon_position_end": 325.42,
+      "sunrise": "07:52",
+      "sunset": "17:35",
+      "daylight_duration": "09:42:47 (+2min 15s)",
+      "moon_position_start": 46.58,
+      "moon_position_end": 60.88,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
+          "end_time": "22:31",
+          "constellation": "Taureau",
           "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "22:31",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-01-21",
       "date_formatted": "Mercredi 21/01/2026",
@@ -469,6 +450,41 @@
           "end_time": "00:00",
           "constellation": "Bélier",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-01-27",
+      "date_formatted": "Mardi 27/01/2026",
+      "saints": [
+        "Ste-Angèle de Mérici",
+        "St-Julien du Mans"
+      ],
+      "phase_percentage": 64.3,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:52",
+      "sunset": "17:35",
+      "daylight_duration": "09:42:47 (+2min 15s)",
+      "moon_position_start": 46.58,
+      "moon_position_end": 60.88,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "12:29",
+          "constellation": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "12:29",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
