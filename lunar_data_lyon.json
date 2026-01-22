@@ -1,56 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-01-21T06:00:41.767995+01:00",
+  "generated_at": "2026-01-22T06:00:42.278729+01:00",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
   },
   "traditional": [
-    {
-      "date_iso": "2026-01-21",
-      "date_formatted": "Mercredi 21/01/2026",
-      "saints": [
-        "Ste-Agnès de Rome",
-        "St-Fructueux"
-      ],
-      "phase_percentage": 7.1,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:13",
-      "sunset": "17:31",
-      "daylight_duration": "09:17:45 (+2min 10s)",
-      "moon_position_start": 325.42,
-      "moon_position_end": 338.41,
-      "nodes_info": [
-        "NŒUD LUNAIRE (ascendant) le 22/01 à 01h01 - Pas de jardinage de 21h01 à 05h01"
-      ],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "08:30",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "08:30",
-          "end_time": "21:01",
-          "constellation": "Poissons",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "21:01",
-          "end_time": "00:00",
-          "constellation": "Poissons",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        }
-      ]
-    },
     {
       "date_iso": "2026-01-22",
       "date_formatted": "Jeudi 22/01/2026",
@@ -246,54 +201,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-01-21",
-      "date_formatted": "Mercredi 21/01/2026",
+      "date_iso": "2026-01-28",
+      "date_formatted": "Mercredi 28/01/2026",
       "saints": [
-        "Ste-Agnès de Rome",
-        "St-Fructueux"
+        "St-Callinique",
+        "Ste-Cannera"
       ],
-      "phase_percentage": 7.1,
+      "phase_percentage": 74.9,
       "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:13",
-      "sunset": "17:31",
-      "daylight_duration": "09:17:45 (+2min 10s)",
-      "moon_position_start": 325.42,
-      "moon_position_end": 338.41,
-      "nodes_info": [
-        "NŒUD LUNAIRE (ascendant) le 22/01 à 01h01 - Pas de jardinage de 21h01 à 05h01"
-      ],
+      "sunrise": "08:06",
+      "sunset": "17:40",
+      "daylight_duration": "09:34:19 (+2min 29s)",
+      "moon_position_start": 60.88,
+      "moon_position_end": 75.35,
+      "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "08:30",
-          "constellation": "Capricorne",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "08:30",
-          "end_time": "21:01",
-          "constellation": "Verseau",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
-        },
-        {
-          "start_time": "21:01",
-          "end_time": "00:00",
-          "constellation": "Verseau",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-01-22",
       "date_formatted": "Jeudi 22/01/2026",
@@ -482,6 +419,33 @@
         },
         {
           "start_time": "12:29",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-01-28",
+      "date_formatted": "Mercredi 28/01/2026",
+      "saints": [
+        "St-Callinique",
+        "Ste-Cannera"
+      ],
+      "phase_percentage": 74.9,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:06",
+      "sunset": "17:40",
+      "daylight_duration": "09:34:19 (+2min 29s)",
+      "moon_position_start": 60.88,
+      "moon_position_end": 75.35,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Taureau",
           "recommendation": "Actions favorables aux légumes racines.",
