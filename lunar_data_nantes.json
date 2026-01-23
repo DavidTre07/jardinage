@@ -1,48 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-01-22T06:00:43.447526+01:00",
+  "generated_at": "2026-01-23T06:01:39.912709+01:00",
   "location": {
     "lat": "47:13:06.2",
     "lon": "-1:33:13.0"
   },
   "traditional": [
-    {
-      "date_iso": "2026-01-22",
-      "date_formatted": "Jeudi 22/01/2026",
-      "saints": [
-        "St-Vincent Pallotti",
-        "St-Vincent, Diacre"
-      ],
-      "phase_percentage": 13.4,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:42",
-      "sunset": "17:53",
-      "daylight_duration": "09:11:00 (+2min 21s)",
-      "moon_position_start": 338.41,
-      "moon_position_end": 351.6,
-      "nodes_info": [
-        "NŒUD LUNAIRE (ascendant) le 22/01 à 01h01 - Pas de jardinage de 21h01 à 05h01"
-      ],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "05:01",
-          "constellation": "Poissons",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "05:01",
-          "end_time": "00:00",
-          "constellation": "Poissons",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-01-23",
       "date_formatted": "Vendredi 23/01/2026",
@@ -228,46 +191,37 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-01-22",
-      "date_formatted": "Jeudi 22/01/2026",
+      "date_iso": "2026-01-29",
+      "date_formatted": "Jeudi 29/01/2026",
       "saints": [
-        "St-Vincent Pallotti",
-        "St-Vincent, Diacre"
+        "St-Gildas le Sage",
+        "St-Valère",
+        "St-Sulpice"
       ],
-      "phase_percentage": 13.4,
+      "phase_percentage": 84.3,
       "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:42",
-      "sunset": "17:53",
-      "daylight_duration": "09:11:00 (+2min 21s)",
-      "moon_position_start": 338.41,
-      "moon_position_end": 351.6,
-      "nodes_info": [
-        "NŒUD LUNAIRE (ascendant) le 22/01 à 01h01 - Pas de jardinage de 21h01 à 05h01"
-      ],
+      "sunrise": "08:35",
+      "sunset": "18:04",
+      "daylight_duration": "09:28:52 (+2min 41s)",
+      "moon_position_start": 75.35,
+      "moon_position_end": 89.92,
+      "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "05:01",
-          "constellation": "Verseau",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "05:01",
           "end_time": "00:00",
-          "constellation": "Verseau",
+          "constellation": "Gémeaux",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-01-23",
       "date_formatted": "Vendredi 23/01/2026",
@@ -442,6 +396,34 @@
       "daylight_duration": "09:26:11 (+2min 38s)",
       "moon_position_start": 60.88,
       "moon_position_end": 75.35,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-01-29",
+      "date_formatted": "Jeudi 29/01/2026",
+      "saints": [
+        "St-Gildas le Sage",
+        "St-Valère",
+        "St-Sulpice"
+      ],
+      "phase_percentage": 84.3,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:35",
+      "sunset": "18:04",
+      "daylight_duration": "09:28:52 (+2min 41s)",
+      "moon_position_start": 75.35,
+      "moon_position_end": 89.92,
       "nodes_info": [],
       "periods": [
         {
