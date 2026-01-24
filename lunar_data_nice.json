@@ -1,48 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-01-23T06:01:40.981682+01:00",
+  "generated_at": "2026-01-24T06:00:54.717139+01:00",
   "location": {
     "lat": "43:42:36.7",
     "lon": "7:15:43.2"
   },
   "traditional": [
-    {
-      "date_iso": "2026-01-23",
-      "date_formatted": "Vendredi 23/01/2026",
-      "saints": [
-        "St-Barnard",
-        "Ste-Erémentienne",
-        "St-Ildefonse de Tolède",
-        "Ste-Lufthilde"
-      ],
-      "phase_percentage": 21.6,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:55",
-      "sunset": "17:29",
-      "daylight_duration": "09:33:58 (+2min 5s)",
-      "moon_position_start": 351.6,
-      "moon_position_end": 5.01,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "15:04",
-          "constellation": "Poissons",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "15:04",
-          "end_time": "00:00",
-          "constellation": "Bélier",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-01-24",
       "date_formatted": "Samedi 24/01/2026",
@@ -219,46 +182,45 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-01-23",
-      "date_formatted": "Vendredi 23/01/2026",
+      "date_iso": "2026-01-30",
+      "date_formatted": "Vendredi 30/01/2026",
       "saints": [
-        "St-Barnard",
-        "Ste-Erémentienne",
-        "St-Ildefonse de Tolède",
-        "Ste-Lufthilde"
+        "Ste-Aldegonde",
+        "Ste-Hyacinthe de Mariscotti",
+        "Ste-Martine"
       ],
-      "phase_percentage": 21.6,
-      "cycle_trajectoire": "Lune Montante",
+      "phase_percentage": 91.8,
+      "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:55",
-      "sunset": "17:29",
-      "daylight_duration": "09:33:58 (+2min 5s)",
-      "moon_position_start": 351.6,
-      "moon_position_end": 5.01,
+      "sunrise": "07:49",
+      "sunset": "17:39",
+      "daylight_duration": "09:49:48 (+2min 22s)",
+      "moon_position_start": 89.92,
+      "moon_position_end": 104.49,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "15:04",
-          "constellation": "Verseau",
+          "end_time": "00:07",
+          "constellation": "Gémeaux",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "15:04",
+          "start_time": "00:07",
           "end_time": "00:00",
-          "constellation": "Poissons",
+          "constellation": "Cancer",
           "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-01-24",
       "date_formatted": "Samedi 24/01/2026",
@@ -432,6 +394,42 @@
           "constellation": "Taureau",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-01-30",
+      "date_formatted": "Vendredi 30/01/2026",
+      "saints": [
+        "Ste-Aldegonde",
+        "Ste-Hyacinthe de Mariscotti",
+        "Ste-Martine"
+      ],
+      "phase_percentage": 91.8,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:49",
+      "sunset": "17:39",
+      "daylight_duration": "09:49:48 (+2min 22s)",
+      "moon_position_start": 89.92,
+      "moon_position_end": 104.49,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:07",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "00:07",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
