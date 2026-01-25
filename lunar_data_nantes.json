@@ -1,37 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-01-24T06:00:53.666275+01:00",
+  "generated_at": "2026-01-25T06:00:54.575065+01:00",
   "location": {
     "lat": "47:13:06.2",
     "lon": "-1:33:13.0"
   },
   "traditional": [
-    {
-      "date_iso": "2026-01-24",
-      "date_formatted": "Samedi 24/01/2026",
-      "saints": [
-        "St-François de Sales"
-      ],
-      "phase_percentage": 31.2,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:40",
-      "sunset": "17:56",
-      "daylight_duration": "09:15:52 (+2min 27s)",
-      "moon_position_start": 5.01,
-      "moon_position_end": 18.63,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Bélier",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-01-25",
       "date_formatted": "Dimanche 25/01/2026",
@@ -218,35 +192,39 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-01-24",
-      "date_formatted": "Samedi 24/01/2026",
+      "date_iso": "2026-01-31",
+      "date_formatted": "Samedi 31/01/2026",
       "saints": [
-        "St-François de Sales"
+        "St-Cyrus",
+        "St-Eusèbe, ermite",
+        "St-Jean Bosco",
+        "Ste-Marcelle ",
+        "St-Zotique"
       ],
-      "phase_percentage": 31.2,
-      "cycle_trajectoire": "Lune Montante",
+      "phase_percentage": 97.0,
+      "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:40",
-      "sunset": "17:56",
-      "daylight_duration": "09:15:52 (+2min 27s)",
-      "moon_position_start": 5.01,
-      "moon_position_end": 18.63,
+      "sunrise": "08:32",
+      "sunset": "18:07",
+      "daylight_duration": "09:34:21 (+2min 45s)",
+      "moon_position_start": 104.49,
+      "moon_position_end": 118.95,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Poissons",
+          "constellation": "Cancer",
           "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-01-25",
       "date_formatted": "Dimanche 25/01/2026",
@@ -426,6 +404,36 @@
         },
         {
           "start_time": "00:07",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-01-31",
+      "date_formatted": "Samedi 31/01/2026",
+      "saints": [
+        "St-Cyrus",
+        "St-Eusèbe, ermite",
+        "St-Jean Bosco",
+        "Ste-Marcelle ",
+        "St-Zotique"
+      ],
+      "phase_percentage": 97.0,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:32",
+      "sunset": "18:07",
+      "daylight_duration": "09:34:21 (+2min 45s)",
+      "moon_position_start": 104.49,
+      "moon_position_end": 118.95,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Gémeaux",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
