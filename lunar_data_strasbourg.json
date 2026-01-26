@@ -1,45 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-01-25T06:00:54.793250+01:00",
+  "generated_at": "2026-01-26T06:00:54.495478+01:00",
   "location": {
     "lat": "48:34:24.2",
     "lon": "7:45:07.6"
   },
   "traditional": [
-    {
-      "date_iso": "2026-01-25",
-      "date_formatted": "Dimanche 25/01/2026",
-      "saints": [
-        "Converstion de St-Paul"
-      ],
-      "phase_percentage": 41.8,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:06",
-      "sunset": "17:16",
-      "daylight_duration": "09:09:48 (+2min 39s)",
-      "moon_position_start": 18.63,
-      "moon_position_end": 32.49,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "19:43",
-          "constellation": "Bélier",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "19:43",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-01-26",
       "date_formatted": "Lundi 26/01/2026",
@@ -222,43 +188,45 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-01-25",
-      "date_formatted": "Dimanche 25/01/2026",
+      "date_iso": "2026-02-01",
+      "date_formatted": "Dimanche 01/02/2026",
       "saints": [
-        "Converstion de St-Paul"
+        "Ste-Brigitte de Kildare",
+        "St-Jean de la Grille",
+        "St-Sévère de Ravenne"
       ],
-      "phase_percentage": 41.8,
-      "cycle_trajectoire": "Lune Montante",
+      "phase_percentage": 99.7,
+      "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:06",
-      "sunset": "17:16",
-      "daylight_duration": "09:09:48 (+2min 39s)",
-      "moon_position_start": 18.63,
-      "moon_position_end": 32.49,
+      "sunrise": "07:58",
+      "sunset": "17:27",
+      "daylight_duration": "09:29:36 (+2min 57s)",
+      "moon_position_start": 118.95,
+      "moon_position_end": 133.19,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "14:32",
-          "constellation": "Poissons",
+          "end_time": "01:45",
+          "constellation": "Cancer",
           "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "14:32",
+          "start_time": "01:45",
           "end_time": "00:00",
-          "constellation": "Bélier",
+          "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-01-26",
       "date_formatted": "Lundi 26/01/2026",
@@ -437,6 +405,42 @@
           "end_time": "00:00",
           "constellation": "Gémeaux",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-02-01",
+      "date_formatted": "Dimanche 01/02/2026",
+      "saints": [
+        "Ste-Brigitte de Kildare",
+        "St-Jean de la Grille",
+        "St-Sévère de Ravenne"
+      ],
+      "phase_percentage": 99.7,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:58",
+      "sunset": "17:27",
+      "daylight_duration": "09:29:36 (+2min 57s)",
+      "moon_position_start": 118.95,
+      "moon_position_end": 133.19,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "01:45",
+          "constellation": "Gémeaux",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "01:45",
+          "end_time": "00:00",
+          "constellation": "Cancer",
+          "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
