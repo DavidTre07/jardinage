@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-01-26T06:00:55.103767+01:00",
+  "generated_at": "2026-01-27T06:00:55.181874+01:00",
   "location": {
     "lat": "43:42:36.7",
     "lon": "7:15:43.2"
   },
   "traditional": [
-    {
-      "date_iso": "2026-01-26",
-      "date_formatted": "Lundi 26/01/2026",
-      "saints": [
-        "St-Timothée",
-        "St-Tite"
-      ],
-      "phase_percentage": 53.1,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:53",
-      "sunset": "17:33",
-      "daylight_duration": "09:40:31 (+2min 13s)",
-      "moon_position_start": 32.49,
-      "moon_position_end": 46.58,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-01-27",
       "date_formatted": "Mardi 27/01/2026",
@@ -224,36 +197,37 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-01-26",
-      "date_formatted": "Lundi 26/01/2026",
+      "date_iso": "2026-02-02",
+      "date_formatted": "Lundi 02/02/2026",
       "saints": [
-        "St-Timothée",
-        "St-Tite"
+        "St-Adalbaud",
+        "Chandeleur",
+        "Ste Hadéloge"
       ],
-      "phase_percentage": 53.1,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:53",
-      "sunset": "17:33",
-      "daylight_duration": "09:40:31 (+2min 13s)",
-      "moon_position_start": 32.49,
-      "moon_position_end": 46.58,
+      "phase_percentage": 99.6,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:46",
+      "sunset": "17:43",
+      "daylight_duration": "09:57:08 (+2min 28s)",
+      "moon_position_start": 133.19,
+      "moon_position_end": 147.14,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Bélier",
+          "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-01-27",
       "date_formatted": "Mardi 27/01/2026",
@@ -441,6 +415,42 @@
           "end_time": "00:00",
           "constellation": "Cancer",
           "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-02-02",
+      "date_formatted": "Lundi 02/02/2026",
+      "saints": [
+        "St-Adalbaud",
+        "Chandeleur",
+        "Ste Hadéloge"
+      ],
+      "phase_percentage": 99.6,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:46",
+      "sunset": "17:43",
+      "daylight_duration": "09:57:08 (+2min 28s)",
+      "moon_position_start": 133.19,
+      "moon_position_end": 147.14,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "08:12",
+          "constellation": "Cancer",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "08:12",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
