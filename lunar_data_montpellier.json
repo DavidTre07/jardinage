@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-01-28T06:00:53.419581+01:00",
+  "generated_at": "2026-01-29T06:01:14.641908+01:00",
   "location": {
     "lat": "43:36:39.6",
     "lon": "3:52:36.1"
   },
   "traditional": [
-    {
-      "date_iso": "2026-01-28",
-      "date_formatted": "Mercredi 28/01/2026",
-      "saints": [
-        "St-Callinique",
-        "Ste-Cannera"
-      ],
-      "phase_percentage": 74.9,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:04",
-      "sunset": "17:50",
-      "daylight_duration": "09:45:36 (+2min 17s)",
-      "moon_position_start": 60.88,
-      "moon_position_end": 75.35,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Gémeaux",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-01-29",
       "date_formatted": "Jeudi 29/01/2026",
@@ -235,36 +208,47 @@
           "blocked": true
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-01-28",
-      "date_formatted": "Mercredi 28/01/2026",
+      "date_iso": "2026-02-04",
+      "date_formatted": "Mercredi 04/02/2026",
       "saints": [
-        "St-Callinique",
-        "Ste-Cannera"
+        "St-André Corsini",
+        "St-Gilbert de Sempringham",
+        "Ste-Jeanne de Valois"
       ],
-      "phase_percentage": 74.9,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:04",
-      "sunset": "17:50",
-      "daylight_duration": "09:45:36 (+2min 17s)",
-      "moon_position_start": 60.88,
-      "moon_position_end": 75.35,
-      "nodes_info": [],
+      "phase_percentage": 92.4,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:57",
+      "sunset": "17:59",
+      "daylight_duration": "10:02:38 (+2min 31s)",
+      "moon_position_start": 160.73,
+      "moon_position_end": 173.95,
+      "nodes_info": [
+        "NŒUD LUNAIRE (descendant) le 03/02 à 20h17 - Pas de jardinage de 16h17 à 00h17"
+      ],
       "periods": [
         {
           "start_time": "00:00",
+          "end_time": "00:17",
+          "constellation": "Vierge",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "00:17",
           "end_time": "00:00",
-          "constellation": "Taureau",
+          "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-01-29",
       "date_formatted": "Jeudi 29/01/2026",
@@ -465,6 +449,44 @@
           "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
           "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
           "blocked": true
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-02-04",
+      "date_formatted": "Mercredi 04/02/2026",
+      "saints": [
+        "St-André Corsini",
+        "St-Gilbert de Sempringham",
+        "Ste-Jeanne de Valois"
+      ],
+      "phase_percentage": 92.4,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:57",
+      "sunset": "17:59",
+      "daylight_duration": "10:02:38 (+2min 31s)",
+      "moon_position_start": 160.73,
+      "moon_position_end": 173.95,
+      "nodes_info": [
+        "NŒUD LUNAIRE (descendant) le 03/02 à 20h17 - Pas de jardinage de 16h17 à 00h17"
+      ],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:17",
+          "constellation": "Lion",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "00:17",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
         }
       ]
     }
