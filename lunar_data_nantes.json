@@ -1,39 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-01-29T06:01:14.202849+01:00",
+  "generated_at": "2026-01-30T06:00:53.989685+01:00",
   "location": {
     "lat": "47:13:06.2",
     "lon": "-1:33:13.0"
   },
   "traditional": [
-    {
-      "date_iso": "2026-01-29",
-      "date_formatted": "Jeudi 29/01/2026",
-      "saints": [
-        "St-Gildas le Sage",
-        "St-Valère",
-        "St-Sulpice"
-      ],
-      "phase_percentage": 84.3,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:35",
-      "sunset": "18:04",
-      "daylight_duration": "09:28:52 (+2min 41s)",
-      "moon_position_start": 75.35,
-      "moon_position_end": 89.92,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Gémeaux",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-01-30",
       "date_formatted": "Vendredi 30/01/2026",
@@ -246,37 +218,43 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-01-29",
-      "date_formatted": "Jeudi 29/01/2026",
+      "date_iso": "2026-02-05",
+      "date_formatted": "Jeudi 05/02/2026",
       "saints": [
-        "St-Gildas le Sage",
-        "St-Valère",
-        "St-Sulpice"
+        "Ste-Agathe de Catane"
       ],
-      "phase_percentage": 84.3,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:35",
-      "sunset": "18:04",
-      "daylight_duration": "09:28:52 (+2min 41s)",
-      "moon_position_start": 75.35,
-      "moon_position_end": 89.92,
+      "phase_percentage": 85.9,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:26",
+      "sunset": "18:14",
+      "daylight_duration": "09:48:41 (+2min 55s)",
+      "moon_position_start": 173.95,
+      "moon_position_end": 186.79,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Taureau",
+          "end_time": "11:13",
+          "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "11:13",
+          "end_time": "00:00",
+          "constellation": "Balance",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-01-30",
       "date_formatted": "Vendredi 30/01/2026",
@@ -485,6 +463,40 @@
           "end_time": "00:00",
           "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-02-05",
+      "date_formatted": "Jeudi 05/02/2026",
+      "saints": [
+        "Ste-Agathe de Catane"
+      ],
+      "phase_percentage": 85.9,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:26",
+      "sunset": "18:14",
+      "daylight_duration": "09:48:41 (+2min 55s)",
+      "moon_position_start": 173.95,
+      "moon_position_end": 186.79,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:05",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "00:05",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
