@@ -1,47 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-01-30T06:00:53.737985+01:00",
+  "generated_at": "2026-01-31T06:00:56.715125+01:00",
   "location": {
     "lat": "50:37:45.1",
     "lon": "3:03:26.3"
   },
   "traditional": [
-    {
-      "date_iso": "2026-01-30",
-      "date_formatted": "Vendredi 30/01/2026",
-      "saints": [
-        "Ste-Aldegonde",
-        "Ste-Hyacinthe de Mariscotti",
-        "Ste-Martine"
-      ],
-      "phase_percentage": 91.8,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:25",
-      "sunset": "17:36",
-      "daylight_duration": "09:11:04 (+3min 7s)",
-      "moon_position_start": 89.92,
-      "moon_position_end": 104.49,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:07",
-          "constellation": "Gémeaux",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "00:07",
-          "end_time": "00:00",
-          "constellation": "Cancer",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-01-31",
       "date_formatted": "Samedi 31/01/2026",
@@ -252,45 +216,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-01-30",
-      "date_formatted": "Vendredi 30/01/2026",
+      "date_iso": "2026-02-06",
+      "date_formatted": "Vendredi 06/02/2026",
       "saints": [
-        "Ste-Aldegonde",
-        "Ste-Hyacinthe de Mariscotti",
-        "Ste-Martine"
+        "Ste-Dorothée",
+        "St-Paul Miki"
       ],
-      "phase_percentage": 91.8,
+      "phase_percentage": 78.2,
       "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:25",
-      "sunset": "17:36",
-      "daylight_duration": "09:11:04 (+3min 7s)",
-      "moon_position_start": 89.92,
-      "moon_position_end": 104.49,
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:15",
+      "sunset": "17:49",
+      "daylight_duration": "09:34:00 (+3min 22s)",
+      "moon_position_start": 186.79,
+      "moon_position_end": 199.31,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "00:07",
-          "constellation": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "00:07",
           "end_time": "00:00",
-          "constellation": "Gémeaux",
+          "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-01-31",
       "date_formatted": "Samedi 31/01/2026",
@@ -494,6 +449,33 @@
         },
         {
           "start_time": "00:05",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-02-06",
+      "date_formatted": "Vendredi 06/02/2026",
+      "saints": [
+        "Ste-Dorothée",
+        "St-Paul Miki"
+      ],
+      "phase_percentage": 78.2,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:15",
+      "sunset": "17:49",
+      "daylight_duration": "09:34:00 (+3min 22s)",
+      "moon_position_start": 186.79,
+      "moon_position_end": 199.31,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
