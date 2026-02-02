@@ -1,47 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-02-01T06:00:55.064533+01:00",
+  "generated_at": "2026-02-02T06:00:53.812257+01:00",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
   },
   "traditional": [
-    {
-      "date_iso": "2026-02-01",
-      "date_formatted": "Dimanche 01/02/2026",
-      "saints": [
-        "Ste-Brigitte de Kildare",
-        "St-Jean de la Grille",
-        "St-Sévère de Ravenne"
-      ],
-      "phase_percentage": 99.7,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:02",
-      "sunset": "17:46",
-      "daylight_duration": "09:44:40 (+2min 38s)",
-      "moon_position_start": 118.95,
-      "moon_position_end": 133.19,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "01:45",
-          "constellation": "Cancer",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "01:45",
-          "end_time": "00:00",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-02-02",
       "date_formatted": "Lundi 02/02/2026",
@@ -248,45 +212,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-02-01",
-      "date_formatted": "Dimanche 01/02/2026",
+      "date_iso": "2026-02-08",
+      "date_formatted": "Dimanche 08/02/2026",
       "saints": [
-        "Ste-Brigitte de Kildare",
-        "St-Jean de la Grille",
-        "St-Sévère de Ravenne"
+        "St-Jean de Matha",
+        "St-Jérôme Emiliani"
       ],
-      "phase_percentage": 99.7,
+      "phase_percentage": 60.3,
       "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:02",
-      "sunset": "17:46",
-      "daylight_duration": "09:44:40 (+2min 38s)",
-      "moon_position_start": 118.95,
-      "moon_position_end": 133.19,
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:53",
+      "sunset": "17:57",
+      "daylight_duration": "10:04:04 (+2min 51s)",
+      "moon_position_start": 211.55,
+      "moon_position_end": 223.58,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "01:45",
-          "constellation": "Gémeaux",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "01:45",
           "end_time": "00:00",
-          "constellation": "Cancer",
+          "constellation": "Scorpion",
           "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-02-02",
       "date_formatted": "Lundi 02/02/2026",
@@ -481,6 +436,41 @@
           "end_time": "00:00",
           "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-02-08",
+      "date_formatted": "Dimanche 08/02/2026",
+      "saints": [
+        "St-Jean de Matha",
+        "St-Jérôme Emiliani"
+      ],
+      "phase_percentage": 60.3,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:53",
+      "sunset": "17:57",
+      "daylight_duration": "10:04:04 (+2min 51s)",
+      "moon_position_start": 211.55,
+      "moon_position_end": 223.58,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "12:49",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "12:49",
+          "end_time": "00:00",
+          "constellation": "Balance",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
