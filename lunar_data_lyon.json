@@ -1,39 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-02-02T06:00:53.812257+01:00",
+  "generated_at": "2026-02-03T06:00:53.022313+01:00",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
   },
   "traditional": [
-    {
-      "date_iso": "2026-02-02",
-      "date_formatted": "Lundi 02/02/2026",
-      "saints": [
-        "St-Adalbaud",
-        "Chandeleur",
-        "Ste Hadéloge"
-      ],
-      "phase_percentage": 99.6,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:00",
-      "sunset": "17:48",
-      "daylight_duration": "09:47:21 (+2min 40s)",
-      "moon_position_start": 133.19,
-      "moon_position_end": 147.14,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-02-03",
       "date_formatted": "Mardi 03/02/2026",
@@ -239,45 +211,35 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-02-02",
-      "date_formatted": "Lundi 02/02/2026",
+      "date_iso": "2026-02-09",
+      "date_formatted": "Lundi 09/02/2026",
       "saints": [
-        "St-Adalbaud",
-        "Chandeleur",
-        "Ste Hadéloge"
+        "Ste-Apolline"
       ],
-      "phase_percentage": 99.6,
+      "phase_percentage": 50.8,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:00",
-      "sunset": "17:48",
-      "daylight_duration": "09:47:21 (+2min 40s)",
-      "moon_position_start": 133.19,
-      "moon_position_end": 147.14,
+      "sunrise": "07:51",
+      "sunset": "17:58",
+      "daylight_duration": "10:06:56 (+2min 52s)",
+      "moon_position_start": 223.58,
+      "moon_position_end": 235.5,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "08:12",
-          "constellation": "Cancer",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "08:12",
           "end_time": "00:00",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "constellation": "Scorpion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-02-03",
       "date_formatted": "Mardi 03/02/2026",
@@ -468,6 +430,32 @@
         },
         {
           "start_time": "12:49",
+          "end_time": "00:00",
+          "constellation": "Balance",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-02-09",
+      "date_formatted": "Lundi 09/02/2026",
+      "saints": [
+        "Ste-Apolline"
+      ],
+      "phase_percentage": 50.8,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:51",
+      "sunset": "17:58",
+      "daylight_duration": "10:06:56 (+2min 52s)",
+      "moon_position_start": 223.58,
+      "moon_position_end": 235.5,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
