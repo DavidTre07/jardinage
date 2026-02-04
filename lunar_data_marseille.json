@@ -1,56 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-02-03T06:00:53.356596+01:00",
+  "generated_at": "2026-02-04T06:00:20.736256+01:00",
   "location": {
     "lat": "43:17:47.4",
     "lon": "5:22:11.3"
   },
   "traditional": [
-    {
-      "date_iso": "2026-02-03",
-      "date_formatted": "Mardi 03/02/2026",
-      "saints": [
-        "St-Anschaire",
-        "St-Blaise de Sébaste"
-      ],
-      "phase_percentage": 97.1,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:51",
-      "sunset": "17:53",
-      "daylight_duration": "10:01:30 (+2min 28s)",
-      "moon_position_start": 147.14,
-      "moon_position_end": 160.73,
-      "nodes_info": [
-        "NŒUD LUNAIRE (descendant) le 03/02 à 20h17 - Pas de jardinage de 16h17 à 00h17"
-      ],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "04:59",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "04:59",
-          "end_time": "16:17",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "16:17",
-          "end_time": "00:00",
-          "constellation": "Vierge",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        }
-      ]
-    },
     {
       "date_iso": "2026-02-04",
       "date_formatted": "Mercredi 04/02/2026",
@@ -237,46 +192,43 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-02-03",
-      "date_formatted": "Mardi 03/02/2026",
+      "date_iso": "2026-02-10",
+      "date_formatted": "Mardi 10/02/2026",
       "saints": [
-        "St-Anschaire",
-        "St-Blaise de Sébaste"
+        "Ste-Scholastique"
       ],
-      "phase_percentage": 97.1,
+      "phase_percentage": 41.4,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:51",
-      "sunset": "17:53",
-      "daylight_duration": "10:01:30 (+2min 28s)",
-      "moon_position_start": 147.14,
-      "moon_position_end": 160.73,
-      "nodes_info": [
-        "NŒUD LUNAIRE (descendant) le 03/02 à 20h17 - Pas de jardinage de 16h17 à 00h17"
-      ],
+      "sunrise": "07:43",
+      "sunset": "18:02",
+      "daylight_duration": "10:19:32 (+2min 38s)",
+      "moon_position_start": 235.5,
+      "moon_position_end": 247.37,
+      "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "16:17",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "end_time": "09:06",
+          "constellation": "Scorpion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "16:17",
+          "start_time": "09:06",
           "end_time": "00:00",
-          "constellation": "Lion",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-02-04",
       "date_formatted": "Mercredi 04/02/2026",
@@ -459,6 +411,40 @@
           "end_time": "00:00",
           "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-02-10",
+      "date_formatted": "Mardi 10/02/2026",
+      "saints": [
+        "Ste-Scholastique"
+      ],
+      "phase_percentage": 41.4,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:43",
+      "sunset": "18:02",
+      "daylight_duration": "10:19:32 (+2min 38s)",
+      "moon_position_start": 235.5,
+      "moon_position_end": 247.37,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "11:07",
+          "constellation": "Balance",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "11:07",
+          "end_time": "00:00",
+          "constellation": "Scorpion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
