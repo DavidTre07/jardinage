@@ -1,46 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-02-07T06:00:21.230775+01:00",
+  "generated_at": "2026-02-08T06:00:20.064026+01:00",
   "location": {
     "lat": "48:34:24.2",
     "lon": "7:45:07.6"
   },
   "traditional": [
-    {
-      "date_iso": "2026-02-07",
-      "date_formatted": "Samedi 07/02/2026",
-      "saints": [
-        "Ste-Julienne de Bologne",
-        "St-Chryseuil"
-      ],
-      "phase_percentage": 69.5,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:49",
-      "sunset": "17:37",
-      "daylight_duration": "09:48:02 (+3min 8s)",
-      "moon_position_start": 199.31,
-      "moon_position_end": 211.55,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "20:56",
-          "constellation": "Balance",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "20:56",
-          "end_time": "00:00",
-          "constellation": "Scorpion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-02-08",
       "date_formatted": "Dimanche 08/02/2026",
@@ -215,36 +180,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-02-07",
-      "date_formatted": "Samedi 07/02/2026",
+      "date_iso": "2026-02-14",
+      "date_formatted": "Samedi 14/02/2026",
       "saints": [
-        "Ste-Julienne de Bologne",
-        "St-Chryseuil"
+        "St-Méthode",
+        "St-Valentin"
       ],
-      "phase_percentage": 69.5,
-      "cycle_trajectoire": "Lune Descendante",
+      "phase_percentage": 9.6,
+      "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:49",
-      "sunset": "17:37",
-      "daylight_duration": "09:48:02 (+3min 8s)",
-      "moon_position_start": 199.31,
-      "moon_position_end": 211.55,
+      "sunrise": "07:38",
+      "sunset": "17:48",
+      "daylight_duration": "10:10:47 (+3min 19s)",
+      "moon_position_start": 283.44,
+      "moon_position_end": 295.83,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Vierge",
+          "constellation": "Capricorne",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-02-08",
       "date_formatted": "Dimanche 08/02/2026",
@@ -424,6 +389,33 @@
       "daylight_duration": "10:07:27 (+3min 17s)",
       "moon_position_start": 271.27,
       "moon_position_end": 283.44,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-02-14",
+      "date_formatted": "Samedi 14/02/2026",
+      "saints": [
+        "St-Méthode",
+        "St-Valentin"
+      ],
+      "phase_percentage": 9.6,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:38",
+      "sunset": "17:48",
+      "daylight_duration": "10:10:47 (+3min 19s)",
+      "moon_position_start": 283.44,
+      "moon_position_end": 295.83,
       "nodes_info": [],
       "periods": [
         {
