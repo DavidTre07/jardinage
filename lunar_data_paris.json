@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-02-08T06:00:18.652675+01:00",
+  "generated_at": "2026-02-09T06:00:18.747246+01:00",
   "location": {
     "lat": "48:51:23.8",
     "lon": "2:21:07.9"
   },
   "traditional": [
-    {
-      "date_iso": "2026-02-08",
-      "date_formatted": "Dimanche 08/02/2026",
-      "saints": [
-        "St-Jean de Matha",
-        "St-Jérôme Emiliani"
-      ],
-      "phase_percentage": 60.3,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:10",
-      "sunset": "17:59",
-      "daylight_duration": "09:49:52 (+3min 12s)",
-      "moon_position_start": 211.55,
-      "moon_position_end": 223.58,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Scorpion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-02-09",
       "date_formatted": "Lundi 09/02/2026",
@@ -207,44 +180,44 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-02-08",
-      "date_formatted": "Dimanche 08/02/2026",
+      "date_iso": "2026-02-15",
+      "date_formatted": "Dimanche 15/02/2026",
       "saints": [
-        "St-Jean de Matha",
-        "St-Jérôme Emiliani"
+        "St-Faustin",
+        "St-Jovite"
       ],
-      "phase_percentage": 60.3,
-      "cycle_trajectoire": "Lune Descendante",
+      "phase_percentage": 4.5,
+      "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:10",
-      "sunset": "17:59",
-      "daylight_duration": "09:49:52 (+3min 12s)",
-      "moon_position_start": 211.55,
-      "moon_position_end": 223.58,
+      "sunrise": "07:58",
+      "sunset": "18:11",
+      "daylight_duration": "10:13:02 (+3min 22s)",
+      "moon_position_start": 295.83,
+      "moon_position_end": 308.46,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "12:49",
-          "constellation": "Vierge",
+          "end_time": "07:58",
+          "constellation": "Capricorne",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         },
         {
-          "start_time": "12:49",
+          "start_time": "07:58",
           "end_time": "00:00",
-          "constellation": "Balance",
+          "constellation": "Verseau",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-02-09",
       "date_formatted": "Lundi 09/02/2026",
@@ -423,6 +396,41 @@
           "end_time": "00:00",
           "constellation": "Sagittaire",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-02-15",
+      "date_formatted": "Dimanche 15/02/2026",
+      "saints": [
+        "St-Faustin",
+        "St-Jovite"
+      ],
+      "phase_percentage": 4.5,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:58",
+      "sunset": "18:11",
+      "daylight_duration": "10:13:02 (+3min 22s)",
+      "moon_position_start": 295.83,
+      "moon_position_end": 308.46,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "07:58",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "07:58",
+          "end_time": "00:00",
+          "constellation": "Capricorne",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
