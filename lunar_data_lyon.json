@@ -1,37 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-02-09T06:00:18.968775+01:00",
+  "generated_at": "2026-02-10T06:00:19.026937+01:00",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
   },
   "traditional": [
-    {
-      "date_iso": "2026-02-09",
-      "date_formatted": "Lundi 09/02/2026",
-      "saints": [
-        "Ste-Apolline"
-      ],
-      "phase_percentage": 50.8,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:51",
-      "sunset": "17:58",
-      "daylight_duration": "10:06:56 (+2min 52s)",
-      "moon_position_start": 223.58,
-      "moon_position_end": 235.5,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Scorpion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-02-10",
       "date_formatted": "Mardi 10/02/2026",
@@ -215,35 +189,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-02-09",
-      "date_formatted": "Lundi 09/02/2026",
+      "date_iso": "2026-02-16",
+      "date_formatted": "Lundi 16/02/2026",
       "saints": [
-        "Ste-Apolline"
+        "Ste-Julienne de Nicomédie",
+        "St-Onésime"
       ],
-      "phase_percentage": 50.8,
-      "cycle_trajectoire": "Lune Descendante",
+      "phase_percentage": 1.2,
+      "cycle_trajectoire": "Lune Montante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:51",
-      "sunset": "17:58",
-      "daylight_duration": "10:06:56 (+2min 52s)",
-      "moon_position_start": 223.58,
-      "moon_position_end": 235.5,
+      "sunrise": "07:41",
+      "sunset": "18:08",
+      "daylight_duration": "10:27:43 (+3min 1s)",
+      "moon_position_start": 308.46,
+      "moon_position_end": 321.36,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Balance",
+          "constellation": "Verseau",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-02-10",
       "date_formatted": "Mardi 10/02/2026",
@@ -428,6 +403,33 @@
         },
         {
           "start_time": "07:58",
+          "end_time": "00:00",
+          "constellation": "Capricorne",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-02-16",
+      "date_formatted": "Lundi 16/02/2026",
+      "saints": [
+        "Ste-Julienne de Nicomédie",
+        "St-Onésime"
+      ],
+      "phase_percentage": 1.2,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:41",
+      "sunset": "18:08",
+      "daylight_duration": "10:27:43 (+3min 1s)",
+      "moon_position_start": 308.46,
+      "moon_position_end": 321.36,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Capricorne",
           "recommendation": "Actions favorables aux légumes racines.",
