@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-02-13T06:00:31.604196+01:00",
+  "generated_at": "2026-02-14T06:00:21.074916+01:00",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
   },
   "traditional": [
-    {
-      "date_iso": "2026-02-13",
-      "date_formatted": "Vendredi 13/02/2026",
-      "saints": [
-        "Ste-Béatrice d'Ornacieux",
-        "St-Polyeucte"
-      ],
-      "phase_percentage": 16.1,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:45",
-      "sunset": "18:04",
-      "daylight_duration": "10:18:41 (+2min 58s)",
-      "moon_position_start": 271.27,
-      "moon_position_end": 283.44,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-02-14",
       "date_formatted": "Samedi 14/02/2026",
@@ -239,36 +212,35 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-02-13",
-      "date_formatted": "Vendredi 13/02/2026",
+      "date_iso": "2026-02-20",
+      "date_formatted": "Vendredi 20/02/2026",
       "saints": [
-        "Ste-Béatrice d'Ornacieux",
-        "St-Polyeucte"
+        "Ste-Aimée"
       ],
-      "phase_percentage": 16.1,
+      "phase_percentage": 10.2,
       "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:45",
-      "sunset": "18:04",
-      "daylight_duration": "10:18:41 (+2min 58s)",
-      "moon_position_start": 271.27,
-      "moon_position_end": 283.44,
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:34",
+      "sunset": "18:14",
+      "daylight_duration": "10:39:59 (+3min 5s)",
+      "moon_position_start": 1.55,
+      "moon_position_end": 15.36,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Sagittaire",
+          "constellation": "Bélier",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-02-14",
       "date_formatted": "Samedi 14/02/2026",
@@ -468,6 +440,32 @@
         },
         {
           "start_time": "21:17",
+          "end_time": "00:00",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-02-20",
+      "date_formatted": "Vendredi 20/02/2026",
+      "saints": [
+        "Ste-Aimée"
+      ],
+      "phase_percentage": 10.2,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:34",
+      "sunset": "18:14",
+      "daylight_duration": "10:39:59 (+3min 5s)",
+      "moon_position_start": 1.55,
+      "moon_position_end": 15.36,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Poissons",
           "recommendation": "Actions favorables aux légumes feuilles.",
