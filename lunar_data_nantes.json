@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-02-14T06:00:22.120181+01:00",
+  "generated_at": "2026-02-15T06:00:21.535016+01:00",
   "location": {
     "lat": "47:13:06.2",
     "lon": "-1:33:13.0"
   },
   "traditional": [
-    {
-      "date_iso": "2026-02-14",
-      "date_formatted": "Samedi 14/02/2026",
-      "saints": [
-        "St-Méthode",
-        "St-Valentin"
-      ],
-      "phase_percentage": 9.6,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:12",
-      "sunset": "18:28",
-      "daylight_duration": "10:16:15 (+3min 9s)",
-      "moon_position_start": 283.44,
-      "moon_position_end": 295.83,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-02-15",
       "date_formatted": "Dimanche 15/02/2026",
@@ -227,6 +200,32 @@
       "daylight_duration": "10:35:33 (+3min 15s)",
       "moon_position_start": 1.55,
       "moon_position_end": 15.36,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-02-21",
+      "date_formatted": "Samedi 21/02/2026",
+      "saints": [
+        "St-Pierre Damien"
+      ],
+      "phase_percentage": 17.9,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:00",
+      "sunset": "18:39",
+      "daylight_duration": "10:38:49 (+3min 16s)",
+      "moon_position_start": 15.36,
+      "moon_position_end": 29.33,
       "nodes_info": [],
       "periods": [
         {
@@ -242,33 +241,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-02-14",
-      "date_formatted": "Samedi 14/02/2026",
-      "saints": [
-        "St-Méthode",
-        "St-Valentin"
-      ],
-      "phase_percentage": 9.6,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:12",
-      "sunset": "18:28",
-      "daylight_duration": "10:16:15 (+3min 9s)",
-      "moon_position_start": 283.44,
-      "moon_position_end": 295.83,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-02-15",
       "date_formatted": "Dimanche 15/02/2026",
       "saints": [
@@ -469,6 +441,40 @@
           "end_time": "00:00",
           "constellation": "Poissons",
           "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-02-21",
+      "date_formatted": "Samedi 21/02/2026",
+      "saints": [
+        "St-Pierre Damien"
+      ],
+      "phase_percentage": 17.9,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:00",
+      "sunset": "18:39",
+      "daylight_duration": "10:38:49 (+3min 16s)",
+      "moon_position_start": 15.36,
+      "moon_position_end": 29.33,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "20:00",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "20:00",
+          "end_time": "00:00",
+          "constellation": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
