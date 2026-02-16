@@ -1,46 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-02-15T06:00:21.780246+01:00",
+  "generated_at": "2026-02-16T06:00:20.108356+01:00",
   "location": {
     "lat": "48:34:24.2",
     "lon": "7:45:07.6"
   },
   "traditional": [
-    {
-      "date_iso": "2026-02-15",
-      "date_formatted": "Dimanche 15/02/2026",
-      "saints": [
-        "St-Faustin",
-        "St-Jovite"
-      ],
-      "phase_percentage": 4.5,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:36",
-      "sunset": "17:50",
-      "daylight_duration": "10:14:07 (+3min 20s)",
-      "moon_position_start": 295.83,
-      "moon_position_end": 308.46,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "07:58",
-          "constellation": "Capricorne",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "07:58",
-          "end_time": "00:00",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-02-16",
       "date_formatted": "Lundi 16/02/2026",
@@ -237,44 +202,44 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-02-15",
-      "date_formatted": "Dimanche 15/02/2026",
+      "date_iso": "2026-02-22",
+      "date_formatted": "Dimanche 22/02/2026",
       "saints": [
-        "St-Faustin",
-        "St-Jovite"
+        "Chaire St-Pierre Apôtre",
+        "Ste Marguerite de  Cortone"
       ],
-      "phase_percentage": 4.5,
+      "phase_percentage": 27.4,
       "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:36",
-      "sunset": "17:50",
-      "daylight_duration": "10:14:07 (+3min 20s)",
-      "moon_position_start": 295.83,
-      "moon_position_end": 308.46,
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:23",
+      "sunset": "18:01",
+      "daylight_duration": "10:37:57 (+3min 26s)",
+      "moon_position_start": 29.33,
+      "moon_position_end": 43.42,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "07:58",
-          "constellation": "Sagittaire",
+          "end_time": "01:08",
+          "constellation": "Bélier",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         },
         {
-          "start_time": "07:58",
+          "start_time": "01:08",
           "end_time": "00:00",
-          "constellation": "Capricorne",
+          "constellation": "Taureau",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-02-16",
       "date_formatted": "Lundi 16/02/2026",
@@ -472,6 +437,33 @@
         },
         {
           "start_time": "20:00",
+          "end_time": "00:00",
+          "constellation": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-02-22",
+      "date_formatted": "Dimanche 22/02/2026",
+      "saints": [
+        "Chaire St-Pierre Apôtre",
+        "Ste Marguerite de  Cortone"
+      ],
+      "phase_percentage": 27.4,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:23",
+      "sunset": "18:01",
+      "daylight_duration": "10:37:57 (+3min 26s)",
+      "moon_position_start": 29.33,
+      "moon_position_end": 43.42,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Bélier",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
