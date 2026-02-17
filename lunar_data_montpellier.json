@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-02-16T06:00:20.365389+01:00",
+  "generated_at": "2026-02-17T06:00:21.174076+01:00",
   "location": {
     "lat": "43:36:39.6",
     "lon": "3:52:36.1"
   },
   "traditional": [
-    {
-      "date_iso": "2026-02-16",
-      "date_formatted": "Lundi 16/02/2026",
-      "saints": [
-        "Ste-Julienne de Nicomédie",
-        "St-Onésime"
-      ],
-      "phase_percentage": 1.2,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:41",
-      "sunset": "18:16",
-      "daylight_duration": "10:34:52 (+2min 47s)",
-      "moon_position_start": 308.46,
-      "moon_position_end": 321.36,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-02-17",
       "date_formatted": "Mardi 17/02/2026",
@@ -237,36 +210,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-02-16",
-      "date_formatted": "Lundi 16/02/2026",
+      "date_iso": "2026-02-23",
+      "date_formatted": "Lundi 23/02/2026",
       "saints": [
-        "Ste-Julienne de Nicomédie",
-        "St-Onésime"
+        "St-Lazare",
+        "St-Polycarpe de Smyrne"
       ],
-      "phase_percentage": 1.2,
+      "phase_percentage": 38.1,
       "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:41",
-      "sunset": "18:16",
-      "daylight_duration": "10:34:52 (+2min 47s)",
-      "moon_position_start": 308.46,
-      "moon_position_end": 321.36,
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:30",
+      "sunset": "18:25",
+      "daylight_duration": "10:54:51 (+2min 53s)",
+      "moon_position_start": 43.42,
+      "moon_position_end": 57.58,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Capricorne",
+          "constellation": "Taureau",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-02-17",
       "date_formatted": "Mardi 17/02/2026",
@@ -467,6 +440,41 @@
           "end_time": "00:00",
           "constellation": "Bélier",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-02-23",
+      "date_formatted": "Lundi 23/02/2026",
+      "saints": [
+        "St-Lazare",
+        "St-Polycarpe de Smyrne"
+      ],
+      "phase_percentage": 38.1,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:30",
+      "sunset": "18:25",
+      "daylight_duration": "10:54:51 (+2min 53s)",
+      "moon_position_start": 43.42,
+      "moon_position_end": 57.58,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "17:56",
+          "constellation": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "17:56",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
