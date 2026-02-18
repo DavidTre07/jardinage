@@ -1,46 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-02-17T06:00:19.477249+01:00",
+  "generated_at": "2026-02-18T06:00:20.336665+01:00",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
   },
   "traditional": [
-    {
-      "date_iso": "2026-02-17",
-      "date_formatted": "Mardi 17/02/2026",
-      "saints": [
-        "St Polychrone",
-        "St-Théodule"
-      ],
-      "phase_percentage": 0.0,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:39",
-      "sunset": "18:10",
-      "daylight_duration": "10:30:45 (+3min 2s)",
-      "moon_position_start": 321.36,
-      "moon_position_end": 334.51,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "15:49",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "15:49",
-          "end_time": "00:00",
-          "constellation": "Poissons",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-02-18",
       "date_formatted": "Mercredi 18/02/2026",
@@ -237,44 +202,44 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-02-17",
-      "date_formatted": "Mardi 17/02/2026",
+      "date_iso": "2026-02-24",
+      "date_formatted": "Mardi 24/02/2026",
       "saints": [
-        "St Polychrone",
-        "St-Théodule"
+        "St-Modeste",
+        "Ste-Primitive"
       ],
-      "phase_percentage": 0.0,
+      "phase_percentage": 49.4,
       "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:39",
-      "sunset": "18:10",
-      "daylight_duration": "10:30:45 (+3min 2s)",
-      "moon_position_start": 321.36,
-      "moon_position_end": 334.51,
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:27",
+      "sunset": "18:20",
+      "daylight_duration": "10:52:27 (+3min 8s)",
+      "moon_position_start": 57.58,
+      "moon_position_end": 71.78,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "15:49",
-          "constellation": "Capricorne",
+          "end_time": "04:06",
+          "constellation": "Taureau",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         },
         {
-          "start_time": "15:49",
+          "start_time": "04:06",
           "end_time": "00:00",
-          "constellation": "Verseau",
+          "constellation": "Gémeaux",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-02-18",
       "date_formatted": "Mercredi 18/02/2026",
@@ -472,6 +437,33 @@
         },
         {
           "start_time": "17:56",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-02-24",
+      "date_formatted": "Mardi 24/02/2026",
+      "saints": [
+        "St-Modeste",
+        "Ste-Primitive"
+      ],
+      "phase_percentage": 49.4,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:27",
+      "sunset": "18:20",
+      "daylight_duration": "10:52:27 (+3min 8s)",
+      "moon_position_start": 57.58,
+      "moon_position_end": 71.78,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Taureau",
           "recommendation": "Actions favorables aux légumes racines.",
