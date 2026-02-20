@@ -1,47 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-02-19T06:00:21.569753+01:00",
+  "generated_at": "2026-02-20T06:00:20.652158+01:00",
   "location": {
     "lat": "48:34:24.2",
     "lon": "7:45:07.6"
   },
   "traditional": [
-    {
-      "date_iso": "2026-02-19",
-      "date_formatted": "Jeudi 19/02/2026",
-      "saints": [
-        "St-Boniface de Lausanne",
-        "St-Conrad de Plaisance",
-        "St-Gabin de Rome"
-      ],
-      "phase_percentage": 4.5,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:29",
-      "sunset": "17:56",
-      "daylight_duration": "10:27:39 (+3min 24s)",
-      "moon_position_start": 347.92,
-      "moon_position_end": 1.55,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "21:17",
-          "constellation": "Poissons",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "21:17",
-          "end_time": "00:00",
-          "constellation": "Bélier",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-02-20",
       "date_formatted": "Vendredi 20/02/2026",
@@ -218,45 +182,44 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-02-19",
-      "date_formatted": "Jeudi 19/02/2026",
+      "date_iso": "2026-02-26",
+      "date_formatted": "Jeudi 26/02/2026",
       "saints": [
-        "St-Boniface de Lausanne",
-        "St-Conrad de Plaisance",
-        "St-Gabin de Rome"
+        "St-Alexandre",
+        "St-Nestor"
       ],
-      "phase_percentage": 4.5,
-      "cycle_trajectoire": "Lune Montante",
+      "phase_percentage": 71.6,
+      "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:29",
-      "sunset": "17:56",
-      "daylight_duration": "10:27:39 (+3min 24s)",
-      "moon_position_start": 347.92,
-      "moon_position_end": 1.55,
+      "sunrise": "07:16",
+      "sunset": "18:08",
+      "daylight_duration": "10:51:51 (+3min 29s)",
+      "moon_position_start": 85.98,
+      "moon_position_end": 100.14,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "21:17",
-          "constellation": "Verseau",
+          "end_time": "06:48",
+          "constellation": "Gémeaux",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "21:17",
+          "start_time": "06:48",
           "end_time": "00:00",
-          "constellation": "Poissons",
+          "constellation": "Cancer",
           "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-02-20",
       "date_formatted": "Vendredi 20/02/2026",
@@ -430,6 +393,41 @@
           "constellation": "Taureau",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-02-26",
+      "date_formatted": "Jeudi 26/02/2026",
+      "saints": [
+        "St-Alexandre",
+        "St-Nestor"
+      ],
+      "phase_percentage": 71.6,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:16",
+      "sunset": "18:08",
+      "daylight_duration": "10:51:51 (+3min 29s)",
+      "moon_position_start": 85.98,
+      "moon_position_end": 100.14,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "06:48",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "06:48",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
