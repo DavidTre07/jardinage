@@ -1,37 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-02-20T06:00:19.895359+01:00",
+  "generated_at": "2026-02-21T06:00:20.253881+01:00",
   "location": {
     "lat": "43:36:16.9",
     "lon": "1:26:39.1"
   },
   "traditional": [
-    {
-      "date_iso": "2026-02-20",
-      "date_formatted": "Vendredi 20/02/2026",
-      "saints": [
-        "Ste-Aimée"
-      ],
-      "phase_percentage": 10.2,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:45",
-      "sunset": "18:31",
-      "daylight_duration": "10:46:15 (+2min 51s)",
-      "moon_position_start": 1.55,
-      "moon_position_end": 15.36,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Bélier",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-02-21",
       "date_formatted": "Samedi 21/02/2026",
@@ -217,35 +191,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-02-20",
-      "date_formatted": "Vendredi 20/02/2026",
+      "date_iso": "2026-02-27",
+      "date_formatted": "Vendredi 27/02/2026",
       "saints": [
-        "Ste-Aimée"
+        "St-Gabriel de l'Addolorata",
+        "Ste-Honorine"
       ],
-      "phase_percentage": 10.2,
-      "cycle_trajectoire": "Lune Montante",
+      "phase_percentage": 81.3,
+      "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:45",
-      "sunset": "18:31",
-      "daylight_duration": "10:46:15 (+2min 51s)",
-      "moon_position_start": 1.55,
-      "moon_position_end": 15.36,
+      "sunrise": "07:33",
+      "sunset": "18:40",
+      "daylight_duration": "11:06:33 (+2min 55s)",
+      "moon_position_start": 100.14,
+      "moon_position_end": 114.22,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Poissons",
+          "constellation": "Cancer",
           "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-02-21",
       "date_formatted": "Samedi 21/02/2026",
@@ -424,6 +399,33 @@
         },
         {
           "start_time": "06:48",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-02-27",
+      "date_formatted": "Vendredi 27/02/2026",
+      "saints": [
+        "St-Gabriel de l'Addolorata",
+        "Ste-Honorine"
+      ],
+      "phase_percentage": 81.3,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:33",
+      "sunset": "18:40",
+      "daylight_duration": "11:06:33 (+2min 55s)",
+      "moon_position_start": 100.14,
+      "moon_position_end": 114.22,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Gémeaux",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
