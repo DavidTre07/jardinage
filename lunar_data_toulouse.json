@@ -1,37 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-02-21T06:00:20.253881+01:00",
+  "generated_at": "2026-02-22T06:00:57.911903+01:00",
   "location": {
     "lat": "43:36:16.9",
     "lon": "1:26:39.1"
   },
   "traditional": [
-    {
-      "date_iso": "2026-02-21",
-      "date_formatted": "Samedi 21/02/2026",
-      "saints": [
-        "St-Pierre Damien"
-      ],
-      "phase_percentage": 17.9,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:43",
-      "sunset": "18:32",
-      "daylight_duration": "10:49:07 (+2min 52s)",
-      "moon_position_start": 15.36,
-      "moon_position_end": 29.33,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Bélier",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-02-22",
       "date_formatted": "Dimanche 22/02/2026",
@@ -218,43 +192,45 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-02-21",
-      "date_formatted": "Samedi 21/02/2026",
+      "date_iso": "2026-02-28",
+      "date_formatted": "Samedi 28/02/2026",
       "saints": [
-        "St-Pierre Damien"
+        "St-Hilaire, pape",
+        "St-Romain de Condat",
+        "St-Théophile d'Adana"
       ],
-      "phase_percentage": 17.9,
-      "cycle_trajectoire": "Lune Montante",
+      "phase_percentage": 89.2,
+      "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:43",
-      "sunset": "18:32",
-      "daylight_duration": "10:49:07 (+2min 52s)",
-      "moon_position_start": 15.36,
-      "moon_position_end": 29.33,
+      "sunrise": "07:32",
+      "sunset": "18:41",
+      "daylight_duration": "11:09:29 (+2min 56s)",
+      "moon_position_start": 114.22,
+      "moon_position_end": 128.17,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "20:00",
-          "constellation": "Poissons",
+          "end_time": "09:54",
+          "constellation": "Cancer",
           "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "20:00",
+          "start_time": "09:54",
           "end_time": "00:00",
-          "constellation": "Bélier",
+          "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-02-22",
       "date_formatted": "Dimanche 22/02/2026",
@@ -429,6 +405,42 @@
           "end_time": "00:00",
           "constellation": "Gémeaux",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-02-28",
+      "date_formatted": "Samedi 28/02/2026",
+      "saints": [
+        "St-Hilaire, pape",
+        "St-Romain de Condat",
+        "St-Théophile d'Adana"
+      ],
+      "phase_percentage": 89.2,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:32",
+      "sunset": "18:41",
+      "daylight_duration": "11:09:29 (+2min 56s)",
+      "moon_position_start": 114.22,
+      "moon_position_end": 128.17,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "09:54",
+          "constellation": "Gémeaux",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "09:54",
+          "end_time": "00:00",
+          "constellation": "Cancer",
+          "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
