@@ -1,46 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-02-22T06:00:58.758874+01:00",
+  "generated_at": "2026-02-23T06:00:57.253727+01:00",
   "location": {
     "lat": "43:36:39.6",
     "lon": "3:52:36.1"
   },
   "traditional": [
-    {
-      "date_iso": "2026-02-22",
-      "date_formatted": "Dimanche 22/02/2026",
-      "saints": [
-        "Chaire St-Pierre Apôtre",
-        "Ste Marguerite de  Cortone"
-      ],
-      "phase_percentage": 27.4,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:32",
-      "sunset": "18:24",
-      "daylight_duration": "10:51:57 (+2min 52s)",
-      "moon_position_start": 29.33,
-      "moon_position_end": 43.42,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "01:08",
-          "constellation": "Bélier",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "01:08",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-02-23",
       "date_formatted": "Lundi 23/02/2026",
@@ -228,36 +193,38 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-02-22",
-      "date_formatted": "Dimanche 22/02/2026",
+      "date_iso": "2026-03-01",
+      "date_formatted": "Dimanche 01/03/2026",
       "saints": [
-        "Chaire St-Pierre Apôtre",
-        "Ste Marguerite de  Cortone"
+        "St-Albin d'Anvers",
+        "St-Charles le bon",
+        "St-Guénolé",
+        "Ste-Cunégonde"
       ],
-      "phase_percentage": 27.4,
-      "cycle_trajectoire": "Lune Montante",
+      "phase_percentage": 95.2,
+      "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:32",
-      "sunset": "18:24",
-      "daylight_duration": "10:51:57 (+2min 52s)",
-      "moon_position_start": 29.33,
-      "moon_position_end": 43.42,
+      "sunrise": "07:20",
+      "sunset": "18:33",
+      "daylight_duration": "11:12:24 (+2min 56s)",
+      "moon_position_start": 128.17,
+      "moon_position_end": 141.95,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Bélier",
+          "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-02-23",
       "date_formatted": "Lundi 23/02/2026",
@@ -441,6 +408,43 @@
           "end_time": "00:00",
           "constellation": "Cancer",
           "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-03-01",
+      "date_formatted": "Dimanche 01/03/2026",
+      "saints": [
+        "St-Albin d'Anvers",
+        "St-Charles le bon",
+        "St-Guénolé",
+        "Ste-Cunégonde"
+      ],
+      "phase_percentage": 95.2,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:20",
+      "sunset": "18:33",
+      "daylight_duration": "11:12:24 (+2min 56s)",
+      "moon_position_start": 128.17,
+      "moon_position_end": 141.95,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "17:05",
+          "constellation": "Cancer",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "17:05",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
