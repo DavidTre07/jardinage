@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-02-23T06:00:56.095790+01:00",
+  "generated_at": "2026-02-24T06:00:55.938511+01:00",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
   },
   "traditional": [
-    {
-      "date_iso": "2026-02-23",
-      "date_formatted": "Lundi 23/02/2026",
-      "saints": [
-        "St-Lazare",
-        "St-Polycarpe de Smyrne"
-      ],
-      "phase_percentage": 38.1,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:29",
-      "sunset": "18:18",
-      "daylight_duration": "10:49:19 (+3min 7s)",
-      "moon_position_start": 43.42,
-      "moon_position_end": 57.58,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-02-24",
       "date_formatted": "Mardi 24/02/2026",
@@ -222,44 +195,43 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-02-23",
-      "date_formatted": "Lundi 23/02/2026",
+      "date_iso": "2026-03-02",
+      "date_formatted": "Lundi 02/03/2026",
       "saints": [
-        "St-Lazare",
-        "St-Polycarpe de Smyrne"
+        "St-Siméon le Juste"
       ],
-      "phase_percentage": 38.1,
-      "cycle_trajectoire": "Lune Montante",
+      "phase_percentage": 98.8,
+      "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:29",
-      "sunset": "18:18",
-      "daylight_duration": "10:49:19 (+3min 7s)",
-      "moon_position_start": 43.42,
-      "moon_position_end": 57.58,
+      "sunrise": "07:17",
+      "sunset": "18:28",
+      "daylight_duration": "11:11:28 (+3min 11s)",
+      "moon_position_start": 141.95,
+      "moon_position_end": 155.5,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "17:56",
-          "constellation": "Bélier",
+          "end_time": "14:12",
+          "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "17:56",
+          "start_time": "14:12",
           "end_time": "00:00",
-          "constellation": "Taureau",
+          "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-02-24",
       "date_formatted": "Mardi 24/02/2026",
@@ -442,6 +414,32 @@
         },
         {
           "start_time": "17:05",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-03-02",
+      "date_formatted": "Lundi 02/03/2026",
+      "saints": [
+        "St-Siméon le Juste"
+      ],
+      "phase_percentage": 98.8,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:17",
+      "sunset": "18:28",
+      "daylight_duration": "11:11:28 (+3min 11s)",
+      "moon_position_start": 141.95,
+      "moon_position_end": 155.5,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
