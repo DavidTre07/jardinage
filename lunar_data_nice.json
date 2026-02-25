@@ -1,46 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-02-24T06:00:57.316674+01:00",
+  "generated_at": "2026-02-25T06:00:58.054348+01:00",
   "location": {
     "lat": "43:42:36.7",
     "lon": "7:15:43.2"
   },
   "traditional": [
-    {
-      "date_iso": "2026-02-24",
-      "date_formatted": "Mardi 24/02/2026",
-      "saints": [
-        "St-Modeste",
-        "Ste-Primitive"
-      ],
-      "phase_percentage": 49.4,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:15",
-      "sunset": "18:13",
-      "daylight_duration": "10:57:29 (+2min 54s)",
-      "moon_position_start": 57.58,
-      "moon_position_end": 71.78,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "04:06",
-          "constellation": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "04:06",
-          "end_time": "00:00",
-          "constellation": "Gémeaux",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-02-25",
       "date_formatted": "Mercredi 25/02/2026",
@@ -229,36 +194,53 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-02-24",
-      "date_formatted": "Mardi 24/02/2026",
+      "date_iso": "2026-03-03",
+      "date_formatted": "Mardi 03/03/2026",
       "saints": [
-        "St-Modeste",
-        "Ste-Primitive"
+        "Ste-Cunégonde"
       ],
-      "phase_percentage": 49.4,
-      "cycle_trajectoire": "Lune Montante",
+      "phase_percentage": 100.0,
+      "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:15",
-      "sunset": "18:13",
-      "daylight_duration": "10:57:29 (+2min 54s)",
-      "moon_position_start": 57.58,
-      "moon_position_end": 71.78,
-      "nodes_info": [],
+      "sunrise": "07:04",
+      "sunset": "18:22",
+      "daylight_duration": "11:18:08 (+2min 58s)",
+      "moon_position_start": 155.5,
+      "moon_position_end": 168.8,
+      "nodes_info": [
+        "NŒUD LUNAIRE (descendant) le 03/03 à 05h33 - Pas de jardinage de 01h33 à 09h33"
+      ],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Taureau",
+          "end_time": "01:33",
+          "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "01:33",
+          "end_time": "09:33",
+          "constellation": "Vierge",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "09:33",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-02-25",
       "date_formatted": "Mercredi 25/02/2026",
@@ -440,6 +422,50 @@
       "periods": [
         {
           "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-03-03",
+      "date_formatted": "Mardi 03/03/2026",
+      "saints": [
+        "Ste-Cunégonde"
+      ],
+      "phase_percentage": 100.0,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:04",
+      "sunset": "18:22",
+      "daylight_duration": "11:18:08 (+2min 58s)",
+      "moon_position_start": 155.5,
+      "moon_position_end": 168.8,
+      "nodes_info": [
+        "NŒUD LUNAIRE (descendant) le 03/03 à 05h33 - Pas de jardinage de 01h33 à 09h33"
+      ],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "01:33",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "01:33",
+          "end_time": "09:33",
+          "constellation": "Lion",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "09:33",
           "end_time": "00:00",
           "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
