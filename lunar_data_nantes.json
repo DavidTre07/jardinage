@@ -1,46 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-02-26T06:00:58.446371+01:00",
+  "generated_at": "2026-02-27T06:00:59.156862+01:00",
   "location": {
     "lat": "47:13:06.2",
     "lon": "-1:33:13.0"
   },
   "traditional": [
-    {
-      "date_iso": "2026-02-26",
-      "date_formatted": "Jeudi 26/02/2026",
-      "saints": [
-        "St-Alexandre",
-        "St-Nestor"
-      ],
-      "phase_percentage": 71.6,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:51",
-      "sunset": "18:47",
-      "daylight_duration": "10:55:20 (+3min 19s)",
-      "moon_position_start": 85.98,
-      "moon_position_end": 100.14,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "06:48",
-          "constellation": "Gémeaux",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "06:48",
-          "end_time": "00:00",
-          "constellation": "Cancer",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-02-27",
       "date_formatted": "Vendredi 27/02/2026",
@@ -244,44 +209,38 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-02-26",
-      "date_formatted": "Jeudi 26/02/2026",
+      "date_iso": "2026-03-05",
+      "date_formatted": "Jeudi 05/03/2026",
       "saints": [
-        "St-Alexandre",
-        "St-Nestor"
+        "St-Eusèbe de Crémone",
+        "St-Jean-Joseph de la Croix",
+        "Ste-Olive",
+        "St-Théophile de Césarée"
       ],
-      "phase_percentage": 71.6,
+      "phase_percentage": 95.8,
       "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:51",
-      "sunset": "18:47",
-      "daylight_duration": "10:55:20 (+3min 19s)",
-      "moon_position_start": 85.98,
-      "moon_position_end": 100.14,
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:38",
+      "sunset": "18:57",
+      "daylight_duration": "11:18:50 (+3min 22s)",
+      "moon_position_start": 181.82,
+      "moon_position_end": 194.57,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "06:48",
-          "constellation": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "06:48",
           "end_time": "00:00",
-          "constellation": "Gémeaux",
+          "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-02-27",
       "date_formatted": "Vendredi 27/02/2026",
@@ -478,6 +437,35 @@
         },
         {
           "start_time": "09:31",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-03-05",
+      "date_formatted": "Jeudi 05/03/2026",
+      "saints": [
+        "St-Eusèbe de Crémone",
+        "St-Jean-Joseph de la Croix",
+        "Ste-Olive",
+        "St-Théophile de Césarée"
+      ],
+      "phase_percentage": 95.8,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:38",
+      "sunset": "18:57",
+      "daylight_duration": "11:18:50 (+3min 22s)",
+      "moon_position_start": 181.82,
+      "moon_position_end": 194.57,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
