@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-02-27T06:00:58.676049+01:00",
+  "generated_at": "2026-02-28T06:00:58.078060+01:00",
   "location": {
     "lat": "43:36:16.9",
     "lon": "1:26:39.1"
   },
   "traditional": [
-    {
-      "date_iso": "2026-02-27",
-      "date_formatted": "Vendredi 27/02/2026",
-      "saints": [
-        "St-Gabriel de l'Addolorata",
-        "Ste-Honorine"
-      ],
-      "phase_percentage": 81.3,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:33",
-      "sunset": "18:40",
-      "daylight_duration": "11:06:33 (+2min 55s)",
-      "moon_position_start": 100.14,
-      "moon_position_end": 114.22,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Cancer",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-02-28",
       "date_formatted": "Samedi 28/02/2026",
@@ -238,36 +211,38 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-02-27",
-      "date_formatted": "Vendredi 27/02/2026",
+      "date_iso": "2026-03-06",
+      "date_formatted": "Vendredi 06/03/2026",
       "saints": [
-        "St-Gabriel de l'Addolorata",
-        "Ste-Honorine"
+        "Ste-Agnès de Bohème",
+        "St-Chrodegang (ou Rotgang)",
+        "Ste-Colette de Corbie",
+        "St-Fridolin"
       ],
-      "phase_percentage": 81.3,
+      "phase_percentage": 90.8,
       "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:33",
-      "sunset": "18:40",
-      "daylight_duration": "11:06:33 (+2min 55s)",
-      "moon_position_start": 100.14,
-      "moon_position_end": 114.22,
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:22",
+      "sunset": "18:49",
+      "daylight_duration": "11:27:16 (+2min 58s)",
+      "moon_position_start": 194.57,
+      "moon_position_end": 207.05,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Gémeaux",
+          "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-02-28",
       "date_formatted": "Samedi 28/02/2026",
@@ -462,6 +437,35 @@
       "daylight_duration": "11:24:17 (+2min 58s)",
       "moon_position_start": 181.82,
       "moon_position_end": 194.57,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-03-06",
+      "date_formatted": "Vendredi 06/03/2026",
+      "saints": [
+        "Ste-Agnès de Bohème",
+        "St-Chrodegang (ou Rotgang)",
+        "Ste-Colette de Corbie",
+        "St-Fridolin"
+      ],
+      "phase_percentage": 90.8,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:22",
+      "sunset": "18:49",
+      "daylight_duration": "11:27:16 (+2min 58s)",
+      "moon_position_start": 194.57,
+      "moon_position_end": 207.05,
       "nodes_info": [],
       "periods": [
         {
