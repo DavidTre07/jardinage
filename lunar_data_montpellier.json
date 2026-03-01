@@ -1,47 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-02-28T06:00:59.150060+01:00",
+  "generated_at": "2026-03-01T06:02:30.223243+01:00",
   "location": {
     "lat": "43:36:39.6",
     "lon": "3:52:36.1"
   },
   "traditional": [
-    {
-      "date_iso": "2026-02-28",
-      "date_formatted": "Samedi 28/02/2026",
-      "saints": [
-        "St-Hilaire, pape",
-        "St-Romain de Condat",
-        "St-Théophile d'Adana"
-      ],
-      "phase_percentage": 89.2,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:22",
-      "sunset": "18:32",
-      "daylight_duration": "11:09:27 (+2min 56s)",
-      "moon_position_start": 114.22,
-      "moon_position_end": 128.17,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "09:54",
-          "constellation": "Cancer",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "09:54",
-          "end_time": "00:00",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-03-01",
       "date_formatted": "Dimanche 01/03/2026",
@@ -240,45 +204,48 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-02-28",
-      "date_formatted": "Samedi 28/02/2026",
+      "date_iso": "2026-03-07",
+      "date_formatted": "Samedi 07/03/2026",
       "saints": [
-        "St-Hilaire, pape",
-        "St-Romain de Condat",
-        "St-Théophile d'Adana"
+        "Ste-Félicité",
+        "Ste-Perpétue",
+        "St-Révocat",
+        "St-Saturnin",
+        "St-Secondule",
+        "St-Thomas D'Aquin"
       ],
-      "phase_percentage": 89.2,
+      "phase_percentage": 84.3,
       "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:22",
-      "sunset": "18:32",
-      "daylight_duration": "11:09:27 (+2min 56s)",
-      "moon_position_start": 114.22,
-      "moon_position_end": 128.17,
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:10",
+      "sunset": "18:40",
+      "daylight_duration": "11:30:13 (+2min 58s)",
+      "moon_position_start": 207.05,
+      "moon_position_end": 219.3,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "09:54",
-          "constellation": "Gémeaux",
+          "end_time": "05:44",
+          "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "09:54",
+          "start_time": "05:44",
           "end_time": "00:00",
-          "constellation": "Cancer",
+          "constellation": "Scorpion",
           "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-03-01",
       "date_formatted": "Dimanche 01/03/2026",
@@ -473,6 +440,45 @@
           "end_time": "00:00",
           "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-03-07",
+      "date_formatted": "Samedi 07/03/2026",
+      "saints": [
+        "Ste-Félicité",
+        "Ste-Perpétue",
+        "St-Révocat",
+        "St-Saturnin",
+        "St-Secondule",
+        "St-Thomas D'Aquin"
+      ],
+      "phase_percentage": 84.3,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:10",
+      "sunset": "18:40",
+      "daylight_duration": "11:30:13 (+2min 58s)",
+      "moon_position_start": 207.05,
+      "moon_position_end": 219.3,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "21:26",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "21:26",
+          "end_time": "00:00",
+          "constellation": "Balance",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
