@@ -1,45 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-03-02T06:00:57.943135+01:00",
+  "generated_at": "2026-03-03T06:01:07.355938+01:00",
   "location": {
     "lat": "50:37:45.1",
     "lon": "3:03:26.3"
   },
   "traditional": [
-    {
-      "date_iso": "2026-03-02",
-      "date_formatted": "Lundi 02/03/2026",
-      "saints": [
-        "St-Siméon le Juste"
-      ],
-      "phase_percentage": 98.8,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:29",
-      "sunset": "18:31",
-      "daylight_duration": "11:01:30 (+3min 47s)",
-      "moon_position_start": 141.95,
-      "moon_position_end": 155.5,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "14:12",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "14:12",
-          "end_time": "00:00",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-03-03",
       "date_formatted": "Mardi 03/03/2026",
@@ -241,35 +207,46 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-03-02",
-      "date_formatted": "Lundi 02/03/2026",
+      "date_iso": "2026-03-09",
+      "date_formatted": "Lundi 09/03/2026",
       "saints": [
-        "St-Siméon le Juste"
+        "Ste-Catherine de Bologne",
+        "St-Dominique Savio",
+        "Ste-Françoise Romaine",
+        "St-Grégoire de Nysse"
       ],
-      "phase_percentage": 98.8,
+      "phase_percentage": 68.1,
       "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:29",
-      "sunset": "18:31",
-      "daylight_duration": "11:01:30 (+3min 47s)",
-      "moon_position_start": 141.95,
-      "moon_position_end": 155.5,
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:14",
+      "sunset": "18:42",
+      "daylight_duration": "11:28:14 (+3min 50s)",
+      "moon_position_start": 231.36,
+      "moon_position_end": 243.3,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
+          "end_time": "17:20",
+          "constellation": "Scorpion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "17:20",
           "end_time": "00:00",
-          "constellation": "Lion",
+          "constellation": "Sagittaire",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-03-03",
       "date_formatted": "Mardi 03/03/2026",
@@ -467,6 +444,43 @@
           "end_time": "00:00",
           "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-03-09",
+      "date_formatted": "Lundi 09/03/2026",
+      "saints": [
+        "Ste-Catherine de Bologne",
+        "St-Dominique Savio",
+        "Ste-Françoise Romaine",
+        "St-Grégoire de Nysse"
+      ],
+      "phase_percentage": 68.1,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:14",
+      "sunset": "18:42",
+      "daylight_duration": "11:28:14 (+3min 50s)",
+      "moon_position_start": 231.36,
+      "moon_position_end": 243.3,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "19:21",
+          "constellation": "Balance",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "19:21",
+          "end_time": "00:00",
+          "constellation": "Scorpion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
