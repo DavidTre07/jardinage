@@ -1,45 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-03-04T06:01:00.003182+01:00",
+  "generated_at": "2026-03-05T06:00:59.125614+01:00",
   "location": {
     "lat": "43:36:39.6",
     "lon": "3:52:36.1"
   },
   "traditional": [
-    {
-      "date_iso": "2026-03-04",
-      "date_formatted": "Mercredi 04/03/2026",
-      "saints": [
-        "St-Casimir"
-      ],
-      "phase_percentage": 98.9,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:15",
-      "sunset": "18:37",
-      "daylight_duration": "11:21:17 (+2min 58s)",
-      "moon_position_start": 168.8,
-      "moon_position_end": 181.82,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "20:36",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "20:36",
-          "end_time": "00:00",
-          "constellation": "Balance",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-03-05",
       "date_formatted": "Jeudi 05/03/2026",
@@ -227,43 +193,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-03-04",
-      "date_formatted": "Mercredi 04/03/2026",
+      "date_iso": "2026-03-11",
+      "date_formatted": "Mercredi 11/03/2026",
       "saints": [
-        "St-Casimir"
+        "St-Euloge de Cordoue",
+        "St-Euthyme de Sardes"
       ],
-      "phase_percentage": 98.9,
+      "phase_percentage": 49.6,
       "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:15",
-      "sunset": "18:37",
-      "daylight_duration": "11:21:17 (+2min 58s)",
-      "moon_position_start": 168.8,
-      "moon_position_end": 181.82,
+      "sunrise": "07:03",
+      "sunset": "18:45",
+      "daylight_duration": "11:42:12 (+2min 59s)",
+      "moon_position_start": 255.18,
+      "moon_position_end": 267.08,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "09:31",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "09:31",
           "end_time": "00:00",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-03-05",
       "date_formatted": "Jeudi 05/03/2026",
@@ -456,6 +415,41 @@
           "constellation": "Serpentaire",
           "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
           "seve_info": "",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-03-11",
+      "date_formatted": "Mercredi 11/03/2026",
+      "saints": [
+        "St-Euloge de Cordoue",
+        "St-Euthyme de Sardes"
+      ],
+      "phase_percentage": 49.6,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:03",
+      "sunset": "18:45",
+      "daylight_duration": "11:42:12 (+2min 59s)",
+      "moon_position_start": 255.18,
+      "moon_position_end": 267.08,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "21:49",
+          "constellation": "Serpentaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
+          "blocked": false
+        },
+        {
+          "start_time": "21:49",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
