@@ -304,7 +304,7 @@ async function loadLunarInfo() {
     results.innerHTML = '';
 
     try {
-        const days = 7; // Toujours afficher 7 jours
+        const days = 15; // Toujours afficher 7 jours
         const traditional = document.getElementById('traditional').checked;
         
         // Charger les données JSON pré-générées
