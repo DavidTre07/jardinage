@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-03-06T06:00:58.134527+01:00",
+  "generated_at": "2026-03-06T18:47:21.011987+01:00",
   "location": {
     "lat": "47:13:06.2",
     "lon": "-1:33:13.0"
@@ -222,6 +222,262 @@
           "end_time": "00:00",
           "constellation": "Capricorne",
           "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-03-13",
+      "date_formatted": "Vendredi 13/03/2026",
+      "saints": [
+        "Ste-Euphrasie",
+        "St-Roderick"
+      ],
+      "phase_percentage": 30.9,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:23",
+      "sunset": "19:09",
+      "daylight_duration": "11:46:01 (+3min 24s)",
+      "moon_position_start": 279.09,
+      "moon_position_end": 291.26,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Capricorne",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-03-14",
+      "date_formatted": "Samedi 14/03/2026",
+      "saints": [
+        "Ste-Mathilde"
+      ],
+      "phase_percentage": 22.2,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:21",
+      "sunset": "19:10",
+      "daylight_duration": "11:49:26 (+3min 24s)",
+      "moon_position_start": 291.26,
+      "moon_position_end": 303.69,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "16:55",
+          "constellation": "Capricorne",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "16:55",
+          "end_time": "00:00",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-03-15",
+      "date_formatted": "Dimanche 15/03/2026",
+      "saints": [
+        "St-Longin",
+        "Ste-Louise de Marillac"
+      ],
+      "phase_percentage": 14.4,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:19",
+      "sunset": "19:11",
+      "daylight_duration": "11:52:50 (+3min 24s)",
+      "moon_position_start": 303.69,
+      "moon_position_end": 316.42,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-03-16",
+      "date_formatted": "Lundi 16/03/2026",
+      "saints": [
+        "Ste-Eusébie",
+        "St-Héribert"
+      ],
+      "phase_percentage": 7.9,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:17",
+      "sunset": "19:13",
+      "daylight_duration": "11:56:15 (+3min 24s)",
+      "moon_position_start": 316.42,
+      "moon_position_end": 329.49,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-03-17",
+      "date_formatted": "Mardi 17/03/2026",
+      "saints": [
+        "Ste-Gertrude de Nivelle",
+        "St-Patrick d'Irlande"
+      ],
+      "phase_percentage": 3.1,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:15",
+      "sunset": "19:14",
+      "daylight_duration": "11:59:40 (+3min 24s)",
+      "moon_position_start": 329.49,
+      "moon_position_end": 342.92,
+      "nodes_info": [
+        "NŒUD LUNAIRE (ascendant) le 17/03 à 16h21 - Pas de jardinage de 12h21 à 20h21"
+      ],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:55",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "00:55",
+          "end_time": "12:21",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "12:21",
+          "end_time": "20:21",
+          "constellation": "Poissons",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "20:21",
+          "end_time": "00:00",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-03-18",
+      "date_formatted": "Mercredi 18/03/2026",
+      "saints": [
+        "St-Cyrille de Jérusalem"
+      ],
+      "phase_percentage": 0.5,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:13",
+      "sunset": "19:16",
+      "daylight_duration": "12:03:05 (+3min 24s)",
+      "moon_position_start": 342.92,
+      "moon_position_end": 356.69,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-03-19",
+      "date_formatted": "Jeudi 19/03/2026",
+      "saints": [
+        "St-Joseph"
+      ],
+      "phase_percentage": 0.2,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:11",
+      "sunset": "19:17",
+      "daylight_duration": "12:06:30 (+3min 24s)",
+      "moon_position_start": 356.69,
+      "moon_position_end": 10.77,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "05:40",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "05:40",
+          "end_time": "00:00",
+          "constellation": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-03-20",
+      "date_formatted": "Vendredi 20/03/2026",
+      "saints": [
+        "St-Herbert",
+        "St-Rémy de Strasbourg",
+        "St-Wulfran"
+      ],
+      "phase_percentage": 2.7,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:09",
+      "sunset": "19:19",
+      "daylight_duration": "12:09:55 (+3min 24s)",
+      "moon_position_start": 10.77,
+      "moon_position_end": 25.08,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
@@ -453,6 +709,262 @@
           "end_time": "00:00",
           "constellation": "Sagittaire",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-03-13",
+      "date_formatted": "Vendredi 13/03/2026",
+      "saints": [
+        "Ste-Euphrasie",
+        "St-Roderick"
+      ],
+      "phase_percentage": 30.9,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:23",
+      "sunset": "19:09",
+      "daylight_duration": "11:46:01 (+3min 24s)",
+      "moon_position_start": 279.09,
+      "moon_position_end": 291.26,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-03-14",
+      "date_formatted": "Samedi 14/03/2026",
+      "saints": [
+        "Ste-Mathilde"
+      ],
+      "phase_percentage": 22.2,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:21",
+      "sunset": "19:10",
+      "daylight_duration": "11:49:26 (+3min 24s)",
+      "moon_position_start": 291.26,
+      "moon_position_end": 303.69,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "16:55",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "16:55",
+          "end_time": "00:00",
+          "constellation": "Capricorne",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-03-15",
+      "date_formatted": "Dimanche 15/03/2026",
+      "saints": [
+        "St-Longin",
+        "Ste-Louise de Marillac"
+      ],
+      "phase_percentage": 14.4,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:19",
+      "sunset": "19:11",
+      "daylight_duration": "11:52:50 (+3min 24s)",
+      "moon_position_start": 303.69,
+      "moon_position_end": 316.42,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Capricorne",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-03-16",
+      "date_formatted": "Lundi 16/03/2026",
+      "saints": [
+        "Ste-Eusébie",
+        "St-Héribert"
+      ],
+      "phase_percentage": 7.9,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:17",
+      "sunset": "19:13",
+      "daylight_duration": "11:56:15 (+3min 24s)",
+      "moon_position_start": 316.42,
+      "moon_position_end": 329.49,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Capricorne",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-03-17",
+      "date_formatted": "Mardi 17/03/2026",
+      "saints": [
+        "Ste-Gertrude de Nivelle",
+        "St-Patrick d'Irlande"
+      ],
+      "phase_percentage": 3.1,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:15",
+      "sunset": "19:14",
+      "daylight_duration": "11:59:40 (+3min 24s)",
+      "moon_position_start": 329.49,
+      "moon_position_end": 342.92,
+      "nodes_info": [
+        "NŒUD LUNAIRE (ascendant) le 17/03 à 16h21 - Pas de jardinage de 12h21 à 20h21"
+      ],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:55",
+          "constellation": "Capricorne",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "00:55",
+          "end_time": "12:21",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "12:21",
+          "end_time": "20:21",
+          "constellation": "Verseau",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "20:21",
+          "end_time": "00:00",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-03-18",
+      "date_formatted": "Mercredi 18/03/2026",
+      "saints": [
+        "St-Cyrille de Jérusalem"
+      ],
+      "phase_percentage": 0.5,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:13",
+      "sunset": "19:16",
+      "daylight_duration": "12:03:05 (+3min 24s)",
+      "moon_position_start": 342.92,
+      "moon_position_end": 356.69,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-03-19",
+      "date_formatted": "Jeudi 19/03/2026",
+      "saints": [
+        "St-Joseph"
+      ],
+      "phase_percentage": 0.2,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:11",
+      "sunset": "19:17",
+      "daylight_duration": "12:06:30 (+3min 24s)",
+      "moon_position_start": 356.69,
+      "moon_position_end": 10.77,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "05:40",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "05:40",
+          "end_time": "00:00",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-03-20",
+      "date_formatted": "Vendredi 20/03/2026",
+      "saints": [
+        "St-Herbert",
+        "St-Rémy de Strasbourg",
+        "St-Wulfran"
+      ],
+      "phase_percentage": 2.7,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:09",
+      "sunset": "19:19",
+      "daylight_duration": "12:09:55 (+3min 24s)",
+      "moon_position_start": 10.77,
+      "moon_position_end": 25.08,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
