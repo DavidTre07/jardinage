@@ -1,40 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-03-06T18:50:01.023262+01:00",
+  "generated_at": "2026-03-07T06:01:00.755993+01:00",
   "location": {
     "lat": "48:34:24.2",
     "lon": "7:45:07.6"
   },
   "traditional": [
-    {
-      "date_iso": "2026-03-06",
-      "date_formatted": "Vendredi 06/03/2026",
-      "saints": [
-        "Ste-Agnès de Bohème",
-        "St-Chrodegang (ou Rotgang)",
-        "Ste-Colette de Corbie",
-        "St-Fridolin"
-      ],
-      "phase_percentage": 90.8,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:00",
-      "sunset": "18:20",
-      "daylight_duration": "11:20:03 (+3min 32s)",
-      "moon_position_start": 194.57,
-      "moon_position_end": 207.05,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Balance",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-03-07",
       "date_formatted": "Samedi 07/03/2026",
@@ -482,38 +453,45 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-03-06",
-      "date_formatted": "Vendredi 06/03/2026",
+      "date_iso": "2026-03-21",
+      "date_formatted": "Samedi 21/03/2026",
       "saints": [
-        "Ste-Agnès de Bohème",
-        "St-Chrodegang (ou Rotgang)",
-        "Ste-Colette de Corbie",
-        "St-Fridolin"
+        "St-Birillus",
+        "St-Endée",
+        "St-Philémon"
       ],
-      "phase_percentage": 90.8,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:00",
-      "sunset": "18:20",
-      "daylight_duration": "11:20:03 (+3min 32s)",
-      "moon_position_start": 194.57,
-      "moon_position_end": 207.05,
+      "phase_percentage": 7.7,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:29",
+      "sunset": "18:43",
+      "daylight_duration": "12:13:40 (+3min 34s)",
+      "moon_position_start": 25.08,
+      "moon_position_end": 39.53,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
+          "end_time": "08:11",
+          "constellation": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "08:11",
           "end_time": "00:00",
-          "constellation": "Vierge",
+          "constellation": "Taureau",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-03-07",
       "date_formatted": "Samedi 07/03/2026",
@@ -965,6 +943,42 @@
           "end_time": "00:00",
           "constellation": "Poissons",
           "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-03-21",
+      "date_formatted": "Samedi 21/03/2026",
+      "saints": [
+        "St-Birillus",
+        "St-Endée",
+        "St-Philémon"
+      ],
+      "phase_percentage": 7.7,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:29",
+      "sunset": "18:43",
+      "daylight_duration": "12:13:40 (+3min 34s)",
+      "moon_position_start": 25.08,
+      "moon_position_end": 39.53,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "03:12",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "03:12",
+          "end_time": "00:00",
+          "constellation": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
