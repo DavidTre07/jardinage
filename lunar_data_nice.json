@@ -1,50 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-03-07T06:01:02.368263+01:00",
+  "generated_at": "2026-03-08T06:01:01.301598+01:00",
   "location": {
     "lat": "43:42:36.7",
     "lon": "7:15:43.2"
   },
   "traditional": [
-    {
-      "date_iso": "2026-03-07",
-      "date_formatted": "Samedi 07/03/2026",
-      "saints": [
-        "Ste-Félicité",
-        "Ste-Perpétue",
-        "St-Révocat",
-        "St-Saturnin",
-        "St-Secondule",
-        "St-Thomas D'Aquin"
-      ],
-      "phase_percentage": 84.3,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:57",
-      "sunset": "18:27",
-      "daylight_duration": "11:30:04 (+2min 59s)",
-      "moon_position_start": 207.05,
-      "moon_position_end": 219.3,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "05:44",
-          "constellation": "Balance",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "05:44",
-          "end_time": "00:00",
-          "constellation": "Scorpion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-03-08",
       "date_formatted": "Dimanche 08/03/2026",
@@ -489,48 +450,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-03-07",
-      "date_formatted": "Samedi 07/03/2026",
+      "date_iso": "2026-03-22",
+      "date_formatted": "Dimanche 22/03/2026",
       "saints": [
-        "Ste-Félicité",
-        "Ste-Perpétue",
-        "St-Révocat",
-        "St-Saturnin",
-        "St-Secondule",
-        "St-Thomas D'Aquin"
+        "Ste-Léa",
+        "St-Octavien"
       ],
-      "phase_percentage": 84.3,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:57",
-      "sunset": "18:27",
-      "daylight_duration": "11:30:04 (+2min 59s)",
-      "moon_position_start": 207.05,
-      "moon_position_end": 219.3,
+      "phase_percentage": 15.0,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:30",
+      "sunset": "18:45",
+      "daylight_duration": "12:15:18 (+3min 1s)",
+      "moon_position_start": 39.53,
+      "moon_position_end": 54.02,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "21:26",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "21:26",
           "end_time": "00:00",
-          "constellation": "Balance",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-03-08",
       "date_formatted": "Dimanche 08/03/2026",
@@ -979,6 +928,41 @@
           "end_time": "00:00",
           "constellation": "Bélier",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-03-22",
+      "date_formatted": "Dimanche 22/03/2026",
+      "saints": [
+        "Ste-Léa",
+        "St-Octavien"
+      ],
+      "phase_percentage": 15.0,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:30",
+      "sunset": "18:45",
+      "daylight_duration": "12:15:18 (+3min 1s)",
+      "moon_position_start": 39.53,
+      "moon_position_end": 54.02,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "23:58",
+          "constellation": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "23:58",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
