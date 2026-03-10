@@ -1,48 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-03-09T06:00:58.841909+01:00",
+  "generated_at": "2026-03-10T06:01:00.642982+01:00",
   "location": {
     "lat": "48:34:24.2",
     "lon": "7:45:07.6"
   },
   "traditional": [
-    {
-      "date_iso": "2026-03-09",
-      "date_formatted": "Lundi 09/03/2026",
-      "saints": [
-        "Ste-Catherine de Bologne",
-        "St-Dominique Savio",
-        "Ste-Françoise Romaine",
-        "St-Grégoire de Nysse"
-      ],
-      "phase_percentage": 68.1,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:54",
-      "sunset": "18:25",
-      "daylight_duration": "11:30:44 (+3min 33s)",
-      "moon_position_start": 231.36,
-      "moon_position_end": 243.3,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "17:20",
-          "constellation": "Scorpion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "17:20",
-          "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-03-10",
       "date_formatted": "Mardi 10/03/2026",
@@ -485,46 +448,37 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-03-09",
-      "date_formatted": "Lundi 09/03/2026",
+      "date_iso": "2026-03-24",
+      "date_formatted": "Mardi 24/03/2026",
       "saints": [
-        "Ste-Catherine de Bologne",
-        "St-Dominique Savio",
-        "Ste-Françoise Romaine",
-        "St-Grégoire de Nysse"
+        "Ste-Catherine de Suède",
+        "St-Pigmène",
+        "St-Romule"
       ],
-      "phase_percentage": 68.1,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:54",
-      "sunset": "18:25",
-      "daylight_duration": "11:30:44 (+3min 33s)",
-      "moon_position_start": 231.36,
-      "moon_position_end": 243.3,
+      "phase_percentage": 34.9,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:23",
+      "sunset": "18:47",
+      "daylight_duration": "12:24:24 (+3min 34s)",
+      "moon_position_start": 68.47,
+      "moon_position_end": 82.8,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "19:21",
-          "constellation": "Balance",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "19:21",
           "end_time": "00:00",
-          "constellation": "Scorpion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "constellation": "Gémeaux",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-03-10",
       "date_formatted": "Mardi 10/03/2026",
@@ -964,6 +918,34 @@
       "daylight_duration": "12:20:50 (+3min 34s)",
       "moon_position_start": 54.02,
       "moon_position_end": 68.47,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-03-24",
+      "date_formatted": "Mardi 24/03/2026",
+      "saints": [
+        "Ste-Catherine de Suède",
+        "St-Pigmène",
+        "St-Romule"
+      ],
+      "phase_percentage": 34.9,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:23",
+      "sunset": "18:47",
+      "daylight_duration": "12:24:24 (+3min 34s)",
+      "moon_position_start": 68.47,
+      "moon_position_end": 82.8,
       "nodes_info": [],
       "periods": [
         {
