@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-03-11T06:00:57.787144+01:00",
+  "generated_at": "2026-03-12T06:00:58.037549+01:00",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
   },
   "traditional": [
-    {
-      "date_iso": "2026-03-11",
-      "date_formatted": "Mercredi 11/03/2026",
-      "saints": [
-        "St-Euloge de Cordoue",
-        "St-Euthyme de Sardes"
-      ],
-      "phase_percentage": 49.6,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:00",
-      "sunset": "18:41",
-      "daylight_duration": "11:40:25 (+3min 14s)",
-      "moon_position_start": 255.18,
-      "moon_position_end": 267.08,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-03-12",
       "date_formatted": "Jeudi 12/03/2026",
@@ -484,44 +457,37 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-03-11",
-      "date_formatted": "Mercredi 11/03/2026",
+      "date_iso": "2026-03-26",
+      "date_formatted": "Jeudi 26/03/2026",
       "saints": [
-        "St-Euloge de Cordoue",
-        "St-Euthyme de Sardes"
+        "St-Bathuse",
+        "St-Dizier",
+        "St-Emmanuel"
       ],
-      "phase_percentage": 49.6,
+      "phase_percentage": 57.5,
       "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:00",
-      "sunset": "18:41",
-      "daylight_duration": "11:40:25 (+3min 14s)",
-      "moon_position_start": 255.18,
-      "moon_position_end": 267.08,
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:32",
+      "sunset": "19:01",
+      "daylight_duration": "12:29:03 (+3min 14s)",
+      "moon_position_start": 96.96,
+      "moon_position_end": 110.92,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "21:49",
-          "constellation": "Serpentaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
-          "blocked": false
-        },
-        {
-          "start_time": "21:49",
           "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "constellation": "Cancer",
+          "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-03-12",
       "date_formatted": "Jeudi 12/03/2026",
@@ -958,6 +924,34 @@
         },
         {
           "start_time": "12:10",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-03-26",
+      "date_formatted": "Jeudi 26/03/2026",
+      "saints": [
+        "St-Bathuse",
+        "St-Dizier",
+        "St-Emmanuel"
+      ],
+      "phase_percentage": 57.5,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:32",
+      "sunset": "19:01",
+      "daylight_duration": "12:29:03 (+3min 14s)",
+      "moon_position_start": 96.96,
+      "moon_position_end": 110.92,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Gémeaux",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
