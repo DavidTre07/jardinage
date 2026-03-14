@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-03-13T06:01:00.709595+01:00",
+  "generated_at": "2026-03-14T06:01:05.312449+01:00",
   "location": {
     "lat": "44:50:16.1",
     "lon": "-0:34:45.1"
   },
   "traditional": [
-    {
-      "date_iso": "2026-03-13",
-      "date_formatted": "Vendredi 13/03/2026",
-      "saints": [
-        "Ste-Euphrasie",
-        "St-Roderick"
-      ],
-      "phase_percentage": 30.9,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:18",
-      "sunset": "19:05",
-      "daylight_duration": "11:47:30 (+3min 8s)",
-      "moon_position_start": 279.09,
-      "moon_position_end": 291.26,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-03-14",
       "date_formatted": "Samedi 14/03/2026",
@@ -485,36 +458,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-03-13",
-      "date_formatted": "Vendredi 13/03/2026",
+      "date_iso": "2026-03-28",
+      "date_formatted": "Samedi 28/03/2026",
       "saints": [
-        "Ste-Euphrasie",
-        "St-Roderick"
+        "St-Gontran, roi de Bourgogne",
+        "Ste-Gundelinde"
       ],
-      "phase_percentage": 30.9,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:18",
-      "sunset": "19:05",
-      "daylight_duration": "11:47:30 (+3min 8s)",
-      "moon_position_start": 279.09,
-      "moon_position_end": 291.26,
+      "phase_percentage": 78.1,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:50",
+      "sunset": "19:25",
+      "daylight_duration": "12:34:35 (+3min 7s)",
+      "moon_position_start": 124.67,
+      "moon_position_end": 138.2,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Sagittaire",
+          "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-03-14",
       "date_formatted": "Samedi 14/03/2026",
@@ -963,6 +936,41 @@
           "end_time": "00:00",
           "constellation": "Cancer",
           "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-03-28",
+      "date_formatted": "Samedi 28/03/2026",
+      "saints": [
+        "St-Gontran, roi de Bourgogne",
+        "Ste-Gundelinde"
+      ],
+      "phase_percentage": 78.1,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:50",
+      "sunset": "19:25",
+      "daylight_duration": "12:34:35 (+3min 7s)",
+      "moon_position_start": 124.67,
+      "moon_position_end": 138.2,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "23:38",
+          "constellation": "Cancer",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "23:38",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
