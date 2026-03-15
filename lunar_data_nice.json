@@ -1,45 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-03-14T06:01:05.794954+01:00",
+  "generated_at": "2026-03-15T06:00:28.620425+01:00",
   "location": {
     "lat": "43:42:36.7",
     "lon": "7:15:43.2"
   },
   "traditional": [
-    {
-      "date_iso": "2026-03-14",
-      "date_formatted": "Samedi 14/03/2026",
-      "saints": [
-        "Ste-Mathilde"
-      ],
-      "phase_percentage": 22.2,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:44",
-      "sunset": "18:36",
-      "daylight_duration": "11:51:08 (+3min 1s)",
-      "moon_position_start": 291.26,
-      "moon_position_end": 303.69,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "16:55",
-          "constellation": "Capricorne",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "16:55",
-          "end_time": "00:00",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-03-15",
       "date_formatted": "Dimanche 15/03/2026",
@@ -485,43 +451,44 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-03-14",
-      "date_formatted": "Samedi 14/03/2026",
+      "date_iso": "2026-03-29",
+      "date_formatted": "Dimanche 29/03/2026",
       "saints": [
-        "Ste-Mathilde"
+        "Ste-Gladys",
+        "St-Ludolphe"
       ],
-      "phase_percentage": 22.2,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:44",
-      "sunset": "18:36",
-      "daylight_duration": "11:51:08 (+3min 1s)",
-      "moon_position_start": 291.26,
-      "moon_position_end": 303.69,
+      "phase_percentage": 86.0,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:17",
+      "sunset": "19:54",
+      "daylight_duration": "12:36:22 (+3min)",
+      "moon_position_start": 138.2,
+      "moon_position_end": 150.98,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "16:55",
-          "constellation": "Sagittaire",
+          "end_time": "22:13",
+          "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "16:55",
+          "start_time": "22:13",
           "end_time": "00:00",
-          "constellation": "Capricorne",
+          "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-03-15",
       "date_formatted": "Dimanche 15/03/2026",
@@ -968,6 +935,33 @@
         },
         {
           "start_time": "23:38",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-03-29",
+      "date_formatted": "Dimanche 29/03/2026",
+      "saints": [
+        "Ste-Gladys",
+        "St-Ludolphe"
+      ],
+      "phase_percentage": 86.0,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:17",
+      "sunset": "19:54",
+      "daylight_duration": "12:36:22 (+3min)",
+      "moon_position_start": 138.2,
+      "moon_position_end": 150.98,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
