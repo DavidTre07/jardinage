@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-03-15T06:00:24.212107+01:00",
+  "generated_at": "2026-03-16T06:00:30.149635+01:00",
   "location": {
     "lat": "48:51:23.8",
     "lon": "2:21:07.9"
   },
   "traditional": [
-    {
-      "date_iso": "2026-03-15",
-      "date_formatted": "Dimanche 15/03/2026",
-      "saints": [
-        "St-Longin",
-        "Ste-Louise de Marillac"
-      ],
-      "phase_percentage": 14.4,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:03",
-      "sunset": "18:55",
-      "daylight_duration": "11:52:06 (+3min 36s)",
-      "moon_position_start": 303.69,
-      "moon_position_end": 316.42,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-03-16",
       "date_formatted": "Lundi 16/03/2026",
@@ -486,36 +459,54 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-03-15",
-      "date_formatted": "Dimanche 15/03/2026",
+      "date_iso": "2026-03-30",
+      "date_formatted": "Lundi 30/03/2026",
       "saints": [
-        "St-Longin",
-        "Ste-Louise de Marillac"
+        "St-Amédée IX",
+        "St-Jean Climaque"
       ],
-      "phase_percentage": 14.4,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:03",
-      "sunset": "18:55",
-      "daylight_duration": "11:52:06 (+3min 36s)",
-      "moon_position_start": 303.69,
-      "moon_position_end": 316.42,
-      "nodes_info": [],
+      "phase_percentage": 92.5,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:32",
+      "sunset": "20:18",
+      "daylight_duration": "12:46:16 (+3min 35s)",
+      "moon_position_start": 150.98,
+      "moon_position_end": 164.11,
+      "nodes_info": [
+        "NŒUD LUNAIRE (descendant) le 30/03 à 13h32 - Pas de jardinage de 09h32 à 17h32"
+      ],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
+          "end_time": "09:32",
+          "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "09:32",
+          "end_time": "17:32",
+          "constellation": "Vierge",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "17:32",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-03-16",
       "date_formatted": "Lundi 16/03/2026",
@@ -962,6 +953,51 @@
       "periods": [
         {
           "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-03-30",
+      "date_formatted": "Lundi 30/03/2026",
+      "saints": [
+        "St-Amédée IX",
+        "St-Jean Climaque"
+      ],
+      "phase_percentage": 92.5,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:32",
+      "sunset": "20:18",
+      "daylight_duration": "12:46:16 (+3min 35s)",
+      "moon_position_start": 150.98,
+      "moon_position_end": 164.11,
+      "nodes_info": [
+        "NŒUD LUNAIRE (descendant) le 30/03 à 13h32 - Pas de jardinage de 09h32 à 17h32"
+      ],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "09:32",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "09:32",
+          "end_time": "17:32",
+          "constellation": "Lion",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "17:32",
           "end_time": "00:00",
           "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
