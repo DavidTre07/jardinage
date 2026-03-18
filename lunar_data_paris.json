@@ -1,64 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-03-17T06:00:26.390539+01:00",
+  "generated_at": "2026-03-18T06:00:27.484398+01:00",
   "location": {
     "lat": "48:51:23.8",
     "lon": "2:21:07.9"
   },
   "traditional": [
-    {
-      "date_iso": "2026-03-17",
-      "date_formatted": "Mardi 17/03/2026",
-      "saints": [
-        "Ste-Gertrude de Nivelle",
-        "St-Patrick d'Irlande"
-      ],
-      "phase_percentage": 3.1,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:59",
-      "sunset": "18:59",
-      "daylight_duration": "11:59:20 (+3min 37s)",
-      "moon_position_start": 329.49,
-      "moon_position_end": 342.92,
-      "nodes_info": [
-        "NŒUD LUNAIRE (ascendant) le 17/03 à 16h21 - Pas de jardinage de 12h21 à 20h21"
-      ],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:55",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "00:55",
-          "end_time": "12:21",
-          "constellation": "Poissons",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "12:21",
-          "end_time": "20:21",
-          "constellation": "Poissons",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "20:21",
-          "end_time": "00:00",
-          "constellation": "Poissons",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-03-18",
       "date_formatted": "Mercredi 18/03/2026",
@@ -504,62 +451,44 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-03-17",
-      "date_formatted": "Mardi 17/03/2026",
+      "date_iso": "2026-04-01",
+      "date_formatted": "Mercredi 01/04/2026",
       "saints": [
-        "Ste-Gertrude de Nivelle",
-        "St-Patrick d'Irlande"
+        "Ste-Catherine Thomas",
+        "St-Hugues de Grenoble"
       ],
-      "phase_percentage": 3.1,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:59",
-      "sunset": "18:59",
-      "daylight_duration": "11:59:20 (+3min 37s)",
-      "moon_position_start": 329.49,
-      "moon_position_end": 342.92,
-      "nodes_info": [
-        "NŒUD LUNAIRE (ascendant) le 17/03 à 16h21 - Pas de jardinage de 12h21 à 20h21"
-      ],
+      "phase_percentage": 99.5,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:28",
+      "sunset": "20:21",
+      "daylight_duration": "12:53:26 (+3min 35s)",
+      "moon_position_start": 177.05,
+      "moon_position_end": 189.78,
+      "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "00:55",
-          "constellation": "Capricorne",
+          "end_time": "05:32",
+          "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "00:55",
-          "end_time": "12:21",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "12:21",
-          "end_time": "20:21",
-          "constellation": "Verseau",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "20:21",
+          "start_time": "05:32",
           "end_time": "00:00",
-          "constellation": "Verseau",
+          "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-03-18",
       "date_formatted": "Mercredi 18/03/2026",
@@ -1006,6 +935,33 @@
         },
         {
           "start_time": "18:18",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-04-01",
+      "date_formatted": "Mercredi 01/04/2026",
+      "saints": [
+        "Ste-Catherine Thomas",
+        "St-Hugues de Grenoble"
+      ],
+      "phase_percentage": 99.5,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:28",
+      "sunset": "20:21",
+      "daylight_duration": "12:53:26 (+3min 35s)",
+      "moon_position_start": 177.05,
+      "moon_position_end": 189.78,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
