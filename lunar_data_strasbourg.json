@@ -1,37 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-03-18T06:00:30.876656+01:00",
+  "generated_at": "2026-03-19T06:00:29.790008+01:00",
   "location": {
     "lat": "48:34:24.2",
     "lon": "7:45:07.6"
   },
   "traditional": [
-    {
-      "date_iso": "2026-03-18",
-      "date_formatted": "Mercredi 18/03/2026",
-      "saints": [
-        "St-Cyrille de Jérusalem"
-      ],
-      "phase_percentage": 0.5,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:36",
-      "sunset": "18:38",
-      "daylight_duration": "12:02:55 (+3min 34s)",
-      "moon_position_start": 342.92,
-      "moon_position_end": 356.69,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Poissons",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-03-19",
       "date_formatted": "Jeudi 19/03/2026",
@@ -486,35 +460,37 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-03-18",
-      "date_formatted": "Mercredi 18/03/2026",
+      "date_iso": "2026-04-02",
+      "date_formatted": "Jeudi 02/04/2026",
       "saints": [
-        "St-Cyrille de Jérusalem"
+        "St-François de Paule",
+        "Ste-Théodosie",
+        "St-Urbain de Langres"
       ],
-      "phase_percentage": 0.5,
-      "cycle_trajectoire": "Lune Montante",
+      "phase_percentage": 99.8,
+      "cycle_trajectoire": "Lune Descendante",
       "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:36",
-      "sunset": "18:38",
-      "daylight_duration": "12:02:55 (+3min 34s)",
-      "moon_position_start": 342.92,
-      "moon_position_end": 356.69,
+      "sunrise": "07:04",
+      "sunset": "20:01",
+      "daylight_duration": "12:56:27 (+3min 32s)",
+      "moon_position_start": 189.78,
+      "moon_position_end": 202.31,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Verseau",
+          "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-03-19",
       "date_formatted": "Jeudi 19/03/2026",
@@ -958,6 +934,34 @@
       "daylight_duration": "12:52:54 (+3min 32s)",
       "moon_position_start": 177.05,
       "moon_position_end": 189.78,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-04-02",
+      "date_formatted": "Jeudi 02/04/2026",
+      "saints": [
+        "St-François de Paule",
+        "Ste-Théodosie",
+        "St-Urbain de Langres"
+      ],
+      "phase_percentage": 99.8,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:04",
+      "sunset": "20:01",
+      "daylight_duration": "12:56:27 (+3min 32s)",
+      "moon_position_start": 189.78,
+      "moon_position_end": 202.31,
       "nodes_info": [],
       "periods": [
         {
