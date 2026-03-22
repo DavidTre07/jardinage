@@ -1,47 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-03-21T06:00:41.418342+01:00",
+  "generated_at": "2026-03-22T06:00:48.031124+01:00",
   "location": {
     "lat": "43:36:39.6",
     "lon": "3:52:36.1"
   },
   "traditional": [
-    {
-      "date_iso": "2026-03-21",
-      "date_formatted": "Samedi 21/03/2026",
-      "saints": [
-        "St-Birillus",
-        "St-Endée",
-        "St-Philémon"
-      ],
-      "phase_percentage": 7.7,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:45",
-      "sunset": "18:58",
-      "daylight_duration": "12:12:17 (+3min)",
-      "moon_position_start": 25.08,
-      "moon_position_end": 39.53,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "08:11",
-          "constellation": "Bélier",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "08:11",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-03-22",
       "date_formatted": "Dimanche 22/03/2026",
@@ -488,45 +452,37 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-03-21",
-      "date_formatted": "Samedi 21/03/2026",
+      "date_iso": "2026-04-05",
+      "date_formatted": "Dimanche 05/04/2026",
       "saints": [
-        "St-Birillus",
-        "St-Endée",
-        "St-Philémon"
+        "Ste-Ethelburge",
+        "St-Gérard de Sauve-Majeure",
+        "St-Vincent Ferrier"
       ],
-      "phase_percentage": 7.7,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:45",
-      "sunset": "18:58",
-      "daylight_duration": "12:12:17 (+3min)",
-      "moon_position_start": 25.08,
-      "moon_position_end": 39.53,
+      "phase_percentage": 89.5,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:19",
+      "sunset": "20:16",
+      "daylight_duration": "12:57:06 (+2min 57s)",
+      "moon_position_start": 226.84,
+      "moon_position_end": 238.87,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "03:12",
-          "constellation": "Poissons",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "03:12",
           "end_time": "00:00",
-          "constellation": "Bélier",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "constellation": "Scorpion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-03-22",
       "date_formatted": "Dimanche 22/03/2026",
@@ -966,6 +922,34 @@
         },
         {
           "start_time": "06:32",
+          "end_time": "00:00",
+          "constellation": "Balance",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-04-05",
+      "date_formatted": "Dimanche 05/04/2026",
+      "saints": [
+        "Ste-Ethelburge",
+        "St-Gérard de Sauve-Majeure",
+        "St-Vincent Ferrier"
+      ],
+      "phase_percentage": 89.5,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:19",
+      "sunset": "20:16",
+      "daylight_duration": "12:57:06 (+2min 57s)",
+      "moon_position_start": 226.84,
+      "moon_position_end": 238.87,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
