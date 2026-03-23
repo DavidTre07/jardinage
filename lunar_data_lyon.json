@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-03-22T06:00:44.693693+01:00",
+  "generated_at": "2026-03-23T06:00:36.258045+01:00",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
   },
   "traditional": [
-    {
-      "date_iso": "2026-03-22",
-      "date_formatted": "Dimanche 22/03/2026",
-      "saints": [
-        "Ste-Léa",
-        "St-Octavien"
-      ],
-      "phase_percentage": 15.0,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:39",
-      "sunset": "18:55",
-      "daylight_duration": "12:16:06 (+3min 14s)",
-      "moon_position_start": 39.53,
-      "moon_position_end": 54.02,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-03-23",
       "date_formatted": "Lundi 23/03/2026",
@@ -480,44 +453,45 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-03-22",
-      "date_formatted": "Dimanche 22/03/2026",
+      "date_iso": "2026-04-06",
+      "date_formatted": "Lundi 06/04/2026",
       "saints": [
-        "Ste-Léa",
-        "St-Octavien"
+        "St-Amand",
+        "St-Marcellin de Carthage",
+        "Ste-Modérate"
       ],
-      "phase_percentage": 15.0,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:39",
-      "sunset": "18:55",
-      "daylight_duration": "12:16:06 (+3min 14s)",
-      "moon_position_start": 39.53,
-      "moon_position_end": 54.02,
+      "phase_percentage": 83.0,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:11",
+      "sunset": "20:15",
+      "daylight_duration": "13:04:22 (+3min 11s)",
+      "moon_position_start": 238.87,
+      "moon_position_end": 250.8,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "23:58",
-          "constellation": "Bélier",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "end_time": "02:15",
+          "constellation": "Scorpion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "23:58",
+          "start_time": "02:15",
           "end_time": "00:00",
-          "constellation": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-03-23",
       "date_formatted": "Lundi 23/03/2026",
@@ -954,6 +928,50 @@
           "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-04-06",
+      "date_formatted": "Lundi 06/04/2026",
+      "saints": [
+        "St-Amand",
+        "St-Marcellin de Carthage",
+        "Ste-Modérate"
+      ],
+      "phase_percentage": 83.0,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:11",
+      "sunset": "20:15",
+      "daylight_duration": "13:04:22 (+3min 11s)",
+      "moon_position_start": 238.87,
+      "moon_position_end": 250.8,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "04:16",
+          "constellation": "Balance",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "04:16",
+          "end_time": "18:21",
+          "constellation": "Scorpion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "18:21",
+          "end_time": "00:00",
+          "constellation": "Serpentaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
           "blocked": false
         }
       ]
