@@ -1,46 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-03-23T06:00:38.484177+01:00",
+  "generated_at": "2026-03-24T06:00:38.898938+01:00",
   "location": {
     "lat": "47:13:06.2",
     "lon": "-1:33:13.0"
   },
   "traditional": [
-    {
-      "date_iso": "2026-03-23",
-      "date_formatted": "Lundi 23/03/2026",
-      "saints": [
-        "St-Toribio de Mogrovejo",
-        "St-Victorien"
-      ],
-      "phase_percentage": 24.3,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:03",
-      "sunset": "19:23",
-      "daylight_duration": "12:20:10 (+3min 24s)",
-      "moon_position_start": 54.02,
-      "moon_position_end": 68.47,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "09:55",
-          "constellation": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "09:55",
-          "end_time": "00:00",
-          "constellation": "Gémeaux",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-03-24",
       "date_formatted": "Mardi 24/03/2026",
@@ -489,36 +454,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-03-23",
-      "date_formatted": "Lundi 23/03/2026",
+      "date_iso": "2026-04-07",
+      "date_formatted": "Mardi 07/04/2026",
       "saints": [
-        "St-Toribio de Mogrovejo",
-        "St-Victorien"
+        "St-Hégésippe",
+        "St-Jean Baptiste de la  Salle"
       ],
-      "phase_percentage": 24.3,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:03",
-      "sunset": "19:23",
-      "daylight_duration": "12:20:10 (+3min 24s)",
-      "moon_position_start": 54.02,
-      "moon_position_end": 68.47,
+      "phase_percentage": 75.4,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:33",
+      "sunset": "20:44",
+      "daylight_duration": "13:10:54 (+3min 20s)",
+      "moon_position_start": 250.8,
+      "moon_position_end": 262.67,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-03-24",
       "date_formatted": "Mardi 24/03/2026",
@@ -968,6 +933,33 @@
         },
         {
           "start_time": "18:21",
+          "end_time": "00:00",
+          "constellation": "Serpentaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-04-07",
+      "date_formatted": "Mardi 07/04/2026",
+      "saints": [
+        "St-Hégésippe",
+        "St-Jean Baptiste de la  Salle"
+      ],
+      "phase_percentage": 75.4,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:33",
+      "sunset": "20:44",
+      "daylight_duration": "13:10:54 (+3min 20s)",
+      "moon_position_start": 250.8,
+      "moon_position_end": 262.67,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Serpentaire",
           "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
