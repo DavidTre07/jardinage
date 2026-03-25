@@ -1,39 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-03-24T06:00:39.997640+01:00",
+  "generated_at": "2026-03-25T06:01:33.218171+01:00",
   "location": {
     "lat": "43:36:39.6",
     "lon": "3:52:36.1"
   },
   "traditional": [
-    {
-      "date_iso": "2026-03-24",
-      "date_formatted": "Mardi 24/03/2026",
-      "saints": [
-        "Ste-Catherine de Suède",
-        "St-Pigmène",
-        "St-Romule"
-      ],
-      "phase_percentage": 34.9,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:40",
-      "sunset": "19:01",
-      "daylight_duration": "12:21:18 (+3min)",
-      "moon_position_start": 68.47,
-      "moon_position_end": 82.8,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Gémeaux",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-03-25",
       "date_formatted": "Mercredi 25/03/2026",
@@ -481,37 +453,44 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-03-24",
-      "date_formatted": "Mardi 24/03/2026",
+      "date_iso": "2026-04-08",
+      "date_formatted": "Mercredi 08/04/2026",
       "saints": [
-        "Ste-Catherine de Suède",
-        "St-Pigmène",
-        "St-Romule"
+        "St-Hérodion",
+        "Ste-Julie Billart"
       ],
-      "phase_percentage": 34.9,
+      "phase_percentage": 66.8,
       "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:40",
-      "sunset": "19:01",
-      "daylight_duration": "12:21:18 (+3min)",
-      "moon_position_start": 68.47,
-      "moon_position_end": 82.8,
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:13",
+      "sunset": "20:19",
+      "daylight_duration": "13:05:55 (+2min 56s)",
+      "moon_position_start": 262.67,
+      "moon_position_end": 274.55,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
+          "end_time": "14:48",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "14:48",
           "end_time": "00:00",
-          "constellation": "Taureau",
+          "constellation": "Capricorne",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-03-25",
       "date_formatted": "Mercredi 25/03/2026",
@@ -964,6 +943,41 @@
           "constellation": "Serpentaire",
           "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
           "seve_info": "",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-04-08",
+      "date_formatted": "Mercredi 08/04/2026",
+      "saints": [
+        "St-Hérodion",
+        "Ste-Julie Billart"
+      ],
+      "phase_percentage": 66.8,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:13",
+      "sunset": "20:19",
+      "daylight_duration": "13:05:55 (+2min 56s)",
+      "moon_position_start": 262.67,
+      "moon_position_end": 274.55,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "06:43",
+          "constellation": "Serpentaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
+          "blocked": false
+        },
+        {
+          "start_time": "06:43",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
