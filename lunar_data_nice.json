@@ -1,39 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-03-26T06:00:42.034378+01:00",
+  "generated_at": "2026-03-27T06:00:40.939997+01:00",
   "location": {
     "lat": "43:42:36.7",
     "lon": "7:15:43.2"
   },
   "traditional": [
-    {
-      "date_iso": "2026-03-26",
-      "date_formatted": "Jeudi 26/03/2026",
-      "saints": [
-        "St-Bathuse",
-        "St-Dizier",
-        "St-Emmanuel"
-      ],
-      "phase_percentage": 57.5,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:23",
-      "sunset": "18:50",
-      "daylight_duration": "12:27:21 (+3min)",
-      "moon_position_start": 96.96,
-      "moon_position_end": 110.92,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Cancer",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-03-27",
       "date_formatted": "Vendredi 27/03/2026",
@@ -481,37 +453,37 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-03-26",
-      "date_formatted": "Jeudi 26/03/2026",
+      "date_iso": "2026-04-10",
+      "date_formatted": "Vendredi 10/04/2026",
       "saints": [
-        "St-Bathuse",
-        "St-Dizier",
-        "St-Emmanuel"
+        "St-Badème",
+        "St-Ezéchiel",
+        "St-Fulbert"
       ],
-      "phase_percentage": 57.5,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:23",
-      "sunset": "18:50",
-      "daylight_duration": "12:27:21 (+3min)",
-      "moon_position_start": 96.96,
-      "moon_position_end": 110.92,
+      "phase_percentage": 48.1,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:56",
+      "sunset": "20:08",
+      "daylight_duration": "13:11:59 (+2min 55s)",
+      "moon_position_start": 286.52,
+      "moon_position_end": 298.65,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Gémeaux",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "constellation": "Capricorne",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-03-27",
       "date_formatted": "Vendredi 27/03/2026",
@@ -956,6 +928,34 @@
       "daylight_duration": "13:09:03 (+2min 56s)",
       "moon_position_start": 274.55,
       "moon_position_end": 286.52,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-04-10",
+      "date_formatted": "Vendredi 10/04/2026",
+      "saints": [
+        "St-Badème",
+        "St-Ezéchiel",
+        "St-Fulbert"
+      ],
+      "phase_percentage": 48.1,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:56",
+      "sunset": "20:08",
+      "daylight_duration": "13:11:59 (+2min 55s)",
+      "moon_position_start": 286.52,
+      "moon_position_end": 298.65,
       "nodes_info": [],
       "periods": [
         {
