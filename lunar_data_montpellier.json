@@ -1,46 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-03-27T06:00:39.838087+01:00",
+  "generated_at": "2026-03-28T06:00:40.530754+01:00",
   "location": {
     "lat": "43:36:39.6",
     "lon": "3:52:36.1"
   },
   "traditional": [
-    {
-      "date_iso": "2026-03-27",
-      "date_formatted": "Vendredi 27/03/2026",
-      "saints": [
-        "St-Jean d'Egypte",
-        "St-Rupert de Salzbourg"
-      ],
-      "phase_percentage": 68.3,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:35",
-      "sunset": "19:05",
-      "daylight_duration": "12:30:18 (+2min 59s)",
-      "moon_position_start": 110.92,
-      "moon_position_end": 124.67,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "15:48",
-          "constellation": "Cancer",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "15:48",
-          "end_time": "00:00",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-03-28",
       "date_formatted": "Samedi 28/03/2026",
@@ -481,44 +446,44 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-03-27",
-      "date_formatted": "Vendredi 27/03/2026",
+      "date_iso": "2026-04-11",
+      "date_formatted": "Samedi 11/04/2026",
       "saints": [
-        "St-Jean d'Egypte",
-        "St-Rupert de Salzbourg"
+        "Ste-Gemma Galgani",
+        "St-Stanislas"
       ],
-      "phase_percentage": 68.3,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:35",
-      "sunset": "19:05",
-      "daylight_duration": "12:30:18 (+2min 59s)",
-      "moon_position_start": 110.92,
-      "moon_position_end": 124.67,
+      "phase_percentage": 38.4,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:08",
+      "sunset": "20:23",
+      "daylight_duration": "13:14:41 (+2min 54s)",
+      "moon_position_start": 298.65,
+      "moon_position_end": 311.03,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "15:48",
-          "constellation": "Gémeaux",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "end_time": "02:38",
+          "constellation": "Capricorne",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         },
         {
-          "start_time": "15:48",
+          "start_time": "02:38",
           "end_time": "00:00",
-          "constellation": "Cancer",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-03-28",
       "date_formatted": "Samedi 28/03/2026",
@@ -963,6 +928,41 @@
           "end_time": "00:00",
           "constellation": "Sagittaire",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-04-11",
+      "date_formatted": "Samedi 11/04/2026",
+      "saints": [
+        "Ste-Gemma Galgani",
+        "St-Stanislas"
+      ],
+      "phase_percentage": 38.4,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:08",
+      "sunset": "20:23",
+      "daylight_duration": "13:14:41 (+2min 54s)",
+      "moon_position_start": 298.65,
+      "moon_position_end": 311.03,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "02:38",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "02:38",
+          "end_time": "00:00",
+          "constellation": "Capricorne",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
