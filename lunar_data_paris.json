@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-03-28T06:00:36.683192+01:00",
+  "generated_at": "2026-03-29T06:00:36.507253+02:00",
   "location": {
     "lat": "48:51:23.8",
     "lon": "2:21:07.9"
   },
   "traditional": [
-    {
-      "date_iso": "2026-03-28",
-      "date_formatted": "Samedi 28/03/2026",
-      "saints": [
-        "St-Gontran, roi de Bourgogne",
-        "Ste-Gundelinde"
-      ],
-      "phase_percentage": 78.1,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:36",
-      "sunset": "19:15",
-      "daylight_duration": "12:39:05 (+3min 36s)",
-      "moon_position_start": 124.67,
-      "moon_position_end": 138.2,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-03-29",
       "date_formatted": "Dimanche 29/03/2026",
@@ -481,44 +454,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-03-28",
-      "date_formatted": "Samedi 28/03/2026",
+      "date_iso": "2026-04-12",
+      "date_formatted": "Dimanche 12/04/2026",
       "saints": [
-        "St-Gontran, roi de Bourgogne",
-        "Ste-Gundelinde"
+        "St-Jules 1er",
+        "St-Wigbert"
       ],
-      "phase_percentage": 78.1,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:36",
-      "sunset": "19:15",
-      "daylight_duration": "12:39:05 (+3min 36s)",
-      "moon_position_start": 124.67,
-      "moon_position_end": 138.2,
+      "phase_percentage": 28.8,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:05",
+      "sunset": "20:38",
+      "daylight_duration": "13:32:26 (+3min 30s)",
+      "moon_position_start": 311.03,
+      "moon_position_end": 323.72,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "23:38",
-          "constellation": "Cancer",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "23:38",
           "end_time": "00:00",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-03-29",
       "date_formatted": "Dimanche 29/03/2026",
@@ -960,6 +925,33 @@
         },
         {
           "start_time": "02:38",
+          "end_time": "00:00",
+          "constellation": "Capricorne",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-04-12",
+      "date_formatted": "Dimanche 12/04/2026",
+      "saints": [
+        "St-Jules 1er",
+        "St-Wigbert"
+      ],
+      "phase_percentage": 28.8,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:05",
+      "sunset": "20:38",
+      "daylight_duration": "13:32:26 (+3min 30s)",
+      "moon_position_start": 311.03,
+      "moon_position_end": 323.72,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Capricorne",
           "recommendation": "Actions favorables aux légumes racines.",
