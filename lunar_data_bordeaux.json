@@ -1,56 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-03-30T06:00:40.861763+02:00",
+  "generated_at": "2026-03-31T06:00:50.100215+02:00",
   "location": {
     "lat": "44:50:16.1",
     "lon": "-0:34:45.1"
   },
   "traditional": [
-    {
-      "date_iso": "2026-03-30",
-      "date_formatted": "Lundi 30/03/2026",
-      "saints": [
-        "St-Amédée IX",
-        "St-Jean Climaque"
-      ],
-      "phase_percentage": 92.5,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:46",
-      "sunset": "20:27",
-      "daylight_duration": "12:40:49 (+3min 7s)",
-      "moon_position_start": 150.98,
-      "moon_position_end": 164.11,
-      "nodes_info": [
-        "NŒUD LUNAIRE (descendant) le 30/03 à 13h32 - Pas de jardinage de 09h32 à 17h32"
-      ],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "09:32",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "09:32",
-          "end_time": "17:32",
-          "constellation": "Vierge",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "17:32",
-          "end_time": "00:00",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-03-31",
       "date_formatted": "Mardi 31/03/2026",
@@ -491,54 +446,47 @@
           "blocked": true
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-03-30",
-      "date_formatted": "Lundi 30/03/2026",
+      "date_iso": "2026-04-14",
+      "date_formatted": "Mardi 14/04/2026",
       "saints": [
-        "St-Amédée IX",
-        "St-Jean Climaque"
+        "Ste-Lidwine",
+        "St-Maxime",
+        "St-Valérien"
       ],
-      "phase_percentage": 92.5,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:46",
-      "sunset": "20:27",
-      "daylight_duration": "12:40:49 (+3min 7s)",
-      "moon_position_start": 150.98,
-      "moon_position_end": 164.11,
+      "phase_percentage": 12.1,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:19",
+      "sunset": "20:46",
+      "daylight_duration": "13:26:52 (+3min)",
+      "moon_position_start": 336.81,
+      "moon_position_end": 350.33,
       "nodes_info": [
-        "NŒUD LUNAIRE (descendant) le 30/03 à 13h32 - Pas de jardinage de 09h32 à 17h32"
+        "NŒUD LUNAIRE (ascendant) le 14/04 à 01h41 - Pas de jardinage de 21h41 à 05h41"
       ],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "09:32",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "09:32",
-          "end_time": "17:32",
-          "constellation": "Lion",
+          "end_time": "05:41",
+          "constellation": "Poissons",
           "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
           "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
           "blocked": true
         },
         {
-          "start_time": "17:32",
+          "start_time": "05:41",
           "end_time": "00:00",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-03-31",
       "date_formatted": "Mardi 31/03/2026",
@@ -985,6 +933,44 @@
           "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
           "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
           "blocked": true
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-04-14",
+      "date_formatted": "Mardi 14/04/2026",
+      "saints": [
+        "Ste-Lidwine",
+        "St-Maxime",
+        "St-Valérien"
+      ],
+      "phase_percentage": 12.1,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:19",
+      "sunset": "20:46",
+      "daylight_duration": "13:26:52 (+3min)",
+      "moon_position_start": 336.81,
+      "moon_position_end": 350.33,
+      "nodes_info": [
+        "NŒUD LUNAIRE (ascendant) le 14/04 à 01h41 - Pas de jardinage de 21h41 à 05h41"
+      ],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "05:41",
+          "constellation": "Verseau",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "05:41",
+          "end_time": "00:00",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
         }
       ]
     }
