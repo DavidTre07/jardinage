@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-03-31T06:00:50.684922+02:00",
+  "generated_at": "2026-04-01T06:01:07.629706+02:00",
   "location": {
     "lat": "43:42:36.7",
     "lon": "7:15:43.2"
   },
   "traditional": [
-    {
-      "date_iso": "2026-03-31",
-      "date_formatted": "Mardi 31/03/2026",
-      "saints": [
-        "Ste-Balbine",
-        "St-Benjamin"
-      ],
-      "phase_percentage": 97.1,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:14",
-      "sunset": "19:56",
-      "daylight_duration": "12:42:22 (+2min 59s)",
-      "moon_position_start": 164.11,
-      "moon_position_end": 177.05,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-04-01",
       "date_formatted": "Mercredi 01/04/2026",
@@ -484,44 +457,45 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-03-31",
-      "date_formatted": "Mardi 31/03/2026",
+      "date_iso": "2026-04-15",
+      "date_formatted": "Mercredi 15/04/2026",
       "saints": [
-        "Ste-Balbine",
-        "St-Benjamin"
+        "Ste-Anastasie",
+        "Ste-Basilisse",
+        "St-Paterne"
       ],
-      "phase_percentage": 97.1,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:14",
-      "sunset": "19:56",
-      "daylight_duration": "12:42:22 (+2min 59s)",
-      "moon_position_start": 164.11,
-      "moon_position_end": 177.05,
+      "phase_percentage": 5.8,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:48",
+      "sunset": "20:14",
+      "daylight_duration": "13:26:29 (+2min 52s)",
+      "moon_position_start": 350.33,
+      "moon_position_end": 4.3,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "18:18",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "end_time": "16:41",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         },
         {
-          "start_time": "18:18",
+          "start_time": "16:41",
           "end_time": "00:00",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "constellation": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-04-01",
       "date_formatted": "Mercredi 01/04/2026",
@@ -969,6 +943,42 @@
           "end_time": "00:00",
           "constellation": "Verseau",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-04-15",
+      "date_formatted": "Mercredi 15/04/2026",
+      "saints": [
+        "Ste-Anastasie",
+        "Ste-Basilisse",
+        "St-Paterne"
+      ],
+      "phase_percentage": 5.8,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:48",
+      "sunset": "20:14",
+      "daylight_duration": "13:26:29 (+2min 52s)",
+      "moon_position_start": 350.33,
+      "moon_position_end": 4.3,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "16:41",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "16:41",
+          "end_time": "00:00",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
