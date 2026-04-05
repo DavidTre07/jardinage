@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-04-04T06:00:50.533252+02:00",
+  "generated_at": "2026-04-05T06:00:51.382610+02:00",
   "location": {
     "lat": "44:50:16.1",
     "lon": "-0:34:45.1"
   },
   "traditional": [
-    {
-      "date_iso": "2026-04-04",
-      "date_formatted": "Samedi 04/04/2026",
-      "saints": [
-        "St-Benoà®t Le More",
-        "St-Isidore de  Séville"
-      ],
-      "phase_percentage": 94.6,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:37",
-      "sunset": "20:33",
-      "daylight_duration": "12:56:21 (+3min 5s)",
-      "moon_position_start": 214.66,
-      "moon_position_end": 226.84,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Scorpion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-04-05",
       "date_formatted": "Dimanche 05/04/2026",
@@ -488,44 +461,44 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-04-04",
-      "date_formatted": "Samedi 04/04/2026",
+      "date_iso": "2026-04-19",
+      "date_formatted": "Dimanche 19/04/2026",
       "saints": [
-        "St-Benoà®t Le More",
-        "St-Isidore de  Séville"
+        "St-Expédit",
+        "St-Ursmer"
       ],
-      "phase_percentage": 94.6,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:37",
-      "sunset": "20:33",
-      "daylight_duration": "12:56:21 (+3min 5s)",
-      "moon_position_start": 214.66,
-      "moon_position_end": 226.84,
+      "phase_percentage": 5.5,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:10",
+      "sunset": "20:52",
+      "daylight_duration": "13:41:45 (+2min 56s)",
+      "moon_position_start": 48.24,
+      "moon_position_end": 63.18,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "06:32",
-          "constellation": "Vierge",
+          "end_time": "18:53",
+          "constellation": "Taureau",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         },
         {
-          "start_time": "06:32",
+          "start_time": "18:53",
           "end_time": "00:00",
-          "constellation": "Balance",
+          "constellation": "Gémeaux",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-04-05",
       "date_formatted": "Dimanche 05/04/2026",
@@ -985,6 +958,41 @@
           "end_time": "00:00",
           "constellation": "Bélier",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-04-19",
+      "date_formatted": "Dimanche 19/04/2026",
+      "saints": [
+        "St-Expédit",
+        "St-Ursmer"
+      ],
+      "phase_percentage": 5.5,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:10",
+      "sunset": "20:52",
+      "daylight_duration": "13:41:45 (+2min 56s)",
+      "moon_position_start": 48.24,
+      "moon_position_end": 63.18,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "09:14",
+          "constellation": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "09:14",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
