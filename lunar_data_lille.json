@@ -1,39 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-04-05T06:00:49.200594+02:00",
+  "generated_at": "2026-04-06T06:00:50.510390+02:00",
   "location": {
     "lat": "50:37:45.1",
     "lon": "3:03:26.3"
   },
   "traditional": [
-    {
-      "date_iso": "2026-04-05",
-      "date_formatted": "Dimanche 05/04/2026",
-      "saints": [
-        "Ste-Ethelburge",
-        "St-Gérard de Sauve-Majeure",
-        "St-Vincent Ferrier"
-      ],
-      "phase_percentage": 89.5,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:15",
-      "sunset": "20:26",
-      "daylight_duration": "13:11:51 (+3min 47s)",
-      "moon_position_start": 226.84,
-      "moon_position_end": 238.87,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Scorpion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-04-06",
       "date_formatted": "Lundi 06/04/2026",
@@ -496,37 +468,38 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-04-05",
-      "date_formatted": "Dimanche 05/04/2026",
+      "date_iso": "2026-04-20",
+      "date_formatted": "Lundi 20/04/2026",
       "saints": [
-        "Ste-Ethelburge",
-        "St-Gérard de Sauve-Majeure",
-        "St-Vincent Ferrier"
+        "Ste-Agnès de Monte Pulciano",
+        "Ste-Hildegonde",
+        "St-Théodore Trichinas",
+        "St-Théotime le Philosophe"
       ],
-      "phase_percentage": 89.5,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:15",
-      "sunset": "20:26",
-      "daylight_duration": "13:11:51 (+3min 47s)",
-      "moon_position_start": 226.84,
-      "moon_position_end": 238.87,
+      "phase_percentage": 12.3,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:43",
+      "sunset": "20:51",
+      "daylight_duration": "14:07:43 (+3min 38s)",
+      "moon_position_start": 63.18,
+      "moon_position_end": 78.03,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Balance",
+          "constellation": "Gémeaux",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-04-06",
       "date_formatted": "Lundi 06/04/2026",
@@ -990,6 +963,35 @@
         },
         {
           "start_time": "09:14",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-04-20",
+      "date_formatted": "Lundi 20/04/2026",
+      "saints": [
+        "Ste-Agnès de Monte Pulciano",
+        "Ste-Hildegonde",
+        "St-Théodore Trichinas",
+        "St-Théotime le Philosophe"
+      ],
+      "phase_percentage": 12.3,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:43",
+      "sunset": "20:51",
+      "daylight_duration": "14:07:43 (+3min 38s)",
+      "moon_position_start": 63.18,
+      "moon_position_end": 78.03,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Taureau",
           "recommendation": "Actions favorables aux légumes racines.",
