@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-04-07T06:00:47.547746+02:00",
+  "generated_at": "2026-04-08T06:00:48.072103+02:00",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
   },
   "traditional": [
-    {
-      "date_iso": "2026-04-07",
-      "date_formatted": "Mardi 07/04/2026",
-      "saints": [
-        "St-Hégésippe",
-        "St-Jean Baptiste de la  Salle"
-      ],
-      "phase_percentage": 75.4,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:09",
-      "sunset": "20:16",
-      "daylight_duration": "13:07:33 (+3min 10s)",
-      "moon_position_start": 250.8,
-      "moon_position_end": 262.67,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-04-08",
       "date_formatted": "Mercredi 08/04/2026",
@@ -496,36 +469,39 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-04-07",
-      "date_formatted": "Mardi 07/04/2026",
+      "date_iso": "2026-04-22",
+      "date_formatted": "Mercredi 22/04/2026",
       "saints": [
-        "St-Hégésippe",
-        "St-Jean Baptiste de la  Salle"
+        "St-Alexandre",
+        "St-Caïus",
+        "Ste-Léonide",
+        "St-Soter",
+        "Ste-Tarbula"
       ],
-      "phase_percentage": 75.4,
+      "phase_percentage": 31.4,
       "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:09",
-      "sunset": "20:16",
-      "daylight_duration": "13:07:33 (+3min 10s)",
-      "moon_position_start": 250.8,
-      "moon_position_end": 262.67,
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:42",
+      "sunset": "20:36",
+      "daylight_duration": "13:53:59 (+3min)",
+      "moon_position_start": 92.65,
+      "moon_position_end": 106.98,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Serpentaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
+          "constellation": "Cancer",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-04-08",
       "date_formatted": "Mercredi 08/04/2026",
@@ -986,6 +962,36 @@
           "constellation": "Gémeaux",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-04-22",
+      "date_formatted": "Mercredi 22/04/2026",
+      "saints": [
+        "St-Alexandre",
+        "St-Caïus",
+        "Ste-Léonide",
+        "St-Soter",
+        "Ste-Tarbula"
+      ],
+      "phase_percentage": 31.4,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:42",
+      "sunset": "20:36",
+      "daylight_duration": "13:53:59 (+3min)",
+      "moon_position_start": 92.65,
+      "moon_position_end": 106.98,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
