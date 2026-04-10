@@ -1,39 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-04-09T06:00:50.580519+02:00",
+  "generated_at": "2026-04-10T06:00:48.088412+02:00",
   "location": {
     "lat": "47:13:06.2",
     "lon": "-1:33:13.0"
   },
   "traditional": [
-    {
-      "date_iso": "2026-04-09",
-      "date_formatted": "Jeudi 09/04/2026",
-      "saints": [
-        "St-Gautier",
-        "St-Marcel",
-        "Ste-Marie de Cléophas"
-      ],
-      "phase_percentage": 57.7,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:29",
-      "sunset": "20:47",
-      "daylight_duration": "13:17:34 (+3min 19s)",
-      "moon_position_start": 274.55,
-      "moon_position_end": 286.52,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-04-10",
       "date_formatted": "Vendredi 10/04/2026",
@@ -500,37 +472,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-04-09",
-      "date_formatted": "Jeudi 09/04/2026",
+      "date_iso": "2026-04-24",
+      "date_formatted": "Vendredi 24/04/2026",
       "saints": [
-        "St-Gautier",
-        "St-Marcel",
-        "Ste-Marie de Cléophas"
+        "Ste-Beuve",
+        "St-Fidèle de Sigmaringen"
       ],
-      "phase_percentage": 57.7,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:29",
-      "sunset": "20:47",
-      "daylight_duration": "13:17:34 (+3min 19s)",
-      "moon_position_start": 274.55,
-      "moon_position_end": 286.52,
+      "phase_percentage": 53.6,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:01",
+      "sunset": "21:07",
+      "daylight_duration": "14:06:09 (+3min 7s)",
+      "moon_position_start": 120.97,
+      "moon_position_end": 134.62,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Sagittaire",
+          "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-04-10",
       "date_formatted": "Vendredi 10/04/2026",
@@ -990,6 +961,33 @@
         },
         {
           "start_time": "22:19",
+          "end_time": "00:00",
+          "constellation": "Cancer",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-04-24",
+      "date_formatted": "Vendredi 24/04/2026",
+      "saints": [
+        "Ste-Beuve",
+        "St-Fidèle de Sigmaringen"
+      ],
+      "phase_percentage": 53.6,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:01",
+      "sunset": "21:07",
+      "daylight_duration": "14:06:09 (+3min 7s)",
+      "moon_position_start": 120.97,
+      "moon_position_end": 134.62,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Cancer",
           "recommendation": "Actions favorables aux légumes feuilles.",
