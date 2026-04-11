@@ -1,39 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-04-10T06:00:48.088412+02:00",
+  "generated_at": "2026-04-11T06:00:49.243373+02:00",
   "location": {
     "lat": "47:13:06.2",
     "lon": "-1:33:13.0"
   },
   "traditional": [
-    {
-      "date_iso": "2026-04-10",
-      "date_formatted": "Vendredi 10/04/2026",
-      "saints": [
-        "St-Badème",
-        "St-Ezéchiel",
-        "St-Fulbert"
-      ],
-      "phase_percentage": 48.1,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:27",
-      "sunset": "20:48",
-      "daylight_duration": "13:20:54 (+3min 19s)",
-      "moon_position_start": 286.52,
-      "moon_position_end": 298.65,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-04-11",
       "date_formatted": "Samedi 11/04/2026",
@@ -499,37 +471,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-04-10",
-      "date_formatted": "Vendredi 10/04/2026",
+      "date_iso": "2026-04-25",
+      "date_formatted": "Samedi 25/04/2026",
       "saints": [
-        "St-Badème",
-        "St-Ezéchiel",
-        "St-Fulbert"
+        "St-Marc, apôre",
+        "St-Phébade"
       ],
-      "phase_percentage": 48.1,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:27",
-      "sunset": "20:48",
-      "daylight_duration": "13:20:54 (+3min 19s)",
-      "moon_position_start": 286.52,
-      "moon_position_end": 298.65,
+      "phase_percentage": 64.3,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:59",
+      "sunset": "21:09",
+      "daylight_duration": "14:09:16 (+3min 6s)",
+      "moon_position_start": 134.62,
+      "moon_position_end": 147.95,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Sagittaire",
+          "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-04-11",
       "date_formatted": "Samedi 11/04/2026",
@@ -991,6 +962,41 @@
           "end_time": "00:00",
           "constellation": "Cancer",
           "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-04-25",
+      "date_formatted": "Samedi 25/04/2026",
+      "saints": [
+        "St-Marc, apôre",
+        "St-Phébade"
+      ],
+      "phase_percentage": 64.3,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:59",
+      "sunset": "21:09",
+      "daylight_duration": "14:09:16 (+3min 6s)",
+      "moon_position_start": 134.62,
+      "moon_position_end": 147.95,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "06:02",
+          "constellation": "Cancer",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "06:02",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
