@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-04-12T06:00:36.691744+02:00",
+  "generated_at": "2026-04-13T06:00:36.056138+02:00",
   "location": {
     "lat": "43:42:36.7",
     "lon": "7:15:43.2"
   },
   "traditional": [
-    {
-      "date_iso": "2026-04-12",
-      "date_formatted": "Dimanche 12/04/2026",
-      "saints": [
-        "St-Jules 1er",
-        "St-Wigbert"
-      ],
-      "phase_percentage": 28.8,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:53",
-      "sunset": "20:11",
-      "daylight_duration": "13:17:49 (+2min 54s)",
-      "moon_position_start": 311.03,
-      "moon_position_end": 323.72,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-04-13",
       "date_formatted": "Lundi 13/04/2026",
@@ -517,36 +490,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-04-12",
-      "date_formatted": "Dimanche 12/04/2026",
+      "date_iso": "2026-04-27",
+      "date_formatted": "Lundi 27/04/2026",
       "saints": [
-        "St-Jules 1er",
-        "St-Wigbert"
+        "St-Anthime",
+        "Ste-Zita"
       ],
-      "phase_percentage": 28.8,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:53",
-      "sunset": "20:11",
-      "daylight_duration": "13:17:49 (+2min 54s)",
-      "moon_position_start": 311.03,
-      "moon_position_end": 323.72,
+      "phase_percentage": 82.6,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:28",
+      "sunset": "20:28",
+      "daylight_duration": "13:59:57 (+2min 41s)",
+      "moon_position_start": 160.99,
+      "moon_position_end": 173.81,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Capricorne",
+          "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-04-13",
       "date_formatted": "Lundi 13/04/2026",
@@ -1024,6 +997,33 @@
         },
         {
           "start_time": "20:34",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-04-27",
+      "date_formatted": "Lundi 27/04/2026",
+      "saints": [
+        "St-Anthime",
+        "Ste-Zita"
+      ],
+      "phase_percentage": 82.6,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:28",
+      "sunset": "20:28",
+      "daylight_duration": "13:59:57 (+2min 41s)",
+      "moon_position_start": 160.99,
+      "moon_position_end": 173.81,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
