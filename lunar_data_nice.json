@@ -1,56 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-04-13T06:00:36.056138+02:00",
+  "generated_at": "2026-04-14T06:00:35.580156+02:00",
   "location": {
     "lat": "43:42:36.7",
     "lon": "7:15:43.2"
   },
   "traditional": [
-    {
-      "date_iso": "2026-04-13",
-      "date_formatted": "Lundi 13/04/2026",
-      "saints": [
-        "St-Hermenegild",
-        "St-Martin 1er"
-      ],
-      "phase_percentage": 19.9,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:51",
-      "sunset": "20:12",
-      "daylight_duration": "13:20:43 (+2min 54s)",
-      "moon_position_start": 323.72,
-      "moon_position_end": 336.81,
-      "nodes_info": [
-        "NŒUD LUNAIRE (ascendant) le 14/04 à 01h41 - Pas de jardinage de 21h41 à 05h41"
-      ],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "11:36",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "11:36",
-          "end_time": "21:41",
-          "constellation": "Poissons",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "21:41",
-          "end_time": "00:00",
-          "constellation": "Poissons",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        }
-      ]
-    },
     {
       "date_iso": "2026-04-14",
       "date_formatted": "Mardi 14/04/2026",
@@ -517,54 +472,45 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-04-13",
-      "date_formatted": "Lundi 13/04/2026",
+      "date_iso": "2026-04-28",
+      "date_formatted": "Mardi 28/04/2026",
       "saints": [
-        "St-Hermenegild",
-        "St-Martin 1er"
+        "St-Pierre Chanel",
+        "Ste-Prudence",
+        "St-Vital de Milan"
       ],
-      "phase_percentage": 19.9,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:51",
-      "sunset": "20:12",
-      "daylight_duration": "13:20:43 (+2min 54s)",
-      "moon_position_start": 323.72,
-      "moon_position_end": 336.81,
-      "nodes_info": [
-        "NŒUD LUNAIRE (ascendant) le 14/04 à 01h41 - Pas de jardinage de 21h41 à 05h41"
-      ],
+      "phase_percentage": 89.6,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:27",
+      "sunset": "20:30",
+      "daylight_duration": "14:02:38 (+2min 40s)",
+      "moon_position_start": 173.81,
+      "moon_position_end": 186.41,
+      "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "11:36",
-          "constellation": "Capricorne",
+          "end_time": "11:44",
+          "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "11:36",
-          "end_time": "21:41",
-          "constellation": "Verseau",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "21:41",
+          "start_time": "11:44",
           "end_time": "00:00",
-          "constellation": "Verseau",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
+          "constellation": "Balance",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-04-14",
       "date_formatted": "Mardi 14/04/2026",
@@ -1027,6 +973,42 @@
           "end_time": "00:00",
           "constellation": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-04-28",
+      "date_formatted": "Mardi 28/04/2026",
+      "saints": [
+        "St-Pierre Chanel",
+        "Ste-Prudence",
+        "St-Vital de Milan"
+      ],
+      "phase_percentage": 89.6,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:27",
+      "sunset": "20:30",
+      "daylight_duration": "14:02:38 (+2min 40s)",
+      "moon_position_start": 173.81,
+      "moon_position_end": 186.41,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:22",
+          "constellation": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "00:22",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
