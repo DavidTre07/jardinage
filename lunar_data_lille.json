@@ -1,49 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-04-14T06:00:32.707455+02:00",
+  "generated_at": "2026-04-15T06:00:33.021735+02:00",
   "location": {
     "lat": "50:37:45.1",
     "lon": "3:03:26.3"
   },
   "traditional": [
-    {
-      "date_iso": "2026-04-14",
-      "date_formatted": "Mardi 14/04/2026",
-      "saints": [
-        "Ste-Lidwine",
-        "St-Maxime",
-        "St-Valérien"
-      ],
-      "phase_percentage": 12.1,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:55",
-      "sunset": "20:41",
-      "daylight_duration": "13:45:40 (+3min 43s)",
-      "moon_position_start": 336.81,
-      "moon_position_end": 350.33,
-      "nodes_info": [
-        "NŒUD LUNAIRE (ascendant) le 14/04 à 01h41 - Pas de jardinage de 21h41 à 05h41"
-      ],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "05:41",
-          "constellation": "Poissons",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "05:41",
-          "end_time": "00:00",
-          "constellation": "Poissons",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-04-15",
       "date_formatted": "Mercredi 15/04/2026",
@@ -508,47 +470,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-04-14",
-      "date_formatted": "Mardi 14/04/2026",
+      "date_iso": "2026-04-29",
+      "date_formatted": "Mercredi 29/04/2026",
       "saints": [
-        "Ste-Lidwine",
-        "St-Maxime",
-        "St-Valérien"
+        "Ste-Catherine de Sienne",
+        "St-Pierre de Vérone"
       ],
-      "phase_percentage": 12.1,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:55",
-      "sunset": "20:41",
-      "daylight_duration": "13:45:40 (+3min 43s)",
-      "moon_position_start": 336.81,
-      "moon_position_end": 350.33,
-      "nodes_info": [
-        "NŒUD LUNAIRE (ascendant) le 14/04 à 01h41 - Pas de jardinage de 21h41 à 05h41"
-      ],
+      "phase_percentage": 94.9,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:25",
+      "sunset": "21:05",
+      "daylight_duration": "14:39:38 (+3min 27s)",
+      "moon_position_start": 186.41,
+      "moon_position_end": 198.85,
+      "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "05:41",
-          "constellation": "Verseau",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "05:41",
           "end_time": "00:00",
-          "constellation": "Verseau",
+          "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-04-15",
       "date_formatted": "Mercredi 15/04/2026",
@@ -1006,6 +957,33 @@
         },
         {
           "start_time": "00:22",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-04-29",
+      "date_formatted": "Mercredi 29/04/2026",
+      "saints": [
+        "Ste-Catherine de Sienne",
+        "St-Pierre de Vérone"
+      ],
+      "phase_percentage": 94.9,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:25",
+      "sunset": "21:05",
+      "daylight_duration": "14:39:38 (+3min 27s)",
+      "moon_position_start": 186.41,
+      "moon_position_end": 198.85,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Vierge",
           "recommendation": "Actions favorables aux légumes racines.",
