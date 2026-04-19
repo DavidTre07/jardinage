@@ -1,38 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-04-18T06:00:32.135059+02:00",
+  "generated_at": "2026-04-19T06:00:30.334290+02:00",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
   },
   "traditional": [
-    {
-      "date_iso": "2026-04-18",
-      "date_formatted": "Samedi 18/04/2026",
-      "saints": [
-        "St-Eleuthère",
-        "St-Parfait"
-      ],
-      "phase_percentage": 1.4,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:49",
-      "sunset": "20:31",
-      "daylight_duration": "13:41:53 (+3min 3s)",
-      "moon_position_start": 33.35,
-      "moon_position_end": 48.24,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-04-19",
       "date_formatted": "Dimanche 19/04/2026",
@@ -491,36 +464,45 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-04-18",
-      "date_formatted": "Samedi 18/04/2026",
+      "date_iso": "2026-05-03",
+      "date_formatted": "Dimanche 03/05/2026",
       "saints": [
-        "St-Eleuthère",
-        "St-Parfait"
+        "St-Charles Lwanga",
+        "Ste-Clotilde",
+        "St-Kévin"
       ],
-      "phase_percentage": 1.4,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:49",
-      "sunset": "20:31",
-      "daylight_duration": "13:41:53 (+3min 3s)",
-      "moon_position_start": 33.35,
-      "moon_position_end": 48.24,
+      "phase_percentage": 97.2,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:25",
+      "sunset": "20:50",
+      "daylight_duration": "14:25:42 (+2min 46s)",
+      "moon_position_start": 235.36,
+      "moon_position_end": 247.32,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
+          "end_time": "09:17",
+          "constellation": "Scorpion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "09:17",
           "end_time": "00:00",
-          "constellation": "Bélier",
+          "constellation": "Sagittaire",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-04-19",
       "date_formatted": "Dimanche 19/04/2026",
@@ -975,6 +957,42 @@
           "end_time": "00:00",
           "constellation": "Balance",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-05-03",
+      "date_formatted": "Dimanche 03/05/2026",
+      "saints": [
+        "St-Charles Lwanga",
+        "Ste-Clotilde",
+        "St-Kévin"
+      ],
+      "phase_percentage": 97.2,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:25",
+      "sunset": "20:50",
+      "daylight_duration": "14:25:42 (+2min 46s)",
+      "moon_position_start": 235.36,
+      "moon_position_end": 247.32,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "11:18",
+          "constellation": "Balance",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "11:18",
+          "end_time": "00:00",
+          "constellation": "Scorpion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
