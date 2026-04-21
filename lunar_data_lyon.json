@@ -1,40 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-04-20T06:00:30.781015+02:00",
+  "generated_at": "2026-04-21T06:02:10.397290+02:00",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
   },
   "traditional": [
-    {
-      "date_iso": "2026-04-20",
-      "date_formatted": "Lundi 20/04/2026",
-      "saints": [
-        "Ste-Agnès de Monte Pulciano",
-        "Ste-Hildegonde",
-        "St-Théodore Trichinas",
-        "St-Théotime le Philosophe"
-      ],
-      "phase_percentage": 12.3,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:45",
-      "sunset": "20:33",
-      "daylight_duration": "13:47:58 (+3min 2s)",
-      "moon_position_start": 63.18,
-      "moon_position_end": 78.03,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Gémeaux",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-04-21",
       "date_formatted": "Mardi 21/04/2026",
@@ -495,38 +466,48 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-04-20",
-      "date_formatted": "Lundi 20/04/2026",
+      "date_iso": "2026-05-05",
+      "date_formatted": "Mardi 05/05/2026",
       "saints": [
-        "Ste-Agnès de Monte Pulciano",
-        "Ste-Hildegonde",
-        "St-Théodore Trichinas",
-        "St-Théotime le Philosophe"
+        "St-Boniface",
+        "St-Dorothée de Tyr",
+        "St-Dorothée l'Archimandrite",
+        "St-Dorothée le Jeune",
+        "Ste-Marcia",
+        "Ste-Valérie"
       ],
-      "phase_percentage": 12.3,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:45",
-      "sunset": "20:33",
-      "daylight_duration": "13:47:58 (+3min 2s)",
-      "moon_position_start": 63.18,
-      "moon_position_end": 78.03,
+      "phase_percentage": 87.9,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:22",
+      "sunset": "20:53",
+      "daylight_duration": "14:31:09 (+2min 42s)",
+      "moon_position_start": 259.2,
+      "moon_position_end": 271.06,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
+          "end_time": "21:50",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "21:50",
           "end_time": "00:00",
-          "constellation": "Taureau",
+          "constellation": "Capricorne",
           "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-04-21",
       "date_formatted": "Mardi 21/04/2026",
@@ -992,6 +973,45 @@
           "constellation": "Serpentaire",
           "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
           "seve_info": "",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-05-05",
+      "date_formatted": "Mardi 05/05/2026",
+      "saints": [
+        "St-Boniface",
+        "St-Dorothée de Tyr",
+        "St-Dorothée l'Archimandrite",
+        "St-Dorothée le Jeune",
+        "Ste-Marcia",
+        "Ste-Valérie"
+      ],
+      "phase_percentage": 87.9,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:22",
+      "sunset": "20:53",
+      "daylight_duration": "14:31:09 (+2min 42s)",
+      "moon_position_start": 259.2,
+      "moon_position_end": 271.06,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "13:45",
+          "constellation": "Serpentaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
+          "blocked": false
+        },
+        {
+          "start_time": "13:45",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
