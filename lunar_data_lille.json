@@ -1,46 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-04-21T06:02:12.041902+02:00",
+  "generated_at": "2026-04-22T06:01:39.967984+02:00",
   "location": {
     "lat": "50:37:45.1",
     "lon": "3:03:26.3"
   },
   "traditional": [
-    {
-      "date_iso": "2026-04-21",
-      "date_formatted": "Mardi 21/04/2026",
-      "saints": [
-        "St-Anselme de Cantorbéry",
-        "St-Conrad de  Parhzam"
-      ],
-      "phase_percentage": 21.1,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:41",
-      "sunset": "20:52",
-      "daylight_duration": "14:11:21 (+3min 37s)",
-      "moon_position_start": 78.03,
-      "moon_position_end": 92.65,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "19:36",
-          "constellation": "Gémeaux",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "19:36",
-          "end_time": "00:00",
-          "constellation": "Cancer",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-04-22",
       "date_formatted": "Mercredi 22/04/2026",
@@ -505,44 +470,38 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-04-21",
-      "date_formatted": "Mardi 21/04/2026",
+      "date_iso": "2026-05-06",
+      "date_formatted": "Mercredi 06/05/2026",
       "saints": [
-        "St-Anselme de Cantorbéry",
-        "St-Conrad de  Parhzam"
+        "St-Bertrand",
+        "St-Marcellin Champagnat",
+        "St-Norbert de  Xanten",
+        "Ste-Pauline"
       ],
-      "phase_percentage": 21.1,
+      "phase_percentage": 81.1,
       "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:41",
-      "sunset": "20:52",
-      "daylight_duration": "14:11:21 (+3min 37s)",
-      "moon_position_start": 78.03,
-      "moon_position_end": 92.65,
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:13",
+      "sunset": "21:16",
+      "daylight_duration": "15:03:05 (+3min 15s)",
+      "moon_position_start": 271.06,
+      "moon_position_end": 282.94,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "19:36",
-          "constellation": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "19:36",
           "end_time": "00:00",
-          "constellation": "Gémeaux",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "constellation": "Capricorne",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-04-22",
       "date_formatted": "Mercredi 22/04/2026",
@@ -1012,6 +971,35 @@
           "constellation": "Sagittaire",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-05-06",
+      "date_formatted": "Mercredi 06/05/2026",
+      "saints": [
+        "St-Bertrand",
+        "St-Marcellin Champagnat",
+        "St-Norbert de  Xanten",
+        "Ste-Pauline"
+      ],
+      "phase_percentage": 81.1,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:13",
+      "sunset": "21:16",
+      "daylight_duration": "15:03:05 (+3min 15s)",
+      "moon_position_start": 271.06,
+      "moon_position_end": 282.94,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
