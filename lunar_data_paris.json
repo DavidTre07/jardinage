@@ -1,41 +1,11 @@
 {
   "success": true,
-  "generated_at": "2026-04-22T06:01:37.425892+02:00",
+  "generated_at": "2026-04-23T06:01:44.093391+02:00",
   "location": {
     "lat": "48:51:23.8",
     "lon": "2:21:07.9"
   },
   "traditional": [
-    {
-      "date_iso": "2026-04-22",
-      "date_formatted": "Mercredi 22/04/2026",
-      "saints": [
-        "St-Alexandre",
-        "St-Caïus",
-        "Ste-Léonide",
-        "St-Soter",
-        "Ste-Tarbula"
-      ],
-      "phase_percentage": 31.4,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:46",
-      "sunset": "20:52",
-      "daylight_duration": "14:06:49 (+3min 22s)",
-      "moon_position_start": 92.65,
-      "moon_position_end": 106.98,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Cancer",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-04-23",
       "date_formatted": "Jeudi 23/04/2026",
@@ -499,39 +469,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-04-22",
-      "date_formatted": "Mercredi 22/04/2026",
+      "date_iso": "2026-05-07",
+      "date_formatted": "Jeudi 07/05/2026",
       "saints": [
-        "St-Alexandre",
-        "St-Caïus",
-        "Ste-Léonide",
-        "St-Soter",
-        "Ste-Tarbula"
+        "St-Mériadec",
+        "Ste-Potamienne la Jeune"
       ],
-      "phase_percentage": 31.4,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:46",
-      "sunset": "20:52",
-      "daylight_duration": "14:06:49 (+3min 22s)",
-      "moon_position_start": 92.65,
-      "moon_position_end": 106.98,
+      "phase_percentage": 73.2,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:20",
+      "sunset": "21:14",
+      "daylight_duration": "14:54:41 (+2min 59s)",
+      "moon_position_start": 282.94,
+      "moon_position_end": 294.89,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Gémeaux",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "constellation": "Capricorne",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-04-23",
       "date_formatted": "Jeudi 23/04/2026",
@@ -992,6 +959,33 @@
       "daylight_duration": "14:51:41 (+3min 1s)",
       "moon_position_start": 271.06,
       "moon_position_end": 282.94,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-05-07",
+      "date_formatted": "Jeudi 07/05/2026",
+      "saints": [
+        "St-Mériadec",
+        "Ste-Potamienne la Jeune"
+      ],
+      "phase_percentage": 73.2,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:20",
+      "sunset": "21:14",
+      "daylight_duration": "14:54:41 (+2min 59s)",
+      "moon_position_start": 282.94,
+      "moon_position_end": 294.89,
       "nodes_info": [],
       "periods": [
         {
