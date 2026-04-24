@@ -327,6 +327,17 @@ async function loadLunarInfo() {
             const selectedData = traditional ? data.traditional : data.constellation;
             const limitedData = selectedData.slice(0, days);
             
+            // Affichage des Saints de glace
+            const banner = document.getElementById('saints-banner');
+            if (banner) {
+                if (data.show_saints_glace) {
+                    banner.innerHTML = `❄️ ${data.saints_glace_status} ❄️`;
+                    banner.style.display = 'block';
+                } else {
+                    banner.style.display = 'none';
+                }
+            }
+
             results.innerHTML = limitedData.map(renderDay).join('');
         } else {
             results.innerHTML = `<div class="error">Erreur dans les données: ${data.error || 'Données invalides'}</div>`;
