@@ -189,8 +189,7 @@ function renderDay(dayData) {
     // Ajout des saints à côté de la date si affichage détaillé
     let saintsHtml = '';
     if (detailed && dayData.saints && dayData.saints.length > 0) {
-        saintsHtml = `<span class="saints-title">— Saints:</span>
-        <span class="saints-content">${dayData.saints.join(', ')}</span>`;
+        saintsHtml = `<span class="saints-content">— ${dayData.saints.join(', ')}</span>`;
     }
 
     // Informations de base
