@@ -1,40 +1,13 @@
 {
   "success": true,
-  "generated_at": "2026-04-25T17:12:00.196289+02:00",
+  "generated_at": "2026-04-26T06:01:31.353520+02:00",
   "location": {
     "lat": "43:36:16.9",
     "lon": "1:26:39.1"
   },
   "show_saints_glace": true,
-  "saints_glace_status": "Les prochains Saints de glace (11, 12, 13 mai) arrivent dans 16 jours.",
+  "saints_glace_status": "Les prochains Saints de glace (11, 12, 13 mai) arrivent dans 15 jours.",
   "traditional": [
-    {
-      "date_iso": "2026-04-25",
-      "date_formatted": "Samedi 25/04/2026",
-      "saints": [
-        "St-Marc, apôre",
-        "St-Phébade"
-      ],
-      "phase_percentage": 64.3,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:55",
-      "sunset": "20:49",
-      "daylight_duration": "13:54:11 (+2min 43s)",
-      "moon_position_start": 134.62,
-      "moon_position_end": 147.95,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-04-26",
       "date_formatted": "Dimanche 26/04/2026",
@@ -500,44 +473,45 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-04-25",
-      "date_formatted": "Samedi 25/04/2026",
+      "date_iso": "2026-05-10",
+      "date_formatted": "Dimanche 10/05/2026",
       "saints": [
-        "St-Marc, apôre",
-        "St-Phébade"
+        "St-Bogomile",
+        "St-Gétule",
+        "St-Landry"
       ],
-      "phase_percentage": 64.3,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:55",
-      "sunset": "20:49",
-      "daylight_duration": "13:54:11 (+2min 43s)",
-      "moon_position_start": 134.62,
-      "moon_position_end": 147.95,
+      "phase_percentage": 44.8,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:34",
+      "sunset": "21:07",
+      "daylight_duration": "14:32:17 (+2min 20s)",
+      "moon_position_start": 319.31,
+      "moon_position_end": 331.94,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "06:02",
-          "constellation": "Cancer",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "end_time": "20:21",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         },
         {
-          "start_time": "06:02",
+          "start_time": "20:21",
           "end_time": "00:00",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-04-26",
       "date_formatted": "Dimanche 26/04/2026",
@@ -999,6 +973,42 @@
           "end_time": "00:00",
           "constellation": "Capricorne",
           "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-05-10",
+      "date_formatted": "Dimanche 10/05/2026",
+      "saints": [
+        "St-Bogomile",
+        "St-Gétule",
+        "St-Landry"
+      ],
+      "phase_percentage": 44.8,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:34",
+      "sunset": "21:07",
+      "daylight_duration": "14:32:17 (+2min 20s)",
+      "moon_position_start": 319.31,
+      "moon_position_end": 331.94,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "20:21",
+          "constellation": "Capricorne",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "20:21",
+          "end_time": "00:00",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
