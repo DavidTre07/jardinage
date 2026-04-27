@@ -1,67 +1,13 @@
 {
   "success": true,
-  "generated_at": "2026-04-26T06:01:34.106287+02:00",
+  "generated_at": "2026-04-27T06:01:24.998497+02:00",
   "location": {
     "lat": "44:50:16.1",
     "lon": "-0:34:45.1"
   },
   "show_saints_glace": true,
-  "saints_glace_status": "Les prochains Saints de glace (11, 12, 13 mai) arrivent dans 15 jours.",
+  "saints_glace_status": "Les prochains Saints de glace (11, 12, 13 mai) arrivent dans 14 jours.",
   "traditional": [
-    {
-      "date_iso": "2026-04-26",
-      "date_formatted": "Dimanche 26/04/2026",
-      "saints": [
-        "St-Clet (ou Anaclet)",
-        "Ste-Exupérance",
-        "St-Marcellin"
-      ],
-      "phase_percentage": 74.1,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:59",
-      "sunset": "21:01",
-      "daylight_duration": "14:01:56 (+2min 49s)",
-      "moon_position_start": 147.95,
-      "moon_position_end": 160.99,
-      "nodes_info": [
-        "NŒUD LUNAIRE (descendant) le 26/04 à 16h34 - Pas de jardinage de 12h34 à 20h34"
-      ],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "03:44",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "03:44",
-          "end_time": "12:34",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "12:34",
-          "end_time": "20:34",
-          "constellation": "Vierge",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "20:34",
-          "end_time": "00:00",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-04-27",
       "date_formatted": "Lundi 27/04/2026",
@@ -509,55 +455,54 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-04-26",
-      "date_formatted": "Dimanche 26/04/2026",
+      "date_iso": "2026-05-11",
+      "date_formatted": "Lundi 11/05/2026",
       "saints": [
-        "St-Clet (ou Anaclet)",
-        "Ste-Exupérance",
-        "St-Marcellin"
+        "St-Barnabé, apôtre",
+        "St-Hérébald"
       ],
-      "phase_percentage": 74.1,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:59",
-      "sunset": "21:01",
-      "daylight_duration": "14:01:56 (+2min 49s)",
-      "moon_position_start": 147.95,
-      "moon_position_end": 160.99,
+      "phase_percentage": 34.6,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:38",
+      "sunset": "21:19",
+      "daylight_duration": "14:41:27 (+2min 25s)",
+      "moon_position_start": 331.94,
+      "moon_position_end": 344.97,
       "nodes_info": [
-        "NŒUD LUNAIRE (descendant) le 26/04 à 16h34 - Pas de jardinage de 12h34 à 20h34"
+        "NŒUD LUNAIRE (ascendant) le 11/05 à 06h34 - Pas de jardinage de 02h34 à 10h34"
       ],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "12:34",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "end_time": "02:34",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         },
         {
-          "start_time": "12:34",
-          "end_time": "20:34",
-          "constellation": "Lion",
+          "start_time": "02:34",
+          "end_time": "10:34",
+          "constellation": "Poissons",
           "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
           "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
           "blocked": true
         },
         {
-          "start_time": "20:34",
+          "start_time": "10:34",
           "end_time": "00:00",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-04-27",
       "date_formatted": "Lundi 27/04/2026",
@@ -1006,6 +951,51 @@
         },
         {
           "start_time": "20:21",
+          "end_time": "00:00",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-05-11",
+      "date_formatted": "Lundi 11/05/2026",
+      "saints": [
+        "St-Barnabé, apôtre",
+        "St-Hérébald"
+      ],
+      "phase_percentage": 34.6,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:38",
+      "sunset": "21:19",
+      "daylight_duration": "14:41:27 (+2min 25s)",
+      "moon_position_start": 331.94,
+      "moon_position_end": 344.97,
+      "nodes_info": [
+        "NŒUD LUNAIRE (ascendant) le 11/05 à 06h34 - Pas de jardinage de 02h34 à 10h34"
+      ],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "02:34",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "02:34",
+          "end_time": "10:34",
+          "constellation": "Verseau",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "10:34",
           "end_time": "00:00",
           "constellation": "Verseau",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
