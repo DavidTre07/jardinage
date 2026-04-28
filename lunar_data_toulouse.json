@@ -1,40 +1,13 @@
 {
   "success": true,
-  "generated_at": "2026-04-27T06:01:22.337203+02:00",
+  "generated_at": "2026-04-28T06:01:48.414607+02:00",
   "location": {
     "lat": "43:36:16.9",
     "lon": "1:26:39.1"
   },
   "show_saints_glace": true,
-  "saints_glace_status": "Les prochains Saints de glace (11, 12, 13 mai) arrivent dans 14 jours.",
+  "saints_glace_status": "Les prochains Saints de glace (11, 12, 13 mai) arrivent dans 13 jours.",
   "traditional": [
-    {
-      "date_iso": "2026-04-27",
-      "date_formatted": "Lundi 27/04/2026",
-      "saints": [
-        "St-Anthime",
-        "Ste-Zita"
-      ],
-      "phase_percentage": 82.6,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:52",
-      "sunset": "20:52",
-      "daylight_duration": "13:59:34 (+2min 41s)",
-      "moon_position_start": 160.99,
-      "moon_position_end": 173.81,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-04-28",
       "date_formatted": "Mardi 28/04/2026",
@@ -500,36 +473,37 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-04-27",
-      "date_formatted": "Lundi 27/04/2026",
+      "date_iso": "2026-05-12",
+      "date_formatted": "Mardi 12/05/2026",
       "saints": [
-        "St-Anthime",
-        "Ste-Zita"
+        "St-Gaspard Bertoni",
+        "St-Gerbaud",
+        "St-Guy"
       ],
-      "phase_percentage": 82.6,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:52",
-      "sunset": "20:52",
-      "daylight_duration": "13:59:34 (+2min 41s)",
-      "moon_position_start": 160.99,
-      "moon_position_end": 173.81,
+      "phase_percentage": 24.9,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:32",
+      "sunset": "21:09",
+      "daylight_duration": "14:36:53 (+2min 16s)",
+      "moon_position_start": 344.97,
+      "moon_position_end": 358.45,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "constellation": "Poissons",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-04-28",
       "date_formatted": "Mardi 28/04/2026",
@@ -996,6 +970,34 @@
         },
         {
           "start_time": "10:34",
+          "end_time": "00:00",
+          "constellation": "Verseau",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-05-12",
+      "date_formatted": "Mardi 12/05/2026",
+      "saints": [
+        "St-Gaspard Bertoni",
+        "St-Gerbaud",
+        "St-Guy"
+      ],
+      "phase_percentage": 24.9,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:32",
+      "sunset": "21:09",
+      "daylight_duration": "14:36:53 (+2min 16s)",
+      "moon_position_start": 344.97,
+      "moon_position_end": 358.45,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Verseau",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
