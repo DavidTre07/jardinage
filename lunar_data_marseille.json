@@ -1,43 +1,13 @@
 {
   "success": true,
-  "generated_at": "2026-05-01T06:01:59.220438+02:00",
+  "generated_at": "2026-05-02T06:01:17.610467+02:00",
   "location": {
     "lat": "43:17:47.4",
     "lon": "5:22:11.3"
   },
   "show_saints_glace": true,
-  "saints_glace_status": "Les prochains Saints de glace (11, 12, 13 mai) arrivent dans 10 jours.",
+  "saints_glace_status": "Les prochains Saints de glace (11, 12, 13 mai) arrivent dans 9 jours.",
   "traditional": [
-    {
-      "date_iso": "2026-05-01",
-      "date_formatted": "Vendredi 01/05/2026",
-      "saints": [
-        "St-Caprais",
-        "St-Clair",
-        "St-Justin le Philosophe",
-        "St-Marcellin",
-        "St-Pierre"
-      ],
-      "phase_percentage": 99.8,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:31",
-      "sunset": "20:40",
-      "daylight_duration": "14:08:41 (+2min 34s)",
-      "moon_position_start": 211.14,
-      "moon_position_end": 223.31,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Scorpion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-05-02",
       "date_formatted": "Samedi 02/05/2026",
@@ -505,47 +475,37 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-05-01",
-      "date_formatted": "Vendredi 01/05/2026",
+      "date_iso": "2026-05-16",
+      "date_formatted": "Samedi 16/05/2026",
       "saints": [
-        "St-Caprais",
-        "St-Clair",
-        "St-Justin le Philosophe",
-        "St-Marcellin",
-        "St-Pierre"
+        "St-Cyr",
+        "Ste-Lutgarde",
+        "St-Simplice de Bourges"
       ],
-      "phase_percentage": 99.8,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:31",
-      "sunset": "20:40",
-      "daylight_duration": "14:08:41 (+2min 34s)",
-      "moon_position_start": 211.14,
-      "moon_position_end": 223.31,
+      "phase_percentage": 0.4,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:13",
+      "sunset": "20:57",
+      "daylight_duration": "14:43:49 (+2min 6s)",
+      "moon_position_start": 41.72,
+      "moon_position_end": 56.85,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "13:29",
-          "constellation": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "13:29",
           "end_time": "00:00",
-          "constellation": "Balance",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-05-02",
       "date_formatted": "Samedi 02/05/2026",
@@ -1017,6 +977,42 @@
           "end_time": "00:00",
           "constellation": "Bélier",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-05-16",
+      "date_formatted": "Samedi 16/05/2026",
+      "saints": [
+        "St-Cyr",
+        "Ste-Lutgarde",
+        "St-Simplice de Bourges"
+      ],
+      "phase_percentage": 0.4,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:13",
+      "sunset": "20:57",
+      "daylight_duration": "14:43:49 (+2min 6s)",
+      "moon_position_start": 41.72,
+      "moon_position_end": 56.85,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "19:30",
+          "constellation": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "19:30",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
