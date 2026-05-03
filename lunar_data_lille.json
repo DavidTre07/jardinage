@@ -1,44 +1,13 @@
 {
   "success": true,
-  "generated_at": "2026-05-02T06:01:18.740397+02:00",
+  "generated_at": "2026-05-03T06:01:45.090074+02:00",
   "location": {
     "lat": "50:37:45.1",
     "lon": "3:03:26.3"
   },
   "show_saints_glace": true,
-  "saints_glace_status": "Les prochains Saints de glace (11, 12, 13 mai) arrivent dans 9 jours.",
+  "saints_glace_status": "Les prochains Saints de glace (11, 12, 13 mai) arrivent dans 8 jours.",
   "traditional": [
-    {
-      "date_iso": "2026-05-02",
-      "date_formatted": "Samedi 02/05/2026",
-      "saints": [
-        "Ste-Blandine",
-        "St-Erasme",
-        "St-Eugène 1er",
-        "St-Marcellin",
-        "St-Pothin",
-        "St-Sadoc"
-      ],
-      "phase_percentage": 99.4,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:20",
-      "sunset": "21:10",
-      "daylight_duration": "14:49:51 (+3min 22s)",
-      "moon_position_start": 223.31,
-      "moon_position_end": 235.36,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Scorpion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-05-03",
       "date_formatted": "Dimanche 03/05/2026",
@@ -503,40 +472,44 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-05-02",
-      "date_formatted": "Samedi 02/05/2026",
+      "date_iso": "2026-05-17",
+      "date_formatted": "Dimanche 17/05/2026",
       "saints": [
-        "Ste-Blandine",
-        "St-Erasme",
-        "St-Eugène 1er",
-        "St-Marcellin",
-        "St-Pothin",
-        "St-Sadoc"
+        "St-Hervé",
+        "St-Raynier"
       ],
-      "phase_percentage": 99.4,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:20",
-      "sunset": "21:10",
-      "daylight_duration": "14:49:51 (+3min 22s)",
-      "moon_position_start": 223.31,
-      "moon_position_end": 235.36,
+      "phase_percentage": 0.7,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "05:56",
+      "sunset": "21:32",
+      "daylight_duration": "15:36:22 (+2min 48s)",
+      "moon_position_start": 56.85,
+      "moon_position_end": 72.09,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
+          "end_time": "04:57",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "04:57",
           "end_time": "00:00",
-          "constellation": "Balance",
+          "constellation": "Gémeaux",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-05-03",
       "date_formatted": "Dimanche 03/05/2026",
@@ -1010,6 +983,33 @@
         },
         {
           "start_time": "19:30",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-05-17",
+      "date_formatted": "Dimanche 17/05/2026",
+      "saints": [
+        "St-Hervé",
+        "St-Raynier"
+      ],
+      "phase_percentage": 0.7,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "05:56",
+      "sunset": "21:32",
+      "daylight_duration": "15:36:22 (+2min 48s)",
+      "moon_position_start": 56.85,
+      "moon_position_end": 72.09,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Taureau",
           "recommendation": "Actions favorables aux légumes racines.",
