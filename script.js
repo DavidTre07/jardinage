@@ -162,7 +162,10 @@ function renderDay(dayData) {
             <div class="${periodClass}">
                 <div class="period-content">
                     <div class="period-time">${timePrefix} ${timeRange}</div>
-                    ${detailed ? `<div class="period-constellation"><span class="constellation-icon">${constellationIcon}</span>Constellation: ${period.constellation}</div>` : ''}
+                    ${detailed ? `
+                        <div class="period-constellation"><span class="constellation-icon">${constellationIcon}</span>Constellation: ${period.constellation}</div>
+                        <div class="period-signe"><span class="constellation-icon">${constellationIcons[period.signe] || '⭐'}</span>Signe: ${period.signe}</div>
+                    ` : ''}
                     <div class="period-recommendation">
                         <span class="recommendation-icon">${recommendationIcon}</span>
                         ${period.recommendation}
@@ -304,7 +307,6 @@ async function loadLunarInfo() {
 
     try {
         const days = 15; // Toujours afficher 7 jours
-        const traditional = document.getElementById('traditional').checked;
         
         // Charger les données JSON pré-générées
         const response = await fetch(`lunar_data_${currentCity}.json`);
@@ -322,8 +324,8 @@ async function loadLunarInfo() {
             const dateStr = data.generated_at;
             document.getElementById('lastUpdate').textContent = dateStr.slice(8, 10) + '/' + dateStr.slice(5, 7) + '/' + dateStr.slice(0, 4) + ' à ' + dateStr.slice(11, 16);
             
-            // Sélectionner les données selon le type de zodiaque
-            const selectedData = traditional ? data.traditional : data.constellation;
+            // Sélectionner les données de la constellation
+            const selectedData = data.constellation;
             const limitedData = selectedData.slice(0, days);
             
             // Affichage des Saints de glace
@@ -378,5 +380,4 @@ window.addEventListener('popstate', function() {
 });
 
 // Mise à jour automatique quand on change les paramètres
-document.getElementById('traditional').addEventListener('change', loadLunarInfo);
 document.getElementById('detailed').addEventListener('change', loadLunarInfo);
