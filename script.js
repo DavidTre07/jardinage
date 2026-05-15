@@ -48,6 +48,22 @@ const constellationIcons = {
     'Serpentaire': '⛎'
 };
 
+// Mapping des signes vers leurs icônes (différentes des constellations)
+const signeIcons = {
+    'Bélier': '🐏',
+    'Taureau': '🐂',
+    'Gémeaux': '👯',
+    'Cancer': '🦀',
+    'Lion': '🦁',
+    'Vierge': '🌾',
+    'Balance': '⚖️',
+    'Scorpion': '🦂',
+    'Sagittaire': '🏹',
+    'Capricorne': '🐐',
+    'Verseau': '🏺',
+    'Poissons': '🐟'
+};
+
 // Fonction pour obtenir l'icône de recommandation
 function getRecommendationIcon(recommendation) {
     if (recommendation.includes('DÉCONSEILLÉ')) {
@@ -164,7 +180,7 @@ function renderDay(dayData) {
                     <div class="period-time">${timePrefix} ${timeRange}</div>
                     ${detailed ? `
                         <div class="period-constellation"><span class="constellation-icon">${constellationIcon}</span>Constellation: ${period.constellation}</div>
-                        <div class="period-signe"><span class="constellation-icon">${constellationIcons[period.signe] || '⭐'}</span>Signe: ${period.signe}</div>
+                        <div class="period-signe"><span class="constellation-icon">${signeIcons[period.signe] || '⭐'}</span>Signe: ${period.signe}</div>
                     ` : ''}
                     <div class="period-recommendation">
                         <span class="recommendation-icon">${recommendationIcon}</span>
