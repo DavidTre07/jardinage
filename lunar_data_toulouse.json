@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-05-18T06:01:26.043496+02:00",
+  "generated_at": "2026-05-19T06:01:23.776732+02:00",
   "location": {
     "lat": "43:36:16.9",
     "lon": "1:26:39.1"
@@ -9,34 +9,6 @@
   "saints_glace_status": "",
   "traditional": [
     {
-      "date_iso": "2026-05-18",
-      "date_formatted": "Lundi 18/05/2026",
-      "saints": [
-        "St-Amand de Bordeaux",
-        "St-Léonce de Tripoli"
-      ],
-      "phase_percentage": 4.0,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:26",
-      "sunset": "21:15",
-      "daylight_duration": "14:49:47 (+2min 3s)",
-      "moon_position_start": 72.09,
-      "moon_position_end": 87.27,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "signe": "Gémeaux",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-05-19",
       "date_formatted": "Mardi 19/05/2026",
       "saints": [
@@ -530,6 +502,35 @@
           "signe": "Sagittaire",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-06-02",
+      "date_formatted": "Mardi 02/06/2026",
+      "saints": [
+        "St-Athanase d'Alexandrie",
+        "St-Célestin",
+        "Ste-Zoé"
+      ],
+      "phase_percentage": 96.1,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:15",
+      "sunset": "21:29",
+      "daylight_duration": "15:14:46 (+1min 17s)",
+      "moon_position_start": 267.99,
+      "moon_position_end": 279.86,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "signe": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
@@ -537,34 +538,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-05-18",
-      "date_formatted": "Lundi 18/05/2026",
-      "saints": [
-        "St-Amand de Bordeaux",
-        "St-Léonce de Tripoli"
-      ],
-      "phase_percentage": 4.0,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:26",
-      "sunset": "21:15",
-      "daylight_duration": "14:49:47 (+2min 3s)",
-      "moon_position_start": 72.09,
-      "moon_position_end": 87.27,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "signe": "Gémeaux",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-05-19",
       "date_formatted": "Mardi 19/05/2026",
       "saints": [
@@ -1058,6 +1031,35 @@
           "signe": "Sagittaire",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-06-02",
+      "date_formatted": "Mardi 02/06/2026",
+      "saints": [
+        "St-Athanase d'Alexandrie",
+        "St-Célestin",
+        "Ste-Zoé"
+      ],
+      "phase_percentage": 96.1,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:15",
+      "sunset": "21:29",
+      "daylight_duration": "15:14:46 (+1min 17s)",
+      "moon_position_start": 267.99,
+      "moon_position_end": 279.86,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "signe": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
