@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-05-19T06:01:22.634084+02:00",
+  "generated_at": "2026-05-20T06:01:05.230535+02:00",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
@@ -8,44 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-05-19",
-      "date_formatted": "Mardi 19/05/2026",
-      "saints": [
-        "St-Gervais",
-        "St-Innocent",
-        "St-Romuald"
-      ],
-      "phase_percentage": 10.1,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:04",
-      "sunset": "21:10",
-      "daylight_duration": "15:05:32 (+2min 11s)",
-      "moon_position_start": 87.27,
-      "moon_position_end": 102.2,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "04:21",
-          "constellation": "Taureau",
-          "signe": "Gémeaux",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "04:21",
-          "end_time": "00:00",
-          "constellation": "Gémeaux",
-          "signe": "Cancer",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-05-20",
       "date_formatted": "Mercredi 20/05/2026",
@@ -534,47 +496,40 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-05-19",
-      "date_formatted": "Mardi 19/05/2026",
+      "date_iso": "2026-06-03",
+      "date_formatted": "Mercredi 03/06/2026",
       "saints": [
-        "St-Gervais",
-        "St-Innocent",
-        "St-Romuald"
+        "Ste-Adalsinde",
+        "St-Alexandre 1er, pape",
+        "St-Jacques le Mineur, apôtre",
+        "St-Juvénal de Narni",
+        "St-Philippe, apôtre"
       ],
-      "phase_percentage": 10.1,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:04",
-      "sunset": "21:10",
-      "daylight_duration": "15:05:32 (+2min 11s)",
-      "moon_position_start": 87.27,
-      "moon_position_end": 102.2,
+      "phase_percentage": 91.7,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "05:53",
+      "sunset": "21:25",
+      "daylight_duration": "15:32:00 (+1min 20s)",
+      "moon_position_start": 279.86,
+      "moon_position_end": 291.77,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "04:21",
-          "constellation": "Taureau",
-          "signe": "Gémeaux",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "04:21",
           "end_time": "00:00",
-          "constellation": "Gémeaux",
-          "signe": "Cancer",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "constellation": "Sagittaire",
+          "signe": "Capricorne",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-05-20",
       "date_formatted": "Mercredi 20/05/2026",
@@ -1058,6 +1013,37 @@
           "end_time": "00:00",
           "constellation": "Sagittaire",
           "signe": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-06-03",
+      "date_formatted": "Mercredi 03/06/2026",
+      "saints": [
+        "Ste-Adalsinde",
+        "St-Alexandre 1er, pape",
+        "St-Jacques le Mineur, apôtre",
+        "St-Juvénal de Narni",
+        "St-Philippe, apôtre"
+      ],
+      "phase_percentage": 91.7,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "05:53",
+      "sunset": "21:25",
+      "daylight_duration": "15:32:00 (+1min 20s)",
+      "moon_position_start": 279.86,
+      "moon_position_end": 291.77,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "signe": "Capricorne",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
