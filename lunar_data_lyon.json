@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-05-21T06:00:37.413273+02:00",
+  "generated_at": "2026-05-22T06:01:05.824773+02:00",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
@@ -8,45 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-05-21",
-      "date_formatted": "Jeudi 21/05/2026",
-      "saints": [
-        "St-Aloysius de Gonzague (ou Louis)",
-        "St-Démétrie",
-        "St-Eusèbe de Samosate",
-        "St-Radulphe"
-      ],
-      "phase_percentage": 28.1,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:02",
-      "sunset": "21:12",
-      "daylight_duration": "15:09:46 (+2min 5s)",
-      "moon_position_start": 116.77,
-      "moon_position_end": 130.92,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "05:24",
-          "constellation": "Gémeaux",
-          "signe": "Cancer",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "05:24",
-          "end_time": "00:00",
-          "constellation": "Cancer",
-          "signe": "Lion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-05-22",
       "date_formatted": "Vendredi 22/05/2026",
@@ -536,48 +497,38 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-05-21",
-      "date_formatted": "Jeudi 21/05/2026",
+      "date_iso": "2026-06-05",
+      "date_formatted": "Vendredi 05/06/2026",
       "saints": [
-        "St-Aloysius de Gonzague (ou Louis)",
-        "St-Démétrie",
-        "St-Eusèbe de Samosate",
-        "St-Radulphe"
+        "St-Ange de Jérusalem",
+        "Ste-Jutta",
+        "St-Pérégrin"
       ],
-      "phase_percentage": 28.1,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:02",
-      "sunset": "21:12",
-      "daylight_duration": "15:09:46 (+2min 5s)",
-      "moon_position_start": 116.77,
-      "moon_position_end": 130.92,
+      "phase_percentage": 78.5,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "05:52",
+      "sunset": "21:26",
+      "daylight_duration": "15:34:29 (+1min 12s)",
+      "moon_position_start": 303.76,
+      "moon_position_end": 315.89,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "05:24",
-          "constellation": "Gémeaux",
-          "signe": "Cancer",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "05:24",
           "end_time": "00:00",
-          "constellation": "Cancer",
-          "signe": "Lion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "constellation": "Capricorne",
+          "signe": "Verseau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-05-22",
       "date_formatted": "Vendredi 22/05/2026",
@@ -1059,6 +1010,35 @@
         },
         {
           "start_time": "16:30",
+          "end_time": "00:00",
+          "constellation": "Capricorne",
+          "signe": "Verseau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-06-05",
+      "date_formatted": "Vendredi 05/06/2026",
+      "saints": [
+        "St-Ange de Jérusalem",
+        "Ste-Jutta",
+        "St-Pérégrin"
+      ],
+      "phase_percentage": 78.5,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "05:52",
+      "sunset": "21:26",
+      "daylight_duration": "15:34:29 (+1min 12s)",
+      "moon_position_start": 303.76,
+      "moon_position_end": 315.89,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Capricorne",
           "signe": "Verseau",
