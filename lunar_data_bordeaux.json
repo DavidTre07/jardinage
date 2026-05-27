@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-05-26T06:00:16.360653+02:00",
+  "generated_at": "2026-05-27T06:00:20.474986+02:00",
   "location": {
     "lat": "44:50:16.1",
     "lon": "-0:34:45.1"
@@ -8,36 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-05-26",
-      "date_formatted": "Mardi 26/05/2026",
-      "saints": [
-        "St-Anthelme de Chignin",
-        "St-Baboléin",
-        "St-Maxence",
-        "Ste-Persévérande"
-      ],
-      "phase_percentage": 78.7,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:23",
-      "sunset": "21:36",
-      "daylight_duration": "15:12:56 (+1min 45s)",
-      "moon_position_start": 183.52,
-      "moon_position_end": 195.94,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Vierge",
-          "signe": "Balance",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-05-27",
       "date_formatted": "Mercredi 27/05/2026",
@@ -522,39 +492,38 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-05-26",
-      "date_formatted": "Mardi 26/05/2026",
+      "date_iso": "2026-06-10",
+      "date_formatted": "Mercredi 10/06/2026",
       "saints": [
-        "St-Anthelme de Chignin",
-        "St-Baboléin",
-        "St-Maxence",
-        "Ste-Persévérande"
+        "St-Antonin",
+        "St-Isidore le Laboureur",
+        "Ste-Solange"
       ],
-      "phase_percentage": 78.7,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:23",
-      "sunset": "21:36",
-      "daylight_duration": "15:12:56 (+1min 45s)",
-      "moon_position_start": 183.52,
-      "moon_position_end": 195.94,
+      "phase_percentage": 29.1,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:15",
+      "sunset": "21:47",
+      "daylight_duration": "15:32:10 (+49s)",
+      "moon_position_start": 7.18,
+      "moon_position_end": 21.04,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Vierge",
-          "signe": "Balance",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "constellation": "Poissons",
+          "signe": "Bélier",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-05-27",
       "date_formatted": "Mercredi 27/05/2026",
@@ -1031,6 +1000,35 @@
         },
         {
           "start_time": "11:13",
+          "end_time": "00:00",
+          "constellation": "Poissons",
+          "signe": "Bélier",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-06-10",
+      "date_formatted": "Mercredi 10/06/2026",
+      "saints": [
+        "St-Antonin",
+        "St-Isidore le Laboureur",
+        "Ste-Solange"
+      ],
+      "phase_percentage": 29.1,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:15",
+      "sunset": "21:47",
+      "daylight_duration": "15:32:10 (+49s)",
+      "moon_position_start": 7.18,
+      "moon_position_end": 21.04,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Poissons",
           "signe": "Bélier",
