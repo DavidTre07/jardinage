@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-05-29T06:00:17.443463+02:00",
+  "generated_at": "2026-05-30T06:00:16.470442+02:00",
   "location": {
     "lat": "50:37:45.1",
     "lon": "3:03:26.3"
@@ -9,34 +9,6 @@
   "saints_glace_status": "",
   "traditional": [
     {
-      "date_iso": "2026-05-29",
-      "date_formatted": "Vendredi 29/05/2026",
-      "saints": [
-        "St-Pierre, apôtre",
-        "St-Paul, apôtre"
-      ],
-      "phase_percentage": 96.4,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "05:42",
-      "sunset": "21:48",
-      "daylight_duration": "16:05:26 (+2min 3s)",
-      "moon_position_start": 220.28,
-      "moon_position_end": 232.29,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Balance",
-          "signe": "Scorpion",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-05-30",
       "date_formatted": "Samedi 30/05/2026",
       "saints": [
@@ -522,6 +494,45 @@
           "constellation": "Bélier",
           "signe": "Taureau",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-06-13",
+      "date_formatted": "Samedi 13/06/2026",
+      "saints": [
+        "ATTENTION: Saint de glace",
+        "Ste-Glycérie",
+        "St-Mael",
+        "St-Servais"
+      ],
+      "phase_percentage": 4.7,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "05:34",
+      "sunset": "22:01",
+      "daylight_duration": "16:26:41 (+48s)",
+      "moon_position_start": 50.15,
+      "moon_position_end": 65.26,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "06:09",
+          "constellation": "Bélier",
+          "signe": "Taureau",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "06:09",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "signe": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
@@ -530,34 +541,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-05-29",
-      "date_formatted": "Vendredi 29/05/2026",
-      "saints": [
-        "St-Pierre, apôtre",
-        "St-Paul, apôtre"
-      ],
-      "phase_percentage": 96.4,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "05:42",
-      "sunset": "21:48",
-      "daylight_duration": "16:05:26 (+2min 3s)",
-      "moon_position_start": 220.28,
-      "moon_position_end": 232.29,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Balance",
-          "signe": "Scorpion",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-05-30",
       "date_formatted": "Samedi 30/05/2026",
       "saints": [
@@ -1043,6 +1026,45 @@
           "constellation": "Bélier",
           "signe": "Taureau",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-06-13",
+      "date_formatted": "Samedi 13/06/2026",
+      "saints": [
+        "ATTENTION: Saint de glace",
+        "Ste-Glycérie",
+        "St-Mael",
+        "St-Servais"
+      ],
+      "phase_percentage": 4.7,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "05:34",
+      "sunset": "22:01",
+      "daylight_duration": "16:26:41 (+48s)",
+      "moon_position_start": 50.15,
+      "moon_position_end": 65.26,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "06:09",
+          "constellation": "Bélier",
+          "signe": "Taureau",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "06:09",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "signe": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
