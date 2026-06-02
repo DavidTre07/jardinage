@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-06-01T06:01:09.106247+02:00",
+  "generated_at": "2026-06-02T06:00:19.238836+02:00",
   "location": {
     "lat": "43:36:39.6",
     "lon": "3:52:36.1"
@@ -8,44 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-06-01",
-      "date_formatted": "Lundi 01/06/2026",
-      "saints": [
-        "St-Joseph",
-        "Ste-Panacée",
-        "St-Sigismond"
-      ],
-      "phase_percentage": 98.8,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:05",
-      "sunset": "21:19",
-      "daylight_duration": "15:13:31 (+1min 20s)",
-      "moon_position_start": 256.12,
-      "moon_position_end": 267.99,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "19:58",
-          "constellation": "Serpentaire",
-          "signe": "Sagittaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
-          "blocked": false
-        },
-        {
-          "start_time": "19:58",
-          "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "signe": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-06-02",
       "date_formatted": "Mardi 02/06/2026",
@@ -527,47 +489,38 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-06-01",
-      "date_formatted": "Lundi 01/06/2026",
+      "date_iso": "2026-06-16",
+      "date_formatted": "Mardi 16/06/2026",
       "saints": [
-        "St-Joseph",
-        "Ste-Panacée",
-        "St-Sigismond"
+        "St-Honorat d'Amiens",
+        "St-Jean Népomucène",
+        "St-Ubald Baldassini"
       ],
-      "phase_percentage": 98.8,
+      "phase_percentage": 2.7,
       "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:05",
-      "sunset": "21:19",
-      "daylight_duration": "15:13:31 (+1min 20s)",
-      "moon_position_start": 256.12,
-      "moon_position_end": 267.99,
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:02",
+      "sunset": "21:28",
+      "daylight_duration": "15:26:09 (+22s)",
+      "moon_position_start": 95.83,
+      "moon_position_end": 110.92,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "19:58",
-          "constellation": "Serpentaire",
-          "signe": "Sagittaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
-          "blocked": false
-        },
-        {
-          "start_time": "19:58",
           "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "signe": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "constellation": "Gémeaux",
+          "signe": "Cancer",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-06-02",
       "date_formatted": "Mardi 02/06/2026",
@@ -1041,6 +994,35 @@
         },
         {
           "start_time": "14:49",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "signe": "Cancer",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-06-16",
+      "date_formatted": "Mardi 16/06/2026",
+      "saints": [
+        "St-Honorat d'Amiens",
+        "St-Jean Népomucène",
+        "St-Ubald Baldassini"
+      ],
+      "phase_percentage": 2.7,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:02",
+      "sunset": "21:28",
+      "daylight_duration": "15:26:09 (+22s)",
+      "moon_position_start": 95.83,
+      "moon_position_end": 110.92,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Gémeaux",
           "signe": "Cancer",
