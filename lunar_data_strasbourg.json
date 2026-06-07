@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-06-06T06:00:19.878468+02:00",
+  "generated_at": "2026-06-07T06:00:15.359981+02:00",
   "location": {
     "lat": "48:34:24.2",
     "lon": "7:45:07.6"
@@ -9,34 +9,6 @@
   "saints_glace_status": "",
   "traditional": [
     {
-      "date_iso": "2026-06-06",
-      "date_formatted": "Samedi 06/06/2026",
-      "saints": [
-        "Ste-Bénédicte",
-        "St-Héliodore"
-      ],
-      "phase_percentage": 69.9,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "05:28",
-      "sunset": "21:27",
-      "daylight_duration": "15:59:26 (+1min 17s)",
-      "moon_position_start": 315.89,
-      "moon_position_end": 328.22,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
-          "signe": "Verseau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-06-07",
       "date_formatted": "Dimanche 07/06/2026",
       "saints": [
@@ -542,6 +514,44 @@
           "constellation": "Lion",
           "signe": "Vierge",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-06-21",
+      "date_formatted": "Dimanche 21/06/2026",
+      "saints": [
+        "St-Constantin 1er le Grand",
+        "St-Nicostrate",
+        "St-Théopompe"
+      ],
+      "phase_percentage": 45.0,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "05:26",
+      "sunset": "21:35",
+      "daylight_duration": "16:08:57 (+1s)",
+      "moon_position_start": 167.23,
+      "moon_position_end": 180.21,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "12:25",
+          "constellation": "Lion",
+          "signe": "Vierge",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "12:25",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "signe": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
@@ -550,34 +560,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-06-06",
-      "date_formatted": "Samedi 06/06/2026",
-      "saints": [
-        "Ste-Bénédicte",
-        "St-Héliodore"
-      ],
-      "phase_percentage": 69.9,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "05:28",
-      "sunset": "21:27",
-      "daylight_duration": "15:59:26 (+1min 17s)",
-      "moon_position_start": 315.89,
-      "moon_position_end": 328.22,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
-          "signe": "Verseau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-06-07",
       "date_formatted": "Dimanche 07/06/2026",
       "saints": [
@@ -1083,6 +1065,44 @@
           "constellation": "Lion",
           "signe": "Vierge",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-06-21",
+      "date_formatted": "Dimanche 21/06/2026",
+      "saints": [
+        "St-Constantin 1er le Grand",
+        "St-Nicostrate",
+        "St-Théopompe"
+      ],
+      "phase_percentage": 45.0,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "05:26",
+      "sunset": "21:35",
+      "daylight_duration": "16:08:57 (+1s)",
+      "moon_position_start": 167.23,
+      "moon_position_end": 180.21,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "12:25",
+          "constellation": "Lion",
+          "signe": "Vierge",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "12:25",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "signe": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
