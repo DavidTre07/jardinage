@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-06-08T06:00:16.910999+02:00",
+  "generated_at": "2026-06-09T06:00:19.605929+02:00",
   "location": {
     "lat": "47:13:06.2",
     "lon": "-1:33:13.0"
@@ -8,35 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-06-08",
-      "date_formatted": "Lundi 08/06/2026",
-      "saints": [
-        "St-Désiré, évêque de Bourges",
-        "St-Hellade d'Auxerre",
-        "St-Wiron"
-      ],
-      "phase_percentage": 50.1,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:10",
-      "sunset": "22:00",
-      "daylight_duration": "15:49:47 (+1min 4s)",
-      "moon_position_start": 340.83,
-      "moon_position_end": 353.8,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Verseau",
-          "signe": "Poissons",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-06-09",
       "date_formatted": "Mardi 09/06/2026",
@@ -527,38 +498,38 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-06-08",
-      "date_formatted": "Lundi 08/06/2026",
+      "date_iso": "2026-06-23",
+      "date_formatted": "Mardi 23/06/2026",
       "saints": [
-        "St-Désiré, évêque de Bourges",
-        "St-Hellade d'Auxerre",
-        "St-Wiron"
+        "St-Eutyche",
+        "St-Mercurial",
+        "St-Yves de Chartres"
       ],
-      "phase_percentage": 50.1,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
+      "phase_percentage": 65.1,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
       "sunrise": "06:10",
-      "sunset": "22:00",
-      "daylight_duration": "15:49:47 (+1min 4s)",
-      "moon_position_start": 340.83,
-      "moon_position_end": 353.8,
+      "sunset": "22:06",
+      "daylight_duration": "15:56:17 (-8s)",
+      "moon_position_start": 192.84,
+      "moon_position_end": 205.19,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Verseau",
-          "signe": "Poissons",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "constellation": "Vierge",
+          "signe": "Balance",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-06-09",
       "date_formatted": "Mardi 09/06/2026",
@@ -1037,6 +1008,35 @@
       "daylight_duration": "15:56:26 (-3s)",
       "moon_position_start": 180.21,
       "moon_position_end": 192.84,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "signe": "Balance",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-06-23",
+      "date_formatted": "Mardi 23/06/2026",
+      "saints": [
+        "St-Eutyche",
+        "St-Mercurial",
+        "St-Yves de Chartres"
+      ],
+      "phase_percentage": 65.1,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:10",
+      "sunset": "22:06",
+      "daylight_duration": "15:56:17 (-8s)",
+      "moon_position_start": 192.84,
+      "moon_position_end": 205.19,
       "nodes_info": [],
       "periods": [
         {
