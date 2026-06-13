@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-06-12T06:00:18.993033+02:00",
+  "generated_at": "2026-06-13T06:00:22.395296+02:00",
   "location": {
     "lat": "44:50:16.1",
     "lon": "-0:34:45.1"
@@ -9,37 +9,6 @@
   "saints_glace_status": "",
   "traditional": [
     {
-      "date_iso": "2026-06-12",
-      "date_formatted": "Vendredi 12/06/2026",
-      "saints": [
-        "ATTENTION: Saint de glace",
-        "St-Achilée",
-        "St-Nérée",
-        "St-Pancrace",
-        "Ste-Rictrude"
-      ],
-      "phase_percentage": 11.0,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:15",
-      "sunset": "21:49",
-      "daylight_duration": "15:33:36 (+41s)",
-      "moon_position_start": 35.38,
-      "moon_position_end": 50.15,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Bélier",
-          "signe": "Taureau",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-06-13",
       "date_formatted": "Samedi 13/06/2026",
       "saints": [
@@ -523,6 +492,44 @@
           "signe": "Sagittaire",
           "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-06-27",
+      "date_formatted": "Samedi 27/06/2026",
+      "saints": [
+        "St-Augustin de Cantorbéry",
+        "St-Ranulphe",
+        "Ste-Restitute"
+      ],
+      "phase_percentage": 93.9,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:17",
+      "sunset": "21:52",
+      "daylight_duration": "15:35:05 (-24s)",
+      "moon_position_start": 241.27,
+      "moon_position_end": 253.15,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "13:35",
+          "constellation": "Scorpion",
+          "signe": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "13:35",
+          "end_time": "00:00",
+          "constellation": "Serpentaire",
+          "signe": "Sagittaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
           "blocked": false
         }
       ]
@@ -530,37 +537,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-06-12",
-      "date_formatted": "Vendredi 12/06/2026",
-      "saints": [
-        "ATTENTION: Saint de glace",
-        "St-Achilée",
-        "St-Nérée",
-        "St-Pancrace",
-        "Ste-Rictrude"
-      ],
-      "phase_percentage": 11.0,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:15",
-      "sunset": "21:49",
-      "daylight_duration": "15:33:36 (+41s)",
-      "moon_position_start": 35.38,
-      "moon_position_end": 50.15,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Bélier",
-          "signe": "Taureau",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-06-13",
       "date_formatted": "Samedi 13/06/2026",
       "saints": [
@@ -1044,6 +1020,44 @@
           "signe": "Sagittaire",
           "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-06-27",
+      "date_formatted": "Samedi 27/06/2026",
+      "saints": [
+        "St-Augustin de Cantorbéry",
+        "St-Ranulphe",
+        "Ste-Restitute"
+      ],
+      "phase_percentage": 93.9,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:17",
+      "sunset": "21:52",
+      "daylight_duration": "15:35:05 (-24s)",
+      "moon_position_start": 241.27,
+      "moon_position_end": 253.15,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "13:35",
+          "constellation": "Scorpion",
+          "signe": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "13:35",
+          "end_time": "00:00",
+          "constellation": "Serpentaire",
+          "signe": "Sagittaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
           "blocked": false
         }
       ]
