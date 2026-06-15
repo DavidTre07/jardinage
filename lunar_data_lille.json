@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-06-14T06:00:14.902628+02:00",
+  "generated_at": "2026-06-15T06:00:16.860825+02:00",
   "location": {
     "lat": "50:37:45.1",
     "lon": "3:03:26.3"
@@ -9,33 +9,6 @@
   "saints_glace_status": "",
   "traditional": [
     {
-      "date_iso": "2026-06-14",
-      "date_formatted": "Dimanche 14/06/2026",
-      "saints": [
-        "St-Matthias"
-      ],
-      "phase_percentage": 1.0,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "05:34",
-      "sunset": "22:01",
-      "daylight_duration": "16:27:23 (+42s)",
-      "moon_position_start": 65.26,
-      "moon_position_end": 80.55,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "signe": "Gémeaux",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-06-15",
       "date_formatted": "Lundi 15/06/2026",
       "saints": [
@@ -519,6 +492,45 @@
           "signe": "Sagittaire",
           "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
           "seve_info": "",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-06-29",
+      "date_formatted": "Lundi 29/06/2026",
+      "saints": [
+        "St-Conon",
+        "St-Martyrius",
+        "St-Maximin de Trèves",
+        "St-Sisinnius"
+      ],
+      "phase_percentage": 99.5,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "05:37",
+      "sunset": "22:04",
+      "daylight_duration": "16:26:27 (-43s)",
+      "moon_position_start": 265.02,
+      "moon_position_end": 276.91,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "01:58",
+          "constellation": "Serpentaire",
+          "signe": "Sagittaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
+          "blocked": false
+        },
+        {
+          "start_time": "01:58",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "signe": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
@@ -526,33 +538,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-06-14",
-      "date_formatted": "Dimanche 14/06/2026",
-      "saints": [
-        "St-Matthias"
-      ],
-      "phase_percentage": 1.0,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "05:34",
-      "sunset": "22:01",
-      "daylight_duration": "16:27:23 (+42s)",
-      "moon_position_start": 65.26,
-      "moon_position_end": 80.55,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "signe": "Gémeaux",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-06-15",
       "date_formatted": "Lundi 15/06/2026",
       "saints": [
@@ -1036,6 +1021,45 @@
           "signe": "Sagittaire",
           "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
           "seve_info": "",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-06-29",
+      "date_formatted": "Lundi 29/06/2026",
+      "saints": [
+        "St-Conon",
+        "St-Martyrius",
+        "St-Maximin de Trèves",
+        "St-Sisinnius"
+      ],
+      "phase_percentage": 99.5,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "05:37",
+      "sunset": "22:04",
+      "daylight_duration": "16:26:27 (-43s)",
+      "moon_position_start": 265.02,
+      "moon_position_end": 276.91,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "01:58",
+          "constellation": "Serpentaire",
+          "signe": "Sagittaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
+          "blocked": false
+        },
+        {
+          "start_time": "01:58",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "signe": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
