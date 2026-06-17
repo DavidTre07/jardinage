@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-06-16T06:00:15.636090+02:00",
+  "generated_at": "2026-06-17T06:00:16.590566+02:00",
   "location": {
     "lat": "43:17:47.4",
     "lon": "5:22:11.3"
@@ -9,35 +9,6 @@
   "saints_glace_status": "",
   "traditional": [
     {
-      "date_iso": "2026-06-16",
-      "date_formatted": "Mardi 16/06/2026",
-      "saints": [
-        "St-Honorat d'Amiens",
-        "St-Jean Népomucène",
-        "St-Ubald Baldassini"
-      ],
-      "phase_percentage": 2.7,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "05:57",
-      "sunset": "21:21",
-      "daylight_duration": "15:23:48 (+22s)",
-      "moon_position_start": 95.83,
-      "moon_position_end": 110.92,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Gémeaux",
-          "signe": "Cancer",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-06-17",
       "date_formatted": "Mercredi 17/06/2026",
       "saints": [
@@ -521,6 +492,44 @@
           "constellation": "Sagittaire",
           "signe": "Capricorne",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-07-01",
+      "date_formatted": "Mercredi 01/07/2026",
+      "saints": [
+        "St-Domitien",
+        "St-Gall de Clermont",
+        "St-Théodoric (ou Thierry)"
+      ],
+      "phase_percentage": 98.1,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:01",
+      "sunset": "21:22",
+      "daylight_duration": "15:21:05 (-39s)",
+      "moon_position_start": 288.85,
+      "moon_position_end": 300.86,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "22:17",
+          "constellation": "Sagittaire",
+          "signe": "Capricorne",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "22:17",
+          "end_time": "00:00",
+          "constellation": "Capricorne",
+          "signe": "Verseau",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
@@ -529,35 +538,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-06-16",
-      "date_formatted": "Mardi 16/06/2026",
-      "saints": [
-        "St-Honorat d'Amiens",
-        "St-Jean Népomucène",
-        "St-Ubald Baldassini"
-      ],
-      "phase_percentage": 2.7,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "05:57",
-      "sunset": "21:21",
-      "daylight_duration": "15:23:48 (+22s)",
-      "moon_position_start": 95.83,
-      "moon_position_end": 110.92,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Gémeaux",
-          "signe": "Cancer",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-06-17",
       "date_formatted": "Mercredi 17/06/2026",
       "saints": [
@@ -1041,6 +1021,44 @@
           "constellation": "Sagittaire",
           "signe": "Capricorne",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-07-01",
+      "date_formatted": "Mercredi 01/07/2026",
+      "saints": [
+        "St-Domitien",
+        "St-Gall de Clermont",
+        "St-Théodoric (ou Thierry)"
+      ],
+      "phase_percentage": 98.1,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:01",
+      "sunset": "21:22",
+      "daylight_duration": "15:21:05 (-39s)",
+      "moon_position_start": 288.85,
+      "moon_position_end": 300.86,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "22:17",
+          "constellation": "Sagittaire",
+          "signe": "Capricorne",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "22:17",
+          "end_time": "00:00",
+          "constellation": "Capricorne",
+          "signe": "Verseau",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
