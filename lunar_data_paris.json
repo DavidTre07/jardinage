@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-06-20T06:00:14.913679+02:00",
+  "generated_at": "2026-06-21T06:00:16.082218+02:00",
   "location": {
     "lat": "48:51:23.8",
     "lon": "2:21:07.9"
@@ -8,34 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-06-20",
-      "date_formatted": "Samedi 20/06/2026",
-      "saints": [
-        "St-Bernardin de Sienne",
-        "Ste-Plautilla"
-      ],
-      "phase_percentage": 34.5,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "05:46",
-      "sunset": "21:58",
-      "daylight_duration": "16:11:38 (+7s)",
-      "moon_position_start": 153.84,
-      "moon_position_end": 167.23,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Lion",
-          "signe": "Vierge",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-06-21",
       "date_formatted": "Dimanche 21/06/2026",
@@ -514,6 +486,35 @@
         },
         {
           "start_time": "13:48",
+          "end_time": "00:00",
+          "constellation": "Verseau",
+          "signe": "Poissons",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-07-05",
+      "date_formatted": "Dimanche 05/07/2026",
+      "saints": [
+        "St-Antoine-Marie Zaccaria",
+        "St-Blanche",
+        "St-Modivène"
+      ],
+      "phase_percentage": 74.4,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "05:53",
+      "sunset": "21:56",
+      "daylight_duration": "16:02:57 (-1min 10s)",
+      "moon_position_start": 337.69,
+      "moon_position_end": 350.39,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Verseau",
           "signe": "Poissons",
@@ -526,34 +527,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-06-20",
-      "date_formatted": "Samedi 20/06/2026",
-      "saints": [
-        "St-Bernardin de Sienne",
-        "Ste-Plautilla"
-      ],
-      "phase_percentage": 34.5,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "05:46",
-      "sunset": "21:58",
-      "daylight_duration": "16:11:38 (+7s)",
-      "moon_position_start": 153.84,
-      "moon_position_end": 167.23,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Lion",
-          "signe": "Vierge",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-06-21",
       "date_formatted": "Dimanche 21/06/2026",
       "saints": [
@@ -1031,6 +1004,35 @@
         },
         {
           "start_time": "13:48",
+          "end_time": "00:00",
+          "constellation": "Verseau",
+          "signe": "Poissons",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-07-05",
+      "date_formatted": "Dimanche 05/07/2026",
+      "saints": [
+        "St-Antoine-Marie Zaccaria",
+        "St-Blanche",
+        "St-Modivène"
+      ],
+      "phase_percentage": 74.4,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "05:53",
+      "sunset": "21:56",
+      "daylight_duration": "16:02:57 (-1min 10s)",
+      "moon_position_start": 337.69,
+      "moon_position_end": 350.39,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Verseau",
           "signe": "Poissons",
