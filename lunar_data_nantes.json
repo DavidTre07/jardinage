@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-06-24T06:01:07.610098+02:00",
+  "generated_at": "2026-06-25T06:01:07.412247+02:00",
   "location": {
     "lat": "47:13:06.2",
     "lon": "-1:33:13.0"
@@ -8,34 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-06-24",
-      "date_formatted": "Mercredi 24/06/2026",
-      "saints": [
-        "St-Donatien",
-        "St-Rogatien"
-      ],
-      "phase_percentage": 74.1,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:10",
-      "sunset": "22:06",
-      "daylight_duration": "15:56:04 (-13s)",
-      "moon_position_start": 205.19,
-      "moon_position_end": 217.34,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Vierge",
-          "signe": "Balance",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-06-25",
       "date_formatted": "Jeudi 25/06/2026",
@@ -528,6 +500,35 @@
           "end_time": "00:00",
           "constellation": "Bélier",
           "signe": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-07-09",
+      "date_formatted": "Jeudi 09/07/2026",
+      "saints": [
+        "Ste-Evrilde",
+        "Ste-Procule",
+        "Ste-Véronique Giuliani"
+      ],
+      "phase_percentage": 32.5,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:19",
+      "sunset": "22:02",
+      "daylight_duration": "15:43:19 (-1min 22s)",
+      "moon_position_start": 30.49,
+      "moon_position_end": 44.65,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Bélier",
+          "signe": "Taureau",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
@@ -537,34 +538,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-06-24",
-      "date_formatted": "Mercredi 24/06/2026",
-      "saints": [
-        "St-Donatien",
-        "St-Rogatien"
-      ],
-      "phase_percentage": 74.1,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:10",
-      "sunset": "22:06",
-      "daylight_duration": "15:56:04 (-13s)",
-      "moon_position_start": 205.19,
-      "moon_position_end": 217.34,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Vierge",
-          "signe": "Balance",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-06-25",
       "date_formatted": "Jeudi 25/06/2026",
       "saints": [
@@ -1056,6 +1029,35 @@
           "end_time": "00:00",
           "constellation": "Bélier",
           "signe": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-07-09",
+      "date_formatted": "Jeudi 09/07/2026",
+      "saints": [
+        "Ste-Evrilde",
+        "Ste-Procule",
+        "Ste-Véronique Giuliani"
+      ],
+      "phase_percentage": 32.5,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:19",
+      "sunset": "22:02",
+      "daylight_duration": "15:43:19 (-1min 22s)",
+      "moon_position_start": 30.49,
+      "moon_position_end": 44.65,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Bélier",
+          "signe": "Taureau",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
