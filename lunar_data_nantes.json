@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-06-26T06:01:06.357873+02:00",
+  "generated_at": "2026-06-27T06:01:09.153809+02:00",
   "location": {
     "lat": "47:13:06.2",
     "lon": "-1:33:13.0"
@@ -8,43 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-06-26",
-      "date_formatted": "Vendredi 26/06/2026",
-      "saints": [
-        "St-Bérenger",
-        "St-Philippe de Néri"
-      ],
-      "phase_percentage": 88.7,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:11",
-      "sunset": "22:06",
-      "daylight_duration": "15:55:23 (-22s)",
-      "moon_position_start": 229.35,
-      "moon_position_end": 241.27,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "23:26",
-          "constellation": "Balance",
-          "signe": "Scorpion",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "23:26",
-          "end_time": "00:00",
-          "constellation": "Scorpion",
-          "signe": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-06-27",
       "date_formatted": "Samedi 27/06/2026",
@@ -532,46 +495,41 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-06-26",
-      "date_formatted": "Vendredi 26/06/2026",
+      "date_iso": "2026-07-11",
+      "date_formatted": "Samedi 11/07/2026",
       "saints": [
-        "St-Bérenger",
-        "St-Philippe de Néri"
+        "St-Benoà®t de Nursie",
+        "St-Hidulphe",
+        "St-Jean de Bergame",
+        "Ste-Olga de Russie",
+        "St-Pie 1er",
+        "St-Savin (ou Sabin)"
       ],
-      "phase_percentage": 88.7,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:11",
-      "sunset": "22:06",
-      "daylight_duration": "15:55:23 (-22s)",
-      "moon_position_start": 229.35,
-      "moon_position_end": 241.27,
+      "phase_percentage": 13.1,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:21",
+      "sunset": "22:01",
+      "daylight_duration": "15:40:21 (-1min 30s)",
+      "moon_position_start": 59.2,
+      "moon_position_end": 74.07,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "23:26",
-          "constellation": "Balance",
-          "signe": "Scorpion",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "23:26",
           "end_time": "00:00",
-          "constellation": "Scorpion",
-          "signe": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "constellation": "Taureau",
+          "signe": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-06-27",
       "date_formatted": "Samedi 27/06/2026",
@@ -1051,6 +1009,38 @@
         },
         {
           "start_time": "15:29",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "signe": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-07-11",
+      "date_formatted": "Samedi 11/07/2026",
+      "saints": [
+        "St-Benoà®t de Nursie",
+        "St-Hidulphe",
+        "St-Jean de Bergame",
+        "Ste-Olga de Russie",
+        "St-Pie 1er",
+        "St-Savin (ou Sabin)"
+      ],
+      "phase_percentage": 13.1,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:21",
+      "sunset": "22:01",
+      "daylight_duration": "15:40:21 (-1min 30s)",
+      "moon_position_start": 59.2,
+      "moon_position_end": 74.07,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Taureau",
           "signe": "Taureau",
