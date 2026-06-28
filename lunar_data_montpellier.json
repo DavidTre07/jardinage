@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-06-27T06:01:10.157635+02:00",
+  "generated_at": "2026-06-28T06:01:10.439627+02:00",
   "location": {
     "lat": "43:36:39.6",
     "lon": "3:52:36.1"
@@ -8,44 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-06-27",
-      "date_formatted": "Samedi 27/06/2026",
-      "saints": [
-        "St-Augustin de Cantorbéry",
-        "St-Ranulphe",
-        "Ste-Restitute"
-      ],
-      "phase_percentage": 93.9,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:04",
-      "sunset": "21:30",
-      "daylight_duration": "15:25:39 (-23s)",
-      "moon_position_start": 241.27,
-      "moon_position_end": 253.15,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "13:35",
-          "constellation": "Scorpion",
-          "signe": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "13:35",
-          "end_time": "00:00",
-          "constellation": "Serpentaire",
-          "signe": "Sagittaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-06-28",
       "date_formatted": "Dimanche 28/06/2026",
@@ -522,6 +484,36 @@
           "end_time": "00:00",
           "constellation": "Taureau",
           "signe": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-07-12",
+      "date_formatted": "Dimanche 12/07/2026",
+      "saints": [
+        "St-Jean Gualbert",
+        "Ste-Marcienne",
+        "St-Nabor",
+        "Ste-Véronique"
+      ],
+      "phase_percentage": 6.1,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:14",
+      "sunset": "21:25",
+      "daylight_duration": "15:11:50 (-1min 21s)",
+      "moon_position_start": 74.07,
+      "moon_position_end": 89.14,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "signe": "Gémeaux",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
@@ -531,44 +523,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-06-27",
-      "date_formatted": "Samedi 27/06/2026",
-      "saints": [
-        "St-Augustin de Cantorbéry",
-        "St-Ranulphe",
-        "Ste-Restitute"
-      ],
-      "phase_percentage": 93.9,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:04",
-      "sunset": "21:30",
-      "daylight_duration": "15:25:39 (-23s)",
-      "moon_position_start": 241.27,
-      "moon_position_end": 253.15,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "13:35",
-          "constellation": "Scorpion",
-          "signe": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "13:35",
-          "end_time": "00:00",
-          "constellation": "Serpentaire",
-          "signe": "Sagittaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-06-28",
       "date_formatted": "Dimanche 28/06/2026",
       "saints": [
@@ -1044,6 +998,36 @@
           "end_time": "00:00",
           "constellation": "Taureau",
           "signe": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-07-12",
+      "date_formatted": "Dimanche 12/07/2026",
+      "saints": [
+        "St-Jean Gualbert",
+        "Ste-Marcienne",
+        "St-Nabor",
+        "Ste-Véronique"
+      ],
+      "phase_percentage": 6.1,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:14",
+      "sunset": "21:25",
+      "daylight_duration": "15:11:50 (-1min 21s)",
+      "moon_position_start": 74.07,
+      "moon_position_end": 89.14,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "signe": "Gémeaux",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
