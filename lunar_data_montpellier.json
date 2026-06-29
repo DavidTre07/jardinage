@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-06-28T06:01:10.439627+02:00",
+  "generated_at": "2026-06-29T06:01:08.134761+02:00",
   "location": {
     "lat": "43:36:39.6",
     "lon": "3:52:36.1"
@@ -9,34 +9,6 @@
   "saints_glace_status": "",
   "traditional": [
     {
-      "date_iso": "2026-06-28",
-      "date_formatted": "Dimanche 28/06/2026",
-      "saints": [
-        "St-Chéron",
-        "St-Germain de Paris"
-      ],
-      "phase_percentage": 97.6,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:05",
-      "sunset": "21:30",
-      "daylight_duration": "15:25:11 (-27s)",
-      "moon_position_start": 253.15,
-      "moon_position_end": 265.02,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Serpentaire",
-          "signe": "Sagittaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-06-29",
       "date_formatted": "Lundi 29/06/2026",
       "saints": [
@@ -516,6 +488,43 @@
           "signe": "Gémeaux",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-07-13",
+      "date_formatted": "Lundi 13/07/2026",
+      "saints": [
+        "St-Henri II de Germanie",
+        "St-Joà«l"
+      ],
+      "phase_percentage": 1.6,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:14",
+      "sunset": "21:25",
+      "daylight_duration": "15:10:26 (-1min 24s)",
+      "moon_position_start": 89.14,
+      "moon_position_end": 104.26,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "01:21",
+          "constellation": "Taureau",
+          "signe": "Gémeaux",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "01:21",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "signe": "Cancer",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
@@ -523,34 +532,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-06-28",
-      "date_formatted": "Dimanche 28/06/2026",
-      "saints": [
-        "St-Chéron",
-        "St-Germain de Paris"
-      ],
-      "phase_percentage": 97.6,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:05",
-      "sunset": "21:30",
-      "daylight_duration": "15:25:11 (-27s)",
-      "moon_position_start": 253.15,
-      "moon_position_end": 265.02,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Serpentaire",
-          "signe": "Sagittaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-06-29",
       "date_formatted": "Lundi 29/06/2026",
       "saints": [
@@ -1030,6 +1011,43 @@
           "signe": "Gémeaux",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-07-13",
+      "date_formatted": "Lundi 13/07/2026",
+      "saints": [
+        "St-Henri II de Germanie",
+        "St-Joà«l"
+      ],
+      "phase_percentage": 1.6,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:14",
+      "sunset": "21:25",
+      "daylight_duration": "15:10:26 (-1min 24s)",
+      "moon_position_start": 89.14,
+      "moon_position_end": 104.26,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "01:21",
+          "constellation": "Taureau",
+          "signe": "Gémeaux",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "01:21",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "signe": "Cancer",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
