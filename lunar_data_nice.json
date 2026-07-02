@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-07-01T06:02:19.518316+02:00",
+  "generated_at": "2026-07-02T06:01:09.576058+02:00",
   "location": {
     "lat": "43:42:36.7",
     "lon": "7:15:43.2"
@@ -9,44 +9,6 @@
   "saints_glace_status": "",
   "traditional": [
     {
-      "date_iso": "2026-07-01",
-      "date_formatted": "Mercredi 01/07/2026",
-      "saints": [
-        "St-Domitien",
-        "St-Gall de Clermont",
-        "St-Théodoric (ou Thierry)"
-      ],
-      "phase_percentage": 98.1,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "05:52",
-      "sunset": "21:16",
-      "daylight_duration": "15:24:08 (-40s)",
-      "moon_position_start": 288.85,
-      "moon_position_end": 300.86,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "22:17",
-          "constellation": "Sagittaire",
-          "signe": "Capricorne",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "22:17",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
-          "signe": "Verseau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-07-02",
       "date_formatted": "Jeudi 02/07/2026",
       "saints": [
@@ -522,50 +484,59 @@
           "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-07-16",
+      "date_formatted": "Jeudi 16/07/2026",
+      "saints": [
+        "Ste-Marie-Madeleine Postel"
+      ],
+      "phase_percentage": 5.8,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:03",
+      "sunset": "21:10",
+      "daylight_duration": "15:06:33 (-1min 34s)",
+      "moon_position_start": 134.01,
+      "moon_position_end": 148.38,
+      "nodes_info": [
+        "NŒUD LUNAIRE (descendant) le 17/07 à 02h26 - Pas de jardinage de 22h26 à 06h26"
+      ],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "06:36",
+          "constellation": "Cancer",
+          "signe": "Lion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "06:36",
+          "end_time": "22:26",
+          "constellation": "Lion",
+          "signe": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "22:26",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "signe": "Lion",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
         }
       ]
     }
   ],
   "constellation": [
     {
-      "date_iso": "2026-07-01",
-      "date_formatted": "Mercredi 01/07/2026",
-      "saints": [
-        "St-Domitien",
-        "St-Gall de Clermont",
-        "St-Théodoric (ou Thierry)"
-      ],
-      "phase_percentage": 98.1,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "05:52",
-      "sunset": "21:16",
-      "daylight_duration": "15:24:08 (-40s)",
-      "moon_position_start": 288.85,
-      "moon_position_end": 300.86,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "22:17",
-          "constellation": "Sagittaire",
-          "signe": "Capricorne",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "22:17",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
-          "signe": "Verseau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-07-02",
       "date_formatted": "Jeudi 02/07/2026",
       "saints": [
@@ -1041,6 +1012,53 @@
           "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-07-16",
+      "date_formatted": "Jeudi 16/07/2026",
+      "saints": [
+        "Ste-Marie-Madeleine Postel"
+      ],
+      "phase_percentage": 5.8,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:03",
+      "sunset": "21:10",
+      "daylight_duration": "15:06:33 (-1min 34s)",
+      "moon_position_start": 134.01,
+      "moon_position_end": 148.38,
+      "nodes_info": [
+        "NŒUD LUNAIRE (descendant) le 17/07 à 02h26 - Pas de jardinage de 22h26 à 06h26"
+      ],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "06:36",
+          "constellation": "Cancer",
+          "signe": "Lion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "06:36",
+          "end_time": "22:26",
+          "constellation": "Lion",
+          "signe": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "22:26",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "signe": "Lion",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
         }
       ]
     }
