@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-07-02T06:01:07.502975+02:00",
+  "generated_at": "2026-07-03T06:01:08.695719+02:00",
   "location": {
     "lat": "47:13:06.2",
     "lon": "-1:33:13.0"
@@ -9,36 +9,6 @@
   "saints_glace_status": "",
   "traditional": [
     {
-      "date_iso": "2026-07-02",
-      "date_formatted": "Jeudi 02/07/2026",
-      "saints": [
-        "St-Martinien",
-        "Ste-Monégonde",
-        "St-Othon de Bamberg",
-        "Ste-Symphorose"
-      ],
-      "phase_percentage": 94.7,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:14",
-      "sunset": "22:05",
-      "daylight_duration": "15:51:25 (-51s)",
-      "moon_position_start": 300.86,
-      "moon_position_end": 312.98,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
-          "signe": "Verseau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-07-03",
       "date_formatted": "Vendredi 03/07/2026",
       "saints": [
@@ -531,42 +501,53 @@
           "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
           "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
           "blocked": true
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-07-17",
+      "date_formatted": "Vendredi 17/07/2026",
+      "saints": [
+        "St-Alexis",
+        "St-Ennode",
+        "St-Léon IV",
+        "Ste-Marcelline"
+      ],
+      "phase_percentage": 12.3,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:27",
+      "sunset": "21:57",
+      "daylight_duration": "15:29:55 (-1min 53s)",
+      "moon_position_start": 148.38,
+      "moon_position_end": 162.32,
+      "nodes_info": [
+        "NŒUD LUNAIRE (descendant) le 17/07 à 02h26 - Pas de jardinage de 22h26 à 06h26"
+      ],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "06:26",
+          "constellation": "Lion",
+          "signe": "Lion",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "06:26",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "signe": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
         }
       ]
     }
   ],
   "constellation": [
     {
-      "date_iso": "2026-07-02",
-      "date_formatted": "Jeudi 02/07/2026",
-      "saints": [
-        "St-Martinien",
-        "Ste-Monégonde",
-        "St-Othon de Bamberg",
-        "Ste-Symphorose"
-      ],
-      "phase_percentage": 94.7,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:14",
-      "sunset": "22:05",
-      "daylight_duration": "15:51:25 (-51s)",
-      "moon_position_start": 300.86,
-      "moon_position_end": 312.98,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
-          "signe": "Verseau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-07-03",
       "date_formatted": "Vendredi 03/07/2026",
       "saints": [
@@ -1059,6 +1040,47 @@
           "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
           "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
           "blocked": true
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-07-17",
+      "date_formatted": "Vendredi 17/07/2026",
+      "saints": [
+        "St-Alexis",
+        "St-Ennode",
+        "St-Léon IV",
+        "Ste-Marcelline"
+      ],
+      "phase_percentage": 12.3,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:27",
+      "sunset": "21:57",
+      "daylight_duration": "15:29:55 (-1min 53s)",
+      "moon_position_start": 148.38,
+      "moon_position_end": 162.32,
+      "nodes_info": [
+        "NŒUD LUNAIRE (descendant) le 17/07 à 02h26 - Pas de jardinage de 22h26 à 06h26"
+      ],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "06:26",
+          "constellation": "Lion",
+          "signe": "Lion",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "06:26",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "signe": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
         }
       ]
     }
