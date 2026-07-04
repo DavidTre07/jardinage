@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-07-03T06:01:09.232429+02:00",
+  "generated_at": "2026-07-04T06:01:09.436102+02:00",
   "location": {
     "lat": "48:34:24.2",
     "lon": "7:45:07.6"
@@ -9,34 +9,6 @@
   "saints_glace_status": "",
   "traditional": [
     {
-      "date_iso": "2026-07-03",
-      "date_formatted": "Vendredi 03/07/2026",
-      "saints": [
-        "St-Anatole",
-        "St-Thomas, apôtre"
-      ],
-      "phase_percentage": 89.5,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "05:31",
-      "sunset": "21:34",
-      "daylight_duration": "16:02:35 (-59s)",
-      "moon_position_start": 312.98,
-      "moon_position_end": 325.24,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
-          "signe": "Verseau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-07-04",
       "date_formatted": "Samedi 04/07/2026",
       "saints": [
@@ -540,6 +512,43 @@
           "constellation": "Lion",
           "signe": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-07-18",
+      "date_formatted": "Samedi 18/07/2026",
+      "saints": [
+        "St-Arnoul de Metz",
+        "St-Frédéric"
+      ],
+      "phase_percentage": 20.5,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "05:45",
+      "sunset": "21:24",
+      "daylight_duration": "15:38:42 (-2min 4s)",
+      "moon_position_start": 162.32,
+      "moon_position_end": 175.81,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "20:44",
+          "constellation": "Lion",
+          "signe": "Vierge",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "20:44",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "signe": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
@@ -548,34 +557,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-07-03",
-      "date_formatted": "Vendredi 03/07/2026",
-      "saints": [
-        "St-Anatole",
-        "St-Thomas, apôtre"
-      ],
-      "phase_percentage": 89.5,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "05:31",
-      "sunset": "21:34",
-      "daylight_duration": "16:02:35 (-59s)",
-      "moon_position_start": 312.98,
-      "moon_position_end": 325.24,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
-          "signe": "Verseau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-07-04",
       "date_formatted": "Samedi 04/07/2026",
       "saints": [
@@ -1079,6 +1060,43 @@
           "constellation": "Lion",
           "signe": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-07-18",
+      "date_formatted": "Samedi 18/07/2026",
+      "saints": [
+        "St-Arnoul de Metz",
+        "St-Frédéric"
+      ],
+      "phase_percentage": 20.5,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "05:45",
+      "sunset": "21:24",
+      "daylight_duration": "15:38:42 (-2min 4s)",
+      "moon_position_start": 162.32,
+      "moon_position_end": 175.81,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "20:44",
+          "constellation": "Lion",
+          "signe": "Vierge",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "20:44",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "signe": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
