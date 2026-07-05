@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-07-04T06:01:08.275641+02:00",
+  "generated_at": "2026-07-05T06:01:08.334885+02:00",
   "location": {
     "lat": "50:37:45.1",
     "lon": "3:03:26.3"
@@ -8,63 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-07-04",
-      "date_formatted": "Samedi 04/07/2026",
-      "saints": [
-        "Ste-Berthe",
-        "Ste-Elisabeth du Portugal"
-      ],
-      "phase_percentage": 82.7,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "05:41",
-      "sunset": "22:02",
-      "daylight_duration": "16:21:26 (-1min 11s)",
-      "moon_position_start": 325.24,
-      "moon_position_end": 337.69,
-      "nodes_info": [
-        "NŒUD LUNAIRE (ascendant) le 04/07 à 09h48 - Pas de jardinage de 05h48 à 13h48"
-      ],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "05:48",
-          "constellation": "Capricorne",
-          "signe": "Verseau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "05:48",
-          "end_time": "09:13",
-          "constellation": "Capricorne",
-          "signe": "Verseau",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "09:13",
-          "end_time": "13:48",
-          "constellation": "Verseau",
-          "signe": "Poissons",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "13:48",
-          "end_time": "00:00",
-          "constellation": "Verseau",
-          "signe": "Poissons",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-07-05",
       "date_formatted": "Dimanche 05/07/2026",
@@ -553,66 +496,38 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-07-04",
-      "date_formatted": "Samedi 04/07/2026",
+      "date_iso": "2026-07-19",
+      "date_formatted": "Dimanche 19/07/2026",
       "saints": [
-        "Ste-Berthe",
-        "Ste-Elisabeth du Portugal"
+        "St-Arsène le Grand",
+        "Ste-Macrine la Jeune",
+        "Ste-Marie d'Espagne"
       ],
-      "phase_percentage": 82.7,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "05:41",
-      "sunset": "22:02",
-      "daylight_duration": "16:21:26 (-1min 11s)",
-      "moon_position_start": 325.24,
-      "moon_position_end": 337.69,
-      "nodes_info": [
-        "NŒUD LUNAIRE (ascendant) le 04/07 à 09h48 - Pas de jardinage de 05h48 à 13h48"
-      ],
+      "phase_percentage": 29.8,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "05:56",
+      "sunset": "21:50",
+      "daylight_duration": "15:53:58 (-2min 20s)",
+      "moon_position_start": 175.81,
+      "moon_position_end": 188.87,
+      "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "05:48",
-          "constellation": "Capricorne",
-          "signe": "Verseau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "05:48",
-          "end_time": "09:13",
-          "constellation": "Capricorne",
-          "signe": "Verseau",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "09:13",
-          "end_time": "13:48",
-          "constellation": "Verseau",
-          "signe": "Poissons",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "13:48",
           "end_time": "00:00",
-          "constellation": "Verseau",
-          "signe": "Poissons",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "constellation": "Vierge",
+          "signe": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-07-05",
       "date_formatted": "Dimanche 05/07/2026",
@@ -1093,6 +1008,35 @@
         },
         {
           "start_time": "20:44",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "signe": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-07-19",
+      "date_formatted": "Dimanche 19/07/2026",
+      "saints": [
+        "St-Arsène le Grand",
+        "Ste-Macrine la Jeune",
+        "Ste-Marie d'Espagne"
+      ],
+      "phase_percentage": 29.8,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "05:56",
+      "sunset": "21:50",
+      "daylight_duration": "15:53:58 (-2min 20s)",
+      "moon_position_start": 175.81,
+      "moon_position_end": 188.87,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Vierge",
           "signe": "Vierge",
