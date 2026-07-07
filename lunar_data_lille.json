@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-07-06T06:01:05.656422+02:00",
+  "generated_at": "2026-07-07T06:01:08.400412+02:00",
   "location": {
     "lat": "50:37:45.1",
     "lon": "3:03:26.3"
@@ -8,44 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-07-06",
-      "date_formatted": "Lundi 06/07/2026",
-      "saints": [
-        "Ste-Dominique",
-        "Ste-Lucie",
-        "Ste-Maria Goretti"
-      ],
-      "phase_percentage": 64.9,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "05:42",
-      "sunset": "22:01",
-      "daylight_duration": "16:18:47 (-1min 21s)",
-      "moon_position_start": 350.39,
-      "moon_position_end": 3.39,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "17:48",
-          "constellation": "Verseau",
-          "signe": "Poissons",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "17:48",
-          "end_time": "00:00",
-          "constellation": "Poissons",
-          "signe": "Bélier",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-07-07",
       "date_formatted": "Mardi 07/07/2026",
@@ -525,47 +487,37 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-07-06",
-      "date_formatted": "Lundi 06/07/2026",
+      "date_iso": "2026-07-21",
+      "date_formatted": "Mardi 21/07/2026",
       "saints": [
-        "Ste-Dominique",
-        "Ste-Lucie",
-        "Ste-Maria Goretti"
+        "St-Laurent de Brindisi",
+        "Ste-Praxède"
       ],
-      "phase_percentage": 64.9,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "05:42",
-      "sunset": "22:01",
-      "daylight_duration": "16:18:47 (-1min 21s)",
-      "moon_position_start": 350.39,
-      "moon_position_end": 3.39,
+      "phase_percentage": 49.7,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "05:59",
+      "sunset": "21:48",
+      "daylight_duration": "15:49:06 (-2min 27s)",
+      "moon_position_start": 201.56,
+      "moon_position_end": 213.94,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "17:48",
-          "constellation": "Verseau",
-          "signe": "Poissons",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "17:48",
           "end_time": "00:00",
-          "constellation": "Poissons",
-          "signe": "Bélier",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "constellation": "Vierge",
+          "signe": "Balance",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-07-07",
       "date_formatted": "Mardi 07/07/2026",
@@ -1033,6 +985,34 @@
       "daylight_duration": "15:51:34 (-2min 23s)",
       "moon_position_start": 188.87,
       "moon_position_end": 201.56,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "signe": "Balance",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-07-21",
+      "date_formatted": "Mardi 21/07/2026",
+      "saints": [
+        "St-Laurent de Brindisi",
+        "Ste-Praxède"
+      ],
+      "phase_percentage": 49.7,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "05:59",
+      "sunset": "21:48",
+      "daylight_duration": "15:49:06 (-2min 27s)",
+      "moon_position_start": 201.56,
+      "moon_position_end": 213.94,
       "nodes_info": [],
       "periods": [
         {
