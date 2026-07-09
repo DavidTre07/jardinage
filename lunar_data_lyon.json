@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-07-08T06:01:09.171383+02:00",
+  "generated_at": "2026-07-09T06:01:06.602279+02:00",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
@@ -8,46 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-07-08",
-      "date_formatted": "Mercredi 08/07/2026",
-      "saints": [
-        "St-Edgar le Pacifique",
-        "Ste-Landrade",
-        "Ste-Priscilla",
-        "St-Procope",
-        "St-Withburge"
-      ],
-      "phase_percentage": 43.5,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "05:59",
-      "sunset": "21:32",
-      "daylight_duration": "15:32:58 (-1min 13s)",
-      "moon_position_start": 16.74,
-      "moon_position_end": 30.49,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "17:58",
-          "constellation": "Poissons",
-          "signe": "Bélier",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "17:58",
-          "end_time": "00:00",
-          "constellation": "Bélier",
-          "signe": "Bélier",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-07-09",
       "date_formatted": "Jeudi 09/07/2026",
@@ -524,49 +484,37 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-07-08",
-      "date_formatted": "Mercredi 08/07/2026",
+      "date_iso": "2026-07-23",
+      "date_formatted": "Jeudi 23/07/2026",
       "saints": [
-        "St-Edgar le Pacifique",
-        "Ste-Landrade",
-        "Ste-Priscilla",
-        "St-Procope",
-        "St-Withburge"
+        "St-Apollinaire",
+        "Ste-Brigitte de Suède"
       ],
-      "phase_percentage": 43.5,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "05:59",
-      "sunset": "21:32",
-      "daylight_duration": "15:32:58 (-1min 13s)",
-      "moon_position_start": 16.74,
-      "moon_position_end": 30.49,
+      "phase_percentage": 68.7,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:13",
+      "sunset": "21:20",
+      "daylight_duration": "15:07:20 (-2min 5s)",
+      "moon_position_start": 226.09,
+      "moon_position_end": 238.08,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "17:58",
-          "constellation": "Poissons",
-          "signe": "Bélier",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "17:58",
           "end_time": "00:00",
-          "constellation": "Bélier",
-          "signe": "Bélier",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "constellation": "Balance",
+          "signe": "Scorpion",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-07-09",
       "date_formatted": "Jeudi 09/07/2026",
@@ -1035,6 +983,34 @@
         },
         {
           "start_time": "07:58",
+          "end_time": "00:00",
+          "constellation": "Balance",
+          "signe": "Scorpion",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-07-23",
+      "date_formatted": "Jeudi 23/07/2026",
+      "saints": [
+        "St-Apollinaire",
+        "Ste-Brigitte de Suède"
+      ],
+      "phase_percentage": 68.7,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:13",
+      "sunset": "21:20",
+      "daylight_duration": "15:07:20 (-2min 5s)",
+      "moon_position_start": 226.09,
+      "moon_position_end": 238.08,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Balance",
           "signe": "Scorpion",
