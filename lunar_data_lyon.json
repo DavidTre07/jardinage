@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-07-10T06:01:05.060834+02:00",
+  "generated_at": "2026-07-11T06:01:06.496578+02:00",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
@@ -8,43 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-07-10",
-      "date_formatted": "Vendredi 10/07/2026",
-      "saints": [
-        "Ste-Rufine",
-        "Ste-Seconde"
-      ],
-      "phase_percentage": 22.2,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:00",
-      "sunset": "21:30",
-      "daylight_duration": "15:30:19 (-1min 21s)",
-      "moon_position_start": 44.65,
-      "moon_position_end": 59.2,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "15:29",
-          "constellation": "Bélier",
-          "signe": "Taureau",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "15:29",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "signe": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-07-11",
       "date_formatted": "Samedi 11/07/2026",
@@ -529,46 +492,38 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-07-10",
-      "date_formatted": "Vendredi 10/07/2026",
+      "date_iso": "2026-07-25",
+      "date_formatted": "Samedi 25/07/2026",
       "saints": [
-        "Ste-Rufine",
-        "Ste-Seconde"
+        "St-Christophe",
+        "St-Jacques, dit le Majeur",
+        "Ste-Valentine"
       ],
-      "phase_percentage": 22.2,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:00",
-      "sunset": "21:30",
-      "daylight_duration": "15:30:19 (-1min 21s)",
-      "moon_position_start": 44.65,
-      "moon_position_end": 59.2,
+      "phase_percentage": 84.5,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:15",
+      "sunset": "21:18",
+      "daylight_duration": "15:03:01 (-2min 10s)",
+      "moon_position_start": 249.97,
+      "moon_position_end": 261.84,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "15:29",
-          "constellation": "Bélier",
-          "signe": "Taureau",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "15:29",
           "end_time": "00:00",
-          "constellation": "Taureau",
-          "signe": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "constellation": "Serpentaire",
+          "signe": "Sagittaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-07-11",
       "date_formatted": "Samedi 11/07/2026",
@@ -1045,6 +1000,35 @@
         },
         {
           "start_time": "20:00",
+          "end_time": "00:00",
+          "constellation": "Serpentaire",
+          "signe": "Sagittaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-07-25",
+      "date_formatted": "Samedi 25/07/2026",
+      "saints": [
+        "St-Christophe",
+        "St-Jacques, dit le Majeur",
+        "Ste-Valentine"
+      ],
+      "phase_percentage": 84.5,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:15",
+      "sunset": "21:18",
+      "daylight_duration": "15:03:01 (-2min 10s)",
+      "moon_position_start": 249.97,
+      "moon_position_end": 261.84,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Serpentaire",
           "signe": "Sagittaire",
