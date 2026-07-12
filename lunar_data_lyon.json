@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-07-11T06:01:06.496578+02:00",
+  "generated_at": "2026-07-12T06:01:06.314192+02:00",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
@@ -9,38 +9,6 @@
   "saints_glace_status": "",
   "traditional": [
     {
-      "date_iso": "2026-07-11",
-      "date_formatted": "Samedi 11/07/2026",
-      "saints": [
-        "St-Benoà®t de Nursie",
-        "St-Hidulphe",
-        "St-Jean de Bergame",
-        "Ste-Olga de Russie",
-        "St-Pie 1er",
-        "St-Savin (ou Sabin)"
-      ],
-      "phase_percentage": 13.1,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:01",
-      "sunset": "21:30",
-      "daylight_duration": "15:28:54 (-1min 25s)",
-      "moon_position_start": 59.2,
-      "moon_position_end": 74.07,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "signe": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-07-12",
       "date_formatted": "Dimanche 12/07/2026",
       "saints": [
@@ -518,6 +486,43 @@
           "signe": "Sagittaire",
           "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
           "seve_info": "",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-07-26",
+      "date_formatted": "Dimanche 26/07/2026",
+      "saints": [
+        "Ste-Anne",
+        "St-Joachim"
+      ],
+      "phase_percentage": 90.7,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:16",
+      "sunset": "21:17",
+      "daylight_duration": "15:00:47 (-2min 13s)",
+      "moon_position_start": 261.84,
+      "moon_position_end": 273.72,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "08:24",
+          "constellation": "Serpentaire",
+          "signe": "Sagittaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
+          "blocked": false
+        },
+        {
+          "start_time": "08:24",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "signe": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
@@ -525,38 +530,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-07-11",
-      "date_formatted": "Samedi 11/07/2026",
-      "saints": [
-        "St-Benoà®t de Nursie",
-        "St-Hidulphe",
-        "St-Jean de Bergame",
-        "Ste-Olga de Russie",
-        "St-Pie 1er",
-        "St-Savin (ou Sabin)"
-      ],
-      "phase_percentage": 13.1,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:01",
-      "sunset": "21:30",
-      "daylight_duration": "15:28:54 (-1min 25s)",
-      "moon_position_start": 59.2,
-      "moon_position_end": 74.07,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "signe": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-07-12",
       "date_formatted": "Dimanche 12/07/2026",
       "saints": [
@@ -1034,6 +1007,43 @@
           "signe": "Sagittaire",
           "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
           "seve_info": "",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-07-26",
+      "date_formatted": "Dimanche 26/07/2026",
+      "saints": [
+        "Ste-Anne",
+        "St-Joachim"
+      ],
+      "phase_percentage": 90.7,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:16",
+      "sunset": "21:17",
+      "daylight_duration": "15:00:47 (-2min 13s)",
+      "moon_position_start": 261.84,
+      "moon_position_end": 273.72,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "08:24",
+          "constellation": "Serpentaire",
+          "signe": "Sagittaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
+          "blocked": false
+        },
+        {
+          "start_time": "08:24",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "signe": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
