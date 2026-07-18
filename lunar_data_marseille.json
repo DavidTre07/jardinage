@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-07-13T06:01:06.388624+02:00",
+  "generated_at": "2026-07-18T06:01:10.492272+02:00",
   "location": {
     "lat": "43:17:47.4",
     "lon": "5:22:11.3"
@@ -9,195 +9,6 @@
   "saints_glace_status": "",
   "traditional": [
     {
-      "date_iso": "2026-07-13",
-      "date_formatted": "Lundi 13/07/2026",
-      "saints": [
-        "St-Henri II de Germanie",
-        "St-Joà«l"
-      ],
-      "phase_percentage": 1.6,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:09",
-      "sunset": "21:18",
-      "daylight_duration": "15:08:18 (-1min 23s)",
-      "moon_position_start": 89.14,
-      "moon_position_end": 104.26,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "01:21",
-          "constellation": "Taureau",
-          "signe": "Gémeaux",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "01:21",
-          "end_time": "00:00",
-          "constellation": "Gémeaux",
-          "signe": "Cancer",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
-    {
-      "date_iso": "2026-07-14",
-      "date_formatted": "Mardi 14/07/2026",
-      "saints": [
-        "St-Camille de Lellis"
-      ],
-      "phase_percentage": 0.1,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:10",
-      "sunset": "21:17",
-      "daylight_duration": "15:06:51 (-1min 26s)",
-      "moon_position_start": 104.26,
-      "moon_position_end": 119.26,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Gémeaux",
-          "signe": "Cancer",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
-    {
-      "date_iso": "2026-07-15",
-      "date_formatted": "Mercredi 15/07/2026",
-      "saints": [
-        "St-Bonaventure",
-        "St-Donald"
-      ],
-      "phase_percentage": 1.5,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:11",
-      "sunset": "21:16",
-      "daylight_duration": "15:05:21 (-1min 30s)",
-      "moon_position_start": 119.26,
-      "moon_position_end": 134.01,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "01:11",
-          "constellation": "Gémeaux",
-          "signe": "Cancer",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "01:11",
-          "end_time": "00:00",
-          "constellation": "Cancer",
-          "signe": "Lion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
-    {
-      "date_iso": "2026-07-16",
-      "date_formatted": "Jeudi 16/07/2026",
-      "saints": [
-        "Ste-Marie-Madeleine Postel"
-      ],
-      "phase_percentage": 5.8,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:12",
-      "sunset": "21:16",
-      "daylight_duration": "15:03:47 (-1min 33s)",
-      "moon_position_start": 134.01,
-      "moon_position_end": 148.38,
-      "nodes_info": [
-        "NŒUD LUNAIRE (descendant) le 17/07 à 02h26 - Pas de jardinage de 22h26 à 06h26"
-      ],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "06:36",
-          "constellation": "Cancer",
-          "signe": "Lion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "06:36",
-          "end_time": "22:26",
-          "constellation": "Lion",
-          "signe": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "22:26",
-          "end_time": "00:00",
-          "constellation": "Lion",
-          "signe": "Lion",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        }
-      ]
-    },
-    {
-      "date_iso": "2026-07-17",
-      "date_formatted": "Vendredi 17/07/2026",
-      "saints": [
-        "St-Alexis",
-        "St-Ennode",
-        "St-Léon IV",
-        "Ste-Marcelline"
-      ],
-      "phase_percentage": 12.3,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:13",
-      "sunset": "21:15",
-      "daylight_duration": "15:02:11 (-1min 36s)",
-      "moon_position_start": 148.38,
-      "moon_position_end": 162.32,
-      "nodes_info": [
-        "NŒUD LUNAIRE (descendant) le 17/07 à 02h26 - Pas de jardinage de 22h26 à 06h26"
-      ],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "06:26",
-          "constellation": "Lion",
-          "signe": "Lion",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "06:26",
-          "end_time": "00:00",
-          "constellation": "Lion",
-          "signe": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-07-18",
       "date_formatted": "Samedi 18/07/2026",
       "saints": [
@@ -521,6 +332,186 @@
           "constellation": "Sagittaire",
           "signe": "Capricorne",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-07-28",
+      "date_formatted": "Mardi 28/07/2026",
+      "saints": [
+        "St-Botwin",
+        "St-Nazaire",
+        "St-Samson",
+        "St-Victor 1er"
+      ],
+      "phase_percentage": 98.6,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:23",
+      "sunset": "21:05",
+      "daylight_duration": "14:41:28 (-2min 5s)",
+      "moon_position_start": 285.67,
+      "moon_position_end": 297.72,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "signe": "Capricorne",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-07-29",
+      "date_formatted": "Mercredi 29/07/2026",
+      "saints": [
+        "Ste-Marthe de Béthanie"
+      ],
+      "phase_percentage": 99.9,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:25",
+      "sunset": "21:04",
+      "daylight_duration": "14:39:20 (-2min 7s)",
+      "moon_position_start": 297.72,
+      "moon_position_end": 309.9,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "04:30",
+          "constellation": "Sagittaire",
+          "signe": "Capricorne",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "04:30",
+          "end_time": "00:00",
+          "constellation": "Capricorne",
+          "signe": "Verseau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-07-30",
+      "date_formatted": "Jeudi 30/07/2026",
+      "saints": [
+        "Ste-Juliette de Césarée",
+        "St-Pierre Chrysologue"
+      ],
+      "phase_percentage": 99.4,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:26",
+      "sunset": "21:03",
+      "daylight_duration": "14:37:11 (-2min 9s)",
+      "moon_position_start": 309.9,
+      "moon_position_end": 322.23,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Capricorne",
+          "signe": "Verseau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-07-31",
+      "date_formatted": "Vendredi 31/07/2026",
+      "saints": [
+        "St-Germain d'Auxerre",
+        "St-Ignace de Loyola"
+      ],
+      "phase_percentage": 96.8,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:27",
+      "sunset": "21:02",
+      "daylight_duration": "14:34:59 (-2min 11s)",
+      "moon_position_start": 322.23,
+      "moon_position_end": 334.74,
+      "nodes_info": [
+        "NŒUD LUNAIRE (ascendant) le 31/07 à 13h51 - Pas de jardinage de 09h51 à 17h51"
+      ],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "09:51",
+          "constellation": "Capricorne",
+          "signe": "Verseau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "09:51",
+          "end_time": "14:56",
+          "constellation": "Capricorne",
+          "signe": "Verseau",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "14:56",
+          "end_time": "17:51",
+          "constellation": "Verseau",
+          "signe": "Poissons",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "17:51",
+          "end_time": "00:00",
+          "constellation": "Verseau",
+          "signe": "Poissons",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-08-01",
+      "date_formatted": "Samedi 01/08/2026",
+      "saints": [
+        "Ste-Almède",
+        "St-Alphonse-Marie de Liguori",
+        "St-Exupère"
+      ],
+      "phase_percentage": 92.3,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:28",
+      "sunset": "21:00",
+      "daylight_duration": "14:32:45 (-2min 14s)",
+      "moon_position_start": 334.74,
+      "moon_position_end": 347.45,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Verseau",
+          "signe": "Poissons",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
@@ -529,195 +520,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-07-13",
-      "date_formatted": "Lundi 13/07/2026",
-      "saints": [
-        "St-Henri II de Germanie",
-        "St-Joà«l"
-      ],
-      "phase_percentage": 1.6,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:09",
-      "sunset": "21:18",
-      "daylight_duration": "15:08:18 (-1min 23s)",
-      "moon_position_start": 89.14,
-      "moon_position_end": 104.26,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "01:21",
-          "constellation": "Taureau",
-          "signe": "Gémeaux",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "01:21",
-          "end_time": "00:00",
-          "constellation": "Gémeaux",
-          "signe": "Cancer",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
-    {
-      "date_iso": "2026-07-14",
-      "date_formatted": "Mardi 14/07/2026",
-      "saints": [
-        "St-Camille de Lellis"
-      ],
-      "phase_percentage": 0.1,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:10",
-      "sunset": "21:17",
-      "daylight_duration": "15:06:51 (-1min 26s)",
-      "moon_position_start": 104.26,
-      "moon_position_end": 119.26,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Gémeaux",
-          "signe": "Cancer",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
-    {
-      "date_iso": "2026-07-15",
-      "date_formatted": "Mercredi 15/07/2026",
-      "saints": [
-        "St-Bonaventure",
-        "St-Donald"
-      ],
-      "phase_percentage": 1.5,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:11",
-      "sunset": "21:16",
-      "daylight_duration": "15:05:21 (-1min 30s)",
-      "moon_position_start": 119.26,
-      "moon_position_end": 134.01,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "01:11",
-          "constellation": "Gémeaux",
-          "signe": "Cancer",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "01:11",
-          "end_time": "00:00",
-          "constellation": "Cancer",
-          "signe": "Lion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
-    {
-      "date_iso": "2026-07-16",
-      "date_formatted": "Jeudi 16/07/2026",
-      "saints": [
-        "Ste-Marie-Madeleine Postel"
-      ],
-      "phase_percentage": 5.8,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:12",
-      "sunset": "21:16",
-      "daylight_duration": "15:03:47 (-1min 33s)",
-      "moon_position_start": 134.01,
-      "moon_position_end": 148.38,
-      "nodes_info": [
-        "NŒUD LUNAIRE (descendant) le 17/07 à 02h26 - Pas de jardinage de 22h26 à 06h26"
-      ],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "06:36",
-          "constellation": "Cancer",
-          "signe": "Lion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "06:36",
-          "end_time": "22:26",
-          "constellation": "Lion",
-          "signe": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "22:26",
-          "end_time": "00:00",
-          "constellation": "Lion",
-          "signe": "Lion",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        }
-      ]
-    },
-    {
-      "date_iso": "2026-07-17",
-      "date_formatted": "Vendredi 17/07/2026",
-      "saints": [
-        "St-Alexis",
-        "St-Ennode",
-        "St-Léon IV",
-        "Ste-Marcelline"
-      ],
-      "phase_percentage": 12.3,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:13",
-      "sunset": "21:15",
-      "daylight_duration": "15:02:11 (-1min 36s)",
-      "moon_position_start": 148.38,
-      "moon_position_end": 162.32,
-      "nodes_info": [
-        "NŒUD LUNAIRE (descendant) le 17/07 à 02h26 - Pas de jardinage de 22h26 à 06h26"
-      ],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "06:26",
-          "constellation": "Lion",
-          "signe": "Lion",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "06:26",
-          "end_time": "00:00",
-          "constellation": "Lion",
-          "signe": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-07-18",
       "date_formatted": "Samedi 18/07/2026",
       "saints": [
@@ -1041,6 +843,186 @@
           "constellation": "Sagittaire",
           "signe": "Capricorne",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-07-28",
+      "date_formatted": "Mardi 28/07/2026",
+      "saints": [
+        "St-Botwin",
+        "St-Nazaire",
+        "St-Samson",
+        "St-Victor 1er"
+      ],
+      "phase_percentage": 98.6,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:23",
+      "sunset": "21:05",
+      "daylight_duration": "14:41:28 (-2min 5s)",
+      "moon_position_start": 285.67,
+      "moon_position_end": 297.72,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "signe": "Capricorne",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-07-29",
+      "date_formatted": "Mercredi 29/07/2026",
+      "saints": [
+        "Ste-Marthe de Béthanie"
+      ],
+      "phase_percentage": 99.9,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "06:25",
+      "sunset": "21:04",
+      "daylight_duration": "14:39:20 (-2min 7s)",
+      "moon_position_start": 297.72,
+      "moon_position_end": 309.9,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "04:30",
+          "constellation": "Sagittaire",
+          "signe": "Capricorne",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "04:30",
+          "end_time": "00:00",
+          "constellation": "Capricorne",
+          "signe": "Verseau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-07-30",
+      "date_formatted": "Jeudi 30/07/2026",
+      "saints": [
+        "Ste-Juliette de Césarée",
+        "St-Pierre Chrysologue"
+      ],
+      "phase_percentage": 99.4,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:26",
+      "sunset": "21:03",
+      "daylight_duration": "14:37:11 (-2min 9s)",
+      "moon_position_start": 309.9,
+      "moon_position_end": 322.23,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Capricorne",
+          "signe": "Verseau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-07-31",
+      "date_formatted": "Vendredi 31/07/2026",
+      "saints": [
+        "St-Germain d'Auxerre",
+        "St-Ignace de Loyola"
+      ],
+      "phase_percentage": 96.8,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:27",
+      "sunset": "21:02",
+      "daylight_duration": "14:34:59 (-2min 11s)",
+      "moon_position_start": 322.23,
+      "moon_position_end": 334.74,
+      "nodes_info": [
+        "NŒUD LUNAIRE (ascendant) le 31/07 à 13h51 - Pas de jardinage de 09h51 à 17h51"
+      ],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "09:51",
+          "constellation": "Capricorne",
+          "signe": "Verseau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "09:51",
+          "end_time": "14:56",
+          "constellation": "Capricorne",
+          "signe": "Verseau",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "14:56",
+          "end_time": "17:51",
+          "constellation": "Verseau",
+          "signe": "Poissons",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "17:51",
+          "end_time": "00:00",
+          "constellation": "Verseau",
+          "signe": "Poissons",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-08-01",
+      "date_formatted": "Samedi 01/08/2026",
+      "saints": [
+        "Ste-Almède",
+        "St-Alphonse-Marie de Liguori",
+        "St-Exupère"
+      ],
+      "phase_percentage": 92.3,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:28",
+      "sunset": "21:00",
+      "daylight_duration": "14:32:45 (-2min 14s)",
+      "moon_position_start": 334.74,
+      "moon_position_end": 347.45,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Verseau",
+          "signe": "Poissons",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
