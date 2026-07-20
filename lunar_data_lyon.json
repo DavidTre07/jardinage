@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-07-19T06:01:34.500321+02:00",
+  "generated_at": "2026-07-20T06:01:04.620912+02:00",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
@@ -8,35 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-07-19",
-      "date_formatted": "Dimanche 19/07/2026",
-      "saints": [
-        "St-Arsène le Grand",
-        "Ste-Macrine la Jeune",
-        "Ste-Marie d'Espagne"
-      ],
-      "phase_percentage": 29.8,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:09",
-      "sunset": "21:24",
-      "daylight_duration": "15:15:23 (-1min 53s)",
-      "moon_position_start": 175.81,
-      "moon_position_end": 188.87,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Vierge",
-          "signe": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-07-20",
       "date_formatted": "Lundi 20/07/2026",
@@ -515,38 +486,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-07-19",
-      "date_formatted": "Dimanche 19/07/2026",
+      "date_iso": "2026-08-03",
+      "date_formatted": "Lundi 03/08/2026",
       "saints": [
-        "St-Arsène le Grand",
-        "Ste-Macrine la Jeune",
-        "Ste-Marie d'Espagne"
+        "Ste-Lydie la Pourpre"
       ],
-      "phase_percentage": 29.8,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:09",
-      "sunset": "21:24",
-      "daylight_duration": "15:15:23 (-1min 53s)",
-      "moon_position_start": 175.81,
-      "moon_position_end": 188.87,
+      "phase_percentage": 77.9,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:25",
+      "sunset": "21:07",
+      "daylight_duration": "14:41:34 (-2min 31s)",
+      "moon_position_start": 0.38,
+      "moon_position_end": 13.56,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Vierge",
-          "signe": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "constellation": "Poissons",
+          "signe": "Bélier",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-07-20",
       "date_formatted": "Lundi 20/07/2026",
@@ -1017,6 +986,33 @@
         },
         {
           "start_time": "23:17",
+          "end_time": "00:00",
+          "constellation": "Poissons",
+          "signe": "Bélier",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-08-03",
+      "date_formatted": "Lundi 03/08/2026",
+      "saints": [
+        "Ste-Lydie la Pourpre"
+      ],
+      "phase_percentage": 77.9,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:25",
+      "sunset": "21:07",
+      "daylight_duration": "14:41:34 (-2min 31s)",
+      "moon_position_start": 0.38,
+      "moon_position_end": 13.56,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Poissons",
           "signe": "Bélier",
