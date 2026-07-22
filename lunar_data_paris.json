@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-07-21T06:01:04.994292+02:00",
+  "generated_at": "2026-07-22T06:01:01.284558+02:00",
   "location": {
     "lat": "48:51:23.8",
     "lon": "2:21:07.9"
@@ -8,34 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-07-21",
-      "date_formatted": "Mardi 21/07/2026",
-      "saints": [
-        "St-Laurent de Brindisi",
-        "Ste-Praxède"
-      ],
-      "phase_percentage": 49.7,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:09",
-      "sunset": "21:43",
-      "daylight_duration": "15:34:21 (-2min 16s)",
-      "moon_position_start": 201.56,
-      "moon_position_end": 213.94,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Vierge",
-          "signe": "Balance",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-07-22",
       "date_formatted": "Mercredi 22/07/2026",
@@ -520,37 +492,38 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-07-21",
-      "date_formatted": "Mardi 21/07/2026",
+      "date_iso": "2026-08-05",
+      "date_formatted": "Mercredi 05/08/2026",
       "saints": [
-        "St-Laurent de Brindisi",
-        "Ste-Praxède"
+        "St-Abel",
+        "St-Memmius",
+        "St-Oswald"
       ],
-      "phase_percentage": 49.7,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:09",
-      "sunset": "21:43",
-      "daylight_duration": "15:34:21 (-2min 16s)",
-      "moon_position_start": 201.56,
-      "moon_position_end": 213.94,
+      "phase_percentage": 57.7,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:28",
+      "sunset": "21:23",
+      "daylight_duration": "14:54:33 (-2min 56s)",
+      "moon_position_start": 27.02,
+      "moon_position_end": 40.77,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Vierge",
-          "signe": "Balance",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "constellation": "Bélier",
+          "signe": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-07-22",
       "date_formatted": "Mercredi 22/07/2026",
@@ -1027,6 +1000,35 @@
         },
         {
           "start_time": "23:57",
+          "end_time": "00:00",
+          "constellation": "Bélier",
+          "signe": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-08-05",
+      "date_formatted": "Mercredi 05/08/2026",
+      "saints": [
+        "St-Abel",
+        "St-Memmius",
+        "St-Oswald"
+      ],
+      "phase_percentage": 57.7,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:28",
+      "sunset": "21:23",
+      "daylight_duration": "14:54:33 (-2min 56s)",
+      "moon_position_start": 27.02,
+      "moon_position_end": 40.77,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Bélier",
           "signe": "Bélier",
