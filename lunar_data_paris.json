@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-07-22T06:01:01.284558+02:00",
+  "generated_at": "2026-07-23T06:01:05.005500+02:00",
   "location": {
     "lat": "48:51:23.8",
     "lon": "2:21:07.9"
@@ -9,43 +9,6 @@
   "saints_glace_status": "",
   "traditional": [
     {
-      "date_iso": "2026-07-22",
-      "date_formatted": "Mercredi 22/07/2026",
-      "saints": [
-        "Ste-Marie-Madeleine",
-        "Ste-Wandrille"
-      ],
-      "phase_percentage": 59.4,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:10",
-      "sunset": "21:42",
-      "daylight_duration": "15:32:01 (-2min 19s)",
-      "moon_position_start": 213.94,
-      "moon_position_end": 226.09,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "07:58",
-          "constellation": "Vierge",
-          "signe": "Scorpion",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "07:58",
-          "end_time": "00:00",
-          "constellation": "Balance",
-          "signe": "Scorpion",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-07-23",
       "date_formatted": "Jeudi 23/07/2026",
       "saints": [
@@ -517,6 +480,43 @@
           "constellation": "Bélier",
           "signe": "Bélier",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-08-06",
+      "date_formatted": "Jeudi 06/08/2026",
+      "saints": [
+        "St-Sixte II",
+        "Transfiguration"
+      ],
+      "phase_percentage": 46.5,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:30",
+      "sunset": "21:21",
+      "daylight_duration": "14:51:35 (-2min 58s)",
+      "moon_position_start": 40.77,
+      "moon_position_end": 54.81,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "22:37",
+          "constellation": "Bélier",
+          "signe": "Taureau",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "22:37",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "signe": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
@@ -525,43 +525,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-07-22",
-      "date_formatted": "Mercredi 22/07/2026",
-      "saints": [
-        "Ste-Marie-Madeleine",
-        "Ste-Wandrille"
-      ],
-      "phase_percentage": 59.4,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:10",
-      "sunset": "21:42",
-      "daylight_duration": "15:32:01 (-2min 19s)",
-      "moon_position_start": 213.94,
-      "moon_position_end": 226.09,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "07:58",
-          "constellation": "Vierge",
-          "signe": "Scorpion",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "07:58",
-          "end_time": "00:00",
-          "constellation": "Balance",
-          "signe": "Scorpion",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-07-23",
       "date_formatted": "Jeudi 23/07/2026",
       "saints": [
@@ -1033,6 +996,43 @@
           "constellation": "Bélier",
           "signe": "Bélier",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-08-06",
+      "date_formatted": "Jeudi 06/08/2026",
+      "saints": [
+        "St-Sixte II",
+        "Transfiguration"
+      ],
+      "phase_percentage": 46.5,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:30",
+      "sunset": "21:21",
+      "daylight_duration": "14:51:35 (-2min 58s)",
+      "moon_position_start": 40.77,
+      "moon_position_end": 54.81,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "22:37",
+          "constellation": "Bélier",
+          "signe": "Taureau",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "22:37",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "signe": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
