@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-07-24T06:01:04.448287+02:00",
+  "generated_at": "2026-07-25T06:01:06.172791+02:00",
   "location": {
     "lat": "47:13:06.2",
     "lon": "-1:33:13.0"
@@ -8,52 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-07-24",
-      "date_formatted": "Vendredi 24/07/2026",
-      "saints": [
-        "Ste-Christine de Bolsène",
-        "St-Wulfhad"
-      ],
-      "phase_percentage": 77.1,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:34",
-      "sunset": "21:49",
-      "daylight_duration": "15:15:08 (-2min 16s)",
-      "moon_position_start": 238.08,
-      "moon_position_end": 249.97,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "05:52",
-          "constellation": "Balance",
-          "signe": "Scorpion",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "05:52",
-          "end_time": "20:00",
-          "constellation": "Scorpion",
-          "signe": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "20:00",
-          "end_time": "00:00",
-          "constellation": "Serpentaire",
-          "signe": "Sagittaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-07-25",
       "date_formatted": "Samedi 25/07/2026",
@@ -517,6 +471,34 @@
           "end_time": "00:00",
           "constellation": "Taureau",
           "signe": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-08-08",
+      "date_formatted": "Samedi 08/08/2026",
+      "saints": [
+        "St-Cyriaque",
+        "St-Dominique de Guzman"
+      ],
+      "phase_percentage": 24.6,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:53",
+      "sunset": "21:29",
+      "daylight_duration": "14:36:10 (-2min 50s)",
+      "moon_position_start": 69.12,
+      "moon_position_end": 83.66,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "signe": "Gémeaux",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
@@ -526,52 +508,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-07-24",
-      "date_formatted": "Vendredi 24/07/2026",
-      "saints": [
-        "Ste-Christine de Bolsène",
-        "St-Wulfhad"
-      ],
-      "phase_percentage": 77.1,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:34",
-      "sunset": "21:49",
-      "daylight_duration": "15:15:08 (-2min 16s)",
-      "moon_position_start": 238.08,
-      "moon_position_end": 249.97,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "05:52",
-          "constellation": "Balance",
-          "signe": "Scorpion",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "05:52",
-          "end_time": "20:00",
-          "constellation": "Scorpion",
-          "signe": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "20:00",
-          "end_time": "00:00",
-          "constellation": "Serpentaire",
-          "signe": "Sagittaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-07-25",
       "date_formatted": "Samedi 25/07/2026",
       "saints": [
@@ -1034,6 +970,34 @@
           "end_time": "00:00",
           "constellation": "Taureau",
           "signe": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-08-08",
+      "date_formatted": "Samedi 08/08/2026",
+      "saints": [
+        "St-Cyriaque",
+        "St-Dominique de Guzman"
+      ],
+      "phase_percentage": 24.6,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:53",
+      "sunset": "21:29",
+      "daylight_duration": "14:36:10 (-2min 50s)",
+      "moon_position_start": 69.12,
+      "moon_position_end": 83.66,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "signe": "Gémeaux",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
