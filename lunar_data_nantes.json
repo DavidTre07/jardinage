@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-07-25T06:01:06.172791+02:00",
+  "generated_at": "2026-07-26T06:01:31.502854+02:00",
   "location": {
     "lat": "47:13:06.2",
     "lon": "-1:33:13.0"
@@ -9,35 +9,6 @@
   "saints_glace_status": "",
   "traditional": [
     {
-      "date_iso": "2026-07-25",
-      "date_formatted": "Samedi 25/07/2026",
-      "saints": [
-        "St-Christophe",
-        "St-Jacques, dit le Majeur",
-        "Ste-Valentine"
-      ],
-      "phase_percentage": 84.5,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:35",
-      "sunset": "21:48",
-      "daylight_duration": "15:12:49 (-2min 18s)",
-      "moon_position_start": 249.97,
-      "moon_position_end": 261.84,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Serpentaire",
-          "signe": "Sagittaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-07-26",
       "date_formatted": "Dimanche 26/07/2026",
       "saints": [
@@ -501,6 +472,42 @@
           "signe": "Gémeaux",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-08-09",
+      "date_formatted": "Dimanche 09/08/2026",
+      "saints": [
+        "St-Amour (ou Amor)"
+      ],
+      "phase_percentage": 15.1,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:54",
+      "sunset": "21:27",
+      "daylight_duration": "14:33:18 (-2min 52s)",
+      "moon_position_start": 83.66,
+      "moon_position_end": 98.36,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "10:22",
+          "constellation": "Taureau",
+          "signe": "Gémeaux",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "10:22",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "signe": "Cancer",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
@@ -508,35 +515,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-07-25",
-      "date_formatted": "Samedi 25/07/2026",
-      "saints": [
-        "St-Christophe",
-        "St-Jacques, dit le Majeur",
-        "Ste-Valentine"
-      ],
-      "phase_percentage": 84.5,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:35",
-      "sunset": "21:48",
-      "daylight_duration": "15:12:49 (-2min 18s)",
-      "moon_position_start": 249.97,
-      "moon_position_end": 261.84,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Serpentaire",
-          "signe": "Sagittaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-07-26",
       "date_formatted": "Dimanche 26/07/2026",
       "saints": [
@@ -1000,6 +978,42 @@
           "signe": "Gémeaux",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-08-09",
+      "date_formatted": "Dimanche 09/08/2026",
+      "saints": [
+        "St-Amour (ou Amor)"
+      ],
+      "phase_percentage": 15.1,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "06:54",
+      "sunset": "21:27",
+      "daylight_duration": "14:33:18 (-2min 52s)",
+      "moon_position_start": 83.66,
+      "moon_position_end": 98.36,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "10:22",
+          "constellation": "Taureau",
+          "signe": "Gémeaux",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "10:22",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "signe": "Cancer",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
