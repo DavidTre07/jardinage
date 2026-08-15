@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-08-14T06:01:02.968272+02:00",
+  "generated_at": "2026-08-15T06:01:05.315706+02:00",
   "location": {
     "lat": "43:36:16.9",
     "lon": "1:26:39.1"
@@ -8,36 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-08-14",
-      "date_formatted": "Vendredi 14/08/2026",
-      "saints": [
-        "St-Eusèbe de Rome",
-        "St-Hippolyte",
-        "St-Maximien Kolbe",
-        "Ste-Radegonde"
-      ],
-      "phase_percentage": 3.7,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:57",
-      "sunset": "20:59",
-      "daylight_duration": "14:02:21 (-2min 36s)",
-      "moon_position_start": 156.52,
-      "moon_position_end": 170.4,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Lion",
-          "signe": "Vierge",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-08-15",
       "date_formatted": "Samedi 15/08/2026",
@@ -504,6 +474,33 @@
         },
         {
           "start_time": "00:43",
+          "end_time": "00:00",
+          "constellation": "Verseau",
+          "signe": "Poissons",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-08-29",
+      "date_formatted": "Samedi 29/08/2026",
+      "saints": [
+        "Ste-Sabine"
+      ],
+      "phase_percentage": 98.3,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:14",
+      "sunset": "20:35",
+      "daylight_duration": "13:21:11 (-2min 50s)",
+      "moon_position_start": 344.01,
+      "moon_position_end": 357.08,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Verseau",
           "signe": "Poissons",
@@ -516,36 +513,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-08-14",
-      "date_formatted": "Vendredi 14/08/2026",
-      "saints": [
-        "St-Eusèbe de Rome",
-        "St-Hippolyte",
-        "St-Maximien Kolbe",
-        "Ste-Radegonde"
-      ],
-      "phase_percentage": 3.7,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:57",
-      "sunset": "20:59",
-      "daylight_duration": "14:02:21 (-2min 36s)",
-      "moon_position_start": 156.52,
-      "moon_position_end": 170.4,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Lion",
-          "signe": "Vierge",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-08-15",
       "date_formatted": "Samedi 15/08/2026",
       "saints": [
@@ -1011,6 +978,33 @@
         },
         {
           "start_time": "00:43",
+          "end_time": "00:00",
+          "constellation": "Verseau",
+          "signe": "Poissons",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-08-29",
+      "date_formatted": "Samedi 29/08/2026",
+      "saints": [
+        "Ste-Sabine"
+      ],
+      "phase_percentage": 98.3,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:14",
+      "sunset": "20:35",
+      "daylight_duration": "13:21:11 (-2min 50s)",
+      "moon_position_start": 344.01,
+      "moon_position_end": 357.08,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Verseau",
           "signe": "Poissons",
