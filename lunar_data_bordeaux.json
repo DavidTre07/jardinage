@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-08-17T06:01:02.940568+02:00",
+  "generated_at": "2026-08-18T06:01:07.521341+02:00",
   "location": {
     "lat": "44:50:16.1",
     "lon": "-0:34:45.1"
@@ -9,33 +9,6 @@
   "saints_glace_status": "",
   "traditional": [
     {
-      "date_iso": "2026-08-17",
-      "date_formatted": "Lundi 17/08/2026",
-      "saints": [
-        "St-Hyacinthe"
-      ],
-      "phase_percentage": 24.6,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:06",
-      "sunset": "21:05",
-      "daylight_duration": "13:59:17 (-2min 47s)",
-      "moon_position_start": 197.0,
-      "moon_position_end": 209.75,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Vierge",
-          "signe": "Balance",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-08-18",
       "date_formatted": "Mardi 18/08/2026",
       "saints": [
@@ -500,6 +473,43 @@
           "constellation": "Poissons",
           "signe": "Bélier",
           "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-09-01",
+      "date_formatted": "Mardi 01/09/2026",
+      "saints": [
+        "St-Gilles",
+        "Ste-Vérène"
+      ],
+      "phase_percentage": 80.7,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:24",
+      "sunset": "20:39",
+      "daylight_duration": "13:15:37 (-2min 59s)",
+      "moon_position_start": 23.91,
+      "moon_position_end": 37.65,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "05:25",
+          "constellation": "Poissons",
+          "signe": "Bélier",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "05:25",
+          "end_time": "00:00",
+          "constellation": "Bélier",
+          "signe": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
@@ -508,33 +518,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-08-17",
-      "date_formatted": "Lundi 17/08/2026",
-      "saints": [
-        "St-Hyacinthe"
-      ],
-      "phase_percentage": 24.6,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:06",
-      "sunset": "21:05",
-      "daylight_duration": "13:59:17 (-2min 47s)",
-      "moon_position_start": 197.0,
-      "moon_position_end": 209.75,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Vierge",
-          "signe": "Balance",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-08-18",
       "date_formatted": "Mardi 18/08/2026",
       "saints": [
@@ -999,6 +982,43 @@
           "constellation": "Poissons",
           "signe": "Bélier",
           "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-09-01",
+      "date_formatted": "Mardi 01/09/2026",
+      "saints": [
+        "St-Gilles",
+        "Ste-Vérène"
+      ],
+      "phase_percentage": 80.7,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:24",
+      "sunset": "20:39",
+      "daylight_duration": "13:15:37 (-2min 59s)",
+      "moon_position_start": 23.91,
+      "moon_position_end": 37.65,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "05:25",
+          "constellation": "Poissons",
+          "signe": "Bélier",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "05:25",
+          "end_time": "00:00",
+          "constellation": "Bélier",
+          "signe": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
