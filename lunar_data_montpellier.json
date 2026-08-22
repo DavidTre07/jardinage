@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-08-21T06:00:56.905255+02:00",
+  "generated_at": "2026-08-22T06:00:56.549077+02:00",
   "location": {
     "lat": "43:36:39.6",
     "lon": "3:52:36.1"
@@ -9,42 +9,6 @@
   "saints_glace_status": "",
   "traditional": [
     {
-      "date_iso": "2026-08-21",
-      "date_formatted": "Vendredi 21/08/2026",
-      "saints": [
-        "St-Pie X"
-      ],
-      "phase_percentage": 62.4,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:55",
-      "sunset": "20:39",
-      "daylight_duration": "13:43:35 (-2min 44s)",
-      "moon_position_start": 246.36,
-      "moon_position_end": 258.26,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "03:18",
-          "constellation": "Scorpion",
-          "signe": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "03:18",
-          "end_time": "00:00",
-          "constellation": "Serpentaire",
-          "signe": "Sagittaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-08-22",
       "date_formatted": "Samedi 22/08/2026",
       "saints": [
@@ -507,6 +471,43 @@
           "signe": "Gémeaux",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-09-05",
+      "date_formatted": "Samedi 05/09/2026",
+      "saints": [
+        "St-Bertin",
+        "St-Laurent Justinien"
+      ],
+      "phase_percentage": 37.7,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:12",
+      "sunset": "20:13",
+      "daylight_duration": "13:01:07 (-2min 53s)",
+      "moon_position_start": 79.82,
+      "moon_position_end": 94.09,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "17:08",
+          "constellation": "Taureau",
+          "signe": "Gémeaux",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "17:08",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "signe": "Cancer",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
@@ -514,42 +515,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-08-21",
-      "date_formatted": "Vendredi 21/08/2026",
-      "saints": [
-        "St-Pie X"
-      ],
-      "phase_percentage": 62.4,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:55",
-      "sunset": "20:39",
-      "daylight_duration": "13:43:35 (-2min 44s)",
-      "moon_position_start": 246.36,
-      "moon_position_end": 258.26,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "03:18",
-          "constellation": "Scorpion",
-          "signe": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "03:18",
-          "end_time": "00:00",
-          "constellation": "Serpentaire",
-          "signe": "Sagittaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-08-22",
       "date_formatted": "Samedi 22/08/2026",
       "saints": [
@@ -1012,6 +977,43 @@
           "signe": "Gémeaux",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-09-05",
+      "date_formatted": "Samedi 05/09/2026",
+      "saints": [
+        "St-Bertin",
+        "St-Laurent Justinien"
+      ],
+      "phase_percentage": 37.7,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:12",
+      "sunset": "20:13",
+      "daylight_duration": "13:01:07 (-2min 53s)",
+      "moon_position_start": 79.82,
+      "moon_position_end": 94.09,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "17:08",
+          "constellation": "Taureau",
+          "signe": "Gémeaux",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "17:08",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "signe": "Cancer",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
