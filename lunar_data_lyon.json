@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-08-22T06:00:53.445951+02:00",
+  "generated_at": "2026-08-23T06:00:54.536261+02:00",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
@@ -8,44 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-08-22",
-      "date_formatted": "Samedi 22/08/2026",
-      "saints": [
-        "St-Fabrice",
-        "St-Philibert",
-        "St-Symphorien"
-      ],
-      "phase_percentage": 71.3,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:48",
-      "sunset": "20:37",
-      "daylight_duration": "13:48:28 (-2min 58s)",
-      "moon_position_start": 258.26,
-      "moon_position_end": 270.13,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "15:39",
-          "constellation": "Serpentaire",
-          "signe": "Sagittaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
-          "blocked": false
-        },
-        {
-          "start_time": "15:39",
-          "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "signe": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-08-23",
       "date_formatted": "Dimanche 23/08/2026",
@@ -511,47 +473,37 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-08-22",
-      "date_formatted": "Samedi 22/08/2026",
+      "date_iso": "2026-09-06",
+      "date_formatted": "Dimanche 06/09/2026",
       "saints": [
-        "St-Fabrice",
-        "St-Philibert",
-        "St-Symphorien"
+        "St-Bertrand de Garrigues",
+        "St-Eustache"
       ],
-      "phase_percentage": 71.3,
+      "phase_percentage": 26.9,
       "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:48",
-      "sunset": "20:37",
-      "daylight_duration": "13:48:28 (-2min 58s)",
-      "moon_position_start": 258.26,
-      "moon_position_end": 270.13,
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:07",
+      "sunset": "20:09",
+      "daylight_duration": "13:02:24 (-3min 8s)",
+      "moon_position_start": 94.09,
+      "moon_position_end": 108.4,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "15:39",
-          "constellation": "Serpentaire",
-          "signe": "Sagittaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
-          "blocked": false
-        },
-        {
-          "start_time": "15:39",
           "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "signe": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "constellation": "Gémeaux",
+          "signe": "Cancer",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-08-23",
       "date_formatted": "Dimanche 23/08/2026",
@@ -1009,6 +961,34 @@
         },
         {
           "start_time": "17:08",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "signe": "Cancer",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-09-06",
+      "date_formatted": "Dimanche 06/09/2026",
+      "saints": [
+        "St-Bertrand de Garrigues",
+        "St-Eustache"
+      ],
+      "phase_percentage": 26.9,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:07",
+      "sunset": "20:09",
+      "daylight_duration": "13:02:24 (-3min 8s)",
+      "moon_position_start": 94.09,
+      "moon_position_end": 108.4,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Gémeaux",
           "signe": "Cancer",
