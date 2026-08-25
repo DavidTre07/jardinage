@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-08-24T06:00:55.153397+02:00",
+  "generated_at": "2026-08-25T06:00:54.181151+02:00",
   "location": {
     "lat": "43:17:47.4",
     "lon": "5:22:11.3"
@@ -8,34 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-08-24",
-      "date_formatted": "Lundi 24/08/2026",
-      "saints": [
-        "St-Barthélémy",
-        "St-Ouen"
-      ],
-      "phase_percentage": 86.6,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:53",
-      "sunset": "20:27",
-      "daylight_duration": "13:34:18 (-2min 44s)",
-      "moon_position_start": 282.04,
-      "moon_position_end": 294.06,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "signe": "Capricorne",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-08-25",
       "date_formatted": "Mardi 25/08/2026",
@@ -511,37 +483,37 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-08-24",
-      "date_formatted": "Lundi 24/08/2026",
+      "date_iso": "2026-09-08",
+      "date_formatted": "Mardi 08/09/2026",
       "saints": [
-        "St-Barthélémy",
-        "St-Ouen"
+        "St-Adrien",
+        "Naissance de Marie"
       ],
-      "phase_percentage": 86.6,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:53",
-      "sunset": "20:27",
-      "daylight_duration": "13:34:18 (-2min 44s)",
-      "moon_position_start": 282.04,
-      "moon_position_end": 294.06,
+      "phase_percentage": 9.4,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:09",
+      "sunset": "20:01",
+      "daylight_duration": "12:51:52 (-2min 53s)",
+      "moon_position_start": 122.71,
+      "moon_position_end": 136.94,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "signe": "Capricorne",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "constellation": "Cancer",
+          "signe": "Lion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-08-25",
       "date_formatted": "Mardi 25/08/2026",
@@ -1009,6 +981,34 @@
         },
         {
           "start_time": "19:27",
+          "end_time": "00:00",
+          "constellation": "Cancer",
+          "signe": "Lion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-09-08",
+      "date_formatted": "Mardi 08/09/2026",
+      "saints": [
+        "St-Adrien",
+        "Naissance de Marie"
+      ],
+      "phase_percentage": 9.4,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:09",
+      "sunset": "20:01",
+      "daylight_duration": "12:51:52 (-2min 53s)",
+      "moon_position_start": 122.71,
+      "moon_position_end": 136.94,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Cancer",
           "signe": "Lion",
