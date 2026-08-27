@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-08-26T06:00:55.654539+02:00",
+  "generated_at": "2026-08-27T06:00:55.329274+02:00",
   "location": {
     "lat": "43:42:36.7",
     "lon": "7:15:43.2"
@@ -9,33 +9,6 @@
   "saints_glace_status": "",
   "traditional": [
     {
-      "date_iso": "2026-08-26",
-      "date_formatted": "Mercredi 26/08/2026",
-      "saints": [
-        "St-Zéphirin"
-      ],
-      "phase_percentage": 96.8,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:47",
-      "sunset": "20:17",
-      "daylight_duration": "13:30:01 (-2min 48s)",
-      "moon_position_start": 306.23,
-      "moon_position_end": 318.59,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
-          "signe": "Verseau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-08-27",
       "date_formatted": "Jeudi 27/08/2026",
       "saints": [
@@ -522,39 +495,52 @@
           "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
           "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
           "blocked": true
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-09-10",
+      "date_formatted": "Jeudi 10/09/2026",
+      "saints": [
+        "St-Aubert",
+        "St-Nicolas de Tolentino",
+        "Ste  Pulchérie Auguste"
+      ],
+      "phase_percentage": 0.7,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:04",
+      "sunset": "19:50",
+      "daylight_duration": "12:46:42 (-2min 56s)",
+      "moon_position_start": 151.04,
+      "moon_position_end": 164.93,
+      "nodes_info": [
+        "NŒUD LUNAIRE (descendant) le 09/09 à 21h15 - Pas de jardinage de 17h15 à 01h15"
+      ],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "01:15",
+          "constellation": "Lion",
+          "signe": "Vierge",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "01:15",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "signe": "Vierge",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
         }
       ]
     }
   ],
   "constellation": [
     {
-      "date_iso": "2026-08-26",
-      "date_formatted": "Mercredi 26/08/2026",
-      "saints": [
-        "St-Zéphirin"
-      ],
-      "phase_percentage": 96.8,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "06:47",
-      "sunset": "20:17",
-      "daylight_duration": "13:30:01 (-2min 48s)",
-      "moon_position_start": 306.23,
-      "moon_position_end": 318.59,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
-          "signe": "Verseau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-08-27",
       "date_formatted": "Jeudi 27/08/2026",
       "saints": [
@@ -1041,6 +1027,46 @@
           "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
           "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
           "blocked": true
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-09-10",
+      "date_formatted": "Jeudi 10/09/2026",
+      "saints": [
+        "St-Aubert",
+        "St-Nicolas de Tolentino",
+        "Ste  Pulchérie Auguste"
+      ],
+      "phase_percentage": 0.7,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:04",
+      "sunset": "19:50",
+      "daylight_duration": "12:46:42 (-2min 56s)",
+      "moon_position_start": 151.04,
+      "moon_position_end": 164.93,
+      "nodes_info": [
+        "NŒUD LUNAIRE (descendant) le 09/09 à 21h15 - Pas de jardinage de 17h15 à 01h15"
+      ],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "01:15",
+          "constellation": "Lion",
+          "signe": "Vierge",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "01:15",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "signe": "Vierge",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
         }
       ]
     }
