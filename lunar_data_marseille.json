@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-08-28T06:00:55.937428+02:00",
+  "generated_at": "2026-08-29T06:00:55.598866+02:00",
   "location": {
     "lat": "43:17:47.4",
     "lon": "5:22:11.3"
@@ -8,45 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-08-28",
-      "date_formatted": "Vendredi 28/08/2026",
-      "saints": [
-        "St-Augustin",
-        "St-Julien de Brioude"
-      ],
-      "phase_percentage": 99.9,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:57",
-      "sunset": "20:20",
-      "daylight_duration": "13:23:12 (-2min 47s)",
-      "moon_position_start": 331.18,
-      "moon_position_end": 344.01,
-      "nodes_info": [
-        "NŒUD LUNAIRE (ascendant) le 27/08 à 20h43 - Pas de jardinage de 16h43 à 00h43"
-      ],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:43",
-          "constellation": "Verseau",
-          "signe": "Poissons",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "00:43",
-          "end_time": "00:00",
-          "constellation": "Verseau",
-          "signe": "Poissons",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-08-29",
       "date_formatted": "Samedi 29/08/2026",
@@ -528,48 +489,38 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-08-28",
-      "date_formatted": "Vendredi 28/08/2026",
+      "date_iso": "2026-09-12",
+      "date_formatted": "Samedi 12/09/2026",
       "saints": [
-        "St-Augustin",
-        "St-Julien de Brioude"
+        "St-Autonome",
+        "St-Curonote",
+        "St-Théodule"
       ],
-      "phase_percentage": 99.9,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:57",
-      "sunset": "20:20",
-      "daylight_duration": "13:23:12 (-2min 47s)",
-      "moon_position_start": 331.18,
-      "moon_position_end": 344.01,
-      "nodes_info": [
-        "NŒUD LUNAIRE (ascendant) le 27/08 à 20h43 - Pas de jardinage de 16h43 à 00h43"
-      ],
+      "phase_percentage": 2.0,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:14",
+      "sunset": "19:54",
+      "daylight_duration": "12:40:16 (-2min 54s)",
+      "moon_position_start": 178.58,
+      "moon_position_end": 191.93,
+      "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "00:43",
-          "constellation": "Verseau",
-          "signe": "Poissons",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "00:43",
           "end_time": "00:00",
-          "constellation": "Verseau",
-          "signe": "Poissons",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "constellation": "Vierge",
+          "signe": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-08-29",
       "date_formatted": "Samedi 29/08/2026",
@@ -1043,6 +994,35 @@
         },
         {
           "start_time": "15:53",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "signe": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-09-12",
+      "date_formatted": "Samedi 12/09/2026",
+      "saints": [
+        "St-Autonome",
+        "St-Curonote",
+        "St-Théodule"
+      ],
+      "phase_percentage": 2.0,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:14",
+      "sunset": "19:54",
+      "daylight_duration": "12:40:16 (-2min 54s)",
+      "moon_position_start": 178.58,
+      "moon_position_end": 191.93,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Vierge",
           "signe": "Vierge",
