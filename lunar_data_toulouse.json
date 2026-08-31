@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-08-30T06:00:52.090789+02:00",
+  "generated_at": "2026-08-31T06:00:51.268220+02:00",
   "location": {
     "lat": "43:36:16.9",
     "lon": "1:26:39.1"
@@ -8,42 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-08-30",
-      "date_formatted": "Dimanche 30/08/2026",
-      "saints": [
-        "St-Fiacre"
-      ],
-      "phase_percentage": 94.5,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:15",
-      "sunset": "20:33",
-      "daylight_duration": "13:18:21 (-2min 50s)",
-      "moon_position_start": 357.08,
-      "moon_position_end": 10.38,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "05:18",
-          "constellation": "Verseau",
-          "signe": "Poissons",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "05:18",
-          "end_time": "00:00",
-          "constellation": "Poissons",
-          "signe": "Bélier",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-08-31",
       "date_formatted": "Lundi 31/08/2026",
@@ -522,45 +486,39 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-08-30",
-      "date_formatted": "Dimanche 30/08/2026",
+      "date_iso": "2026-09-14",
+      "date_formatted": "Lundi 14/09/2026",
       "saints": [
-        "St-Fiacre"
+        "Croix Glorieuse",
+        "St-Céréal",
+        "St-Général",
+        "St-Materne"
       ],
-      "phase_percentage": 94.5,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:15",
-      "sunset": "20:33",
-      "daylight_duration": "13:18:21 (-2min 50s)",
-      "moon_position_start": 357.08,
-      "moon_position_end": 10.38,
+      "phase_percentage": 11.9,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:32",
+      "sunset": "20:06",
+      "daylight_duration": "12:34:44 (-2min 56s)",
+      "moon_position_start": 204.96,
+      "moon_position_end": 217.68,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "05:18",
-          "constellation": "Verseau",
-          "signe": "Poissons",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "05:18",
           "end_time": "00:00",
-          "constellation": "Poissons",
-          "signe": "Bélier",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "constellation": "Vierge",
+          "signe": "Balance",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-08-31",
       "date_formatted": "Lundi 31/08/2026",
@@ -1027,6 +985,36 @@
       "daylight_duration": "12:37:41 (-2min 56s)",
       "moon_position_start": 191.93,
       "moon_position_end": 204.96,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "signe": "Balance",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-09-14",
+      "date_formatted": "Lundi 14/09/2026",
+      "saints": [
+        "Croix Glorieuse",
+        "St-Céréal",
+        "St-Général",
+        "St-Materne"
+      ],
+      "phase_percentage": 11.9,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:32",
+      "sunset": "20:06",
+      "daylight_duration": "12:34:44 (-2min 56s)",
+      "moon_position_start": 204.96,
+      "moon_position_end": 217.68,
       "nodes_info": [],
       "periods": [
         {
