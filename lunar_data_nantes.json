@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-09-04T06:01:00.408308+02:00",
+  "generated_at": "2026-09-05T06:01:02.583284+02:00",
   "location": {
     "lat": "47:13:06.2",
     "lon": "-1:33:13.0"
@@ -9,36 +9,6 @@
   "saints_glace_status": "",
   "traditional": [
     {
-      "date_iso": "2026-09-04",
-      "date_formatted": "Vendredi 04/09/2026",
-      "saints": [
-        "St-Boniface 1er",
-        "St-Calétric",
-        "Ste-Rosalie",
-        "St-Vitalique"
-      ],
-      "phase_percentage": 49.1,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:28",
-      "sunset": "20:40",
-      "daylight_duration": "13:11:58 (-3min 17s)",
-      "moon_position_start": 65.63,
-      "moon_position_end": 79.82,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "signe": "Gémeaux",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-09-05",
       "date_formatted": "Samedi 05/09/2026",
       "saints": [
@@ -533,6 +503,36 @@
           "signe": "Sagittaire",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-09-19",
+      "date_formatted": "Samedi 19/09/2026",
+      "saints": [
+        "Ste-Constancia",
+        "Ste-Emilie de Rodat",
+        "St-Janvier",
+        "St-Théodore de Tarse"
+      ],
+      "phase_percentage": 55.3,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:48",
+      "sunset": "20:10",
+      "daylight_duration": "12:22:00 (-3min 21s)",
+      "moon_position_start": 266.21,
+      "moon_position_end": 278.07,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "signe": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
@@ -540,36 +540,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-09-04",
-      "date_formatted": "Vendredi 04/09/2026",
-      "saints": [
-        "St-Boniface 1er",
-        "St-Calétric",
-        "Ste-Rosalie",
-        "St-Vitalique"
-      ],
-      "phase_percentage": 49.1,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:28",
-      "sunset": "20:40",
-      "daylight_duration": "13:11:58 (-3min 17s)",
-      "moon_position_start": 65.63,
-      "moon_position_end": 79.82,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "signe": "Gémeaux",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-09-05",
       "date_formatted": "Samedi 05/09/2026",
       "saints": [
@@ -1064,6 +1034,36 @@
           "signe": "Sagittaire",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-09-19",
+      "date_formatted": "Samedi 19/09/2026",
+      "saints": [
+        "Ste-Constancia",
+        "Ste-Emilie de Rodat",
+        "St-Janvier",
+        "St-Théodore de Tarse"
+      ],
+      "phase_percentage": 55.3,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:48",
+      "sunset": "20:10",
+      "daylight_duration": "12:22:00 (-3min 21s)",
+      "moon_position_start": 266.21,
+      "moon_position_end": 278.07,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "signe": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
