@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-09-07T06:00:58.182738+02:00",
+  "generated_at": "2026-09-08T06:00:19.673824+02:00",
   "location": {
     "lat": "43:42:36.7",
     "lon": "7:15:43.2"
@@ -8,43 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-09-07",
-      "date_formatted": "Lundi 07/09/2026",
-      "saints": [
-        "St-Cloud",
-        "Ste-Reine"
-      ],
-      "phase_percentage": 17.2,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:00",
-      "sunset": "19:56",
-      "daylight_duration": "12:55:30 (-2min 55s)",
-      "moon_position_start": 108.4,
-      "moon_position_end": 122.71,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "19:27",
-          "constellation": "Gémeaux",
-          "signe": "Cancer",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "19:27",
-          "end_time": "00:00",
-          "constellation": "Cancer",
-          "signe": "Lion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-09-08",
       "date_formatted": "Mardi 08/09/2026",
@@ -538,46 +501,37 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-09-07",
-      "date_formatted": "Lundi 07/09/2026",
+      "date_iso": "2026-09-22",
+      "date_formatted": "Mardi 22/09/2026",
       "saints": [
-        "St-Cloud",
-        "Ste-Reine"
+        "Ste-Salaberge",
+        "St-Thomas de Villeneuve"
       ],
-      "phase_percentage": 17.2,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:00",
-      "sunset": "19:56",
-      "daylight_duration": "12:55:30 (-2min 55s)",
-      "moon_position_start": 108.4,
-      "moon_position_end": 122.71,
+      "phase_percentage": 81.6,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:17",
+      "sunset": "19:28",
+      "daylight_duration": "12:11:10 (-2min 58s)",
+      "moon_position_start": 302.03,
+      "moon_position_end": 314.27,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "19:27",
-          "constellation": "Gémeaux",
-          "signe": "Cancer",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "19:27",
           "end_time": "00:00",
-          "constellation": "Cancer",
-          "signe": "Lion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "constellation": "Capricorne",
+          "signe": "Verseau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-09-08",
       "date_formatted": "Mardi 08/09/2026",
@@ -1063,6 +1017,34 @@
         },
         {
           "start_time": "19:59",
+          "end_time": "00:00",
+          "constellation": "Capricorne",
+          "signe": "Verseau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-09-22",
+      "date_formatted": "Mardi 22/09/2026",
+      "saints": [
+        "Ste-Salaberge",
+        "St-Thomas de Villeneuve"
+      ],
+      "phase_percentage": 81.6,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:17",
+      "sunset": "19:28",
+      "daylight_duration": "12:11:10 (-2min 58s)",
+      "moon_position_start": 302.03,
+      "moon_position_end": 314.27,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Capricorne",
           "signe": "Verseau",
