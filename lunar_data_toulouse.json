@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-09-12T06:00:15.869461+02:00",
+  "generated_at": "2026-09-13T06:00:18.601295+02:00",
   "location": {
     "lat": "43:36:16.9",
     "lon": "1:26:39.1"
@@ -8,35 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-09-12",
-      "date_formatted": "Samedi 12/09/2026",
-      "saints": [
-        "St-Autonome",
-        "St-Curonote",
-        "St-Théodule"
-      ],
-      "phase_percentage": 2.0,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:29",
-      "sunset": "20:10",
-      "daylight_duration": "12:40:38 (-2min 56s)",
-      "moon_position_start": 178.58,
-      "moon_position_end": 191.93,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Vierge",
-          "signe": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-09-13",
       "date_formatted": "Dimanche 13/09/2026",
@@ -524,38 +495,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-09-12",
-      "date_formatted": "Samedi 12/09/2026",
+      "date_iso": "2026-09-27",
+      "date_formatted": "Dimanche 27/09/2026",
       "saints": [
-        "St-Autonome",
-        "St-Curonote",
-        "St-Théodule"
+        "St-Vincent de Paul"
       ],
-      "phase_percentage": 2.0,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:29",
-      "sunset": "20:10",
-      "daylight_duration": "12:40:38 (-2min 56s)",
-      "moon_position_start": 178.58,
-      "moon_position_end": 191.93,
+      "phase_percentage": 99.3,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:46",
+      "sunset": "19:42",
+      "daylight_duration": "11:56:17 (-2min 57s)",
+      "moon_position_start": 6.18,
+      "moon_position_end": 19.93,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Vierge",
-          "signe": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "constellation": "Poissons",
+          "signe": "Bélier",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-09-13",
       "date_formatted": "Dimanche 13/09/2026",
@@ -1035,6 +1004,33 @@
         },
         {
           "start_time": "13:03",
+          "end_time": "00:00",
+          "constellation": "Poissons",
+          "signe": "Bélier",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-09-27",
+      "date_formatted": "Dimanche 27/09/2026",
+      "saints": [
+        "St-Vincent de Paul"
+      ],
+      "phase_percentage": 99.3,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:46",
+      "sunset": "19:42",
+      "daylight_duration": "11:56:17 (-2min 57s)",
+      "moon_position_start": 6.18,
+      "moon_position_end": 19.93,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Poissons",
           "signe": "Bélier",
