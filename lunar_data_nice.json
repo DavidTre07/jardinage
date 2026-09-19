@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-09-18T06:00:29.624108+02:00",
+  "generated_at": "2026-09-19T06:00:33.407618+02:00",
   "location": {
     "lat": "43:42:36.7",
     "lon": "7:15:43.2"
@@ -9,44 +9,6 @@
   "saints_glace_status": "",
   "traditional": [
     {
-      "date_iso": "2026-09-18",
-      "date_formatted": "Vendredi 18/09/2026",
-      "saints": [
-        "St-Hygbald",
-        "St-Joseph de Cupertino",
-        "Ste-Richarde"
-      ],
-      "phase_percentage": 45.9,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:13",
-      "sunset": "19:36",
-      "daylight_duration": "12:23:03 (-2min 58s)",
-      "moon_position_start": 254.31,
-      "moon_position_end": 266.21,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "23:34",
-          "constellation": "Serpentaire",
-          "signe": "Sagittaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
-          "blocked": false
-        },
-        {
-          "start_time": "23:34",
-          "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "signe": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-09-19",
       "date_formatted": "Samedi 19/09/2026",
       "saints": [
@@ -514,6 +476,34 @@
           "signe": "Cancer",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-10-03",
+      "date_formatted": "Samedi 03/10/2026",
+      "saints": [
+        "St-Ewald",
+        "St-Gérard de Brogne"
+      ],
+      "phase_percentage": 51.8,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:30",
+      "sunset": "19:08",
+      "daylight_duration": "11:38:30 (-2min 57s)",
+      "moon_position_start": 90.87,
+      "moon_position_end": 105.04,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "signe": "Cancer",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
@@ -521,44 +511,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-09-18",
-      "date_formatted": "Vendredi 18/09/2026",
-      "saints": [
-        "St-Hygbald",
-        "St-Joseph de Cupertino",
-        "Ste-Richarde"
-      ],
-      "phase_percentage": 45.9,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:13",
-      "sunset": "19:36",
-      "daylight_duration": "12:23:03 (-2min 58s)",
-      "moon_position_start": 254.31,
-      "moon_position_end": 266.21,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "23:34",
-          "constellation": "Serpentaire",
-          "signe": "Sagittaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
-          "blocked": false
-        },
-        {
-          "start_time": "23:34",
-          "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "signe": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-09-19",
       "date_formatted": "Samedi 19/09/2026",
       "saints": [
@@ -1026,6 +978,34 @@
           "signe": "Cancer",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-10-03",
+      "date_formatted": "Samedi 03/10/2026",
+      "saints": [
+        "St-Ewald",
+        "St-Gérard de Brogne"
+      ],
+      "phase_percentage": 51.8,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:30",
+      "sunset": "19:08",
+      "daylight_duration": "11:38:30 (-2min 57s)",
+      "moon_position_start": 90.87,
+      "moon_position_end": 105.04,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "signe": "Cancer",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
