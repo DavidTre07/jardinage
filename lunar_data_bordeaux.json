@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-09-23T06:00:29.489489+02:00",
+  "generated_at": "2026-09-24T06:00:29.755790+02:00",
   "location": {
     "lat": "44:50:16.1",
     "lon": "-0:34:45.1"
@@ -8,34 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-09-23",
-      "date_formatted": "Mercredi 23/09/2026",
-      "saints": [
-        "St-Constance",
-        "St-Lin"
-      ],
-      "phase_percentage": 88.6,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:50",
-      "sunset": "19:58",
-      "daylight_duration": "12:08:15 (-3min 5s)",
-      "moon_position_start": 314.27,
-      "moon_position_end": 326.77,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
-          "signe": "Verseau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-09-24",
       "date_formatted": "Jeudi 24/09/2026",
@@ -528,6 +500,33 @@
           "end_time": "00:00",
           "constellation": "Lion",
           "signe": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-10-08",
+      "date_formatted": "Jeudi 08/10/2026",
+      "saints": [
+        "Ste-Pélagie la Pénitente"
+      ],
+      "phase_percentage": 5.7,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:08",
+      "sunset": "19:30",
+      "daylight_duration": "11:22:00 (-3min 3s)",
+      "moon_position_start": 160.49,
+      "moon_position_end": 173.97,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "signe": "Vierge",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
@@ -537,34 +536,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-09-23",
-      "date_formatted": "Mercredi 23/09/2026",
-      "saints": [
-        "St-Constance",
-        "St-Lin"
-      ],
-      "phase_percentage": 88.6,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:50",
-      "sunset": "19:58",
-      "daylight_duration": "12:08:15 (-3min 5s)",
-      "moon_position_start": 314.27,
-      "moon_position_end": 326.77,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
-          "signe": "Verseau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-09-24",
       "date_formatted": "Jeudi 24/09/2026",
       "saints": [
@@ -1056,6 +1027,33 @@
           "end_time": "00:00",
           "constellation": "Lion",
           "signe": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-10-08",
+      "date_formatted": "Jeudi 08/10/2026",
+      "saints": [
+        "Ste-Pélagie la Pénitente"
+      ],
+      "phase_percentage": 5.7,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:08",
+      "sunset": "19:30",
+      "daylight_duration": "11:22:00 (-3min 3s)",
+      "moon_position_start": 160.49,
+      "moon_position_end": 173.97,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "signe": "Vierge",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
