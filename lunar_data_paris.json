@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-09-24T06:00:25.464498+02:00",
+  "generated_at": "2026-09-25T06:00:25.293212+02:00",
   "location": {
     "lat": "48:51:23.8",
     "lon": "2:21:07.9"
@@ -9,63 +9,6 @@
   "saints_glace_status": "",
   "traditional": [
     {
-      "date_iso": "2026-09-24",
-      "date_formatted": "Jeudi 24/09/2026",
-      "saints": [
-        "St-Cuniald",
-        "St-Isarne de Toulouse"
-      ],
-      "phase_percentage": 94.2,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:39",
-      "sunset": "19:44",
-      "daylight_duration": "12:05:16 (-3min 33s)",
-      "moon_position_start": 326.77,
-      "moon_position_end": 339.58,
-      "nodes_info": [
-        "NŒUD LUNAIRE (ascendant) le 24/09 à 04h37 - Pas de jardinage de 00h37 à 08h37"
-      ],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:37",
-          "constellation": "Capricorne",
-          "signe": "Verseau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "00:37",
-          "end_time": "06:06",
-          "constellation": "Capricorne",
-          "signe": "Verseau",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "06:06",
-          "end_time": "08:37",
-          "constellation": "Verseau",
-          "signe": "Poissons",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "08:37",
-          "end_time": "00:00",
-          "constellation": "Verseau",
-          "signe": "Poissons",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-09-25",
       "date_formatted": "Vendredi 25/09/2026",
       "saints": [
@@ -528,6 +471,46 @@
           "constellation": "Lion",
           "signe": "Vierge",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-10-09",
+      "date_formatted": "Vendredi 09/10/2026",
+      "saints": [
+        "St-Denis, évêque de Paris",
+        "St-Dominin",
+        "St-Eleuthère",
+        "St-Jean Léonardi",
+        "St-Rustique"
+      ],
+      "phase_percentage": 1.8,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:01",
+      "sunset": "19:13",
+      "daylight_duration": "11:12:02 (-3min 31s)",
+      "moon_position_start": 173.97,
+      "moon_position_end": 187.25,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:03",
+          "constellation": "Lion",
+          "signe": "Vierge",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "00:03",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "signe": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
@@ -536,63 +519,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-09-24",
-      "date_formatted": "Jeudi 24/09/2026",
-      "saints": [
-        "St-Cuniald",
-        "St-Isarne de Toulouse"
-      ],
-      "phase_percentage": 94.2,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:39",
-      "sunset": "19:44",
-      "daylight_duration": "12:05:16 (-3min 33s)",
-      "moon_position_start": 326.77,
-      "moon_position_end": 339.58,
-      "nodes_info": [
-        "NŒUD LUNAIRE (ascendant) le 24/09 à 04h37 - Pas de jardinage de 00h37 à 08h37"
-      ],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:37",
-          "constellation": "Capricorne",
-          "signe": "Verseau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "00:37",
-          "end_time": "06:06",
-          "constellation": "Capricorne",
-          "signe": "Verseau",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "06:06",
-          "end_time": "08:37",
-          "constellation": "Verseau",
-          "signe": "Poissons",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "08:37",
-          "end_time": "00:00",
-          "constellation": "Verseau",
-          "signe": "Poissons",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-09-25",
       "date_formatted": "Vendredi 25/09/2026",
       "saints": [
@@ -1055,6 +981,46 @@
           "constellation": "Lion",
           "signe": "Vierge",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-10-09",
+      "date_formatted": "Vendredi 09/10/2026",
+      "saints": [
+        "St-Denis, évêque de Paris",
+        "St-Dominin",
+        "St-Eleuthère",
+        "St-Jean Léonardi",
+        "St-Rustique"
+      ],
+      "phase_percentage": 1.8,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:01",
+      "sunset": "19:13",
+      "daylight_duration": "11:12:02 (-3min 31s)",
+      "moon_position_start": 173.97,
+      "moon_position_end": 187.25,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:03",
+          "constellation": "Lion",
+          "signe": "Vierge",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "00:03",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "signe": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
