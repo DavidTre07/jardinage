@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-09-29T06:00:32.578942+02:00",
+  "generated_at": "2026-09-30T06:00:35.911602+02:00",
   "location": {
     "lat": "43:36:39.6",
     "lon": "3:52:36.1"
@@ -9,36 +9,6 @@
   "saints_glace_status": "",
   "traditional": [
     {
-      "date_iso": "2026-09-29",
-      "date_formatted": "Mardi 29/09/2026",
-      "saints": [
-        "St-Gabriel",
-        "St-Gudélie",
-        "St-Michel",
-        "St-Raphael"
-      ],
-      "phase_percentage": 90.8,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:39",
-      "sunset": "19:29",
-      "daylight_duration": "11:50:23 (-2min 57s)",
-      "moon_position_start": 33.92,
-      "moon_position_end": 48.08,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Bélier",
-          "signe": "Taureau",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-09-30",
       "date_formatted": "Mercredi 30/09/2026",
       "saints": [
@@ -505,6 +475,52 @@
           "signe": "Scorpion",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-10-14",
+      "date_formatted": "Mercredi 14/10/2026",
+      "saints": [
+        "St-Calixte 1er",
+        "St-Juste de Lyon"
+      ],
+      "phase_percentage": 13.9,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:56",
+      "sunset": "19:03",
+      "daylight_duration": "11:06:21 (-2min 53s)",
+      "moon_position_start": 238.1,
+      "moon_position_end": 250.25,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "05:41",
+          "constellation": "Balance",
+          "signe": "Scorpion",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "05:41",
+          "end_time": "19:32",
+          "constellation": "Scorpion",
+          "signe": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "19:32",
+          "end_time": "00:00",
+          "constellation": "Serpentaire",
+          "signe": "Sagittaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
           "blocked": false
         }
       ]
@@ -512,36 +528,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-09-29",
-      "date_formatted": "Mardi 29/09/2026",
-      "saints": [
-        "St-Gabriel",
-        "St-Gudélie",
-        "St-Michel",
-        "St-Raphael"
-      ],
-      "phase_percentage": 90.8,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:39",
-      "sunset": "19:29",
-      "daylight_duration": "11:50:23 (-2min 57s)",
-      "moon_position_start": 33.92,
-      "moon_position_end": 48.08,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Bélier",
-          "signe": "Taureau",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-09-30",
       "date_formatted": "Mercredi 30/09/2026",
       "saints": [
@@ -1008,6 +994,52 @@
           "signe": "Scorpion",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-10-14",
+      "date_formatted": "Mercredi 14/10/2026",
+      "saints": [
+        "St-Calixte 1er",
+        "St-Juste de Lyon"
+      ],
+      "phase_percentage": 13.9,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:56",
+      "sunset": "19:03",
+      "daylight_duration": "11:06:21 (-2min 53s)",
+      "moon_position_start": 238.1,
+      "moon_position_end": 250.25,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "05:41",
+          "constellation": "Balance",
+          "signe": "Scorpion",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "05:41",
+          "end_time": "19:32",
+          "constellation": "Scorpion",
+          "signe": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "19:32",
+          "end_time": "00:00",
+          "constellation": "Serpentaire",
+          "signe": "Sagittaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
           "blocked": false
         }
       ]
