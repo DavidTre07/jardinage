@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-09-30T06:00:33.818963+02:00",
+  "generated_at": "2026-10-01T06:00:30.372275+02:00",
   "location": {
     "lat": "43:36:16.9",
     "lon": "1:26:39.1"
@@ -8,44 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-09-30",
-      "date_formatted": "Mercredi 30/09/2026",
-      "saints": [
-        "St-Grégoire l'Illuminateur",
-        "St-Jérôme",
-        "St-Léopard"
-      ],
-      "phase_percentage": 83.2,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:50",
-      "sunset": "19:37",
-      "daylight_duration": "11:47:24 (-2min 57s)",
-      "moon_position_start": 48.08,
-      "moon_position_end": 62.34,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "09:58",
-          "constellation": "Bélier",
-          "signe": "Taureau",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "09:58",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "signe": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-10-01",
       "date_formatted": "Jeudi 01/10/2026",
@@ -524,47 +486,37 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-09-30",
-      "date_formatted": "Mercredi 30/09/2026",
+      "date_iso": "2026-10-15",
+      "date_formatted": "Jeudi 15/10/2026",
       "saints": [
-        "St-Grégoire l'Illuminateur",
-        "St-Jérôme",
-        "St-Léopard"
+        "St-Agilée",
+        "Ste-Thérèse d'Avilla"
       ],
-      "phase_percentage": 83.2,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:50",
-      "sunset": "19:37",
-      "daylight_duration": "11:47:24 (-2min 57s)",
-      "moon_position_start": 48.08,
-      "moon_position_end": 62.34,
+      "phase_percentage": 21.2,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:07",
+      "sunset": "19:11",
+      "daylight_duration": "11:03:27 (-2min 53s)",
+      "moon_position_start": 250.25,
+      "moon_position_end": 262.22,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "09:58",
-          "constellation": "Bélier",
-          "signe": "Taureau",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "09:58",
           "end_time": "00:00",
-          "constellation": "Taureau",
-          "signe": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "constellation": "Serpentaire",
+          "signe": "Sagittaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-10-01",
       "date_formatted": "Jeudi 01/10/2026",
@@ -1035,6 +987,34 @@
         },
         {
           "start_time": "19:32",
+          "end_time": "00:00",
+          "constellation": "Serpentaire",
+          "signe": "Sagittaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-10-15",
+      "date_formatted": "Jeudi 15/10/2026",
+      "saints": [
+        "St-Agilée",
+        "Ste-Thérèse d'Avilla"
+      ],
+      "phase_percentage": 21.2,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:07",
+      "sunset": "19:11",
+      "daylight_duration": "11:03:27 (-2min 53s)",
+      "moon_position_start": 250.25,
+      "moon_position_end": 262.22,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Serpentaire",
           "signe": "Sagittaire",
