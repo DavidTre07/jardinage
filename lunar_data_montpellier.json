@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-10-01T06:00:32.404810+02:00",
+  "generated_at": "2026-10-02T06:00:30.573768+02:00",
   "location": {
     "lat": "43:36:39.6",
     "lon": "3:52:36.1"
@@ -9,33 +9,6 @@
   "saints_glace_status": "",
   "traditional": [
     {
-      "date_iso": "2026-10-01",
-      "date_formatted": "Jeudi 01/10/2026",
-      "saints": [
-        "Ste-Thérèse de Lisieux"
-      ],
-      "phase_percentage": 73.8,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:41",
-      "sunset": "19:26",
-      "daylight_duration": "11:44:28 (-2min 57s)",
-      "moon_position_start": 62.34,
-      "moon_position_end": 76.62,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "signe": "Gémeaux",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-10-02",
       "date_formatted": "Vendredi 02/10/2026",
       "saints": [
@@ -511,6 +484,47 @@
           "signe": "Sagittaire",
           "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
           "seve_info": "",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-10-16",
+      "date_formatted": "Vendredi 16/10/2026",
+      "saints": [
+        "St-Bertrand de Comminges",
+        "Ste-Eremberte",
+        "St-Gall",
+        "St-Gérard Magella",
+        "Ste-Hedwige",
+        "Ste-Marguerite-Marie Alacoque"
+      ],
+      "phase_percentage": 29.4,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:59",
+      "sunset": "19:00",
+      "daylight_duration": "11:00:35 (-2min 52s)",
+      "moon_position_start": 262.22,
+      "moon_position_end": 274.09,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "07:37",
+          "constellation": "Serpentaire",
+          "signe": "Sagittaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
+          "blocked": false
+        },
+        {
+          "start_time": "07:37",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "signe": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
@@ -518,33 +532,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-10-01",
-      "date_formatted": "Jeudi 01/10/2026",
-      "saints": [
-        "Ste-Thérèse de Lisieux"
-      ],
-      "phase_percentage": 73.8,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:41",
-      "sunset": "19:26",
-      "daylight_duration": "11:44:28 (-2min 57s)",
-      "moon_position_start": 62.34,
-      "moon_position_end": 76.62,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "signe": "Gémeaux",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-10-02",
       "date_formatted": "Vendredi 02/10/2026",
       "saints": [
@@ -1020,6 +1007,47 @@
           "signe": "Sagittaire",
           "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
           "seve_info": "",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-10-16",
+      "date_formatted": "Vendredi 16/10/2026",
+      "saints": [
+        "St-Bertrand de Comminges",
+        "Ste-Eremberte",
+        "St-Gall",
+        "St-Gérard Magella",
+        "Ste-Hedwige",
+        "Ste-Marguerite-Marie Alacoque"
+      ],
+      "phase_percentage": 29.4,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:59",
+      "sunset": "19:00",
+      "daylight_duration": "11:00:35 (-2min 52s)",
+      "moon_position_start": 262.22,
+      "moon_position_end": 274.09,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "07:37",
+          "constellation": "Serpentaire",
+          "signe": "Sagittaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
+          "blocked": false
+        },
+        {
+          "start_time": "07:37",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "signe": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
