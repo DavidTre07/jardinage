@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-10-06T06:00:28.444187+02:00",
+  "generated_at": "2026-10-07T06:00:28.652980+02:00",
   "location": {
     "lat": "43:36:16.9",
     "lon": "1:26:39.1"
@@ -9,53 +9,6 @@
   "saints_glace_status": "",
   "traditional": [
     {
-      "date_iso": "2026-10-06",
-      "date_formatted": "Mardi 06/10/2026",
-      "saints": [
-        "St-Bruno de Cologne"
-      ],
-      "phase_percentage": 19.9,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:57",
-      "sunset": "19:26",
-      "daylight_duration": "11:29:42 (-2min 56s)",
-      "moon_position_start": 133.04,
-      "moon_position_end": 146.84,
-      "nodes_info": [
-        "NŒUD LUNAIRE (descendant) le 07/10 à 03h17 - Pas de jardinage de 23h17 à 07h17"
-      ],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "08:36",
-          "constellation": "Cancer",
-          "signe": "Lion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "08:36",
-          "end_time": "23:17",
-          "constellation": "Lion",
-          "signe": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "23:17",
-          "end_time": "00:00",
-          "constellation": "Lion",
-          "signe": "Lion",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        }
-      ]
-    },
-    {
       "date_iso": "2026-10-07",
       "date_formatted": "Mercredi 07/10/2026",
       "saints": [
@@ -519,6 +472,64 @@
           "constellation": "Capricorne",
           "signe": "Verseau",
           "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-10-21",
+      "date_formatted": "Mercredi 21/10/2026",
+      "saints": [
+        "Ste-Céline (ou Cilinia)",
+        "St-Hilarion",
+        "Ste-Ursule"
+      ],
+      "phase_percentage": 75.6,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:15",
+      "sunset": "19:01",
+      "daylight_duration": "10:46:19 (-2min 49s)",
+      "moon_position_start": 322.05,
+      "moon_position_end": 334.58,
+      "nodes_info": [
+        "NŒUD LUNAIRE (ascendant) le 21/10 à 10h50 - Pas de jardinage de 06h50 à 14h50"
+      ],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "06:50",
+          "constellation": "Capricorne",
+          "signe": "Verseau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "06:50",
+          "end_time": "14:50",
+          "constellation": "Capricorne",
+          "signe": "Verseau",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "14:50",
+          "end_time": "15:18",
+          "constellation": "Capricorne",
+          "signe": "Verseau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "15:18",
+          "end_time": "00:00",
+          "constellation": "Verseau",
+          "signe": "Poissons",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
@@ -527,53 +538,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-10-06",
-      "date_formatted": "Mardi 06/10/2026",
-      "saints": [
-        "St-Bruno de Cologne"
-      ],
-      "phase_percentage": 19.9,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:57",
-      "sunset": "19:26",
-      "daylight_duration": "11:29:42 (-2min 56s)",
-      "moon_position_start": 133.04,
-      "moon_position_end": 146.84,
-      "nodes_info": [
-        "NŒUD LUNAIRE (descendant) le 07/10 à 03h17 - Pas de jardinage de 23h17 à 07h17"
-      ],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "08:36",
-          "constellation": "Cancer",
-          "signe": "Lion",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "08:36",
-          "end_time": "23:17",
-          "constellation": "Lion",
-          "signe": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "23:17",
-          "end_time": "00:00",
-          "constellation": "Lion",
-          "signe": "Lion",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        }
-      ]
-    },
-    {
       "date_iso": "2026-10-07",
       "date_formatted": "Mercredi 07/10/2026",
       "saints": [
@@ -1037,6 +1001,64 @@
           "constellation": "Capricorne",
           "signe": "Verseau",
           "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-10-21",
+      "date_formatted": "Mercredi 21/10/2026",
+      "saints": [
+        "Ste-Céline (ou Cilinia)",
+        "St-Hilarion",
+        "Ste-Ursule"
+      ],
+      "phase_percentage": 75.6,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:15",
+      "sunset": "19:01",
+      "daylight_duration": "10:46:19 (-2min 49s)",
+      "moon_position_start": 322.05,
+      "moon_position_end": 334.58,
+      "nodes_info": [
+        "NŒUD LUNAIRE (ascendant) le 21/10 à 10h50 - Pas de jardinage de 06h50 à 14h50"
+      ],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "06:50",
+          "constellation": "Capricorne",
+          "signe": "Verseau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "06:50",
+          "end_time": "14:50",
+          "constellation": "Capricorne",
+          "signe": "Verseau",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "14:50",
+          "end_time": "15:18",
+          "constellation": "Capricorne",
+          "signe": "Verseau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "15:18",
+          "end_time": "00:00",
+          "constellation": "Verseau",
+          "signe": "Poissons",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
