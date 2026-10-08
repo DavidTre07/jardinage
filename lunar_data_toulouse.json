@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-10-07T06:00:28.652980+02:00",
+  "generated_at": "2026-10-08T06:00:30.043278+02:00",
   "location": {
     "lat": "43:36:16.9",
     "lon": "1:26:39.1"
@@ -8,45 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-10-07",
-      "date_formatted": "Mercredi 07/10/2026",
-      "saints": [
-        "St-Serge",
-        "N. Dame du Rosaire"
-      ],
-      "phase_percentage": 11.8,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:58",
-      "sunset": "19:25",
-      "daylight_duration": "11:26:46 (-2min 56s)",
-      "moon_position_start": 146.84,
-      "moon_position_end": 160.49,
-      "nodes_info": [
-        "NŒUD LUNAIRE (descendant) le 07/10 à 03h17 - Pas de jardinage de 23h17 à 07h17"
-      ],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "07:17",
-          "constellation": "Lion",
-          "signe": "Lion",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "07:17",
-          "end_time": "00:00",
-          "constellation": "Lion",
-          "signe": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-10-08",
       "date_formatted": "Jeudi 08/10/2026",
@@ -534,48 +495,37 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-10-07",
-      "date_formatted": "Mercredi 07/10/2026",
+      "date_iso": "2026-10-22",
+      "date_formatted": "Jeudi 22/10/2026",
       "saints": [
-        "St-Serge",
-        "N. Dame du Rosaire"
+        "St-Philippe",
+        "St-Vallier"
       ],
-      "phase_percentage": 11.8,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:58",
-      "sunset": "19:25",
-      "daylight_duration": "11:26:46 (-2min 56s)",
-      "moon_position_start": 146.84,
-      "moon_position_end": 160.49,
-      "nodes_info": [
-        "NŒUD LUNAIRE (descendant) le 07/10 à 03h17 - Pas de jardinage de 23h17 à 07h17"
-      ],
+      "phase_percentage": 83.7,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:16",
+      "sunset": "19:00",
+      "daylight_duration": "10:43:30 (-2min 48s)",
+      "moon_position_start": 334.58,
+      "moon_position_end": 347.49,
+      "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "07:17",
-          "constellation": "Lion",
-          "signe": "Lion",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "07:17",
           "end_time": "00:00",
-          "constellation": "Lion",
-          "signe": "Lion",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "constellation": "Verseau",
+          "signe": "Poissons",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-10-08",
       "date_formatted": "Jeudi 08/10/2026",
@@ -1055,6 +1005,34 @@
         },
         {
           "start_time": "15:18",
+          "end_time": "00:00",
+          "constellation": "Verseau",
+          "signe": "Poissons",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-10-22",
+      "date_formatted": "Jeudi 22/10/2026",
+      "saints": [
+        "St-Philippe",
+        "St-Vallier"
+      ],
+      "phase_percentage": 83.7,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:16",
+      "sunset": "19:00",
+      "daylight_duration": "10:43:30 (-2min 48s)",
+      "moon_position_start": 334.58,
+      "moon_position_end": 347.49,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Verseau",
           "signe": "Poissons",
