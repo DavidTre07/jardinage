@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-10-08T06:00:32.723853+02:00",
+  "generated_at": "2026-10-09T06:00:32.505118+02:00",
   "location": {
     "lat": "44:50:16.1",
     "lon": "-0:34:45.1"
@@ -9,33 +9,6 @@
   "saints_glace_status": "",
   "traditional": [
     {
-      "date_iso": "2026-10-08",
-      "date_formatted": "Jeudi 08/10/2026",
-      "saints": [
-        "Ste-Pélagie la Pénitente"
-      ],
-      "phase_percentage": 5.7,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:08",
-      "sunset": "19:30",
-      "daylight_duration": "11:22:00 (-3min 3s)",
-      "moon_position_start": 160.49,
-      "moon_position_end": 173.97,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Lion",
-          "signe": "Vierge",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-10-09",
       "date_formatted": "Vendredi 09/10/2026",
       "saints": [
@@ -519,6 +492,43 @@
           "constellation": "Verseau",
           "signe": "Poissons",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-10-23",
+      "date_formatted": "Vendredi 23/10/2026",
+      "saints": [
+        "St-Hyacinthe",
+        "St-Jean de Capistran"
+      ],
+      "phase_percentage": 90.7,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:27",
+      "sunset": "19:04",
+      "daylight_duration": "10:36:56 (-2min 55s)",
+      "moon_position_start": 347.49,
+      "moon_position_end": 0.81,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "22:33",
+          "constellation": "Verseau",
+          "signe": "Poissons",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "22:33",
+          "end_time": "00:00",
+          "constellation": "Poissons",
+          "signe": "Bélier",
+          "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
@@ -527,33 +537,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-10-08",
-      "date_formatted": "Jeudi 08/10/2026",
-      "saints": [
-        "Ste-Pélagie la Pénitente"
-      ],
-      "phase_percentage": 5.7,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "08:08",
-      "sunset": "19:30",
-      "daylight_duration": "11:22:00 (-3min 3s)",
-      "moon_position_start": 160.49,
-      "moon_position_end": 173.97,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Lion",
-          "signe": "Vierge",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-10-09",
       "date_formatted": "Vendredi 09/10/2026",
       "saints": [
@@ -1037,6 +1020,43 @@
           "constellation": "Verseau",
           "signe": "Poissons",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-10-23",
+      "date_formatted": "Vendredi 23/10/2026",
+      "saints": [
+        "St-Hyacinthe",
+        "St-Jean de Capistran"
+      ],
+      "phase_percentage": 90.7,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:27",
+      "sunset": "19:04",
+      "daylight_duration": "10:36:56 (-2min 55s)",
+      "moon_position_start": 347.49,
+      "moon_position_end": 0.81,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "22:33",
+          "constellation": "Verseau",
+          "signe": "Poissons",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "22:33",
+          "end_time": "00:00",
+          "constellation": "Poissons",
+          "signe": "Bélier",
+          "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
