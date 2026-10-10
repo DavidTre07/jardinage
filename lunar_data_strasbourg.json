@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-10-09T06:00:31.427379+02:00",
+  "generated_at": "2026-10-10T06:00:27.533658+02:00",
   "location": {
     "lat": "48:34:24.2",
     "lon": "7:45:07.6"
@@ -8,46 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-10-09",
-      "date_formatted": "Vendredi 09/10/2026",
-      "saints": [
-        "St-Denis, évêque de Paris",
-        "St-Dominin",
-        "St-Eleuthère",
-        "St-Jean Léonardi",
-        "St-Rustique"
-      ],
-      "phase_percentage": 1.8,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:39",
-      "sunset": "18:52",
-      "daylight_duration": "11:12:36 (-3min 29s)",
-      "moon_position_start": 173.97,
-      "moon_position_end": 187.25,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:03",
-          "constellation": "Lion",
-          "signe": "Vierge",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "00:03",
-          "end_time": "00:00",
-          "constellation": "Vierge",
-          "signe": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-10-10",
       "date_formatted": "Samedi 10/10/2026",
@@ -533,49 +493,36 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-10-09",
-      "date_formatted": "Vendredi 09/10/2026",
+      "date_iso": "2026-10-24",
+      "date_formatted": "Samedi 24/10/2026",
       "saints": [
-        "St-Denis, évêque de Paris",
-        "St-Dominin",
-        "St-Eleuthère",
-        "St-Jean Léonardi",
-        "St-Rustique"
+        "St-Antoine-Marie Claret"
       ],
-      "phase_percentage": 1.8,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:39",
-      "sunset": "18:52",
-      "daylight_duration": "11:12:36 (-3min 29s)",
-      "moon_position_start": 173.97,
-      "moon_position_end": 187.25,
+      "phase_percentage": 96.0,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:02",
+      "sunset": "18:23",
+      "daylight_duration": "10:21:13 (-3min 20s)",
+      "moon_position_start": 0.81,
+      "moon_position_end": 14.55,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "00:03",
-          "constellation": "Lion",
-          "signe": "Vierge",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "00:03",
           "end_time": "00:00",
-          "constellation": "Vierge",
-          "signe": "Vierge",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "constellation": "Poissons",
+          "signe": "Bélier",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-10-10",
       "date_formatted": "Samedi 10/10/2026",
@@ -1053,6 +1000,33 @@
         },
         {
           "start_time": "22:33",
+          "end_time": "00:00",
+          "constellation": "Poissons",
+          "signe": "Bélier",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-10-24",
+      "date_formatted": "Samedi 24/10/2026",
+      "saints": [
+        "St-Antoine-Marie Claret"
+      ],
+      "phase_percentage": 96.0,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:02",
+      "sunset": "18:23",
+      "daylight_duration": "10:21:13 (-3min 20s)",
+      "moon_position_start": 0.81,
+      "moon_position_end": 14.55,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Poissons",
           "signe": "Bélier",
