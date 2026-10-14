@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-10-13T06:01:14.574390+02:00",
+  "generated_at": "2026-10-14T06:01:09.071091+02:00",
   "location": {
     "lat": "43:36:16.9",
     "lon": "1:26:39.1"
@@ -8,34 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-10-13",
-      "date_formatted": "Mardi 13/10/2026",
-      "saints": [
-        "St-Géraud d'Aurillac",
-        "St-Théophile  d'Antioche"
-      ],
-      "phase_percentage": 7.9,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:05",
-      "sunset": "19:14",
-      "daylight_duration": "11:09:14 (-2min 54s)",
-      "moon_position_start": 225.75,
-      "moon_position_end": 238.1,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Balance",
-          "signe": "Scorpion",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-10-14",
       "date_formatted": "Mercredi 14/10/2026",
@@ -527,37 +499,38 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-10-13",
-      "date_formatted": "Mardi 13/10/2026",
+      "date_iso": "2026-10-28",
+      "date_formatted": "Mercredi 28/10/2026",
       "saints": [
-        "St-Géraud d'Aurillac",
-        "St-Théophile  d'Antioche"
+        "St-Cyrille",
+        "St-Jude",
+        "St-Simon le Cananéen"
       ],
-      "phase_percentage": 7.9,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:05",
-      "sunset": "19:14",
-      "daylight_duration": "11:09:14 (-2min 54s)",
-      "moon_position_start": 225.75,
-      "moon_position_end": 238.1,
+      "phase_percentage": 92.7,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:24",
+      "sunset": "17:51",
+      "daylight_duration": "10:26:55 (-2min 43s)",
+      "moon_position_start": 58.38,
+      "moon_position_end": 73.09,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Balance",
-          "signe": "Scorpion",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "constellation": "Taureau",
+          "signe": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-10-14",
       "date_formatted": "Mercredi 14/10/2026",
@@ -1041,6 +1014,35 @@
         },
         {
           "start_time": "16:50",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "signe": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-10-28",
+      "date_formatted": "Mercredi 28/10/2026",
+      "saints": [
+        "St-Cyrille",
+        "St-Jude",
+        "St-Simon le Cananéen"
+      ],
+      "phase_percentage": 92.7,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:24",
+      "sunset": "17:51",
+      "daylight_duration": "10:26:55 (-2min 43s)",
+      "moon_position_start": 58.38,
+      "moon_position_end": 73.09,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Taureau",
           "signe": "Taureau",
