@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-10-14T06:01:10.633752+02:00",
+  "generated_at": "2026-10-15T06:01:13.161605+02:00",
   "location": {
     "lat": "48:34:24.2",
     "lon": "7:45:07.6"
@@ -8,52 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-10-14",
-      "date_formatted": "Mercredi 14/10/2026",
-      "saints": [
-        "St-Calixte 1er",
-        "St-Juste de Lyon"
-      ],
-      "phase_percentage": 13.9,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:46",
-      "sunset": "18:42",
-      "daylight_duration": "10:55:14 (-3min 27s)",
-      "moon_position_start": 238.1,
-      "moon_position_end": 250.25,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "05:41",
-          "constellation": "Balance",
-          "signe": "Scorpion",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "05:41",
-          "end_time": "19:32",
-          "constellation": "Scorpion",
-          "signe": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "19:32",
-          "end_time": "00:00",
-          "constellation": "Serpentaire",
-          "signe": "Sagittaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-10-15",
       "date_formatted": "Jeudi 15/10/2026",
@@ -523,6 +477,33 @@
           "end_time": "00:00",
           "constellation": "Taureau",
           "signe": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-10-29",
+      "date_formatted": "Jeudi 29/10/2026",
+      "saints": [
+        "St-Narcisse"
+      ],
+      "phase_percentage": 85.4,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:09",
+      "sunset": "17:14",
+      "daylight_duration": "10:04:44 (-3min 15s)",
+      "moon_position_start": 73.09,
+      "moon_position_end": 87.75,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "signe": "Gémeaux",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
@@ -532,52 +513,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-10-14",
-      "date_formatted": "Mercredi 14/10/2026",
-      "saints": [
-        "St-Calixte 1er",
-        "St-Juste de Lyon"
-      ],
-      "phase_percentage": 13.9,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:46",
-      "sunset": "18:42",
-      "daylight_duration": "10:55:14 (-3min 27s)",
-      "moon_position_start": 238.1,
-      "moon_position_end": 250.25,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "05:41",
-          "constellation": "Balance",
-          "signe": "Scorpion",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "05:41",
-          "end_time": "19:32",
-          "constellation": "Scorpion",
-          "signe": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "19:32",
-          "end_time": "00:00",
-          "constellation": "Serpentaire",
-          "signe": "Sagittaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-10-15",
       "date_formatted": "Jeudi 15/10/2026",
       "saints": [
@@ -1046,6 +981,33 @@
           "end_time": "00:00",
           "constellation": "Taureau",
           "signe": "Taureau",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-10-29",
+      "date_formatted": "Jeudi 29/10/2026",
+      "saints": [
+        "St-Narcisse"
+      ],
+      "phase_percentage": 85.4,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:09",
+      "sunset": "17:14",
+      "daylight_duration": "10:04:44 (-3min 15s)",
+      "moon_position_start": 73.09,
+      "moon_position_end": 87.75,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Taureau",
+          "signe": "Gémeaux",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
