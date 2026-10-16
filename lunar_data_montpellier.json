@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-10-15T19:02:52.425809+02:00",
+  "generated_at": "2026-10-16T06:00:44.071700+02:00",
   "location": {
     "lat": "43:36:39.6",
     "lon": "3:52:36.1"
@@ -9,34 +9,6 @@
   "saints_glace_status": "",
   "traditional": [
     {
-      "date_iso": "2026-10-15",
-      "date_formatted": "Jeudi 15/10/2026",
-      "saints": [
-        "St-Agilée",
-        "Ste-Thérèse d'Avilla"
-      ],
-      "phase_percentage": 21.2,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:58",
-      "sunset": "19:01",
-      "daylight_duration": "11:03:28 (-2min 53s)",
-      "moon_position_start": 250.25,
-      "moon_position_end": 262.22,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Serpentaire",
-          "signe": "Sagittaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-10-16",
       "date_formatted": "Vendredi 16/10/2026",
       "saints": [
@@ -506,6 +478,42 @@
           "signe": "Gémeaux",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-10-30",
+      "date_formatted": "Vendredi 30/10/2026",
+      "saints": [
+        "St-Alphonse Rodriguez"
+      ],
+      "phase_percentage": 76.3,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:17",
+      "sunset": "17:38",
+      "daylight_duration": "10:21:30 (-2min 41s)",
+      "moon_position_start": 87.75,
+      "moon_position_end": 102.24,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "03:42",
+          "constellation": "Taureau",
+          "signe": "Gémeaux",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "03:42",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "signe": "Cancer",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
@@ -513,34 +521,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-10-15",
-      "date_formatted": "Jeudi 15/10/2026",
-      "saints": [
-        "St-Agilée",
-        "Ste-Thérèse d'Avilla"
-      ],
-      "phase_percentage": 21.2,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:58",
-      "sunset": "19:01",
-      "daylight_duration": "11:03:28 (-2min 53s)",
-      "moon_position_start": 250.25,
-      "moon_position_end": 262.22,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Serpentaire",
-          "signe": "Sagittaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-10-16",
       "date_formatted": "Vendredi 16/10/2026",
       "saints": [
@@ -1010,6 +990,42 @@
           "signe": "Gémeaux",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-10-30",
+      "date_formatted": "Vendredi 30/10/2026",
+      "saints": [
+        "St-Alphonse Rodriguez"
+      ],
+      "phase_percentage": 76.3,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:17",
+      "sunset": "17:38",
+      "daylight_duration": "10:21:30 (-2min 41s)",
+      "moon_position_start": 87.75,
+      "moon_position_end": 102.24,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "03:42",
+          "constellation": "Taureau",
+          "signe": "Gémeaux",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "03:42",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "signe": "Cancer",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
