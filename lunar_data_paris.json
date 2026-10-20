@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-10-19T06:01:44.525082+02:00",
+  "generated_at": "2026-10-20T06:01:12.851040+02:00",
   "location": {
     "lat": "48:51:23.8",
     "lon": "2:21:07.9"
@@ -8,46 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-10-19",
-      "date_formatted": "Lundi 19/10/2026",
-      "saints": [
-        "St-Isaac Jogues",
-        "St-Jean de Bréboeuf",
-        "St-Paul de la croix",
-        "St-Pierre d'Alcantara",
-        "St-René Goupil"
-      ],
-      "phase_percentage": 57.2,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:16",
-      "sunset": "18:53",
-      "daylight_duration": "10:37:09 (-3min 26s)",
-      "moon_position_start": 297.8,
-      "moon_position_end": 309.81,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "04:25",
-          "constellation": "Sagittaire",
-          "signe": "Capricorne",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "04:25",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
-          "signe": "Verseau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-10-20",
       "date_formatted": "Mardi 20/10/2026",
@@ -525,49 +485,58 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-10-19",
-      "date_formatted": "Lundi 19/10/2026",
+      "date_iso": "2026-11-03",
+      "date_formatted": "Mardi 03/11/2026",
       "saints": [
-        "St-Isaac Jogues",
-        "St-Jean de Bréboeuf",
-        "St-Paul de la croix",
-        "St-Pierre d'Alcantara",
-        "St-René Goupil"
+        "St-Gwénaà«l",
+        "St-Hubert",
+        "St-Martin de  Porrès"
       ],
-      "phase_percentage": 57.2,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:16",
-      "sunset": "18:53",
-      "daylight_duration": "10:37:09 (-3min 26s)",
-      "moon_position_start": 297.8,
-      "moon_position_end": 309.81,
-      "nodes_info": [],
+      "phase_percentage": 32.7,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:40",
+      "sunset": "17:27",
+      "daylight_duration": "09:47:19 (-3min 10s)",
+      "moon_position_start": 144.27,
+      "moon_position_end": 157.78,
+      "nodes_info": [
+        "NŒUD LUNAIRE (descendant) le 03/11 à 04h00 - Pas de jardinage de 00h00 à 08h00"
+      ],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "04:25",
-          "constellation": "Sagittaire",
-          "signe": "Capricorne",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "signe": "Lion",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         },
         {
-          "start_time": "04:25",
+          "start_time": "00:00",
+          "end_time": "08:00",
+          "constellation": "Lion",
+          "signe": "Lion",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "08:00",
           "end_time": "00:00",
-          "constellation": "Capricorne",
-          "signe": "Verseau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "constellation": "Lion",
+          "signe": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-10-20",
       "date_formatted": "Mardi 20/10/2026",
@@ -1037,6 +1006,55 @@
         },
         {
           "start_time": "13:00",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "signe": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-11-03",
+      "date_formatted": "Mardi 03/11/2026",
+      "saints": [
+        "St-Gwénaà«l",
+        "St-Hubert",
+        "St-Martin de  Porrès"
+      ],
+      "phase_percentage": 32.7,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:40",
+      "sunset": "17:27",
+      "daylight_duration": "09:47:19 (-3min 10s)",
+      "moon_position_start": 144.27,
+      "moon_position_end": 157.78,
+      "nodes_info": [
+        "NŒUD LUNAIRE (descendant) le 03/11 à 04h00 - Pas de jardinage de 00h00 à 08h00"
+      ],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "signe": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "00:00",
+          "end_time": "08:00",
+          "constellation": "Lion",
+          "signe": "Lion",
+          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
+          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
+          "blocked": true
+        },
+        {
+          "start_time": "08:00",
           "end_time": "00:00",
           "constellation": "Lion",
           "signe": "Lion",
