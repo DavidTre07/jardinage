@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-10-20T06:01:17.735712+02:00",
+  "generated_at": "2026-10-21T06:01:14.212414+02:00",
   "location": {
     "lat": "44:50:16.1",
     "lon": "-0:34:45.1"
@@ -8,34 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-10-20",
-      "date_formatted": "Mardi 20/10/2026",
-      "saints": [
-        "Ste-Adeline",
-        "Ste-Irène"
-      ],
-      "phase_percentage": 66.6,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:23",
-      "sunset": "19:09",
-      "daylight_duration": "10:45:46 (-2min 58s)",
-      "moon_position_start": 309.81,
-      "moon_position_end": 322.05,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
-          "signe": "Verseau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-10-21",
       "date_formatted": "Mercredi 21/10/2026",
@@ -529,6 +501,34 @@
           "end_time": "00:00",
           "constellation": "Lion",
           "signe": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-11-04",
+      "date_formatted": "Mercredi 04/11/2026",
+      "saints": [
+        "St-Charles Borromée",
+        "St-Porphyre"
+      ],
+      "phase_percentage": 23.0,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:44",
+      "sunset": "17:47",
+      "daylight_duration": "10:03:05 (-2min 42s)",
+      "moon_position_start": 157.78,
+      "moon_position_end": 171.07,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "signe": "Vierge",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
@@ -538,34 +538,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-10-20",
-      "date_formatted": "Mardi 20/10/2026",
-      "saints": [
-        "Ste-Adeline",
-        "Ste-Irène"
-      ],
-      "phase_percentage": 66.6,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:23",
-      "sunset": "19:09",
-      "daylight_duration": "10:45:46 (-2min 58s)",
-      "moon_position_start": 309.81,
-      "moon_position_end": 322.05,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Capricorne",
-          "signe": "Verseau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-10-21",
       "date_formatted": "Mercredi 21/10/2026",
       "saints": [
@@ -1058,6 +1030,34 @@
           "end_time": "00:00",
           "constellation": "Lion",
           "signe": "Lion",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-11-04",
+      "date_formatted": "Mercredi 04/11/2026",
+      "saints": [
+        "St-Charles Borromée",
+        "St-Porphyre"
+      ],
+      "phase_percentage": 23.0,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:44",
+      "sunset": "17:47",
+      "daylight_duration": "10:03:05 (-2min 42s)",
+      "moon_position_start": 157.78,
+      "moon_position_end": 171.07,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Lion",
+          "signe": "Vierge",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
