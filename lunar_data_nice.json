@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-10-27T06:02:03.040073+01:00",
+  "generated_at": "2026-10-28T06:00:35.442856+01:00",
   "location": {
     "lat": "43:42:36.7",
     "lon": "7:15:43.2"
@@ -9,43 +9,6 @@
   "saints_glace_status": "",
   "traditional": [
     {
-      "date_iso": "2026-10-27",
-      "date_formatted": "Mardi 27/10/2026",
-      "saints": [
-        "Ste-Antoinette",
-        "Ste-Frumence"
-      ],
-      "phase_percentage": 97.6,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:59",
-      "sunset": "17:29",
-      "daylight_duration": "10:29:19 (-2min 45s)",
-      "moon_position_start": 43.73,
-      "moon_position_end": 58.38,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "16:50",
-          "constellation": "Bélier",
-          "signe": "Taureau",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "16:50",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "signe": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-10-28",
       "date_formatted": "Mercredi 28/10/2026",
       "saints": [
@@ -511,6 +474,43 @@
           "signe": "Sagittaire",
           "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-11-11",
+      "date_formatted": "Mercredi 11/11/2026",
+      "saints": [
+        "St-Martin de Tours",
+        "St-Théodore le Studite"
+      ],
+      "phase_percentage": 4.6,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:19",
+      "sunset": "17:10",
+      "daylight_duration": "09:50:33 (-2min 23s)",
+      "moon_position_start": 246.93,
+      "moon_position_end": 258.97,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "02:07",
+          "constellation": "Scorpion",
+          "signe": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "02:07",
+          "end_time": "00:00",
+          "constellation": "Serpentaire",
+          "signe": "Sagittaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
           "blocked": false
         }
       ]
@@ -518,43 +518,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-10-27",
-      "date_formatted": "Mardi 27/10/2026",
-      "saints": [
-        "Ste-Antoinette",
-        "Ste-Frumence"
-      ],
-      "phase_percentage": 97.6,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "06:59",
-      "sunset": "17:29",
-      "daylight_duration": "10:29:19 (-2min 45s)",
-      "moon_position_start": 43.73,
-      "moon_position_end": 58.38,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "16:50",
-          "constellation": "Bélier",
-          "signe": "Taureau",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "16:50",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "signe": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-10-28",
       "date_formatted": "Mercredi 28/10/2026",
       "saints": [
@@ -1020,6 +983,43 @@
           "signe": "Sagittaire",
           "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-11-11",
+      "date_formatted": "Mercredi 11/11/2026",
+      "saints": [
+        "St-Martin de Tours",
+        "St-Théodore le Studite"
+      ],
+      "phase_percentage": 4.6,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:19",
+      "sunset": "17:10",
+      "daylight_duration": "09:50:33 (-2min 23s)",
+      "moon_position_start": 246.93,
+      "moon_position_end": 258.97,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "02:07",
+          "constellation": "Scorpion",
+          "signe": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "02:07",
+          "end_time": "00:00",
+          "constellation": "Serpentaire",
+          "signe": "Sagittaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
           "blocked": false
         }
       ]
