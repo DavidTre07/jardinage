@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-10-28T06:00:31.823941+01:00",
+  "generated_at": "2026-10-29T06:00:30.330219+01:00",
   "location": {
     "lat": "43:17:47.4",
     "lon": "5:22:11.3"
@@ -9,35 +9,6 @@
   "saints_glace_status": "",
   "traditional": [
     {
-      "date_iso": "2026-10-28",
-      "date_formatted": "Mercredi 28/10/2026",
-      "saints": [
-        "St-Cyrille",
-        "St-Jude",
-        "St-Simon le Cananéen"
-      ],
-      "phase_percentage": 92.7,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:08",
-      "sunset": "17:36",
-      "daylight_duration": "10:28:00 (-2min 41s)",
-      "moon_position_start": 58.38,
-      "moon_position_end": 73.09,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "signe": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-10-29",
       "date_formatted": "Jeudi 29/10/2026",
       "saints": [
@@ -511,6 +482,43 @@
           "signe": "Sagittaire",
           "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
           "seve_info": "",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-11-12",
+      "date_formatted": "Jeudi 12/11/2026",
+      "saints": [
+        "St-Christin",
+        "St-Josaphat"
+      ],
+      "phase_percentage": 9.3,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:27",
+      "sunset": "17:17",
+      "daylight_duration": "09:50:12 (-2min 19s)",
+      "moon_position_start": 258.97,
+      "moon_position_end": 270.88,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "14:08",
+          "constellation": "Serpentaire",
+          "signe": "Sagittaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
+          "blocked": false
+        },
+        {
+          "start_time": "14:08",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "signe": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
@@ -518,35 +526,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-10-28",
-      "date_formatted": "Mercredi 28/10/2026",
-      "saints": [
-        "St-Cyrille",
-        "St-Jude",
-        "St-Simon le Cananéen"
-      ],
-      "phase_percentage": 92.7,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:08",
-      "sunset": "17:36",
-      "daylight_duration": "10:28:00 (-2min 41s)",
-      "moon_position_start": 58.38,
-      "moon_position_end": 73.09,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Taureau",
-          "signe": "Taureau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-10-29",
       "date_formatted": "Jeudi 29/10/2026",
       "saints": [
@@ -1020,6 +999,43 @@
           "signe": "Sagittaire",
           "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
           "seve_info": "",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-11-12",
+      "date_formatted": "Jeudi 12/11/2026",
+      "saints": [
+        "St-Christin",
+        "St-Josaphat"
+      ],
+      "phase_percentage": 9.3,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:27",
+      "sunset": "17:17",
+      "daylight_duration": "09:50:12 (-2min 19s)",
+      "moon_position_start": 258.97,
+      "moon_position_end": 270.88,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "14:08",
+          "constellation": "Serpentaire",
+          "signe": "Sagittaire",
+          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
+          "seve_info": "",
+          "blocked": false
+        },
+        {
+          "start_time": "14:08",
+          "end_time": "00:00",
+          "constellation": "Sagittaire",
+          "signe": "Sagittaire",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
       ]
