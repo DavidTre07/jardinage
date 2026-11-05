@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-11-04T06:00:35.644239+01:00",
+  "generated_at": "2026-11-05T06:00:33.263822+01:00",
   "location": {
     "lat": "43:42:36.7",
     "lon": "7:15:43.2"
@@ -8,34 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-11-04",
-      "date_formatted": "Mercredi 04/11/2026",
-      "saints": [
-        "St-Charles Borromée",
-        "St-Porphyre"
-      ],
-      "phase_percentage": 23.0,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:10",
-      "sunset": "17:18",
-      "daylight_duration": "10:07:58 (-2min 35s)",
-      "moon_position_start": 157.78,
-      "moon_position_end": 171.07,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Lion",
-          "signe": "Vierge",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-11-05",
       "date_formatted": "Jeudi 05/11/2026",
@@ -502,6 +474,34 @@
       "daylight_duration": "09:34:46 (-2min 8s)",
       "moon_position_start": 330.48,
       "moon_position_end": 342.97,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Verseau",
+          "signe": "Poissons",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-11-19",
+      "date_formatted": "Jeudi 19/11/2026",
+      "saints": [
+        "Ste-Ermenburge",
+        "St-Exupère"
+      ],
+      "phase_percentage": 69.3,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:29",
+      "sunset": "17:02",
+      "daylight_duration": "09:32:40 (-2min 5s)",
+      "moon_position_start": 342.97,
+      "moon_position_end": 355.85,
       "nodes_info": [],
       "periods": [
         {
@@ -518,34 +518,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-11-04",
-      "date_formatted": "Mercredi 04/11/2026",
-      "saints": [
-        "St-Charles Borromée",
-        "St-Porphyre"
-      ],
-      "phase_percentage": 23.0,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:10",
-      "sunset": "17:18",
-      "daylight_duration": "10:07:58 (-2min 35s)",
-      "moon_position_start": 157.78,
-      "moon_position_end": 171.07,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Lion",
-          "signe": "Vierge",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-11-05",
       "date_formatted": "Jeudi 05/11/2026",
       "saints": [
@@ -1011,6 +983,34 @@
       "daylight_duration": "09:34:46 (-2min 8s)",
       "moon_position_start": 330.48,
       "moon_position_end": 342.97,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Verseau",
+          "signe": "Poissons",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-11-19",
+      "date_formatted": "Jeudi 19/11/2026",
+      "saints": [
+        "Ste-Ermenburge",
+        "St-Exupère"
+      ],
+      "phase_percentage": 69.3,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "07:29",
+      "sunset": "17:02",
+      "daylight_duration": "09:32:40 (-2min 5s)",
+      "moon_position_start": 342.97,
+      "moon_position_end": 355.85,
       "nodes_info": [],
       "periods": [
         {
