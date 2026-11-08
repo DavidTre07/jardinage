@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-11-07T06:01:12.058732+01:00",
+  "generated_at": "2026-11-08T06:00:31.237949+01:00",
   "location": {
     "lat": "44:50:16.1",
     "lon": "-0:34:45.1"
@@ -9,36 +9,6 @@
   "saints_glace_status": "",
   "traditional": [
     {
-      "date_iso": "2026-11-07",
-      "date_formatted": "Samedi 07/11/2026",
-      "saints": [
-        "Ste-Carine",
-        "St-Ernest",
-        "St-Florent de Strasbourg",
-        "St-Willibrord"
-      ],
-      "phase_percentage": 3.5,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:48",
-      "sunset": "17:43",
-      "daylight_duration": "09:55:08 (-2min 37s)",
-      "moon_position_start": 197.07,
-      "moon_position_end": 209.8,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Vierge",
-          "signe": "Balance",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-11-08",
       "date_formatted": "Dimanche 08/11/2026",
       "saints": [
@@ -512,6 +482,44 @@
           "constellation": "Poissons",
           "signe": "Bélier",
           "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-11-22",
+      "date_formatted": "Dimanche 22/11/2026",
+      "saints": [
+        "Ste-Appia",
+        "Ste-Cécile",
+        "St-Philémon"
+      ],
+      "phase_percentage": 93.3,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:08",
+      "sunset": "17:28",
+      "daylight_duration": "09:19:57 (-2min 2s)",
+      "moon_position_start": 23.03,
+      "moon_position_end": 37.33,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "06:44",
+          "constellation": "Poissons",
+          "signe": "Bélier",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "06:44",
+          "end_time": "00:00",
+          "constellation": "Bélier",
+          "signe": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
@@ -520,36 +528,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-11-07",
-      "date_formatted": "Samedi 07/11/2026",
-      "saints": [
-        "Ste-Carine",
-        "St-Ernest",
-        "St-Florent de Strasbourg",
-        "St-Willibrord"
-      ],
-      "phase_percentage": 3.5,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Décroissante",
-      "sunrise": "07:48",
-      "sunset": "17:43",
-      "daylight_duration": "09:55:08 (-2min 37s)",
-      "moon_position_start": 197.07,
-      "moon_position_end": 209.8,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Vierge",
-          "signe": "Balance",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-11-08",
       "date_formatted": "Dimanche 08/11/2026",
       "saints": [
@@ -1023,6 +1001,44 @@
           "constellation": "Poissons",
           "signe": "Bélier",
           "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-11-22",
+      "date_formatted": "Dimanche 22/11/2026",
+      "saints": [
+        "Ste-Appia",
+        "Ste-Cécile",
+        "St-Philémon"
+      ],
+      "phase_percentage": 93.3,
+      "cycle_trajectoire": "Lune Montante",
+      "cycle_illumination": "Lune Croissante",
+      "sunrise": "08:08",
+      "sunset": "17:28",
+      "daylight_duration": "09:19:57 (-2min 2s)",
+      "moon_position_start": 23.03,
+      "moon_position_end": 37.33,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "06:44",
+          "constellation": "Poissons",
+          "signe": "Bélier",
+          "recommendation": "Actions favorables aux légumes feuilles.",
+          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        },
+        {
+          "start_time": "06:44",
+          "end_time": "00:00",
+          "constellation": "Bélier",
+          "signe": "Bélier",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
           "blocked": false
         }
