@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-11-11T06:01:00.002881+01:00",
+  "generated_at": "2026-11-12T06:01:01.937199+01:00",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
@@ -9,43 +9,6 @@
   "saints_glace_status": "",
   "traditional": [
     {
-      "date_iso": "2026-11-11",
-      "date_formatted": "Mercredi 11/11/2026",
-      "saints": [
-        "St-Martin de Tours",
-        "St-Théodore le Studite"
-      ],
-      "phase_percentage": 4.6,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:34",
-      "sunset": "17:14",
-      "daylight_duration": "09:40:12 (-2min 35s)",
-      "moon_position_start": 246.93,
-      "moon_position_end": 258.97,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "02:07",
-          "constellation": "Scorpion",
-          "signe": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "02:07",
-          "end_time": "00:00",
-          "constellation": "Serpentaire",
-          "signe": "Sagittaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-11-12",
       "date_formatted": "Jeudi 12/11/2026",
       "saints": [
@@ -514,6 +477,44 @@
           "signe": "Gémeaux",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-11-26",
+      "date_formatted": "Jeudi 26/11/2026",
+      "saints": [
+        "St-Conrad de Constance",
+        "Ste-Delphine",
+        "St-Gautier d'Aulne"
+      ],
+      "phase_percentage": 94.9,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:54",
+      "sunset": "17:00",
+      "daylight_duration": "09:06:19 (-1min 54s)",
+      "moon_position_start": 82.17,
+      "moon_position_end": 97.23,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "12:27",
+          "constellation": "Taureau",
+          "signe": "Gémeaux",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "12:27",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "signe": "Cancer",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
@@ -521,43 +522,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-11-11",
-      "date_formatted": "Mercredi 11/11/2026",
-      "saints": [
-        "St-Martin de Tours",
-        "St-Théodore le Studite"
-      ],
-      "phase_percentage": 4.6,
-      "cycle_trajectoire": "Lune Descendante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:34",
-      "sunset": "17:14",
-      "daylight_duration": "09:40:12 (-2min 35s)",
-      "moon_position_start": 246.93,
-      "moon_position_end": 258.97,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "02:07",
-          "constellation": "Scorpion",
-          "signe": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes feuilles.",
-          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
-          "blocked": false
-        },
-        {
-          "start_time": "02:07",
-          "end_time": "00:00",
-          "constellation": "Serpentaire",
-          "signe": "Sagittaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-11-12",
       "date_formatted": "Jeudi 12/11/2026",
       "saints": [
@@ -1026,6 +990,44 @@
           "signe": "Gémeaux",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-11-26",
+      "date_formatted": "Jeudi 26/11/2026",
+      "saints": [
+        "St-Conrad de Constance",
+        "Ste-Delphine",
+        "St-Gautier d'Aulne"
+      ],
+      "phase_percentage": 94.9,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:54",
+      "sunset": "17:00",
+      "daylight_duration": "09:06:19 (-1min 54s)",
+      "moon_position_start": 82.17,
+      "moon_position_end": 97.23,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "12:27",
+          "constellation": "Taureau",
+          "signe": "Gémeaux",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "12:27",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "signe": "Cancer",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
