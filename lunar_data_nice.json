@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-11-12T06:01:05.876381+01:00",
+  "generated_at": "2026-11-13T06:01:06.672944+01:00",
   "location": {
     "lat": "43:42:36.7",
     "lon": "7:15:43.2"
@@ -8,43 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-11-12",
-      "date_formatted": "Jeudi 12/11/2026",
-      "saints": [
-        "St-Christin",
-        "St-Josaphat"
-      ],
-      "phase_percentage": 9.3,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:20",
-      "sunset": "17:08",
-      "daylight_duration": "09:48:11 (-2min 21s)",
-      "moon_position_start": 258.97,
-      "moon_position_end": 270.88,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "14:08",
-          "constellation": "Serpentaire",
-          "signe": "Sagittaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
-          "blocked": false
-        },
-        {
-          "start_time": "14:08",
-          "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "signe": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-11-13",
       "date_formatted": "Vendredi 13/11/2026",
@@ -518,46 +481,37 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-11-12",
-      "date_formatted": "Jeudi 12/11/2026",
+      "date_iso": "2026-11-27",
+      "date_formatted": "Vendredi 27/11/2026",
       "saints": [
-        "St-Christin",
-        "St-Josaphat"
+        "St-Maxime de Riez",
+        "St-Séverin"
       ],
-      "phase_percentage": 9.3,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:20",
-      "sunset": "17:08",
-      "daylight_duration": "09:48:11 (-2min 21s)",
-      "moon_position_start": 258.97,
-      "moon_position_end": 270.88,
+      "phase_percentage": 88.4,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:39",
+      "sunset": "16:57",
+      "daylight_duration": "09:17:36 (-1min 42s)",
+      "moon_position_start": 97.23,
+      "moon_position_end": 112.09,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
-          "end_time": "14:08",
-          "constellation": "Serpentaire",
-          "signe": "Sagittaire",
-          "recommendation": "Période de repos et guérison, pas de jardinage recommandé.",
-          "seve_info": "",
-          "blocked": false
-        },
-        {
-          "start_time": "14:08",
           "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "signe": "Sagittaire",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "constellation": "Gémeaux",
+          "signe": "Cancer",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-11-13",
       "date_formatted": "Vendredi 13/11/2026",
@@ -1023,6 +977,34 @@
         },
         {
           "start_time": "12:27",
+          "end_time": "00:00",
+          "constellation": "Gémeaux",
+          "signe": "Cancer",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-11-27",
+      "date_formatted": "Vendredi 27/11/2026",
+      "saints": [
+        "St-Maxime de Riez",
+        "St-Séverin"
+      ],
+      "phase_percentage": 88.4,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:39",
+      "sunset": "16:57",
+      "daylight_duration": "09:17:36 (-1min 42s)",
+      "moon_position_start": 97.23,
+      "moon_position_end": 112.09,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
           "end_time": "00:00",
           "constellation": "Gémeaux",
           "signe": "Cancer",
