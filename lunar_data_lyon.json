@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-11-13T06:01:02.617726+01:00",
+  "generated_at": "2026-11-14T06:01:00.336474+01:00",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
@@ -9,35 +9,6 @@
   "saints_glace_status": "",
   "traditional": [
     {
-      "date_iso": "2026-11-13",
-      "date_formatted": "Vendredi 13/11/2026",
-      "saints": [
-        "St-Brice",
-        "St-Didace",
-        "St-Nicolas 1er le Grand"
-      ],
-      "phase_percentage": 15.5,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:37",
-      "sunset": "17:12",
-      "daylight_duration": "09:35:07 (-2min 31s)",
-      "moon_position_start": 270.88,
-      "moon_position_end": 282.71,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "signe": "Capricorne",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-11-14",
       "date_formatted": "Samedi 14/11/2026",
       "saints": [
@@ -505,6 +476,44 @@
           "constellation": "Gémeaux",
           "signe": "Cancer",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-11-28",
+      "date_formatted": "Samedi 28/11/2026",
+      "saints": [
+        "Ste-Catherine Labouré",
+        "St-Jacques de la  Marche",
+        "St-Sosthène"
+      ],
+      "phase_percentage": 79.8,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:57",
+      "sunset": "16:59",
+      "daylight_duration": "09:02:40 (-1min 47s)",
+      "moon_position_start": 112.09,
+      "moon_position_end": 126.65,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "12:58",
+          "constellation": "Gémeaux",
+          "signe": "Cancer",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "12:58",
+          "end_time": "00:00",
+          "constellation": "Cancer",
+          "signe": "Lion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
@@ -513,35 +522,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-11-13",
-      "date_formatted": "Vendredi 13/11/2026",
-      "saints": [
-        "St-Brice",
-        "St-Didace",
-        "St-Nicolas 1er le Grand"
-      ],
-      "phase_percentage": 15.5,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:37",
-      "sunset": "17:12",
-      "daylight_duration": "09:35:07 (-2min 31s)",
-      "moon_position_start": 270.88,
-      "moon_position_end": 282.71,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Sagittaire",
-          "signe": "Capricorne",
-          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-11-14",
       "date_formatted": "Samedi 14/11/2026",
       "saints": [
@@ -1009,6 +989,44 @@
           "constellation": "Gémeaux",
           "signe": "Cancer",
           "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-11-28",
+      "date_formatted": "Samedi 28/11/2026",
+      "saints": [
+        "Ste-Catherine Labouré",
+        "St-Jacques de la  Marche",
+        "St-Sosthène"
+      ],
+      "phase_percentage": 79.8,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:57",
+      "sunset": "16:59",
+      "daylight_duration": "09:02:40 (-1min 47s)",
+      "moon_position_start": 112.09,
+      "moon_position_end": 126.65,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "12:58",
+          "constellation": "Gémeaux",
+          "signe": "Cancer",
+          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "12:58",
+          "end_time": "00:00",
+          "constellation": "Cancer",
+          "signe": "Lion",
+          "recommendation": "Actions favorables aux légumes feuilles.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
