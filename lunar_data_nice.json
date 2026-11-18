@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-11-17T06:02:29.172874+01:00",
+  "generated_at": "2026-11-18T06:01:07.088748+01:00",
   "location": {
     "lat": "43:42:36.7",
     "lon": "7:15:43.2"
@@ -9,64 +9,6 @@
   "saints_glace_status": "",
   "traditional": [
     {
-      "date_iso": "2026-11-17",
-      "date_formatted": "Mardi 17/11/2026",
-      "saints": [
-        "St-Aignan",
-        "Ste-Elisabeth de Hongrie",
-        "St-Grégoire le Thaumaturge"
-      ],
-      "phase_percentage": 49.8,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:27",
-      "sunset": "17:04",
-      "daylight_duration": "09:36:54 (-2min 10s)",
-      "moon_position_start": 318.3,
-      "moon_position_end": 330.48,
-      "nodes_info": [
-        "NŒUD LUNAIRE (ascendant) le 17/11 à 12h45 - Pas de jardinage de 08h45 à 16h45"
-      ],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "08:45",
-          "constellation": "Capricorne",
-          "signe": "Verseau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "08:45",
-          "end_time": "16:45",
-          "constellation": "Capricorne",
-          "signe": "Verseau",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "16:45",
-          "end_time": "23:03",
-          "constellation": "Capricorne",
-          "signe": "Verseau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "23:03",
-          "end_time": "00:00",
-          "constellation": "Verseau",
-          "signe": "Poissons",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-11-18",
       "date_formatted": "Mercredi 18/11/2026",
       "saints": [
@@ -536,6 +478,43 @@
           "constellation": "Lion",
           "signe": "Vierge",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-12-02",
+      "date_formatted": "Mercredi 02/12/2026",
+      "saints": [
+        "Ste-Aurélie",
+        "Ste-Viviane (ou Bibiane)"
+      ],
+      "phase_percentage": 37.4,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:45",
+      "sunset": "16:55",
+      "daylight_duration": "09:09:56 (-1min 24s)",
+      "moon_position_start": 168.08,
+      "moon_position_end": 181.21,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "10:45",
+          "constellation": "Lion",
+          "signe": "Vierge",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "10:45",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "signe": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
@@ -544,64 +523,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-11-17",
-      "date_formatted": "Mardi 17/11/2026",
-      "saints": [
-        "St-Aignan",
-        "Ste-Elisabeth de Hongrie",
-        "St-Grégoire le Thaumaturge"
-      ],
-      "phase_percentage": 49.8,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:27",
-      "sunset": "17:04",
-      "daylight_duration": "09:36:54 (-2min 10s)",
-      "moon_position_start": 318.3,
-      "moon_position_end": 330.48,
-      "nodes_info": [
-        "NŒUD LUNAIRE (ascendant) le 17/11 à 12h45 - Pas de jardinage de 08h45 à 16h45"
-      ],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "08:45",
-          "constellation": "Capricorne",
-          "signe": "Verseau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "08:45",
-          "end_time": "16:45",
-          "constellation": "Capricorne",
-          "signe": "Verseau",
-          "recommendation": "JARDINAGE DÉCONSEILLÉ - Nœud lunaire en cours",
-          "seve_info": "Période d'influence du nœud lunaire, éviter tout travail au jardin",
-          "blocked": true
-        },
-        {
-          "start_time": "16:45",
-          "end_time": "23:03",
-          "constellation": "Capricorne",
-          "signe": "Verseau",
-          "recommendation": "Actions favorables aux légumes racines.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        },
-        {
-          "start_time": "23:03",
-          "end_time": "00:00",
-          "constellation": "Verseau",
-          "signe": "Poissons",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-11-18",
       "date_formatted": "Mercredi 18/11/2026",
       "saints": [
@@ -1071,6 +992,43 @@
           "constellation": "Lion",
           "signe": "Vierge",
           "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-12-02",
+      "date_formatted": "Mercredi 02/12/2026",
+      "saints": [
+        "Ste-Aurélie",
+        "Ste-Viviane (ou Bibiane)"
+      ],
+      "phase_percentage": 37.4,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "07:45",
+      "sunset": "16:55",
+      "daylight_duration": "09:09:56 (-1min 24s)",
+      "moon_position_start": 168.08,
+      "moon_position_end": 181.21,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "10:45",
+          "constellation": "Lion",
+          "signe": "Vierge",
+          "recommendation": "Actions favorables aux légumes fruits, graines et arbres fruitiers.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        },
+        {
+          "start_time": "10:45",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "signe": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
