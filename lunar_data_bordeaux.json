@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-11-18T06:01:06.561212+01:00",
+  "generated_at": "2026-11-19T06:01:04.376157+01:00",
   "location": {
     "lat": "44:50:16.1",
     "lon": "-0:34:45.1"
@@ -8,36 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-11-18",
-      "date_formatted": "Mercredi 18/11/2026",
-      "saints": [
-        "St-Hésyque d'Antioche",
-        "St-Mummole",
-        "St-Pierre, apôtre",
-        "St-Tanguy"
-      ],
-      "phase_percentage": 59.6,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:03",
-      "sunset": "17:31",
-      "daylight_duration": "09:28:26 (-2min 14s)",
-      "moon_position_start": 330.48,
-      "moon_position_end": 342.97,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Verseau",
-          "signe": "Poissons",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-11-19",
       "date_formatted": "Jeudi 19/11/2026",
@@ -514,6 +484,33 @@
           "end_time": "00:00",
           "constellation": "Vierge",
           "signe": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-12-03",
+      "date_formatted": "Jeudi 03/12/2026",
+      "saints": [
+        "St-François-Xavier"
+      ],
+      "phase_percentage": 27.6,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:21",
+      "sunset": "17:22",
+      "daylight_duration": "09:01:03 (-1min 24s)",
+      "moon_position_start": 181.21,
+      "moon_position_end": 194.07,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "signe": "Balance",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
@@ -523,36 +520,6 @@
   ],
   "constellation": [
     {
-      "date_iso": "2026-11-18",
-      "date_formatted": "Mercredi 18/11/2026",
-      "saints": [
-        "St-Hésyque d'Antioche",
-        "St-Mummole",
-        "St-Pierre, apôtre",
-        "St-Tanguy"
-      ],
-      "phase_percentage": 59.6,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "08:03",
-      "sunset": "17:31",
-      "daylight_duration": "09:28:26 (-2min 14s)",
-      "moon_position_start": 330.48,
-      "moon_position_end": 342.97,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Verseau",
-          "signe": "Poissons",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
-    {
       "date_iso": "2026-11-19",
       "date_formatted": "Jeudi 19/11/2026",
       "saints": [
@@ -1028,6 +995,33 @@
           "end_time": "00:00",
           "constellation": "Vierge",
           "signe": "Vierge",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-12-03",
+      "date_formatted": "Jeudi 03/12/2026",
+      "saints": [
+        "St-François-Xavier"
+      ],
+      "phase_percentage": 27.6,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:21",
+      "sunset": "17:22",
+      "daylight_duration": "09:01:03 (-1min 24s)",
+      "moon_position_start": 181.21,
+      "moon_position_end": 194.07,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "signe": "Balance",
           "recommendation": "Actions favorables aux légumes racines.",
           "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
