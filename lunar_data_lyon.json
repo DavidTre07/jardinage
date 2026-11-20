@@ -1,6 +1,6 @@
 {
   "success": true,
-  "generated_at": "2026-11-19T06:01:00.383014+01:00",
+  "generated_at": "2026-11-20T06:02:23.519935+01:00",
   "location": {
     "lat": "45:45:50.4",
     "lon": "4:50:08.5"
@@ -8,34 +8,6 @@
   "show_saints_glace": false,
   "saints_glace_status": "",
   "traditional": [
-    {
-      "date_iso": "2026-11-19",
-      "date_formatted": "Jeudi 19/11/2026",
-      "saints": [
-        "Ste-Ermenburge",
-        "St-Exupère"
-      ],
-      "phase_percentage": 69.3,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:45",
-      "sunset": "17:06",
-      "daylight_duration": "09:20:50 (-2min 16s)",
-      "moon_position_start": 342.97,
-      "moon_position_end": 355.85,
-      "nodes_info": [],
-      "periods": [
-        {
-          "start_time": "00:00",
-          "end_time": "00:00",
-          "constellation": "Verseau",
-          "signe": "Poissons",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
-          "blocked": false
-        }
-      ]
-    },
     {
       "date_iso": "2026-11-20",
       "date_formatted": "Vendredi 20/11/2026",
@@ -516,37 +488,37 @@
           "blocked": false
         }
       ]
-    }
-  ],
-  "constellation": [
+    },
     {
-      "date_iso": "2026-11-19",
-      "date_formatted": "Jeudi 19/11/2026",
+      "date_iso": "2026-12-04",
+      "date_formatted": "Vendredi 04/12/2026",
       "saints": [
-        "Ste-Ermenburge",
-        "St-Exupère"
+        "Ste-Barbe",
+        "St-Jean Damascène"
       ],
-      "phase_percentage": 69.3,
-      "cycle_trajectoire": "Lune Montante",
-      "cycle_illumination": "Lune Croissante",
-      "sunrise": "07:45",
-      "sunset": "17:06",
-      "daylight_duration": "09:20:50 (-2min 16s)",
-      "moon_position_start": 342.97,
-      "moon_position_end": 355.85,
+      "phase_percentage": 19.0,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:04",
+      "sunset": "16:57",
+      "daylight_duration": "08:53:15 (-1min 24s)",
+      "moon_position_start": 194.07,
+      "moon_position_end": 206.71,
       "nodes_info": [],
       "periods": [
         {
           "start_time": "00:00",
           "end_time": "00:00",
-          "constellation": "Verseau",
-          "signe": "Poissons",
-          "recommendation": "Actions favorables aux fleurs et légumes fleurs.",
-          "seve_info": "Sève montante : idéal pour semer, greffer et récolter les fruits.",
+          "constellation": "Vierge",
+          "signe": "Balance",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
           "blocked": false
         }
       ]
-    },
+    }
+  ],
+  "constellation": [
     {
       "date_iso": "2026-11-20",
       "date_formatted": "Vendredi 20/11/2026",
@@ -1015,6 +987,34 @@
       "daylight_duration": "08:54:39 (-1min 28s)",
       "moon_position_start": 181.21,
       "moon_position_end": 194.07,
+      "nodes_info": [],
+      "periods": [
+        {
+          "start_time": "00:00",
+          "end_time": "00:00",
+          "constellation": "Vierge",
+          "signe": "Balance",
+          "recommendation": "Actions favorables aux légumes racines.",
+          "seve_info": "Sève descendante : idéal pour planter, repiquer, tailler et récolter les légumes racines.",
+          "blocked": false
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-12-04",
+      "date_formatted": "Vendredi 04/12/2026",
+      "saints": [
+        "Ste-Barbe",
+        "St-Jean Damascène"
+      ],
+      "phase_percentage": 19.0,
+      "cycle_trajectoire": "Lune Descendante",
+      "cycle_illumination": "Lune Décroissante",
+      "sunrise": "08:04",
+      "sunset": "16:57",
+      "daylight_duration": "08:53:15 (-1min 24s)",
+      "moon_position_start": 194.07,
+      "moon_position_end": 206.71,
       "nodes_info": [],
       "periods": [
         {
